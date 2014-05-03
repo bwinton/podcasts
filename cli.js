@@ -1,9 +1,12 @@
 #!/usr/bin/env node
 
 var ffmpeg = require('fluent-ffmpeg-extended');
+var fs = require('fs');
 var handlebars = require('handlebars');
 var jsdom = require('jsdom').jsdom;
 var jquery = require('jquery');
+var minimist = require('minimist');
+var parseString = require('xml2js').parseString;
 var request = require('request');
 var url = require('url');
 
@@ -70,7 +73,29 @@ function outputAll(headers) {
   console.log(out);
 }
 
-var baseUrl = 'http://www.shamusyoung.com/twentysidedtale/?cat=287';
+
+
+function main(argv) {
+  if (!argv._.length) {
+    console.error('Please specify an input file.');
+    return;
+  }
+  var file = argv._[0];
+  var baseUrl = 'http://www.shamusyoung.com/twentysidedtale/?cat=287';
+
+  fs.readFile(file, 'utf8', function (err, body) {
+    if (err) {
+      return console.log(err);
+    }
+    parseString(body, function (err, result) {
+      var items = result.rss.channel[0].item;
+      console.dir(items[0]);
+    });
+  });
+}
+main(minimist(process.argv.slice(2)));
+
+
 request.get(baseUrl, function (error, response, body) {
   if (!error && response.statusCode == 200) {
     var document = jsdom(body);
@@ -97,33 +122,33 @@ request.get(baseUrl, function (error, response, body) {
         var document = jsdom(body);
         var window = document.createWindow();
         var $ = jquery.create(window);
-	var pDivs = $('.entry-text > p, .entry-text > ol, .entry-text > ul')
+        var pDivs = $('.entry-text > p, .entry-text > ol, .entry-text > ul')
                     .not('.entry-text > p.entry-tags');
         item.descHtml = "";
         item.descText = "";
-	for (i = 0; i < pDivs.length; i++) {
+        for (i = 0; i < pDivs.length; i++) {
           var div = $(pDivs[i]);
-	  var audio = div.find('audio > source[type="audio/mpeg"]');
-	  if (audio.length) {
+          var audio = div.find('audio > source[type="audio/mpeg"]');
+          if (audio.length) {
             item.audio = url.resolve(item.link, audio.attr('src'));
-	    continue;
-	  }
+            continue;
+          }
           if (div.children().length && div.children()[0].tagName === "TABLE")
             continue;
-	  if (div[0].outerHTML.trim() !== "")
-	    item.descHtml += div[0].outerHTML.trim() + '\n';
-	  if (div.text().trim() !== "")
-	    item.descText += div.text().trim() + '\n\n';
-	}
-	if (!item.audio) {
+          if (div[0].outerHTML.trim() !== "")
+            item.descHtml += div[0].outerHTML.trim() + '\n';
+          if (div.text().trim() !== "")
+            item.descText += div.text().trim() + '\n\n';
+        }
+        if (!item.audio) {
           count++;
           if (count == headers.length) {
             outputAll(headers);
             console.error("Done!");
             process.exit();
           } 
-	}
-	if (item.audio) {
+        }
+        if (item.audio) {
           request.head(item.audio, function (error, response, body) {
             console.error('Got audio for ' + item.audio, error);
             item.length = response.headers['content-length'];
@@ -137,7 +162,7 @@ request.get(baseUrl, function (error, response, body) {
               } 
             });
           });
-	}
+        }
       });
     });
   }
