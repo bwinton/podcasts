@@ -8,7 +8,9 @@
     "handlebars": "~1.3.0",
     "request": "~2.33.0",
     "jsdom": "~0.8.11",
-    "fluent-ffmpeg-extended": "~1.5.2"
+    "fluent-ffmpeg-extended": "~1.5.2",
+    "minimist": "0.0.8",
+    "xml2js": "^0.4.2"
   },
   "devDependencies": {},
   "optionalDependencies": {},
