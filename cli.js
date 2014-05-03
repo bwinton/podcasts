@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var ffmpeg = require('fluent-ffmpeg-extended');
 var handlebars = require('handlebars');
 var jsdom = require('jsdom').jsdom;
