@@ -53,7 +53,6 @@ var template = handlebars.compile('    <item>\n' +
 '      <enclosure url="{{audio}}" length="{{length}}" type="audio/mpeg"/>\n' +
 '    </item>\n');
 
-// Episode 01 - 06/07/2013 Conversions
 function makeDate(date) {
   var rv = new Date(date + " 05:37:00 +0000");
   rv = rv.toGMTString().replace("GMT", "+0000");
@@ -73,31 +72,30 @@ function outputAll(headers) {
   console.log(out);
 }
 
-
-
-function main(argv) {
-  if (!argv._.length) {
-    console.error('Please specify an input file.');
-    return;
-  }
-  var file = argv._[0];
-  var baseUrl = 'http://www.shamusyoung.com/twentysidedtale/?cat=287';
-
-  fs.readFile(file, 'utf8', function (err, body) {
-    if (err) {
-      return console.log(err);
-    }
-    parseString(body, function (err, result) {
-      var items = result.rss.channel[0].item;
-      console.dir(items[0]);
-    });
-  });
+function addCachedData(cachedItem, header) {
+  header.cached = true;
+  header.descHtml = new handlebars.SafeString(cachedItem['description'][0]);
+  header.descText = cachedItem['itunes:summary'][0];
+  header.audio = cachedItem.enclosure[0].$.url;
+  header.length = cachedItem.enclosure[0].$.length;
+  header.duration = cachedItem['itunes:duration'][0];
 }
-main(minimist(process.argv.slice(2)));
 
+function checkFinished(count, headers) {
+  count++;
+  if (count == headers.length) {
+    outputAll(headers);
+    console.error("Done!");
+    process.exit();
+  }
+  return count;
+}
 
-request.get(baseUrl, function (error, response, body) {
-  if (!error && response.statusCode == 200) {
+function processUrl(baseUrl, cachedItems) {
+  request.get(baseUrl, function (error, response, body) {
+    if (error || response.statusCode !== 200) {
+      console.error('Error:', error, response && response.statusCode);
+    }
     var document = jsdom(body);
     var window = document.createWindow();
     var $ = jquery.create(window);
@@ -105,18 +103,28 @@ request.get(baseUrl, function (error, response, body) {
     console.error(items.length + ' entries found.');
     var headers = [];
     items.map(function (index, item) {
-      console.error('Processing ' + index);
       item = $(item);
       var header = {};
-      header.title = item.find('.splash-title').text();
       header.link = url.resolve(baseUrl, item.find('a[rel=bookmark]').attr('href'));
+      var cachedItem = cachedItems.filter(function (cachedItem) {
+        return cachedItem.link[0] === header.link;
+      });
+      console.error('Processing', index, header.link, cachedItem.length);
+      header.title = item.find('.splash-title').text();
       header.date = makeDate(item.find('td:nth-child(5)')[0].textContent);
+      if (cachedItem.length) {
+        addCachedData(cachedItem[0], header);
+      }
       headers.push(header);
     });
 
     count = 0;
     headers.map(function (item, index) {
-      console.error('Getting ' + item.title);
+      if (item.cached) {
+        console.error('Got cached ' + item.title);
+        count = checkFinished(count, headers);
+        return;
+      }
       request.get(item.link, function (error, response, body) {
         console.error('Got ' + item.title, error);
         var document = jsdom(body);
@@ -141,30 +149,42 @@ request.get(baseUrl, function (error, response, body) {
             item.descText += div.text().trim() + '\n\n';
         }
         if (!item.audio) {
-          count++;
-          if (count == headers.length) {
-            outputAll(headers);
-            console.error("Done!");
-            process.exit();
-          } 
+          count = checkFinished(count, headers);
+          return
         }
-        if (item.audio) {
-          request.head(item.audio, function (error, response, body) {
-            console.error('Got audio for ' + item.audio, error);
-            item.length = response.headers['content-length'];
-            var proc = new ffmpeg.Metadata(item.audio, function (metadata, err) {
-              item.duration = metadata.durationraw.replace(/\.\d\d$/, "")
-              count++;
-              if (count == headers.length) {
-                outputAll(headers);
-                console.error("Done!");
-                process.exit();
-              } 
-            });
+        request.head(item.audio, function (error, response, body) {
+          console.error('Got audio for ' + item.audio, error);
+          item.length = response.headers['content-length'];
+          var proc = new ffmpeg.Metadata(item.audio, function (metadata, err) {
+            item.duration = metadata.durationraw.replace(/\.\d\d$/, "")
+            count = checkFinished(count, headers);
           });
-        }
+        });
       });
     });
+  });
+}
+
+
+function main(argv) {
+  if (!argv._.length) {
+    console.error('Please specify an input file.');
+    return;
   }
-});
+  var file = argv._[0];
+  var baseUrl = 'http://www.shamusyoung.com/twentysidedtale/?cat=287';
+
+  fs.readFile(file, 'utf8', function (err, body) {
+    if (err) {
+      return console.log(err);
+    }
+    parseString(body, function (err, result) {
+      var items = result.rss.channel[0].item;
+      processUrl(baseUrl, items);
+    });
+  });
+}
+main(minimist(process.argv.slice(2)));
+
+
 
