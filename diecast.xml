@@ -6,7 +6,7 @@
   <channel>
     <title>The Diecast</title>
     <link>http://www.shamusyoung.com/twentysidedtale/?cat=287</link>
-    <atom:link href="http://bwinton.latte.ca/diecast.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="http://bwinton.github.io/podcasts/diecast.xml" rel="self" type="application/rss+xml"/>
     <language>en-US</language>
     <itunes:author>Shamus, Chris, Rutskan, and Josh</itunes:author>
     <itunes:subtitle>Like Spoiler Warning, but with less video.</itunes:subtitle>

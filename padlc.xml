@@ -6,7 +6,7 @@
   <channel>
     <title>Penny Arcade: Downloadable Content (home-grown)</title>
     <link>http://www.penny-arcade.com/dlc</link>
-    <atom:link href="http://bwinton.latte.ca/padlc.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="http://bwinton.github.io/podcasts/padlc.xml" rel="self" type="application/rss+xml"/>
     <language>en-US</language>
     <itunes:author>Penny Arcade</itunes:author>
     <itunes:subtitle>Downloadable Content</itunes:subtitle>

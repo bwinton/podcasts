@@ -18,7 +18,7 @@ var xmlStart = '<?xml version="1.0" encoding="UTF-8"?>\n' +
 '  <channel>\n' +
 '    <title>The Diecast</title>\n' +
 '    <link>http://www.shamusyoung.com/twentysidedtale/?cat=287</link>\n' +
-'    <atom:link href="http://bwinton.latte.ca/diecast.xml" rel="self" type="application/rss+xml"/>\n' +
+'    <atom:link href="http://bwinton.github.io/podcasts/diecast.xml" rel="self" type="application/rss+xml"/>\n' +
 '    <language>en-US</language>\n' +
 '    <itunes:author>Shamus, Chris, Rutskan, and Josh</itunes:author>\n' +
 '    <itunes:subtitle>Like Spoiler Warning, but with less video.</itunes:subtitle>\n' +

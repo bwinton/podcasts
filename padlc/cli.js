@@ -13,7 +13,7 @@ var xmlStart = '<?xml version="1.0" encoding="UTF-8"?>\n' +
 '  <channel>\n' +
 '    <title>Penny Arcade: Downloadable Content (home-grown)</title>\n' +
 '    <link>http://www.penny-arcade.com/dlc</link>\n' +
-'    <atom:link href="http://bwinton.latte.ca/padlc.xml" rel="self" type="application/rss+xml"/>\n' +
+'    <atom:link href="http://bwinton.github.io/podcasts/padlc.xml" rel="self" type="application/rss+xml"/>\n' +
 '    <language>en-US</language>\n' +
 '    <itunes:author>Penny Arcade</itunes:author>\n' +
 '    <itunes:subtitle>Downloadable Content</itunes:subtitle>\n' +
