@@ -1,0 +1,19 @@
+{
+  "author": "Blake Winton <bwinton@latte.ca>",
+  "name": "diecast",
+  "description": "A tool to convert the diecast to an rss file.",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery": "~2.1.0",
+    "handlebars": "~1.3.0",
+    "request": "~2.33.0",
+    "jsdom": "~0.8.11",
+    "fluent-ffmpeg-extended": "~1.5.2"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "bin": "./cli.js",
+  "engines": {
+    "node": "*"
+  }
+}
