@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     version="2.0">
+  <channel>
+    <title>Penny Arcade: Downloadable Content (home-grown)</title>
+    <link>http://www.penny-arcade.com/dlc</link>
+    <atom:link href="http://bwinton.latte.ca/padlc.xml" rel="self" type="application/rss+xml"/>
+    <language>en-US</language>
+    <itunes:author>Penny Arcade</itunes:author>
+    <itunes:subtitle>Downloadable Content</itunes:subtitle>
+    <itunes:summary>After a three year hiatus, Penny Arcade’s DLC Podcast was brought back to life when over 5,000 fans supported our Summer Kickstarter Project. Part of our campaign promise was to allow those that couldn’t support us at the time a way to "pay what you want" two weeks after the episodes aired to Kickstarter backers.
+
+Now, if "what you want" is nothing, not a problem! There’s a link to the right of the Pay What You Want Button where you can download the episode for free.
+
+This is also our test for using the Tinypass service, so please drop us a note to let us know how that experience is.
+
+Thank you again for supporting Penny Arcade, and enjoy the second season to DLC!</itunes:summary>
+    <description>After a three year hiatus, Penny Arcade’s DLC Podcast was brought back to life when over 5,000 fans supported our Summer Kickstarter Project. Part of our campaign promise was to allow those that couldn’t support us at the time a way to "pay what you want" two weeks after the episodes aired to Kickstarter backers.
+
+Now, if "what you want" is nothing, not a problem! There’s a link to the right of the Pay What You Want Button where you can download the episode for free.
+
+This is also our test for using the Tinypass service, so please drop us a note to let us know how that experience is.
+
+Thank you again for supporting Penny Arcade, and enjoy the second season to DLC!</description>
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:keywords>games</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>Penny Arcade</itunes:name>
+      <itunes:email>pr@penny-arcade.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Games &amp; Hobbies">
+      <itunes:category text="Video Games"/>
+    </itunes:category>
+    <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+    <item>
+      <title>Episode 29 - Fleshtown</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Wed, 15 Jan 2014 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e29-fleshtown-so8GKegE.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e29-fleshtown-so8GKegE.mp3</guid>
+      <description><![CDATA[]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary></itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:27:27</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e29-fleshtown-so8GKegE.mp3" length="39540197" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 28 - The Beast Within</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Mon, 13 Jan 2014 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e28-the-beast-within-ddMq1SVX.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e28-the-beast-within-ddMq1SVX.mp3</guid>
+      <description><![CDATA[]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary></itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:18:23</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e28-the-beast-within-ddMq1SVX.mp3" length="26481892" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 27 - We’re Right Awards</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Mon, 23 Dec 2013 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e27-were-right-awards-HzgfKTB7.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e27-were-right-awards-HzgfKTB7.mp3</guid>
+      <description><![CDATA[]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary></itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:47:15</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e27-were-right-awards-HzgfKTB7.mp3" length="68048560" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 26 - The Statute</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Fri, 20 Dec 2013 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e26-the-statute-TNv0LNt9.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e26-the-statute-TNv0LNt9.mp3</guid>
+      <description><![CDATA[]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary></itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:21:38</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e26-the-statute-TNv0LNt9.mp3" length="31163906" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 25 - Relative Wisdom</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Mon, 16 Dec 2013 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e25-relative-wisdom-XD1jqiDT.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e25-relative-wisdom-XD1jqiDT.mp3</guid>
+      <description><![CDATA[]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary></itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:18:53</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e25-relative-wisdom-XD1jqiDT.mp3" length="27195976" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 24 - Incorporated</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Fri, 06 Dec 2013 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e24-incorporated-6YalePQC.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e24-incorporated-6YalePQC.mp3</guid>
+      <description><![CDATA[]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary></itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:22:09</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e24-incorporated-6YalePQC.mp3" length="31909301" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 23 - Capitalization</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Fri, 22 Nov 2013 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e23-capitalization-hcc2rp62.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e23-capitalization-hcc2rp62.mp3</guid>
+      <description><![CDATA[]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary></itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:43:03</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e23-capitalization-hcc2rp62.mp3" length="61994839" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 22 - Generational</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Fri, 15 Nov 2013 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e22-generational-Pi4zLAhz.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e22-generational-Pi4zLAhz.mp3</guid>
+      <description><![CDATA[]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary></itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:40:23</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e22-generational-Pi4zLAhz.mp3" length="58160746" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 21 - Mount Baker</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Fri, 01 Nov 2013 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e21-mount-baker-wpUL703u.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e21-mount-baker-wpUL703u.mp3</guid>
+      <description><![CDATA[]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary></itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:21:13</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e21-mount-baker-wpUL703u.mp3" length="30560756" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 20 - Untitled</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Tue, 22 Oct 2013 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e20-untitled-P8upgnuI.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e20-untitled-P8upgnuI.mp3</guid>
+      <description><![CDATA[]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary></itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:37:42</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e20-untitled-P8upgnuI.mp3" length="54312332" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 19 - No Country For Old Pokemen</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Wed, 16 Oct 2013 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e19-no-country-for-old-pokemen-NIwcknwb.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e19-no-country-for-old-pokemen-NIwcknwb.mp3</guid>
+      <description><![CDATA[]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary></itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:27:34</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e19-no-country-for-old-pokemen-NIwcknwb.mp3" length="39707166" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 18 - Nomenclature</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Mon, 14 Oct 2013 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e18-nomenclature-RBSMVOiK.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e18-nomenclature-RBSMVOiK.mp3</guid>
+      <description><![CDATA[]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary></itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:33:56</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e18-nomenclature-RBSMVOiK.mp3" length="48884204" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 17 - World War Why</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Fri, 04 Oct 2013 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e17-world-war-why-Jde79Ctb.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e17-world-war-why-Jde79Ctb.mp3</guid>
+      <description><![CDATA[]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary></itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:25:44</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e17-world-war-why-Jde79Ctb.mp3" length="37068268" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 16 - Holding Court</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Wed, 02 Oct 2013 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e16-holding-court-brqiEriD.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e16-holding-court-brqiEriD.mp3</guid>
+      <description><![CDATA[]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary></itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:21:37</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e16-holding-court-brqiEriD.mp3" length="31148998" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 15 - Sanderfuge</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Mon, 16 Sep 2013 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e15-sanderfuge-I1zs7Dp7.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e15-sanderfuge-I1zs7Dp7.mp3</guid>
+      <description><![CDATA[]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary></itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:26:24</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e15-sanderfuge-I1zs7Dp7.mp3" length="38023730" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 14 - Decor Part 1 and 2</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Wed, 28 Aug 2013 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e14-decor-part-1-and-2-9d2zwtO7.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e14-decor-part-1-and-2-9d2zwtO7.mp3</guid>
+      <description><![CDATA[]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary></itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:57:34</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e14-decor-part-1-and-2-9d2zwtO7.mp3" length="82901994" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 13 - Harshstone</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Mon, 26 Aug 2013 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e13-harshstone-wEzna4Q2.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e13-harshstone-wEzna4Q2.mp3</guid>
+      <description><![CDATA[]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary></itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:22:50</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e13-harshstone-wEzna4Q2.mp3" length="32896103" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 12 - Savagery</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Mon, 19 Aug 2013 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e12-savagery-NSDuRjAE.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e12-savagery-NSDuRjAE.mp3</guid>
+      <description><![CDATA[]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary></itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:25:19</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e12-savagery-NSDuRjAE.mp3" length="36467773" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 11 - Dream Big</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Fri, 23 Aug 2013 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e11-dream-big-Qo8H72t1.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e11-dream-big-Qo8H72t1.mp3</guid>
+      <description><![CDATA[]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary></itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:42:16</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e11-dream-big-Qo8H72t1.mp3" length="60885158" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 10 - Innovationes</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Fri, 16 Aug 2013 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e10-innovationes-iCOfNsWj.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e10-innovationes-iCOfNsWj.mp3</guid>
+      <description><![CDATA[]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary></itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:35:03</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e10-innovationes-iCOfNsWj.mp3" length="50496155" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 09 - The Middle</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Fri, 09 Aug 2013 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e09-the-middle-GVH39FZo.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e09-the-middle-GVH39FZo.mp3</guid>
+      <description><![CDATA[]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary></itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:20:52</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e09-the-middle-GVH39FZo.mp3" length="30058578" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 08 - Sand, Part Ten</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Mon, 05 Aug 2013 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e08-sand-part-ten-A4IHhdhA.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e08-sand-part-ten-A4IHhdhA.mp3</guid>
+      <description><![CDATA[]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary></itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:20:52</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e08-sand-part-ten-A4IHhdhA.mp3" length="30056070" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 07 - Chronotheft</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Mon, 15 Jul 2013 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e07-chronotheft-t7xgAY7M.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e07-chronotheft-t7xgAY7M.mp3</guid>
+      <description><![CDATA[]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary></itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:32:06</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e07-chronotheft-t7xgAY7M.mp3" length="46225448" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 06 - Provisions</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Wed, 10 Jul 2013 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e06-provisions-DjU5BxlJ.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e06-provisions-DjU5BxlJ.mp3</guid>
+      <description><![CDATA[]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary></itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:36:14</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e06-provisions-DjU5BxlJ.mp3" length="52192652" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 05 - Near Miss</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Mon, 08 Jul 2013 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e05-near-miss-5g6j1VGl.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e05-near-miss-5g6j1VGl.mp3</guid>
+      <description><![CDATA[]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary></itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:33:29</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e05-near-miss-5g6j1VGl.mp3" length="48227264" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 04 - Arcadia</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Mon, 01 Jul 2013 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e04-arcadia-H8mjWj7d.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e04-arcadia-H8mjWj7d.mp3</guid>
+      <description><![CDATA[]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary></itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:43:28</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e04-arcadia-H8mjWj7d.mp3" length="62613628" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 03 - Brouyaha</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Wed, 26 Jun 2013 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e03-brouyaha-xyZxacNg.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e03-brouyaha-xyZxacNg.mp3</guid>
+      <description><![CDATA[]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary></itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:32:07</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e03-brouyaha-xyZxacNg.mp3" length="46268707" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 02 - Aftermath</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Tue, 25 Jun 2013 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e02-aftermath-c3nWbcu1.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e02-aftermath-c3nWbcu1.mp3</guid>
+      <description><![CDATA[]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary></itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>01:30:28</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e02-aftermath-c3nWbcu1.mp3" length="130292614" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 01 - Conversions</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Fri, 07 Jun 2013 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e01-conversions-ymuO6SEd.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e01-conversions-ymuO6SEd.mp3</guid>
+      <description><![CDATA[]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary></itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:54:07</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/s02/s02e01-conversions-ymuO6SEd.mp3" length="77948550" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Lookouts: (A Marked Propensity For Violence)</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Wed, 10 Jun 2009 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/Lookouts.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/Lookouts.mp3</guid>
+      <description><![CDATA[In which our heroes discuss Lookouts, a possible new project.]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary>In which our heroes discuss Lookouts, a possible new project.</itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:22:08</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/Lookouts.mp3" length="6641832" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>A Reasoned Assessment: (It&#x27;s Just Tea!)</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Wed, 29 Apr 2009 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/A_Reasoned_Assessment.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/A_Reasoned_Assessment.mp3</guid>
+      <description><![CDATA[In which our heroes discuss the sexual orientation of creatures in Star Wars.]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary>In which our heroes discuss the sexual orientation of creatures in Star Wars.</itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:34:21</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/A_Reasoned_Assessment.mp3" length="10307506" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>For The Vin: (The Most Tender Of Shoots)</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Mon, 20 Apr 2009 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/For_The_Vin.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/For_The_Vin.mp3</guid>
+      <description><![CDATA[In which our heroes primarily discuss fantasy literature and Vin Diesel.]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary>In which our heroes primarily discuss fantasy literature and Vin Diesel.</itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:41:45</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/For_The_Vin.mp3" length="12526932" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Law Of Unintended Consequences: (Shoo Fly, Don&#x27;t Bother Me)</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Fri, 27 Mar 2009 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/The_Law.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/The_Law.mp3</guid>
+      <description><![CDATA[In which our heroes discuss the games of the day, OnLive, and inFamous.]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary>In which our heroes discuss the games of the day, OnLive, and inFamous.</itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:59:08</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/The_Law.mp3" length="17744156" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Freshness: (I Can Log On, And I Can Log In, But It Just Logs Me Out)</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Mon, 23 Mar 2009 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/Freshness.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/Freshness.mp3</guid>
+      <description><![CDATA[In which our heroes discuss the Pokeymans.]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary>In which our heroes discuss the Pokeymans.</itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:12:56</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/Freshness.mp3" length="3884142" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>In Which Much Is Revealed: (AIRJACK!)</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Wed, 18 Mar 2009 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/In_Which_Much_Is_Revealed.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/In_Which_Much_Is_Revealed.mp3</guid>
+      <description><![CDATA[In which our heroes discuss the iPhone, Twitter, Reality Television, and SyFy.]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary>In which our heroes discuss the iPhone, Twitter, Reality Television, and SyFy.</itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:49:31</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/In_Which_Much_Is_Revealed.mp3" length="14855508" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Old Ways: (Young, Strapped, And Hopeless)</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Wed, 04 Mar 2009 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/The_Old_Ways.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/The_Old_Ways.mp3</guid>
+      <description><![CDATA[In which our heroes discuss Dungeons (and also Dragons).]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary>In which our heroes discuss Dungeons (and also Dragons).</itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:26:27</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/The_Old_Ways.mp3" length="7939232" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Whedonite’s Dilemma: (Forever Dropping Zooms On Boom Booms)</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Fri, 27 Feb 2009 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/The_Whedonites_Dilemma.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/The_Whedonites_Dilemma.mp3</guid>
+      <description><![CDATA[In which our heroes discuss Joss Whedon&#x27;s Dollhouse.]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary>In which our heroes discuss Joss Whedon&#x27;s Dollhouse.</itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:45:12</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/The_Whedonites_Dilemma.mp3" length="13564916" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Truth Is The New Lie: (In Search Of A Comprehensive Morality)</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Mon, 24 Nov 2008 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/The_Truth_Is_The_New_Lie.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/The_Truth_Is_The_New_Lie.mp3</guid>
+      <description><![CDATA[In which our heroes discuss Wrath of the Lich King and the Public Relations industry.]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary>In which our heroes discuss Wrath of the Lich King and the Public Relations industry.</itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:39:22</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/The_Truth_Is_The_New_Lie.mp3" length="11812546" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Services I Provide: (Waving The Four-Four)</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Fri, 21 Nov 2008 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/The_Services_I_Provide.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/The_Services_I_Provide.mp3</guid>
+      <description><![CDATA[In which our heroes discuss the New Xbox Experience, Valkyria Chronicles, and a bunch of other shit.]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary>In which our heroes discuss the New Xbox Experience, Valkyria Chronicles, and a bunch of other shit.</itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:39:03</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/The_Services_I_Provide.mp3" length="11718226" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Couch Diplomacy: (The Metagang Is All Here)</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Mon, 09 Jun 2008 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/Couch_Diplomacy.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/Couch_Diplomacy.mp3</guid>
+      <description><![CDATA[In which our heroes discuss apprentices, adversarial Boom Blox, and honeyed words.]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary>In which our heroes discuss apprentices, adversarial Boom Blox, and honeyed words.</itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:26:51</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/Couch_Diplomacy.mp3" length="8055826" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Market Savvy: (It&#x27;s Moisture Tyme)</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Fri, 30 May 2008 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/Market_Savvy.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/Market_Savvy.mp3</guid>
+      <description><![CDATA[In which our heroes discuss smoking, reviewing, and the news of the day.]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary>In which our heroes discuss smoking, reviewing, and the news of the day.</itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:53:32</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/Market_Savvy.mp3" length="12850637" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Making An Impression: (Hip Hop, And You Don&#x27;t Stop)</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Fri, 02 May 2008 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/Making_An_Impression.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/Making_An_Impression.mp3</guid>
+      <description><![CDATA[In which our heroes discuss Grand Theft Auto 4, and whether or not The World actually Ends With You.]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary>In which our heroes discuss Grand Theft Auto 4, and whether or not The World actually Ends With You.</itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:35:41</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/Making_An_Impression.mp3" length="10706266" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Our Crucial Pamphlet: (Pimping All Over The World)</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Fri, 07 Mar 2008 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/Our_Crucial_Pamphlet.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/Our_Crucial_Pamphlet.mp3</guid>
+      <description><![CDATA[In which our heroes discuss Army of Two, from Electronic Arts.]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary>In which our heroes discuss Army of Two, from Electronic Arts.</itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:47:55</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/Our_Crucial_Pamphlet.mp3" length="14378506" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>PON PON PATA PON: (Deserving Of Reprimand)</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Mon, 03 Mar 2008 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/PON_PON_PATA_PON.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/PON_PON_PATA_PON.mp3</guid>
+      <description><![CDATA[In which our heroes discuss Patapon and Sony&#x27;s marketing savvy.]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary>In which our heroes discuss Patapon and Sony&#x27;s marketing savvy.</itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:18:51</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/PON_PON_PATA_PON.mp3" length="5659546" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Spore Cult: (The Rhythym Will Invariably Get You)</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Fri, 15 Feb 2008 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/The_Spore_Cult.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/The_Spore_Cult.mp3</guid>
+      <description><![CDATA[In which our heroes discuss Spore, procedural content, and the gigantic hats of Lost Odyssey.]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary>In which our heroes discuss Spore, procedural content, and the gigantic hats of Lost Odyssey.</itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:50:42</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/The_Spore_Cult.mp3" length="15212146" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>We Are Only Trying To Help: (I Have Recently Purchased A &quot;Grill&quot;)</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Wed, 06 Feb 2008 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/We_Are_Only_Trying_To_Help.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/We_Are_Only_Trying_To_Help.mp3</guid>
+      <description><![CDATA[In which our heroes discuss the Playstation 3 install of DMC4. And candy]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary>In which our heroes discuss the Playstation 3 install of DMC4. And candy</itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:27:56</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/We_Are_Only_Trying_To_Help.mp3" length="8383906" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Real Answers To Pressing Questions: (You Put Your Left Hand In)</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Fri, 25 Jan 2008 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/Real_Answers_To_Pressing_Questions.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/Real_Answers_To_Pressing_Questions.mp3</guid>
+      <description><![CDATA[In which our heroes discuss Devil May Cry and The Club.]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary>In which our heroes discuss Devil May Cry and The Club.</itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:40:12</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/Real_Answers_To_Pressing_Questions.mp3" length="12062866" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>What Goes Around: (It&#x27;s Like This, And Like That, And Like This, And A)</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Fri, 18 Jan 2008 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/What_Goes_Around.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/What_Goes_Around.mp3</guid>
+      <description><![CDATA[In which our heroes discuss the ancient and forgotten Divx format.]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary>In which our heroes discuss the ancient and forgotten Divx format.</itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:33:01</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/What_Goes_Around.mp3" length="9907666" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Rigorous Scholarship: (Ring Ding Dong, Ring-A-Ding Ding Ding Dong)</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Fri, 11 Jan 2008 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/Rigorous_Scholarship.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/Rigorous_Scholarship.mp3</guid>
+      <description><![CDATA[In which our heroes discuss poop, EGM, and the shared continuity of Soul Calibur and Star Wars.]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary>In which our heroes discuss poop, EGM, and the shared continuity of Soul Calibur and Star Wars.</itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:47:38</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/Rigorous_Scholarship.mp3" length="14291506" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Ungift, Part Two: (That Tantalizing Aroma)</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Wed, 02 Jan 2008 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/The_Ungift_Part_Two.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/The_Ungift_Part_Two.mp3</guid>
+      <description><![CDATA[In which our heroes discuss snacks, illness, and WoW FigurePrints.]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary>In which our heroes discuss snacks, illness, and WoW FigurePrints.</itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:37:51</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/The_Ungift_Part_Two.mp3" length="13626298" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>In The Love Nest Of Har’akki: (A Universe Of Sensual Delights)</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Wed, 05 Sep 2007 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/In_The_Love_Nest_Of_Harakki.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/In_The_Love_Nest_Of_Harakki.mp3</guid>
+      <description><![CDATA[In which our heroes basically talk about breasts for a half an hour.]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary>In which our heroes basically talk about breasts for a half an hour.</itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:27:48</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/In_The_Love_Nest_Of_Harakki.mp3" length="12564838" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Getting Down: (A Star, A Star)</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Wed, 05 Sep 2007 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/Getting_Down.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/Getting_Down.mp3</guid>
+      <description><![CDATA[In which our heroes discuss the Console Wars.]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary>In which our heroes discuss the Console Wars.</itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:43:01</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/Getting_Down.mp3" length="12907722" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Disparities: (Power Overwhelming)</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Fri, 11 May 2007 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/Disparities.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/Disparities.mp3</guid>
+      <description><![CDATA[In which our heroes discuss Hellgate: London and the news of the day.]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary>In which our heroes discuss Hellgate: London and the news of the day.</itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:32:04</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/Disparities.mp3" length="11550400" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Dangers of Exposure: (A Viscous New Dip)</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Wed, 09 May 2007 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/The_Dangers_Of_Exposure.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/The_Dangers_Of_Exposure.mp3</guid>
+      <description><![CDATA[In which our heroes discuss Spider-Man 3 for the PS3 and the coming micropayment wars.]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary>In which our heroes discuss Spider-Man 3 for the PS3 and the coming micropayment wars.</itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:52:15</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/The_Dangers_Of_Exposure.mp3" length="18815344" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Broodax Etcetera: (Friends, Let Us Kick It)</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Mon, 07 May 2007 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/The_Broodax_Etcetera.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/The_Broodax_Etcetera.mp3</guid>
+      <description><![CDATA[In which our heroes discuss the Ian and Matt incident, feminism and David Spade.]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary>In which our heroes discuss the Ian and Matt incident, feminism and David Spade.</itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:15:26</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/The_Broodax_Etcetera.mp3" length="3706862" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Broodax Imperiate: (Friends, Let Us Kick It)</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Fri, 04 May 2007 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/The_Broodax_Imperiate.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/The_Broodax_Imperiate.mp3</guid>
+      <description><![CDATA[In which our heroes discuss Catan, among (many) other things.]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary>In which our heroes discuss Catan, among (many) other things.</itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:35:33</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/The_Broodax_Imperiate.mp3" length="8535458" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Lidless Eye: (Oh Shit, A Werewolf!)</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Wed, 02 May 2007 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/The_Lidless_Eye.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/The_Lidless_Eye.mp3</guid>
+      <description><![CDATA[In which our heroes discuss Sony&#x27;s Eye of Judgement CCG, in addition to the news of day.]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary>In which our heroes discuss Sony&#x27;s Eye of Judgement CCG, in addition to the news of day.</itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>01:02:19</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/The_Lidless_Eye.mp3" length="14958323" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Reading Between The Lines, Part 1: (All Hail Emperor Zorn)</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Thu, 16 Nov 2006 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/Reading_Between_The_Lines_Part_1.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/Reading_Between_The_Lines_Part_1.mp3</guid>
+      <description><![CDATA[In which our heroes discuss Electronic Arts and micropayments, among other things (Part One Of Two)]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary>In which our heroes discuss Electronic Arts and micropayments, among other things (Part One Of Two)</itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:24:54</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/Reading_Between_The_Lines_Part_1.mp3" length="7470207" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Reading Between The Lines, Part 2: (Home of The +2 Gourd)</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Thu, 16 Nov 2006 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/Reading_Between_The_Lines_Part_2.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/Reading_Between_The_Lines_Part_2.mp3</guid>
+      <description><![CDATA[In which our heroes discuss Electronic Arts and micropayments, among other things (Part Two Of Two)]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary>In which our heroes discuss Electronic Arts and micropayments, among other things (Part Two Of Two)</itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:23:52</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/Reading_Between_The_Lines_Part_2.mp3" length="7161446" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Advertising In The Future: (In League With Mermen)</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Fri, 20 Oct 2006 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/Advertising_In_The_Future.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/Advertising_In_The_Future.mp3</guid>
+      <description><![CDATA[In which our heroes (mostly) discuss bestiality.]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary>In which our heroes (mostly) discuss bestiality.</itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:21:21</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/Advertising_In_The_Future.mp3" length="7689273" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Zune And Very Zune: (Set Phasers To &quot;Fun&quot;)</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Wed, 04 Oct 2006 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/Zune_And_Very_Zune.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/Zune_And_Very_Zune.mp3</guid>
+      <description><![CDATA[In which our heroes discuss Microsoft&#x27;s imminent portable music player, the Zune.]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary>In which our heroes discuss Microsoft&#x27;s imminent portable music player, the Zune.</itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:31:30</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/Zune_And_Very_Zune.mp3" length="11340834" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>In Breach of Warranty: (The Triumphant Return)</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Wed, 20 Sep 2006 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/In_Breach_Of_Warranty.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/In_Breach_Of_Warranty.mp3</guid>
+      <description><![CDATA[In which our heroes discuss bodily functions, the difficulty of Mario Hoops, and other engaging topics.]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary>In which our heroes discuss bodily functions, the difficulty of Mario Hoops, and other engaging topics.</itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:29:46</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/In_Breach_Of_Warranty.mp3" length="10718127" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Same As It Ever Was: (The Twist)</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Fri, 02 Jun 2006 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/The_Same_As_It_Ever_Was.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/The_Same_As_It_Ever_Was.mp3</guid>
+      <description><![CDATA[In which our heroes discuss the PlayStation Portable&#x27;s hidden eldritch power.]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary>In which our heroes discuss the PlayStation Portable&#x27;s hidden eldritch power.</itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:24:49</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/The_Same_As_It_Ever_Was.mp3" length="8935086" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Whence Wii: (There, The Crevasse)</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Fri, 28 Apr 2006 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/Whence_Wii.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/Whence_Wii.mp3</guid>
+      <description><![CDATA[In which our heroes ponder: Whence Wii? Also mentioned are firemen, Porkfry, and the human organs of generation.]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary>In which our heroes ponder: Whence Wii? Also mentioned are firemen, Porkfry, and the human organs of generation.</itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:35:45</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/Whence_Wii.mp3" length="12872531" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Treachery In 1080i: (And Lo, There Was A Great Rumbling)</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Wed, 19 Apr 2006 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/Treachery_In_1080i.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/Treachery_In_1080i.mp3</guid>
+      <description><![CDATA[In which our heroes discuss the news of the day, a coming war for your home theater, and meditate on grim outcomes.]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary>In which our heroes discuss the news of the day, a coming war for your home theater, and meditate on grim outcomes.</itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:38:56</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/Treachery_In_1080i.mp3" length="14020253" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Doctor Feelgood: (Behold: The pod is cast!)</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Wed, 12 Apr 2006 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/Doctor_Feelgood.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/Doctor_Feelgood.mp3</guid>
+      <description><![CDATA[In which our heroes discuss times past and present, and grapple with questionable science.]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary>In which our heroes discuss times past and present, and grapple with questionable science.</itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:37:57</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/Doctor_Feelgood.mp3" length="13666492" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Zone Of Pure Breakfast: (The Ultimate In Whatever This Is)</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Wed, 05 Apr 2006 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/The_Zone_of_Pure_Breakfast.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/The_Zone_of_Pure_Breakfast.mp3</guid>
+      <description><![CDATA[In which our heroes get very hungry and forget to record the rest of the podcast.]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary>In which our heroes get very hungry and forget to record the rest of the podcast.</itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:46:47</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/The_Zone_of_Pure_Breakfast.mp3" length="14035320" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>A Blatant Disregard For Canon: (Now Available In Chewy Ranch)</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Wed, 29 Mar 2006 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/A_Blatant_Disregard_For_Canon.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/A_Blatant_Disregard_For_Canon.mp3</guid>
+      <description><![CDATA[In which our heroes fantasize about Star Wars and Spider-Man.]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary>In which our heroes fantasize about Star Wars and Spider-Man.</itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:35:13</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/A_Blatant_Disregard_For_Canon.mp3" length="12683192" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>This Is What Democracy Looks Like: (A cornucopia of delights!)</title>
+      <dc:creator>Penny Arcade</dc:creator>
+      <pubDate>Mon, 20 Mar 2006 05:37:00 +0000</pubDate>
+      <link>http://hw1.pa-cdn.com/pa/assets/dlc/This_Is_What_Democracy_Looks_Like.mp3</link>
+      <guid isPermaLink="false">http://hw1.pa-cdn.com/pa/assets/dlc/This_Is_What_Democracy_Looks_Like.mp3</guid>
+      <description><![CDATA[In which our heroes discuss The Video Game Voters Network.]]></description>
+      <itunes:author>Penny Arcade</itunes:author>
+      <itunes:summary>In which our heroes discuss The Video Game Voters Network.</itunes:summary>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:duration>00:31:33</itunes:duration>
+      <itunes:image href="http://hw1.pa-cdn.com/pa/assets/img/bg_dlc.jpg"/>
+      <enclosure url="http://hw1.pa-cdn.com/pa/assets/dlc/This_Is_What_Democracy_Looks_Like.mp3" length="9468488" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
+
