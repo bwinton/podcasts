@@ -44,7 +44,7 @@ var template = handlebars.compile('    <item>\n' +
 '      <pubDate>{{date}}</pubDate>\n' +
 '      <link>{{link}}</link>\n' +
 '      <guid isPermaLink="false">{{link}}</guid>\n' +
-'      <description><![CDATA[{{descHtml}}]]></description>\n' +
+'      <description><![CDATA[{{{descHtml}}}]]></description>\n' +
 '      <itunes:author>The Diecast</itunes:author>\n' +
 '      <itunes:summary>{{descText}}</itunes:summary>\n' +
 '      <itunes:explicit>no</itunes:explicit>\n' +
@@ -74,7 +74,7 @@ function outputAll(headers) {
 
 function addCachedData(cachedItem, header) {
   header.cached = true;
-  header.descHtml = new handlebars.SafeString(cachedItem['description'][0]);
+  header.descHtml = cachedItem['description'][0].replace(']]>', ']] >');
   header.descText = cachedItem['itunes:summary'][0];
   header.audio = cachedItem.enclosure[0].$.url;
   header.length = cachedItem.enclosure[0].$.length;
@@ -92,6 +92,7 @@ function checkFinished(count, headers) {
 }
 
 function processUrl(baseUrl, cachedItems) {
+  cachedItems = cachedItems || [];
   request.get(baseUrl, function (error, response, body) {
     if (error || response.statusCode !== 200) {
       console.error('Error:', error, response && response.statusCode);
