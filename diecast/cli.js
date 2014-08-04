@@ -137,6 +137,10 @@ function processUrl(baseUrl, cachedItems) {
         item.descText = "";
         for (i = 0; i < pDivs.length; i++) {
           var div = $(pDivs[i]);
+          var temp = div.find('a');
+          temp.each(function (i, e) {
+            $(e).attr('href', url.resolve(baseUrl, $(e).attr('href')));
+          });
           var audio = div.find('audio > source[type="audio/mpeg"]');
           if (audio.length) {
             item.audio = url.resolve(item.link, audio.attr('src'));
