@@ -131,7 +131,7 @@ function processUrl(baseUrl, cachedItems) {
         var document = jsdom(body);
         var window = document.createWindow();
         var $ = jquery.create(window);
-        var pDivs = $('.entry-text > p, .entry-text > ol, .entry-text > ul')
+        var pDivs = $('.entry-text > p, .entry-text > ol, .entry-text > ul, .entry-text > blockquote')
                     .not('.entry-text > p.entry-tags');
         item.descHtml = "";
         item.descText = "";
