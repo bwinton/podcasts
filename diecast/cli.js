@@ -74,7 +74,9 @@ function outputAll(headers) {
 
 function addCachedData(cachedItem, header) {
   header.cached = true;
-  header.descHtml = cachedItem['description'][0].replace(']]>', ']] >');
+  header.descHtml = cachedItem['description'][0]
+    .replace(']]>', ']] >')
+    .replace(/<\/?script[^>]*>/g, '');
   header.descText = cachedItem['itunes:summary'][0];
   header.audio = cachedItem.enclosure[0].$.url;
   header.length = cachedItem.enclosure[0].$.length;
