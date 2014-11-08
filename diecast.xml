@@ -23,6 +23,124 @@
     </itunes:category>
     <itunes:image href="http://www.shamusyoung.com/twentysidedtale/images/splash_diecast2.jpg"/>
     <item>
+      <title>Diecast #79: Re-releases, 1080p, FMV Games</title>
+      <dc:creator>Shamus Young</dc:creator>
+      <pubDate>Mon, 03 Nov 2014 05:37:00 +0000</pubDate>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p=24859</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=24859</guid>
+      <description><![CDATA[<p>For the last two weeks I’ve had horrible internet connections during our recording sessions. Egregious throttling, lag spikes, etc. Very frustrating. This has made dialog even more problematic than usual. I’ve tried to clean up the interruptions and overlap as much as possible, but there’s only so much you can do in post. Please be patient.</p>
+<p>Hosts: <a href="http://www.errantsignal.com/blog/">Chris</a>, <a href="http://en.wikipedia.org/wiki/Darth_Vader">Josh</a>, <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>, and <a href="http://www.chocolatehammer.org/">Rutskarn</a>.</p>
+<p>Show notes:</p>
+<p><span id="more-24859"></span><strong>1:00 Chris is hosting!</strong></p>
+<p>This is a running gag every week, where Josh tries to get Chris to host. These crazy kids and their shenanigans.</p>
+<p><strong>2:00 Let’s talk about re-releases!</strong></p>
+<p>In my talk on re-compiling games I was trying to think and talk at the same time, which is never a good sign. Having digested the topic a bit more, I’ll refine my points on C vs. C++ thus:  C is easier to read, easier to follow, and easier to debug, but <strong>only if your code is sufficiently small</strong>. My problems with C enter in as the codebase grows in complexity. The proliferation of side-effects and the lack of overarching structure eventually makes the project <em>harder</em> to understand than a comparable C++ project. (Note that some of this is stylistic and not mandated by the language itself.)</p>
+<p>This is by no means a definitive statement on either language, but my view on how the two languages apply to the world of games. If you’re taking databases or operating systems, then I have no idea which is best or how they scale.</p>
+<p><strong>23:00 Far Cry 4 dev <a href="http://www.totalxbox.com/82240/resolution-doesnt-sell-games-says-far-cry-4-dev-1080p-debate-is-a-weird-echo-chamber/">says</a> 1080p debate is a “weird echo chamber”</strong></p>
+<p>The fact that this would come from someone using the Cry engine – the poster child for the juvenile graphics-over-gameplay mentality – this comes off not just as dumb but as shockingly hypocritical. It’s like the team behind Games for Windows Live complaining that it’s a pain in the ass to need to log into Steam to play your game.</p>
+<p><strong>35:00 Rutskarn is here and suddenly we’re talking about 7<sup>th</sup> guest.</strong></p>
+<p>Here is the Pushing Up Roses video I mentioned in the show, which gives a pretty good look at Night Trap and the controversy that surrounds it:</p>
+<p>I will say that it’s really offensive to me that people complained about the nudity and violence the game didn’t have. Especially when they could have spent that time complaining about how bad it obviously sucked. Even the tiny clips are hard to watch.</p>
+<p><strong>1:00:00 MAILTIME!</strong></p>
+<blockquote><p>To Rutz…with a z:</p><p>So you gotta corpse in a dandy suit as your internet avatar.  There a story behind that?</p><p>To Chrampster:</p><p>Yo!  Last Errant Sigz wuz a month ago bro!  …and it was repost!  Wuzzup wit dat?  You quitting da vidz homes?</p><p>Neil</p></blockquote>
+]]></description>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:summary>For the last two weeks I’ve had horrible internet connections during our recording sessions. Egregious throttling, lag spikes, etc. Very frustrating. This has made dialog even more problematic than usual. I’ve tried to clean up the interruptions and overlap as much as possible, but there’s only so much you can do in post. Please be patient.
+
+Hosts: Chris, Josh, Shamus, and Rutskarn.
+
+Show notes:
+
+1:00 Chris is hosting!
+
+This is a running gag every week, where Josh tries to get Chris to host. These crazy kids and their shenanigans.
+
+2:00 Let’s talk about re-releases!
+
+In my talk on re-compiling games I was trying to think and talk at the same time, which is never a good sign. Having digested the topic a bit more, I’ll refine my points on C vs. C++ thus:  C is easier to read, easier to follow, and easier to debug, but only if your code is sufficiently small. My problems with C enter in as the codebase grows in complexity. The proliferation of side-effects and the lack of overarching structure eventually makes the project harder to understand than a comparable C++ project. (Note that some of this is stylistic and not mandated by the language itself.)
+
+This is by no means a definitive statement on either language, but my view on how the two languages apply to the world of games. If you’re taking databases or operating systems, then I have no idea which is best or how they scale.
+
+23:00 Far Cry 4 dev says 1080p debate is a “weird echo chamber”
+
+The fact that this would come from someone using the Cry engine – the poster child for the juvenile graphics-over-gameplay mentality – this comes off not just as dumb but as shockingly hypocritical. It’s like the team behind Games for Windows Live complaining that it’s a pain in the ass to need to log into Steam to play your game.
+
+35:00 Rutskarn is here and suddenly we’re talking about 7th guest.
+
+Here is the Pushing Up Roses video I mentioned in the show, which gives a pretty good look at Night Trap and the controversy that surrounds it:
+
+I will say that it’s really offensive to me that people complained about the nudity and violence the game didn’t have. Especially when they could have spent that time complaining about how bad it obviously sucked. Even the tiny clips are hard to watch.
+
+1:00:00 MAILTIME!
+
+To Rutz…with a z:So you gotta corpse in a dandy suit as your internet avatar.  There a story behind that?To Chrampster:Yo!  Last Errant Sigz wuz a month ago bro!  …and it was repost!  Wuzzup wit dat?  You quitting da vidz homes?Neil
+
+</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration></itunes:duration>
+      <itunes:image href="http://www.shamusyoung.com/twentysidedtale/images/splash_diecast2.jpg"/>
+      <enclosure url="http://www.shamusyoung.com/diecast/diecast79.mp3" length="65665373" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Diecast #78: Unity, Unity, Borderlands, Beyond Earth</title>
+      <dc:creator>Shamus Young</dc:creator>
+      <pubDate>Mon, 27 Oct 2014 05:37:00 +0000</pubDate>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p=24760</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=24760</guid>
+      <description><![CDATA[<p>Hosts: <a href="http://www.errantsignal.com/blog/">Chris</a>, <a href="http://en.wikipedia.org/wiki/Charlemagne">Josh</a>, <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>, and <a href="http://www.chocolatehammer.org/">Rutskarn</a>.</p>
+<p>Show notes:<br /> <span id="more-24760"></span><strong>1:00 The PC system specs for Assassins Creed Unity are <a href="http://blog.ubi.com/assassins-creed-unity-pc-specs/">kinda steep</a>.</strong></p>
+<p>It used to be a regular thing: Upgrade your PC every two years or stop playing new releases. It was that simple. Then we had that nice long console generation and we got used to doing upgrades, “Every four years, maybe, or whatever.” This new console generation is likely going to force all of us to finally get around to doing those upgrades.</p>
+<p>(Or, you know, just give Unity a pass. I dunno. I’m not your mum. Do what you like.)</p>
+<p>Let’s remember, the real villains here are the video chipset people, because their naming system is poorly-documented balderdash.</p>
+<p><strong>15:00 John Riccitiello takes over as <a href="http://blogs.unity3d.com/2014/10/22/leading-unity-into-the-future/">CEO of Unity</a>. (The game engine.)</strong></p>
+<p>Once again I want to stress that “The company wasn’t losing money” is a completely inadequate defense. Not everyone who made money in the dot-com boom was a genius and not everyone who lost money was an idiot. There’s lots of noise in business. But when you judge the company on the merits of individual decisions, his leadership is far out of touch: The money paid for Playfish. The cost and return of buying Popcap. The green-lighting of The Old Republic. The mechanics of Project Ten Dollar. The absurd lateness and inadequacy of Origin.</p>
+<p>He never had his finger on the pulse of gaming. Just having a couple of people who were active in the hobby as advisers could have saved the company <strong>bill</strong>ions.</p>
+<p>But like we said in the show: He’s not being hired for his gaming experience, so this move makes sense. (Inasmuch as the mechanics of shopping corporations around make sense.)</p>
+<p><strong>28:00 Shamus is playing Borderlands the Pre-Sequel</strong></p>
+<p><strong>35:00 Chris has played a bit of Beyond Earth.</strong></p>
+<p><strong>43:00 Josh is playing more Crusader Kings II.</strong></p>
+<p><strong>46:00 Josh got a Surface Pro and tried out Steam in-home streaming.</strong></p>
+<p><strong>51:00 MAILTIME.</strong></p>
+<blockquote><p>Greetings again from the totally-not-a-mad-scientist lab!</p><p>I have two new questions for the crew:<br /> -Are there any games you think deserve a long form critical LP, but can’t do for spoiler warning? (either because of technical issues, veto, game mechanic, etc.) An example would be Alpha Protocol because of the short conversation timers.<br /> -Does Chris Still hate Guy Fieri?</p><p>regards,<br /> -Anthony</p></blockquote>
+]]></description>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:summary>Hosts: Chris, Josh, Shamus, and Rutskarn.
+
+Show notes: 1:00 The PC system specs for Assassins Creed Unity are kinda steep.
+
+It used to be a regular thing: Upgrade your PC every two years or stop playing new releases. It was that simple. Then we had that nice long console generation and we got used to doing upgrades, “Every four years, maybe, or whatever.” This new console generation is likely going to force all of us to finally get around to doing those upgrades.
+
+(Or, you know, just give Unity a pass. I dunno. I’m not your mum. Do what you like.)
+
+Let’s remember, the real villains here are the video chipset people, because their naming system is poorly-documented balderdash.
+
+15:00 John Riccitiello takes over as CEO of Unity. (The game engine.)
+
+Once again I want to stress that “The company wasn’t losing money” is a completely inadequate defense. Not everyone who made money in the dot-com boom was a genius and not everyone who lost money was an idiot. There’s lots of noise in business. But when you judge the company on the merits of individual decisions, his leadership is far out of touch: The money paid for Playfish. The cost and return of buying Popcap. The green-lighting of The Old Republic. The mechanics of Project Ten Dollar. The absurd lateness and inadequacy of Origin.
+
+He never had his finger on the pulse of gaming. Just having a couple of people who were active in the hobby as advisers could have saved the company billions.
+
+But like we said in the show: He’s not being hired for his gaming experience, so this move makes sense. (Inasmuch as the mechanics of shopping corporations around make sense.)
+
+28:00 Shamus is playing Borderlands the Pre-Sequel
+
+35:00 Chris has played a bit of Beyond Earth.
+
+43:00 Josh is playing more Crusader Kings II.
+
+46:00 Josh got a Surface Pro and tried out Steam in-home streaming.
+
+51:00 MAILTIME.
+
+Greetings again from the totally-not-a-mad-scientist lab!I have two new questions for the crew: -Are there any games you think deserve a long form critical LP, but can’t do for spoiler warning? (either because of technical issues, veto, game mechanic, etc.) An example would be Alpha Protocol because of the short conversation timers. -Does Chris Still hate Guy Fieri?regards, -Anthony
+
+</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration></itunes:duration>
+      <itunes:image href="http://www.shamusyoung.com/twentysidedtale/images/splash_diecast2.jpg"/>
+      <enclosure url="http://www.shamusyoung.com/diecast/diecast78.mp3" length="57600817" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Diecast #77: Shadow of Mordor, Twenty Sided Origins</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Mon, 20 Oct 2014 05:37:00 +0000</pubDate>
