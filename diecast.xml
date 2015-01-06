@@ -23,6 +23,173 @@
     </itunes:category>
     <itunes:image href="http://www.shamusyoung.com/twentysidedtale/images/splash_diecast2.jpg"/>
     <item>
+      <title>Diecast #87: Batman Endgame, ToME, Stone Soup Dungeon Crawl</title>
+      <dc:creator>Shamus Young</dc:creator>
+      <pubDate>Mon, 05 Jan 2015 05:37:00 +0000</pubDate>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p=25572</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=25572</guid>
+      <description><![CDATA[<p>Happy 2015! Enjoy this extra-long Diecast with a full crew and a lot of topics. </p>
+<p>Hosts: <a href="http://www.shamusyoung.com/twentysidedtale/">Shamus</a>, <a href="http://en.wikipedia.org/wiki/Scarecrow_%28DC_Comics%29">Josh</a>, <a href="http://www.chocolatehammer.org/">Rutskarn</a>, <a href="https://twitter.com/nicemovemumbles">Mumbles</a>, and <a href="https://www.youtube.com/user/Campster">Chris</a>. </p>
+<p>Show notes:<span id="more-25572"></span><br />
+<strong>2:00 Mumbles is reading Batman: Endgame.</strong></p>
+<p>CORRECTION: During the conversation I mention a “Think Geek” Loot Crate, but I’m pretty sure <a href="https://www.lootcrate.com/">Loot Crate</a> isn’t affiliated with Think Geek. The deal is that for a small monthly fee (around $12-ish) you get a box of random geek crap supposedly worth $40. I’m sure it’s just overstock stuff some other outfit is trying to unload quickly. It’s the online equivalent of a bargain bin. But it’s also strangely fun. We got it for my son on his birthday, and getting our monthly loot crate is a big deal around here. Everyone gathers around to see what bits of random fandom we got this month. </p>
+<p><strong>20:00 Mumbles recommends Lost Constellation.</strong></p>
+<p><a href="http://finji.itch.io/lost-constellation">You can get it from the official site</a> and is offered on a “name your own price” basis.</p>
+<p><strong>22:00 Chris is playing “You Don’t Know Jack”.</strong></p>
+<p>Also, <a href="https://www.youtube.com/watch?v=lZcX_ZdlW3Q">the new Errant Signal is out! It’s about GTA V</a>. </p>
+<p><strong>28:00 Josh is playing roguelikes.</strong> </p>
+<p><a href="http://te4.org/wiki/Tales_of_Maj%27Eyal_Wiki">Tome</a>  </p>
+<p><strong>34:00 Shamus isn’t playing much of the videogames.</strong></p>
+<p>Instead I’m writing my end-of-year stuff and watching speed runs. Here is the <a href="https://www.youtube.com/user/SpeedDemosArchiveSDA">Awesome Games Done Quick</a>. But really, I’m a sucker for any Deus Ex or Human Revolution speedruns. I don’t know why, but I love watching this bonkers secret agent save the world through inexplicable nonsense and hilarious stunt-jumping. </p>
+<p><strong>37:00 Josh is fighting with Windows.</strong></p>
+<p><strong>43:00 Ruts is also playing roguelikes!</strong></p>
+<p><a href="http://crawl.develz.org/wordpress/">Stone Soup Dungeon Crawl</a>.</p>
+<p><strong>48:00 Rutskarn is making a new campaign setting.</strong></p>
+<p>Also he’s working on his FMV game idea in the margins. Also we talk about rollerblades for a long time. I can’t even explain why. It just happened.</p>
+<p><strong>1:13:00 Shamus can do it.</strong></p>
+<p>True story: At the one hour 13 minute mark Chris jokes that I could help Rutskarn make this FMV game. I didn’t join in on the joke, because a few minutes earlier Rutkarn had said that he would need to find someone to make the game, or that he would need to program it himself. </p>
+<p>That immediately got me thinking, because writing a video player would be monumentally hard for a new coder, but the simple logic that drives a small-scale FMV game would be a fantastic thing for a new coder to work on.  So it seems like you’d need some kind of simplified video player (it would only need to handle one format) that used game logic as a front end. This got me to thinking about the most recent chapter of <a href="http://gameprogrammingpatterns.com/">Game Programming Patterns</a>, which talked about building a virtual machine to process your own scripting language, so you can handle exactly these kinds of specialized problems where you need artists to be able to code simple things. (The example given in the book is a system where artists could add complex spell effects to the game without needing to get the coders involved. You just need to be able to examine and change stats and create particles.) So I started thinking about scripting languages and what you’d need to be able to do with one in order to drive an FMV game.</p>
+<p>Suddenly my name came up in conversation and I had no idea what anyone was talking about. It wasn’t until I edited this episode that I realized I missed the joke about working on the project because I was daydreaming about how one would go about working on the project.</p>
+<p><strong>1:16:00 Adventures With Content ID.</strong></p>
+<p>Josh tells the story of when we tried to upload the New Year episode of Far Cry 4 and YouTube killed it because the credits used a copyrighted song. </p>
+]]></description>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:summary>Happy 2015! Enjoy this extra-long Diecast with a full crew and a lot of topics.
+
+Hosts: Shamus, Josh, Rutskarn, Mumbles, and Chris.
+
+Show notes:
+2:00 Mumbles is reading Batman: Endgame.
+
+CORRECTION: During the conversation I mention a “Think Geek” Loot Crate, but I’m pretty sure Loot Crate isn’t affiliated with Think Geek. The deal is that for a small monthly fee (around $12-ish) you get a box of random geek crap supposedly worth $40. I’m sure it’s just overstock stuff some other outfit is trying to unload quickly. It’s the online equivalent of a bargain bin. But it’s also strangely fun. We got it for my son on his birthday, and getting our monthly loot crate is a big deal around here. Everyone gathers around to see what bits of random fandom we got this month.
+
+20:00 Mumbles recommends Lost Constellation.
+
+You can get it from the official site and is offered on a “name your own price” basis.
+
+22:00 Chris is playing “You Don’t Know Jack”.
+
+Also, the new Errant Signal is out! It’s about GTA V.
+
+28:00 Josh is playing roguelikes.
+
+Tome
+
+34:00 Shamus isn’t playing much of the videogames.
+
+Instead I’m writing my end-of-year stuff and watching speed runs. Here is the Awesome Games Done Quick. But really, I’m a sucker for any Deus Ex or Human Revolution speedruns. I don’t know why, but I love watching this bonkers secret agent save the world through inexplicable nonsense and hilarious stunt-jumping.
+
+37:00 Josh is fighting with Windows.
+
+43:00 Ruts is also playing roguelikes!
+
+Stone Soup Dungeon Crawl.
+
+48:00 Rutskarn is making a new campaign setting.
+
+Also he’s working on his FMV game idea in the margins. Also we talk about rollerblades for a long time. I can’t even explain why. It just happened.
+
+1:13:00 Shamus can do it.
+
+True story: At the one hour 13 minute mark Chris jokes that I could help Rutskarn make this FMV game. I didn’t join in on the joke, because a few minutes earlier Rutkarn had said that he would need to find someone to make the game, or that he would need to program it himself.
+
+That immediately got me thinking, because writing a video player would be monumentally hard for a new coder, but the simple logic that drives a small-scale FMV game would be a fantastic thing for a new coder to work on.  So it seems like you’d need some kind of simplified video player (it would only need to handle one format) that used game logic as a front end. This got me to thinking about the most recent chapter of Game Programming Patterns, which talked about building a virtual machine to process your own scripting language, so you can handle exactly these kinds of specialized problems where you need artists to be able to code simple things. (The example given in the book is a system where artists could add complex spell effects to the game without needing to get the coders involved. You just need to be able to examine and change stats and create particles.) So I started thinking about scripting languages and what you’d need to be able to do with one in order to drive an FMV game.
+
+Suddenly my name came up in conversation and I had no idea what anyone was talking about. It wasn’t until I edited this episode that I realized I missed the joke about working on the project because I was daydreaming about how one would go about working on the project.
+
+1:16:00 Adventures With Content ID.
+
+Josh tells the story of when we tried to upload the New Year episode of Far Cry 4 and YouTube killed it because the credits used a copyrighted song.
+
+</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>01:22:36</itunes:duration>
+      <itunes:image href="http://www.shamusyoung.com/twentysidedtale/images/splash_diecast2.jpg"/>
+      <enclosure url="http://www.shamusyoung.com/diecast/diecast87.mp3" length="79299886" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Diecast #86: Telltale Games, Christmas DDos Attack, Edutainment Games</title>
+      <dc:creator>Shamus Young</dc:creator>
+      <pubDate>Mon, 29 Dec 2014 05:37:00 +0000</pubDate>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p=25506</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=25506</guid>
+      <description><![CDATA[<p>And here is the last Diecast of 2014. </p>
+<p>Hosts: <a href="http://www.shamusyoung.com/twentysidedtale/">Shamus</a>, <a href="http://en.wikipedia.org/wiki/List_of_Cowboy_Bebop_characters#Vicious">Josh</a>, <a href="http://borderlands.wikia.com/wiki/Jakobs">Jacob</a>, and <a href="https://www.youtube.com/user/Campster">just normal Chris</a>. </p>
+<p><span id="more-25506"></span><strong>1:30 Chris is Playing Tales from The Borderlands</strong></p>
+<p>We also speculate about the upcoming Minecraft game from Telltale.</p>
+<p><strong>10:00 Josh is watching <a href="http://en.wikipedia.org/wiki/Cowboy_Bebop">Cowboy Bebop</a>.</strong></p>
+<p><strong>14:00 Jacob has been playing Risk of Rain.</strong></p>
+<p><strong>20:00 Shamus got a new mouse.</strong></p>
+<p>Here is the mouse in question:</p>
+<p>And this is the <a href="http://www.shamusyoung.com/twentysidedtale/images/zeus_mouse1.jpg">always-on-top download window</a>.</p>
+<p><strong>29:00 Lizard Squad stole Christmas.</strong></p>
+<p>Spoiler: This is the subject of my column tomorrow, so I don’t want to add too much now. </p>
+<p><strong>40:00 Josh will be doing a New Year’s Eve stream.</strong></p>
+<p>I’ll have a post and links up when the time comes.</p>
+<p><strong>41:00 MAILTIME!</strong></p>
+<blockquote><p>Dear diecast/spoiler warning crew,</p>
+<p>Have you ever considered doing riff tracks of movies or tv shows?</p>
+<p>Umad</p></blockquote>
+<p>And here is the full question that we trimmed down: </p>
+<blockquote><p>Hi, I’m Daniel (JackTheStripper on your website) and I wanted to ask the Diecast what they think of the current state of educational games.</p>
+<p>I grew up playing games like Math Blaster Episode I: In Search of Spot, Math Blaster Mystery: The Great Brain Robbery, Where in The World (and Where in the USA) is Carmen San Diego, and even more classic games like Number Munchers. The fact that they were educational games never bothered me, and the challenge was there. I don’t think I ever beat any of those games on the harder difficulties.</p>
+<p>Anyway, games like those are practically non-existent today, and with lots of indie devs bringing games of their childhood back, how is nobody trying to bring back educational games?</p>
+<p>Hopefully there’ll be a Diecast in the coming days but I’ll understand if there isn’t with the holidays and all. Big fan of you guys though.</p>
+<p>Always ludonarratively dissonant,<br />
+Daniel</p></blockquote>
+<p>Here are the edutainment dino games Chris was talking about: <a href="https://www.youtube.com/watch?v=HTOC7-m6KNc">Create-A-Saurus from 3-D Dinosaur Adventure</a> and <a href="https://www.youtube.com/watch?v=y_4m0rRZ7Kk">Save The Dinosaurs! From 3-D Dinosaur Adventure</a>.</p>
+]]></description>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:summary>And here is the last Diecast of 2014.
+
+Hosts: Shamus, Josh, Jacob, and just normal Chris.
+
+1:30 Chris is Playing Tales from The Borderlands
+
+We also speculate about the upcoming Minecraft game from Telltale.
+
+10:00 Josh is watching Cowboy Bebop.
+
+14:00 Jacob has been playing Risk of Rain.
+
+20:00 Shamus got a new mouse.
+
+Here is the mouse in question:
+
+And this is the always-on-top download window.
+
+29:00 Lizard Squad stole Christmas.
+
+Spoiler: This is the subject of my column tomorrow, so I don’t want to add too much now.
+
+40:00 Josh will be doing a New Year’s Eve stream.
+
+I’ll have a post and links up when the time comes.
+
+41:00 MAILTIME!
+
+Dear diecast/spoiler warning crew,
+Have you ever considered doing riff tracks of movies or tv shows?
+Umad
+
+And here is the full question that we trimmed down:
+
+Hi, I’m Daniel (JackTheStripper on your website) and I wanted to ask the Diecast what they think of the current state of educational games.
+I grew up playing games like Math Blaster Episode I: In Search of Spot, Math Blaster Mystery: The Great Brain Robbery, Where in The World (and Where in the USA) is Carmen San Diego, and even more classic games like Number Munchers. The fact that they were educational games never bothered me, and the challenge was there. I don’t think I ever beat any of those games on the harder difficulties.
+Anyway, games like those are practically non-existent today, and with lots of indie devs bringing games of their childhood back, how is nobody trying to bring back educational games?
+Hopefully there’ll be a Diecast in the coming days but I’ll understand if there isn’t with the holidays and all. Big fan of you guys though.
+Always ludonarratively dissonant,
+Daniel
+
+Here are the edutainment dino games Chris was talking about: Create-A-Saurus from 3-D Dinosaur Adventure and Save The Dinosaurs! From 3-D Dinosaur Adventure.
+
+</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>01:02:10</itunes:duration>
+      <itunes:image href="http://www.shamusyoung.com/twentysidedtale/images/splash_diecast2.jpg"/>
+      <enclosure url="http://www.shamusyoung.com/diecast/diecast86.mp3" length="59694008" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Diecast #85: Old Computers, King’s Quest, Retro Games</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Mon, 22 Dec 2014 05:37:00 +0000</pubDate>
