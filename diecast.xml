@@ -9,9 +9,9 @@
     <atom:link href="http://bwinton.github.io/podcasts/diecast.xml" rel="self" type="application/rss+xml"/>
     <language>en-US</language>
     <itunes:author>Shamus, Chris, Rutskan, and Josh</itunes:author>
-    <itunes:subtitle>Like Spoiler Warning, but with less video.</itunes:subtitle>
+    <itunes:subtitle>A Website for your Internet</itunes:subtitle>
     <itunes:summary>Spoiler Warning, but audio-only</itunes:summary>
-    <description>Spoiler Warning, but audio-only</description>
+    <description>A Website for your Internet</description>
     <itunes:explicit>no</itunes:explicit>
     <itunes:keywords>games,spoilerwarning,shamus,chris,rutskarn,josh</itunes:keywords>
     <itunes:owner>
