@@ -62,7 +62,7 @@ function makeDate(date) {
 function outputAll(headers) {
   out = xmlStart;
   headers.map(function (item, index) {
-    console.error(index + ': Printing ' + item.title);
+    console.error(index + ': Printing ' + item.title, item.audio);
     if (item.audio) {
       var tmpl = template(item);
       out += tmpl;
@@ -130,7 +130,7 @@ function processUrl(baseUrl, cachedItems) {
       request.get(item.link, function (error, response, body) {
         console.error('Got ' + item.title, error);
         var $ = jquery(new JSDOM(body).window);
-        var pDivs = $('.entry-text > p, .entry-text > ol, .entry-text > ul, .entry-text > blockquote')
+        var pDivs = $('.entry-text > p, .entry-text > ol, .entry-text > ul, .entry-text > blockquote, .entry-text > div.podcast_player')
                     .not('.entry-text > p.entry-tags');
         item.descHtml = "";
         item.descText = "";
@@ -139,6 +139,10 @@ function processUrl(baseUrl, cachedItems) {
           var temp = div.find('a');
           temp.each(function (i, e) {
             $(e).attr('href', url.resolve(baseUrl, $(e).attr('href')));
+          });
+          temp = div.find('img');
+          temp.each(function (i, e) {
+            $(e).attr('src', url.resolve(baseUrl, $(e).attr('src')));
           });
           var audio = div.find('audio > source[type="audio/mpeg"]');
           if (audio.length) {
