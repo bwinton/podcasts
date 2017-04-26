@@ -9,9 +9,9 @@
     <atom:link href="http://bwinton.github.io/podcasts/diecast.xml" rel="self" type="application/rss+xml"/>
     <language>en-US</language>
     <itunes:author>Shamus, Chris, Rutskan, and Josh</itunes:author>
-    <itunes:subtitle>A Website for your Internet</itunes:subtitle>
+    <itunes:subtitle>Like Spoiler Warning, but with less video.</itunes:subtitle>
     <itunes:summary>Spoiler Warning, but audio-only</itunes:summary>
-    <description>A Website for your Internet</description>
+    <description>Spoiler Warning, but audio-only</description>
     <itunes:explicit>no</itunes:explicit>
     <itunes:keywords>games,spoilerwarning,shamus,chris,rutskarn,josh</itunes:keywords>
     <itunes:owner>
@@ -23,11 +23,159 @@
     </itunes:category>
     <itunes:image href="http://www.shamusyoung.com/twentysidedtale/images/splash_diecast2.jpg"/>
     <item>
+      <title>Diecast #109: Mailbag</title>
+      <dc:creator>Shamus Young</dc:creator>
+      <pubDate>Mon, 22 Jun 2015 05:37:00 +0000</pubDate>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;27485</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;27485</guid>
+      <description><![CDATA[<p>It’s a mailbag this week! I think we answered around 33% of the questions. I’m starting to think we need to do this more often. Once again, I’ve wiped the slate clean so if your question didn’t make it, it’s time to re-word or re-send if you’re still looking for an answer.</p>
+<p>Another week, another apology for wonky audio. I’m really frustrated now because I have the right tools but I keep making dumb newbie mistakes. This week I left a fan on. Not one of those “whisper quiet” fans. And this thing wasn’t sitting across the room from me. This was a roaring box fan, right at my feet. Why? <em>Why did I not turn off the fan</em>?</p>
+<p><a href="http://www.shamusyoung.com/twentysidedtale/?p=26779">Audio editing</a> got rid of the worst of it, but the ghost of the sound is still there when I talk. And I’m sure you’ll hear it now that I made a big deal about it. Don’t worry, I’m sure in another 109 episodes or so I’ll figure out how to run this show.</p>
+<p>Hosts: <a href="http://www.shamusyoung.com/twentysidedtale/">Shamus</a>, <a href="https://www.youtube.com/user/Campster">Campster</a>,  <a href="http://fallout.wikia.com/wiki/Dick_Richardson">Josh</a>, and <a href="https://twitter.com/nicemovemumbles">Mumbles</a>. </p>
+<p>Show notes: <span id="more-27485"></span></p>
+<p><strong>1:00 MP3 vs. OGG</strong></p>
+<blockquote><p>Is Shamus willing to dig into the server logs and tell us what the<br>
+percentages are between the Diecast’s various delivery methods? How do<br>
+MP3 compare to Ogg, etc…</p>
+<p>Peter H. Coffin </p></blockquote>
+<p><strong>3:00 Turn-based Systems and the Witcher on Spoiler Warning.</strong></p>
+<blockquote><p>Dear Diecast<br>
+I heard you talking about turn-based systems and mechanics and it got me wondering if any of you played Jagged Alliance 2?<br>
+Also, (when) can we expect Witcher 3 Spoiler Warning season?<br>
+Best regards.</p>
+<p>Josef
+</p></blockquote>
+<p><strong>8:00 Design-a-Vault!</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>If you could design a vault in the new Fallout 4 game, what would it look like? What kind of bizarro scientific experiment would be fun to uncover?</p>
+<p>Also, since I sent this for Mumbles, who would win a wrestling match between crows and squirrels?</p>
+<p>Thanks for your wonderful podcast,<br>
+The Fighting Doll</p></blockquote>
+<p><strong>23:00 Next Gen.</strong></p>
+<blockquote><p>Dear Diecast</p>
+<p>My Question is about “Next Gen”.</p>
+<p>So we all know what next generation graphics are going to look like, peers out of the window and sighs.</p>
+<p>What does everyone think next generation mechanics should look/play like?</p>
+<p>Examples:<br>
+If we have “twice the power” of the previous gen, can we render 2 of the previous gen games at once to do strange overlapping levels?<br>
+Less polygons more fluid animations?<br>
+Being able to create more complex AI or Simulations?<br>
+Or just the ability to never have to see a loading screen ever again.</p>
+<p>From </p>
+<p>Michelle in England</p></blockquote>
+<p><strong>34:00 The Hinterlands</strong></p>
+<blockquote><p>Dear Diecast<br>
+What makes you able to play and enjoy the Witcher 3 or Skyrim, but makes you get stuck in the Hinterlands in Inquisition for hours?<br>
+– Christopher
+</p></blockquote>
+<p><strong>45:00 Books that expand on the lore of a game.</strong></p>
+<blockquote><p>Deer Diecast.</p>
+<p>Catching up on the Witcher games and watching the hangout, I noticed how the games make inevitable callbacks to the books.</p>
+<p>My question is, what do you think about books that expand on the lore of a videogame? (lumping together videogames based on books and vice versa as well as books accompanying games).</p>
+<p>Also if Josh could tell us real quick if the books are worthwile for fans of the witcher games.</p>
+<p>Yours,<br>
+Ben</p></blockquote>
+<p>This is the SuperBunnyHop that Chris mentioned:</p>
+<p></p>
+<p></p>
+<p>And <a href="https://vine.co/v/eiwEF3Y0Tr3">here is the Vine that Mumbles made for Chris</a>.</p>
+<p><strong>55:00 Ruby Tuesday.</strong></p>
+<blockquote><p>Dear Casters of all things Pod,</p>
+<p>Why do video games always come out on Tuesdays? How did that start?</p>
+<p>Best regards,<br>
+Jared</p></blockquote>
+<p></p>
+<p></p>
+<p class="byline"><i><img alt="" src="http://0.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg" srcset="http://0.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=84&amp;d=wavatar&amp;r=pg 2x" class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>
+]]></description>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:summary>It’s a mailbag this week! I think we answered around 33% of the questions. I’m starting to think we need to do this more often. Once again, I’ve wiped the slate clean so if your question didn’t make it, it’s time to re-word or re-send if you’re still looking for an answer.
+
+Another week, another apology for wonky audio. I’m really frustrated now because I have the right tools but I keep making dumb newbie mistakes. This week I left a fan on. Not one of those “whisper quiet” fans. And this thing wasn’t sitting across the room from me. This was a roaring box fan, right at my feet. Why? Why did I not turn off the fan?
+
+Audio editing got rid of the worst of it, but the ghost of the sound is still there when I talk. And I’m sure you’ll hear it now that I made a big deal about it. Don’t worry, I’m sure in another 109 episodes or so I’ll figure out how to run this show.
+
+Hosts: Shamus, Campster,  Josh, and Mumbles.
+
+Show notes:
+
+1:00 MP3 vs. OGG
+
+Is Shamus willing to dig into the server logs and tell us what the
+percentages are between the Diecast’s various delivery methods? How do
+MP3 compare to Ogg, etc…
+Peter H. Coffin
+
+3:00 Turn-based Systems and the Witcher on Spoiler Warning.
+
+Dear Diecast
+I heard you talking about turn-based systems and mechanics and it got me wondering if any of you played Jagged Alliance 2?
+Also, (when) can we expect Witcher 3 Spoiler Warning season?
+Best regards.
+Josef
+
+8:00 Design-a-Vault!
+
+Dear Diecast,
+If you could design a vault in the new Fallout 4 game, what would it look like? What kind of bizarro scientific experiment would be fun to uncover?
+Also, since I sent this for Mumbles, who would win a wrestling match between crows and squirrels?
+Thanks for your wonderful podcast,
+The Fighting Doll
+
+23:00 Next Gen.
+
+Dear Diecast
+My Question is about “Next Gen”.
+So we all know what next generation graphics are going to look like, peers out of the window and sighs.
+What does everyone think next generation mechanics should look/play like?
+Examples:
+If we have “twice the power” of the previous gen, can we render 2 of the previous gen games at once to do strange overlapping levels?
+Less polygons more fluid animations?
+Being able to create more complex AI or Simulations?
+Or just the ability to never have to see a loading screen ever again.
+From 
+Michelle in England
+
+34:00 The Hinterlands
+
+Dear Diecast
+What makes you able to play and enjoy the Witcher 3 or Skyrim, but makes you get stuck in the Hinterlands in Inquisition for hours?
+– Christopher
+
+45:00 Books that expand on the lore of a game.
+
+Deer Diecast.
+Catching up on the Witcher games and watching the hangout, I noticed how the games make inevitable callbacks to the books.
+My question is, what do you think about books that expand on the lore of a videogame? (lumping together videogames based on books and vice versa as well as books accompanying games).
+Also if Josh could tell us real quick if the books are worthwile for fans of the witcher games.
+Yours,
+Ben
+
+This is the SuperBunnyHop that Chris mentioned:
+
+And here is the Vine that Mumbles made for Chris.
+
+55:00 Ruby Tuesday.
+
+Dear Casters of all things Pod,
+Why do video games always come out on Tuesdays? How did that start?
+Best regards,
+Jared
+
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you&#x27;d like to support him, you can do so via Patreon or PayPal.
+
+</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration></itunes:duration>
+      <itunes:image href="http://www.shamusyoung.com/twentysidedtale/images/splash_diecast2.jpg"/>
+      <enclosure url="http://www.shamusyoung.com/diecast/diecast109_embed.mp3" length="63879147" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Diecast #87: Batman Endgame, ToME, Stone Soup Dungeon Crawl</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Mon, 05 Jan 2015 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=25572</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=25572</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;25572</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;25572</guid>
       <description><![CDATA[<p>Happy 2015! Enjoy this extra-long Diecast with a full crew and a lot of topics. </p>
 <p>Hosts: <a href="http://www.shamusyoung.com/twentysidedtale/">Shamus</a>, <a href="http://en.wikipedia.org/wiki/Scarecrow_%28DC_Comics%29">Josh</a>, <a href="http://www.chocolatehammer.org/">Rutskarn</a>, <a href="https://twitter.com/nicemovemumbles">Mumbles</a>, and <a href="https://www.youtube.com/user/Campster">Chris</a>. </p>
 <p>Show notes:<span id="more-25572"></span><br />
@@ -111,8 +259,8 @@ Josh tells the story of when we tried to upload the New Year episode of Far Cry 
       <title>Diecast #86: Telltale Games, Christmas DDos Attack, Edutainment Games</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Mon, 29 Dec 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=25506</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=25506</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;25506</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;25506</guid>
       <description><![CDATA[<p>And here is the last Diecast of 2014. </p>
 <p>Hosts: <a href="http://www.shamusyoung.com/twentysidedtale/">Shamus</a>, <a href="http://en.wikipedia.org/wiki/List_of_Cowboy_Bebop_characters#Vicious">Josh</a>, <a href="http://borderlands.wikia.com/wiki/Jakobs">Jacob</a>, and <a href="https://www.youtube.com/user/Campster">just normal Chris</a>. </p>
 <p><span id="more-25506"></span><strong>1:30 Chris is Playing Tales from The Borderlands</strong></p>
@@ -193,8 +341,8 @@ Here are the edutainment dino games Chris was talking about: Create-A-Saurus fro
       <title>Diecast #85: Old Computers, King’s Quest, Retro Games</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Mon, 22 Dec 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=25420</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=25420</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;25420</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;25420</guid>
       <description><![CDATA[<p>This week we have <a href="https://www.youtube.com/user/pushinguproses">a guest</a> on the show. And since it’s December 22nd, I guess this qualifies our Christmas episode. Sort of. Not that we talk about Christmas. But, you know…. Merry Christmas. Or whatever. </p>
 <p>Hosts: <a href="http://www.shamusyoung.com/twentysidedtale/">Shamus</a>, <a href="http://en.wikipedia.org/wiki/LeChuck">Josh</a>, <a href="http://www.chocolatehammer.org/">Rutskarn</a>, <a href="http://www.errantsignal.com/blog/">the other Josh</a>, and <a href="https://www.youtube.com/user/pushinguproses">Pushing Up Roses</a>. </p>
 <p>Show notes:<span id="more-25420"></span></p>
@@ -246,8 +394,8 @@ At some point the conversation drifts to FMV games. So… watch out for that.
       <title>Diecast #84: Team Fortress 2, Valve, Dragon Age</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Mon, 15 Dec 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=25371</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=25371</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;25371</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;25371</guid>
       <description><![CDATA[<p>Hosts: <a href="http://farcry.wikia.com/wiki/Pagan_Min">Josh</a>,<a href="http://www.errantsignal.com/blog/">Chris</a>, <a href="https://twitter.com/nicemovemumbles" title="MUMBLO">Mumbles</a>, and <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>.</p>
 <p>Show notes: <span id="more-25371"></span></p>
 <p><strong>1:00 Mumbles talks about the latest Team Fortress 2 update.</strong></p>
@@ -316,8 +464,8 @@ Thanks,
       <title>Diecast #83: Game Awards 2014, GTA V “Banned”</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Mon, 08 Dec 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=25287</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=25287</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;25287</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;25287</guid>
       <description><![CDATA[<p>Trigger warning: In this episode we talk about mass murder, censorship, and social justice. These are touchy subjects. Just remember to be nice and to not to post angry and we’ll get through this. </p>
 <p>Thanks again to special guest George Weidman of <a href="https://www.youtube.com/channel/UCWqr2tH3dPshNhPjV5h1xRw">SuperBunnyHop</a> for joining in.</p>
 <p>Hosts: <a href="http://farcry.wikia.com/wiki/Pagan_Min">Josh</a>, <a href="http://www.chocolatehammer.org/">Rutskarn</a>, <a href="http://www.errantsignal.com/blog/">Chris</a>, <a href="https://www.youtube.com/user/bunnyhopshow" title="SuperBunnyHop on YouTube">George Weidman (SuperBunnyHop)</a>, and <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>.</p>
@@ -408,8 +556,8 @@ PS: Sure hope I didn’t get the first two questions confused. Nah.
       <title>Diecast #82: Dragon Age: Inquisition, Far Cry 4</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Mon, 24 Nov 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=25106</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=25106</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;25106</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;25106</guid>
       <description><![CDATA[<p>Hosts: <a href="http://www.patreon.com/rutskarn">Rutskarn</a>, <a href="http://dragonage.wikia.com/wiki/Morrigan">Josh</a>, <a href="http://www.shamusyoung.com/">Shamus</a>, <a href="https://www.youtube.com/user/Campster">Chris</a> and <a href="https://twitter.com/nicemovemumbles">Mumbles</a>.</p>
 <p>Show notes:</p>
 <p><span id="more-25106"></span><strong>1:00 Dragon Age: Inquisition!</strong></p>
@@ -464,8 +612,8 @@ Die Dearcast,Is there a foreseeable way put of the “everything is a franchise�
       <title>Diecast #81: Ubisoft Sucks, Framerate, PAX</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Mon, 17 Nov 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=25045</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=25045</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;25045</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;25045</guid>
       <description><![CDATA[<p>Hosts: <a href="http://www.patreon.com/rutskarn">Rutskarn</a>, <a href="http://en.wikipedia.org/wiki/Shark">Josh</a>, <a href="http://www.shamusyoung.com/">Shamus</a>, and <a href="https://twitter.com/nicemovemumbles">Mumbles</a>.</p>
 <p>Show notes: <span id="more-25045"></span></p>
 <p><strong>1:00 Ubisoft Sucks!</strong></p>
@@ -511,8 +659,8 @@ So it looks like I won’t make it to PAX East again this year. Shame.
       <title>Diecast #80: Gotham, John Wick, The Fall, Overwatch</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Mon, 10 Nov 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=24956</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=24956</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;24956</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;24956</guid>
       <description><![CDATA[<p>I have two pieces of exciting news for you! The first is that Mumbles is on this week! The second is that Rutskarn isn’t!</p>
 <p>Hosts: <a href="http://www.errantsignal.com/blog/">Chris</a>, <a href="http://en.wikipedia.org/wiki/Palpatine">Josh</a>, <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>, and <a href="https://twitter.com/nicemovemumbles">Galaxy Gun</a>.</p>
 <p>Show notes: <span id="more-24956"></span></p>
@@ -582,8 +730,8 @@ For all you Gragon Age 3 players, here is Mumbles Twitter, which she mentioned i
       <title>Diecast #79: Re-releases, 1080p, FMV Games</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Mon, 03 Nov 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=24859</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=24859</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;24859</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;24859</guid>
       <description><![CDATA[<p>For the last two weeks I’ve had horrible internet connections during our recording sessions. Egregious throttling, lag spikes, etc. Very frustrating. This has made dialog even more problematic than usual. I’ve tried to clean up the interruptions and overlap as much as possible, but there’s only so much you can do in post. Please be patient.</p>
 <p>Hosts: <a href="http://www.errantsignal.com/blog/">Chris</a>, <a href="http://en.wikipedia.org/wiki/Darth_Vader">Josh</a>, <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>, and <a href="http://www.chocolatehammer.org/">Rutskarn</a>.</p>
 <p>Show notes:</p>
@@ -641,8 +789,8 @@ To Rutz…with a z:So you gotta corpse in a dandy suit as your internet avatar. 
       <title>Diecast #78: Unity, Unity, Borderlands, Beyond Earth</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Mon, 27 Oct 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=24760</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=24760</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;24760</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;24760</guid>
       <description><![CDATA[<p>Hosts: <a href="http://www.errantsignal.com/blog/">Chris</a>, <a href="http://en.wikipedia.org/wiki/Charlemagne">Josh</a>, <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>, and <a href="http://www.chocolatehammer.org/">Rutskarn</a>.</p>
 <p>Show notes:<br /> <span id="more-24760"></span><strong>1:00 The PC system specs for Assassins Creed Unity are <a href="http://blog.ubi.com/assassins-creed-unity-pc-specs/">kinda steep</a>.</strong></p>
 <p>It used to be a regular thing: Upgrade your PC every two years or stop playing new releases. It was that simple. Then we had that nice long console generation and we got used to doing upgrades, “Every four years, maybe, or whatever.” This new console generation is likely going to force all of us to finally get around to doing those upgrades.</p>
@@ -700,8 +848,8 @@ Greetings again from the totally-not-a-mad-scientist lab!I have two new question
       <title>Diecast #77: Shadow of Mordor, Twenty Sided Origins</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Mon, 20 Oct 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=24716</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=24716</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;24716</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;24716</guid>
       <description><![CDATA[<p>This is a special episode with a special guest. Randy<span class="snote" title="1">If you're asking "who?", then listen to the show.</span> is on the show, and we talk about how the crew met and got this whole show started.</p>
 <p>Hosts: <a href="http://www.jamesonwhiskey.com/us/agegate">Josh</a>, <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>, <a href="https://www.youtube.com/user/Campster">Chris</a>, and <a href="http://www.shamusyoung.com/twentysidedtale/?p=17201">Randy</a>.</p>
 <p>Show notes:<span id="more-24716"></span></p>
@@ -765,8 +913,8 @@ I can’t believe it.
       <title>Diecast #76: Titan, Alien: Isolation, Steam Curation</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Mon, 13 Oct 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=24638</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=24638</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;24638</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;24638</guid>
       <description><![CDATA[<p>Hosts: <a href="http://en.wikipedia.org/wiki/Macedonia_(ancient_kingdom)">Josh</a>, <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>, <a href="http://www.chocolatehammer.org/">Rutskarn</a>, <a href="https://www.youtube.com/user/Campster">Chris</a>, and <a href="http://pyrodactyl.com/">Arvind</a>.</p>
 <p>Show notes:<span id="more-24638"></span><br /> <strong>2:30 Blizzard canceled it’s upcoming MMO, <del datetime="2014-10-13T15:15:03+00:00">Tighten</del> Titan.</strong></p>
 <p>We also talk about Destiny here.</p>
@@ -815,8 +963,8 @@ We didn’t actually answer this on the show, so for the record: For the first f
       <title>Diecast #75: Diablo II, Final Fantasy 13, Concursion</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Sun, 28 Sep 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=24537</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=24537</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;24537</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;24537</guid>
       <description><![CDATA[<p>The plan this week was to talk about the canceled Blizzard MMO and a few other current topics. Instead we talked about a sixteen-year-old hack-n-slash. I don’t know. That’s how this show goes sometimes.</p>
 <p>And yes, I’m still fiddling with the theme music. Based on the feedback last week, most people would prefer if I just went back to the original theme that we used for 70 episodes. I might. But allow me this little vanity for now. It’s short and I’m having fun with it.</p>
 <p>Hosts: <a href="http://www.ninja-blues.com/">Jarenth</a>, <a href="http://knowyourmeme.com/memes/trollface-coolface-problem">Josh</a>, <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>, and <a href="http://www.chocolatehammer.org/">Rutskarn</a>.</p>
@@ -868,8 +1016,8 @@ But instead of talking about those he tells us some tabletop gaming stories, whi
       <title>Diecast #74: Microsoft Eats Mojang, Mailbag</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Mon, 22 Sep 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=24473</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=24473</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;24473</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;24473</guid>
       <description><![CDATA[<p>Experiment: This week I shifted the participants a little to the left or right speakers. My hope is that this can help untangle cross-talk when it happens. Usually one person just overpowers another, and if you want to hear the person who got drowned out, you’re out of luck.</p>
 <p>I actually edit the audio to fix as much cross-talk as I can.  If (during recording) I charge in saying, “You know what? I think that-” and then I shut up because I realize I’m overlapping with someone else, then during editing I’ll just mute that phrase so the other person can be heard more clearly. Basically, when two people talk at once, I’ll mute the one who retreated. But there are still instances of overlapping that just can’t be helped.  Maybe this stereo separation will help, or maybe it will just be annoying and distracting.</p>
 <p>I’m sure you’ll let me know what you think.</p>
@@ -957,8 +1105,8 @@ Do you think its better to balance costs of items and upgrades based on what the
       <title>Diecast #73: New 3DS, Gotham, Mailbag</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Wed, 03 Sep 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=24117</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=24117</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;24117</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;24117</guid>
       <description><![CDATA[<p>I made a theme for the show. It’s nice to have a piece of music I can edit for length as needed. On the other hand, I kind of think our theme should be more upbeat than this. I’m still messing with it. Also, the audio is atrocious this week. There were several annoying audio problems that popped up, and I wasn’t as diligent as I could have been at hiding / mitigating them.</p>
 <p>Hosts: <a href="http://www.errantsignal.com/blog/">Chris</a>, <a href="http://knowyourmeme.com/memes/trollface-coolface-problem">Josh</a>, <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>, and <a href="http://digitalmumbles.com/">Mumbles</a>.</p>
 <p>Show notes:</p>
@@ -1029,8 +1177,8 @@ But I fell for it. I even got mad. I’m still a little mad. Well played, PC Gam
       <title>Diecast #72: Tomb Raider Exclusive, Superhero MMOs</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Mon, 18 Aug 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=23986</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=23986</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;23986</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;23986</guid>
       <description><![CDATA[<p>Hosts: <a href="http://www.errantsignal.com/blog/">Chris</a>, <a href="http://knowyourmeme.com/memes/trollface-coolface-problem">Josh</a>, <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>, and <a href="http://www.chocolatehammer.org/">Rutskarn</a>.</p>
 <p><strong>1:00 The Next Tomb Raider game will be an Xbox One exclusive.</strong></p>
 <p>I’ll have a column about this tomorrow.</p>
@@ -1061,8 +1209,8 @@ Here is the City of Titans Kickstarter that we discussed, and here is their webs
       <title>Diecast #71: BioWare,  Twitch, Sims 4</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Sun, 10 Aug 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=23949</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=23949</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;23949</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;23949</guid>
       <description><![CDATA[<p>Hosts: <a href="http://www.errantsignal.com/blog/">Chris</a>, <a href="http://knowyourmeme.com/memes/trollface-coolface-problem">Josh</a>, <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>.</p>
 <p>Show notes:</p>
 <p><span id="more-23949"></span><strong>1:00 <a href="http://blog.bioware.com/2014/08/07/casey-hudsons-departure-from-biowareea/">Casey Hudson departs BioWare</a>.</strong></p>
@@ -1117,8 +1265,8 @@ Here is the Errant Signal episode we were talking about in this segment:
       <title>Diecast #70: Gamespot Layoffs, Playstation Now, Mailbag, Star Citizen</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Mon, 04 Aug 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=23890</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=23890</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;23890</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;23890</guid>
       <description><![CDATA[<p>Hosts: <a href="http://www.errantsignal.com/blog/">Chris</a>, <a href="http://knowyourmeme.com/memes/trollface-coolface-problem">Josh</a>, <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>, and <a href="http://www.chocolatehammer.org/">Rutskarn</a>.</p>
 <p>At the start of the show there’s some debate about how long it’s been since Rutskarn was on the show. For the record it was: <a href="http://www.shamusyoung.com/twentysidedtale/?p=23417">Diecast #64: E3 Dustup, Watch_Dogs, Steam Summer Sale</a>, back in June.</p>
 <p>Show notes:<br /> <span id="more-23890"></span><strong>2:00 Gamespot hit with <a href="http://www.gameskinny.com/b7hk7/gamespot-hit-with-layoffs">layoffs</a>.</strong></p>
@@ -1182,8 +1330,8 @@ I’m curious since you have actual professional experience with 3D internet wha
       <title>Diecast #69: Bulletstorm, System Shock 2, Games Writing</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Fri, 01 Aug 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=23858</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=23858</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;23858</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;23858</guid>
       <description><![CDATA[<p>This episode is a continuation of the same session as the previous Diecast. A side note about the recording of this episode is that – time zones being what they are – the sun was coming up for Jarenth when we finished recording this show, and at the same time it had only recently gone down for Josh. This might also explain why Jarenth isn’t as chatty as you were hoping.</p>
 <p>Again, thanks for staying up so late to make these episodes happen.</p>
 <p>Hosts: <a href="http://knowyourmeme.com/memes/trollface-coolface-problem">Josh</a>, <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>, <a href="http://www.ninja-blues.com/">Jarenth</a>, and <a href="http://krellen.net/">Krellen</a>.</p>
@@ -1244,8 +1392,8 @@ What do each of you think is the most prevalent problem affecting stories of gam
       <title>Diecast #68: Twitch, Crytek, Yogventures</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Wed, 30 Jul 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=23847</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=23847</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;23847</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;23847</guid>
       <description><![CDATA[<p>Double thanks to <a href="http://www.ninja-blues.com/">Jarenth</a> and <a href="http://krellen.net/">Krellen</a> for filling in at literally the last moment. If it hadn’t been for them, there wouldn’t be a Diecast this week.</p>
 <p>Instead, you get two! The second half of this conversation will appear later in the week.</p>
 <p>Hosts: <a href="http://knowyourmeme.com/memes/trollface-coolface-problem">Josh</a>, <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>, <a href="http://www.ninja-blues.com/">Jarenth</a>, and <a href="http://krellen.net/">Krellen</a>.</p>
@@ -1294,8 +1442,8 @@ The Yogventures story is so sad. Half a million bucks, and very little to show f
       <title>Diecast #67: Unrest, Mailbag</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Mon, 21 Jul 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=23748</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=23748</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;23748</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;23748</guid>
       <description><![CDATA[<p>Hosts: <a href="http://knowyourmeme.com/memes/trollface-coolface-problem">Josh</a>, <a href="http://www.errantsignal.com/blog/">Chris</a>, <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>, and <a href="http://www.chocolatehammer.org/">Rutskarn</a>, and <a href="http://digitalmumbles.com/" title="MUMBLES!">Mumbles</a>.</p>
 <p>Show notes:</p>
 <p><span id="more-23748"></span><br /> <strong>00:30 Intro, wherein Campster makes a joke about fedoras.</strong></p>
@@ -1356,8 +1504,8 @@ Rustkarn,As one of the people incredibly interested in both writing for video ga
       <title>Diecast #66: LEGO Movie, Divinity, Valiant Hearts</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Tue, 15 Jul 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=23704</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=23704</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;23704</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;23704</guid>
       <description><![CDATA[<p>Just before this episode went live, Josh sent me a link to <a href="http://flutterknife.tumblr.com/post/77444449389/i-drew-the-reginald-cuftbert-meta-character-from">this</a>, which is probably the most unsuitably high-quality image of Reginald Cuftburt ever produced. It’s like seeing a classical marble bust of Spongebob. Anyway, share it on Facebook or GeoCities or Angelfire. Or Tumbl it. Or Twit it. Whatever it is you young people do with data when you’re doing internet show-and-tell.</p>
 <p>Hosts:<br /> <a href="http://knowyourmeme.com/memes/trollface-coolface-problem">Josh</a>, <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>, <a href="http://digitalmumbles.com/" title="Mumbles">Mumbles</a>, and <a href="http://www.errantsignal.com/blog/">Campster</a>.</p>
 <p>Show notes:</p>
@@ -1433,8 +1581,8 @@ Dear Diecast,What genres of music do guys enjoy and how well do you think they�
       <title>Diecast #65: Medal of Honor, Steam Summer Sale, Chef Josh</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Sun, 29 Jun 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=23506</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=23506</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;23506</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;23506</guid>
       <description><![CDATA[<p>This week we wrap up the Steam Summer sale and also share recipes and no that last part isn’t a joke.</p>
 <p>Hosts:<br /> <a href="http://knowyourmeme.com/memes/trollface-coolface-problem">Josh</a>, <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>, <a href="http://www.chocolatehammer.org/" title="Rutskarn">Rutskarn</a>, and <a href="http://www.errantsignal.com/blog/">Campster</a>.</p>
 <p>Show notes:</p>
@@ -1501,8 +1649,8 @@ Warning: Spoilers.
       <title>Diecast #64: E3 Dustup, Watch_Dogs, Steam Summer Sale</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Mon, 23 Jun 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=23417</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=23417</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;23417</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;23417</guid>
       <description><![CDATA[<p>Here is an hour of four people talking about videogames. I don’t know why you like this sort of thing, but it’s not my place to judge.</p>
 <p>Show notes:<span id="more-23417"></span></p>
 <p><strong>01:00 E3 Wrap-up.</strong></p>
@@ -1557,8 +1705,8 @@ I’m playing Risk of Rain. Also Revenge of the Titans from Puppygames. In this 
       <title>Diecast #63: E3 2014</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Mon, 16 Jun 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=23336</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=23336</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;23336</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;23336</guid>
       <description><![CDATA[<p>This entire episode is dedicated to going over the news coming out of E3. For the record: Mumbles attended directly. Josh and Chris followed along from home. I missed most of it because I was programming.</p>
 <p>Hosts:<br /> <a href="http://knowyourmeme.com/memes/trollface-coolface-problem">Josh</a>, <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>, <a href="http://digitalmumbles.com/" title="MUMBLES!">Mumbles</a>, and <a href="http://www.errantsignal.com/blog/">Campster</a>.</p>
 <p>Show notes:<span id="more-23336"></span></p>
@@ -1604,8 +1752,8 @@ Strangely enough, all of the questions are for Josh. And all of them are oddly s
       <title>Diecast #62: Among the Sleep, Wolfenstein, X-Men</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Sun, 08 Jun 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=23295</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=23295</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;23295</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;23295</guid>
       <description><![CDATA[<p>The number one requested feature for the show is an RSS feed for the podcast that handles the audio tagging properly. I’ve never figured out how to do this in WordPress without importing ridiculous podcasting contraptions or crawling down into the guts of WordPress to do it myself. But! <a href="http://mbafford-static.s3.amazonaws.com/diecast.xml">Someone has set one up for us</a>. I don’t use RSS and I can’t comment on how compatible / reliable / useful / accurate it is. It’s hosted off-site and I don’t know anything about it other than:</p>
 <ol><li>It exists.<p></p></li><li>Seems to work for everyone who has tried it so far.</li></ol>
 <p>Thanks for putting that together.</p>
@@ -1678,8 +1826,8 @@ We talk about the early X-Men movies, the latest X-Men movie, and the X-Men comi
       <title>Diecast #61: Video Editing, Nintendo’s Cut, Watch_Dogs</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Mon, 02 Jun 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=23244</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=23244</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;23244</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;23244</guid>
       <description><![CDATA[<p>We’re proud to present this hour of podcast, which is completely free of anyone talking about Dark Souls. You’re welcome. However, I now own Dark Souls, so one of these days we’re going to have <em>that</em> conversation. You have not gained your freedom. Only a reprieve.</p>
 <p>Show notes: <span id="more-23244"></span><br /> <strong>1:00 Shamus is Playing Wolfenstein: The New Order.</strong></p>
 <p>But I’m only a couple of hours in and don’t have anything to say about it yet.</p>
@@ -1745,8 +1893,8 @@ I recently noticed that Deus Ex: Human revolution and its DLC has been removed f
       <title>Diecast #60: Wolfenstein, Google Rant, Transistor</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Mon, 26 May 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=23167</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=23167</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;23167</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;23167</guid>
       <description><![CDATA[<p>Hosts: <a href="http://www.errantsignal.com/blog/">Chris</a>, <a href="http://knowyourmeme.com/memes/trollface-coolface-problem">Josh</a>, <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>, and <a href="http://digitalmumbles.com/" title="MUMBLES!">Mumbles</a>.</p>
 <p>Show notes: <span id="more-23167"></span></p>
 <p><strong>1:30 Chris talks about Wolfenstein: The New Order</strong></p>
@@ -1810,8 +1958,8 @@ Here is what SuperBunnyHop said about it:
       <title>Diecast #59: Bombshell, Dark Souls, Marvel Comics</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Mon, 19 May 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=23125</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=23125</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;23125</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;23125</guid>
       <description><![CDATA[<p>Hosts: <a href="http://www.errantsignal.com/blog/">Chris</a>, <a href="https://www.youtube.com/user/bunnyhopshow">SuperBunnyHop</a>, <a href="http://knowyourmeme.com/memes/trollface-coolface-problem">Josh</a>, <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>, and <a href="http://www.chocolatehammer.org/">Rutskarn</a>, with a <a href="http://digitalmumbles.com/" title="MUMBLES!">secret surprise guest</a> that you can probably guess.</p>
 <p>Show notes:</p>
 <p><strong>1:30 Bombshell</strong></p>
@@ -1857,8 +2005,8 @@ If you only listen to one 80′s sitcom-style song about Dark Souls 2, make sure
       <title>Diecast #58: Dark Souls 2, Marvel Unlimited, Unrest, Civilization</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Mon, 12 May 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=23047</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=23047</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;23047</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;23047</guid>
       <description><![CDATA[<p>Hosts: <a href="http://www.jamesonwhiskey.com/us/agegate">Josh</a>, <a href="http://www.chocolatehammer.org/">Rutskarn</a>, <a href="http://www.errantsignal.com/blog/">Chris</a>, and <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>.</p>
 <p>Show notes:<span id="more-23047"></span></p>
 <p><strong>0:30 Josh is playing Dark Souls 2. Still!</strong></p>
@@ -1907,8 +2055,8 @@ Outro: Slamba Yetu.
       <title>Diecast #57: Rusty’s Real Deal, Hearthstone, Star Wars</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Tue, 06 May 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=22938</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=22938</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;22938</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;22938</guid>
       <description><![CDATA[<p>I wasn’t on the show this week because I was sick and had…</p>
 <p>[two paragraphs of lengthy bitching and moaning redacted]</p>
 <p>…until it all turned green and fell off. But I’m nearly back to normal now. In the meantime, the kids did the show without me. I’m listening to the show for the first time as I write this, so we’re going to experience this together.</p>
@@ -2014,8 +2162,8 @@ Here is the image Rutskarn shared at the end of the show. You’re… welcome?
       <title>Diecast #56: Terrible RPG Tales from Professor Rutskarn</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Wed, 30 Apr 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=22918</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=22918</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;22918</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;22918</guid>
       <description><![CDATA[<p>Hey, guys, it’s Rutskarn. This story speaks for itself–it’s about a total shitshow of a GM who ran the most incompetent campaign I’ve ever participated in. It is not the worst campaign I’ve ever <i>heard</i> of, but to clear that hurdle it’d need to involve literal felonies, so never mind.</p>
 <p>Hosts: <a href="http://www.jamesonwhiskey.com/us/agegate">Josh</a>, <a href="http://www.chocolatehammer.org/">Rutskarn</a>, and <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>.</p>
 <p>Just in case your palate needs scrubbing, I’ll be around to answer any questions about running or playing tabletop roleplaying games that you’ve got for me in the comments. I’ve got hundreds of hours of GMing experience (in fact, nearly a hundred hours of experience GMing <em>only at charity events</em>), so generally speaking I know what I’m talking about.</p>
@@ -2040,8 +2188,8 @@ Ask whatever you’d like. I should get to most of them within a day or so, but 
       <title>Diecast #55: Mailbag!</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Mon, 28 Apr 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=22901</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=22901</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;22901</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;22901</guid>
       <description><![CDATA[<p>Perhaps to counter-balance the packed cast of last week, we’ve got a skeleton crew this week. As a result, no Spoiler Warning. But! Double Diecast. Here’s the first one…</p>
 <p>Hosts: <a href="http://www.jamesonwhiskey.com/us/agegate">Josh</a>, <a href="http://www.chocolatehammer.org/">Rutskarn</a>, and <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>.</p>
 <p>Show notes:</p>
@@ -2097,8 +2245,8 @@ We end with Rutskarn beginning a tale of his very first D&amp;D game. That story
       <title>Diecast #54: Witcher, HOT MEN, Wildstar</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Tue, 22 Apr 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=22856</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=22856</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;22856</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;22856</guid>
       <description><![CDATA[<p>Thanks so much to special guest George Weidman of <a href="https://www.youtube.com/channel/UCWqr2tH3dPshNhPjV5h1xRw">SuperBunnyHop</a> for joining in. He’s also going to be part of Spoiler Warning this week. If you’re going to check out his channel (which you should totally do) I highly recommend his video on <a href="https://www.youtube.com/watch?v=rCxR__N0_is">Quiet Time</a> in games, and if you’re obsessed with VR like I am then you’ll want to see his fairly <a href="https://www.youtube.com/watch?v=Y2myY_pQEMk">thorough VR report from GDC</a>.</p>
 <p>Hosts: <a href="http://www.jamesonwhiskey.com/us/agegate">Josh</a>, <a href="http://www.chocolatehammer.org/">Rutskarn</a>, <a href="http://www.errantsignal.com/blog/">Chris</a>, <a href="http://digitalmumbles.com/">Mumbles</a>, <a href="https://www.youtube.com/user/bunnyhopshow" title="SuperBunnyHop on YouTube">George Weidman (SuperBunnyHop)</a>, and <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>.</p>
 <p>Show notes:</p>
@@ -2157,8 +2305,8 @@ Thanks again to George for joining in.
       <title>Diecast #53: FTL, Civilization Beyond Earth, Actual Sunlight</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Mon, 14 Apr 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=22813</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=22813</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;22813</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;22813</guid>
       <description><![CDATA[<p>Hosts: <a href="http://www.jamesonwhiskey.com/us/agegate">Josh</a>, <a href="http://www.errantsignal.com/blog/">Chris</a>, and <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>.</p>
 <p>Show notes:<span id="more-22813"></span></p>
 <p><strong>1:20 Josh is playing FTL: Advanced Edition.</strong></p>
@@ -2252,8 +2400,8 @@ Let me plug Jarenth here while I have an excuse.
       <title>Diecast #52: Goat Simulator, Burial at Sea</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Mon, 07 Apr 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=22773</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=22773</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;22773</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;22773</guid>
       <description><![CDATA[<p>Hosts: <a href="http://www.jamesonwhiskey.com/us/agegate">Josh</a>, <a href="http://www.errantsignal.com/blog/">Chris</a>, <a href="http://www.ninja-blues.com/">Jarenth</a>, and <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>.</p>
 <p>Show notes:</p>
 <p><span id="more-22773"></span><strong>1:00 Christopher is playing Goat Simulator</strong></p>
@@ -2315,8 +2463,8 @@ I’m sure this topic will come up in the show itself, but I figured I’d try t
       <title>Diecast #51: The Mailbag</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Tue, 01 Apr 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=22747</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=22747</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;22747</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;22747</guid>
       <description><![CDATA[<p>This is it: The great Mailbag Reckoning. If you sent in a question before March 26<sup>th</sup> and it hasn’t been answered before, then it’s either answered today, or never. All questions are forever answered, or forever ignored.</p>
 <p>To be clear: If your question didn’t make the cut, it doesn’t mean it was a bad question. It might just mean we didn’t have anything to say on the subject. If you ask about something and there’s less than three people that have something to say about it, then we usually set the question aside.</p>
 <p>Hosts: <a href="http://www.jamesonwhiskey.com/us/agegate">Josh</a>, <a href="http://www.errantsignal.com/blog/">Chris</a>, <a href="http://digitalmumbles.com/">Mumbles</a>, and <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>.</p>
@@ -2362,8 +2510,8 @@ Try to keep it no more than two sentences.Aim for subjects that the whole cast c
       <title>Diecast: GDC 2014</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Fri, 28 Mar 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=22709</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=22709</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;22709</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;22709</guid>
       <description><![CDATA[<p>Double Diecast this week! Chris attended the Game Developers Conference, and he’s returned with tidings and folk wisdom. Stay a while and listen.</p>
 <p>Hosts: <a href="http://www.jamesonwhiskey.com/us/agegate">Josh</a>, <a href="http://www.errantsignal.com/blog/">Chris</a>, and <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>.</p>
 <p>Show notes: <span id="more-22709"></span><br /> <strong>0:00 GDC is expensive.</strong></p>
@@ -2415,8 +2563,8 @@ A couple of Lost Levels moments: Professor Oak Dance-Off and A History Of Jeff G
       <title>Diecast #50: Alpha Protocol, Dark Souls, LA Noire</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Wed, 26 Mar 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=22616</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=22616</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;22616</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;22616</guid>
       <description><![CDATA[<p>Chris was at GDC this week. Mumbles couldn’t make it. This means no Spoiler Warning. It also means the Diecast is a little lighter than usual. But! We’ll have a special GDC-focused Diecast later this week. In the meantime, here is your weekly dose of NERD:</p>
 <p>Hosts: <a href="http://www.chocolatehammer.org/">Rutskarn</a>, <a href="http://en.wikipedia.org/wiki/Troll_(Internet)">Josh</a>, and <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>.</p>
 <p>Show notes: <span id="more-22616"></span></p>
@@ -2477,8 +2625,8 @@ Under no circumstances will we be discussing feminism this week. I know this kin
       <title>Diecast #49: Broken Age, OOPS FEMINISM, Dark Souls</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Tue, 18 Mar 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=22554</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=22554</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;22554</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;22554</guid>
       <description><![CDATA[<p>So let’s have a nice, calm, non-controversial week talking abo- <em>aw damn it someone mentioned feminism again, didn’t they?</em> Let me get my crash helmet on.</p>
 <p>Hosts: <a href="http://www.chocolatehammer.org/">Rutskarn</a>, <a href="http://digitalmumbles.com/">Mumbles</a>, <a href="http://en.wikipedia.org/wiki/Jelly_bean">Josh</a>, <a href="http://www.errantsignal.com/blog/">Chris</a>, and <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>.</p>
 <p>Show notes:</p>
@@ -2545,8 +2693,8 @@ Here is the Dark Souls Critical Close-up Chris mentioned.
       <title>Diecast #48: Chex Quest, Garden Warfare</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Wed, 12 Mar 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=22492</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=22492</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;22492</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;22492</guid>
       <description><![CDATA[<p>Due to some recent changes, it’s harder than ever to get the whole crew together for our weekly recording sessions. Our various job situations are changing, making it harder for us to find windows of mutual availability. I don’t know what this means, long-term. We’ll do what we can.</p>
 <p>Hosts: <a href="http://www.patreon.com/spoilerwarning">Josh</a>, <a href="http://www.errantsignal.com/blog/">Chris</a>, and <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>.</p>
 <p>Show notes: <span id="more-22492"></span></p>
@@ -2607,8 +2755,8 @@ TRIGGER WARNING: We discuss rare vs well-done steak, which to some people is a r
       <title>Diecast #47: Thief</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Tue, 04 Mar 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=22416</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=22416</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;22416</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;22416</guid>
       <description><![CDATA[<p>Here is an entire episode dedicated to a single game. Thief [4] has been a long time coming. Some have been excited to see it return. Some hopeful. Some outraged. Some resigned. But now we’ve played it and we can see the result for ourselves.</p>
 <p>It’s not the game we hoped for, but neither is it the train wreck we feared.</p>
 <p>Hosts: <a href="http://en.wikipedia.org/wiki/Theodore_Roosevelt">Josh</a>, <a href="http://www.errantsignal.com/blog/">Chris</a>, and <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>.</p>
@@ -2636,8 +2784,8 @@ At the 57-minute mark we talk about the ending, so you might want to skip that p
       <title>Diecast #46: Irrational, Europa Universalis, Assassins Creed Black Flag</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Tue, 25 Feb 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=22364</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=22364</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;22364</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;22364</guid>
       <description><![CDATA[<p>As announced on the show, I’m vetting the diecast@shamusyoung.com emails now, and I’m going to try and be a little better about answering them. Also, we might use Diecast questions to fill slow moments in our Skyrim series. Protip: If you want the question to appear on the show, keep it short. Two or less sentences is ideal.</p>
 <p>Hosts: <a href="http://en.wikipedia.org/wiki/Theodore_Roosevelt">Josh</a>, <a href="http://www.errantsignal.com/blog/">Chris</a>, and <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>.</p>
 <p>Show notes: <span id="more-22364"></span></p>
@@ -2680,8 +2828,8 @@ Spoiler Warning: He’s not delighted.
       <title>Diecast #45: Candy Crush, Banner Saga, Total Biscuit</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Wed, 19 Feb 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=22315</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=22315</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;22315</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;22315</guid>
       <description><![CDATA[<p>Hosts: <a href="http://www.chocolatehammer.org/">Rutskarn</a>, <a href="http://digitalmumbles.com/">Mumbles</a>, <a href="http://en.wikipedia.org/wiki/Jelly_bean">Josh</a>, <a href="http://www.errantsignal.com/blog/">Chris</a>, and <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>.</p>
 <p>Show Notes:</p>
 <p><span id="more-22315"></span><br /> <strong>1:00 Shamus is playing Dungeon Keeper.</strong></p>
@@ -2748,8 +2896,8 @@ As of this writing, the Total Biscuit video in question is still down. But here 
       <title>Diecast #44: EVE Online, The Bureau</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Tue, 04 Feb 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=22170</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=22170</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;22170</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;22170</guid>
       <description><![CDATA[<p>This episode was recorded AFTER our <a href="http://www.shamusyoung.com/twentysidedtale/?page_id=16386">Spoiler Warning</a> session this week, but it’s being released first. We were a little tired and a couple of hosts short by the time we got to this point.</p>
 <p>Hosts: <a href="http://en.wikipedia.org/wiki/Jelly_bean">Josh</a>, <a href="http://www.errantsignal.com/blog/">Chris</a>, and <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>.</p>
 <p>Show notes:<span id="more-22170"></span></p>
@@ -2816,8 +2964,8 @@ Request: When you send us a question (the address is in the splash image at the 
       <title>Diecast #43:  Broken Age, Wii U, Nintendo</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Thu, 30 Jan 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=22140</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=22140</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;22140</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;22140</guid>
       <description><![CDATA[<p>Hosts: <a href="http://digitalmumbles.com/">Mumbles</a>, <a href="http://en.wikipedia.org/wiki/Jelly_bean">Josh</a>, <a href="http://www.errantsignal.com/blog/">Chris</a>, and <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>.</p>
 <p>Show Notes:</p>
 <p><span id="more-22140"></span><strong>First three minutes of the show: Mumbles is established as the Podcast Queen.</strong></p>
@@ -2866,8 +3014,8 @@ Wii hardware wasn’t finalized until very late in development, and without a lo
       <title>Diecast #42: Skyrim, Elder Scrolls Online, Alien Isolation</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Wed, 15 Jan 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=21987</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=21987</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;21987</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;21987</guid>
       <description><![CDATA[<p>Hosts: <a href="http://www.chocolatehammer.org/">Rutskarn</a>, <a href="http://en.wikipedia.org/wiki/Jelly_bean">Josh</a>, <a href="http://www.errantsignal.com/blog/">Chris</a>, and <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>.</p>
 <p>Show notes:</p>
 <p><span id="more-21987"></span><strong>01:00 Shamus got over his Skyrim problem and made screensaver.</strong></p>
@@ -2925,8 +3073,8 @@ Having said that: This is the first Alien game in ages that sounds promising. Su
       <title>Diecast #41: The Novelist, Aunty Paladin, Patreon</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Wed, 08 Jan 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=21962</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=21962</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;21962</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;21962</guid>
       <description><![CDATA[<p>Hosts: <a href="http://www.chocolatehammer.org/">Rutskarn</a>, <a href="http://en.wikipedia.org/wiki/Jelly_bean">Josh</a>, <a href="http://www.errantsignal.com/blog/">Chris</a>, and <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>.</p>
 <p>Show notes:</p>
 <p><span id="more-21962"></span></p>
@@ -3000,8 +3148,8 @@ Like Errant Signal? Want to encourage it? You can support it here. And as Chris 
       <title>Diecast #40: Happy New Years Evesmass-ica.</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Wed, 01 Jan 2014 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=21904</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=21904</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;21904</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;21904</guid>
       <description><![CDATA[<p>Happy new year! Rather than doing a big year-end retrospective, we talked about the here &amp; now like we usually do.</p>
 <p>Note that I produced this episode. Josh usually does it, but he’s visiting his parents and doesn’t have access to his normal equipment. So any complaints about the audio quality should be directed at me. Note also that I make about two episodes a year, so your complaints won’t do any good because I end up re-learning the whole process from scratch every time.</p>
 <p>Hosts: <a href="http://www.errantsignal.com/blog/">Chris</a>, <a href="http://en.wikipedia.org/wiki/Krampus">Josh</a>, <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>.</p>
@@ -3062,8 +3210,8 @@ We talk about the oddball leveling, the screwy balance, the broken economy, and 
       <title>Diecast #39: Pokemon, Hearthfire, Burial at Sea</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Tue, 17 Dec 2013 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=21864</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=21864</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;21864</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;21864</guid>
       <description><![CDATA[<p>Yeah. I couldn’t make it this week due to equipment problems. But I really like how focused and spirited this episode was.</p>
 <p>Hosts: <a href="http://www.errantsignal.com/blog/">Chris</a>, <a href="http://en.wikipedia.org/wiki/Ming_the_Merciless">Josh</a>, <a href="https://twitter.com/nicemovemumbles">Mumbles</a>.</p>
 <p>Show notes:<span id="more-21864"></span><br /> <strong>1:30 Mumbles went to see a wrestleman show and played with Pokéthings.</strong></p>
@@ -3103,8 +3251,8 @@ The video where Mumbles talks about Skyrim can be found here.
       <title>Diecast #38: Frozen, No Man’s Sky, and Rambling</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Wed, 11 Dec 2013 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=21815</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=21815</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;21815</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;21815</guid>
       <description><![CDATA[<p>We usually do a little warm-up before the show. We talk for a bit and get our brains thinking about games. But about ten minutes into the warm-up we realized we were basically doing the show, so we started recording. No plan. No designated host. No timer. The result is two hours of rambling and confusion.</p>
 <p>You’re welcome.</p>
 <p>Hosts: <a href="http://www.chocolatehammer.org/">Rutskarn</a>, <a href="http://en.wikipedia.org/wiki/Grigori_Rasputin">Josh</a>, <a href="http://www.errantsignal.com/blog/">Chris</a>, and <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>.</p>
@@ -3159,8 +3307,8 @@ During this segment I said that there’s no way this is an indie project by fou
       <title>Diecast #37: Oblivion, Anthropology, and Sid Meier</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Tue, 19 Nov 2013 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=21596</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=21596</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;21596</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;21596</guid>
       <description><![CDATA[<p>Hosts: <a href="http://www.chocolatehammer.org/">Rutskarn</a>, <a href="http://wiki.teamfortress.com/wiki/Dead_Ringer">Josh</a>, and <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>.</p>
 <p>Show Notes:<span id="more-21596"></span><br /> <strong>1:00 We Dump on Oblivion for ten minutes for no reason.</strong></p>
 <p>Also, Rutskarn Wants to be an Anthropologist<acronym title="(When he grows up.)">!</acronym></p>
@@ -3215,8 +3363,8 @@ We also talk about Ron Gilbert‘s Scurvy Scallywags.
       <title>Diecast #36: Battlefield 4, and Gaming Culture</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Tue, 12 Nov 2013 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=21557</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=21557</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;21557</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;21557</guid>
       <description><![CDATA[<p>You know what we need more of around here? Controversy. Nothing livens things up more than gnawing on the old bones of a horse that was flogged to death in the flamewars of yesteryear. If we’re lucky, we might get through this without having some kind of rage-driven meltdown.</p>
 <p>Show notes:</p>
 <p><span id="more-21557"></span><strong>00:30 We talk about Battlefield 4 and how the matchmaking / server browser is cutting-edge 1996 technology. </strong></p>
@@ -3283,8 +3431,8 @@ Hoping we can get through this topic with minimal loss of life.
       <title>Diecast #35: Dump on Indies Week</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Wed, 06 Nov 2013 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=21536</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=21536</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;21536</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;21536</guid>
       <description><![CDATA[<p>Often people tone down their criticism when talking about indie games. I know I do.  It’s easy to dump on a huge multi-million dollar project with hundreds of contributors. But when you’re talking about something made by half a dozen people, it all becomes kind of personal and I’m shy of eviscerating something on that level.</p>
 <p>But sometimes you have to give a game the thrashing it deserves. This week is a reckoning for a handful of misbegotten indies.</p>
 <p>Hosts: <a href="http://www.chocolatehammer.org/">Rutskarn</a>, <a href="http://wiki.teamfortress.com/wiki/Dead_Ringer">Josh</a>, <a href="https://twitter.com/nicemovemumbles">Mumbles</a>, <a href="http://www.errantsignal.com/blog/" title="Errant Signal">Chris</a>, and <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>.</p>
@@ -3342,8 +3490,8 @@ Here is the story about how Typing of the Dead was made (sort of) in six weeks, 
       <title>Diecast #34: The Stanley Parable, Elder Scrolls</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Tue, 29 Oct 2013 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=21496</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=21496</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;21496</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;21496</guid>
       <description><![CDATA[<p>While we didn’t record it with Halloween in mind, I guess this is our Halloween episode. This year we decided to dress up as guys with audio that cuts out worse than usual for no reason. What’s your costume this year?</p>
 <p>Hosts: <a href="http://www.chocolatehammer.org/">Rutskarn</a>, <a href="http://wiki.guildwars2.com/wiki/Incinerator">Josh</a>, <a href="http://www.errantsignal.com/blog/" title="Errant Signal">Chris</a>, and <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>.</p>
 <p>Show notes:<span id="more-21496"></span></p>
@@ -3413,8 +3561,8 @@ We talk about BioWare and LGBT characters.
       <title>Diecast #33: Crusader King Modding, Haunted Houses, and Elder Scrolls</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Tue, 08 Oct 2013 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=21289</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=21289</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;21289</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;21289</guid>
       <description><![CDATA[<p>We open today’s show with a secret topic that I will not reveal.  The only hint I’ll give you is that it’s about a certain perpetually broken and tragically mismanaged game that has appeared on the show many times in the past, was published by EA, and features the simulation of a city based on a game concept by Will Wright. See if you can unravel <strong>that</strong> riddle, Batman.</p>
 <p>If you can’t figure it out in the space of five minutes, the answer is: <strike>Shame on you.</strike></p>
 <p>Hosts: <a href="http://www.chocolatehammer.org/">Rutskarn</a>, <a href="http://wiki.guildwars2.com/wiki/Incinerator">Josh</a>, <a href="http://www.errantsignal.com/blog/" title="Errant Signal">Chris</a>, and <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>.</p>
@@ -3461,8 +3609,8 @@ If you want to see only the best parts of Morrowind, then you want to read Rutsk
       <title>Diecast #32: Steam Machines, Permadeath in Far Cry 2</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Thu, 03 Oct 2013 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=21265</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=21265</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;21265</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;21265</guid>
       <description><![CDATA[<p>I was worried about recording an episode on Saturday to release on Thursday. A lot can happen in the course of five days, and some bit of news might come along to make our discussion irrelevant.  Then I remembered that we’re talking about Valve, and Valve only makes non-hat announcements on odd-numbered years.  So maybe in 2017 we can have <em>Diecast #230: Valve has released a photograph showing the first Steam Machines will be orange. Still no release date. Still no Half-Life 3</em>.</p>
 <p>Hosts: <a href="http://www.chocolatehammer.org/">Rutskarn</a>, <a href="http://en.wikipedia.org/wiki/Macedonian">Josh</a>, <a href="http://digitalmumbles.com/" title="Digital Mumbles">Mumbles</a>, and <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>.</p>
 <p>Show notes:</p>
@@ -3505,8 +3653,8 @@ More on this later.
       <title>Diecast #31: Bad Endings and Good Booze</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Thu, 26 Sep 2013 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=21208</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=21208</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;21208</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;21208</guid>
       <description><![CDATA[<p>Feel sorry for Chris.  We got to do the podcast this week, while he was forced away from his job and dragged to Disney World. He’s probably miserable right now, sitting in the gorgeous weather and scenery, drinking a beer, and wishing he was with his internet-friends. He can’t even produce an Errant Signal from there. Poor guy.</p>
 <p>Hosts: <a href="http://www.chocolatehammer.org/">Rutskarn</a>, <a href="http://wiki.teamfortress.com/wiki/Spy">Josh</a>, <a href="http://digitalmumbles.com/" title="Digital Mumbles">Mumbles</a>, and <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>.</p>
 <p>Show notes: <span id="more-21208"></span></p>
@@ -3564,8 +3712,8 @@ Correct on all counts. I’m 42, my daughter is about to turn 16, and I barely r
       <title>Diecast #30: It’s a Good Day to Diecast</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Tue, 17 Sep 2013 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=21103</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=21103</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;21103</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;21103</guid>
       <description><![CDATA[<p>It’s another rambling chit-chat that’s long on anecdotes and short on news. These conversational shows seem to spend more time talking about what we’re doing and less time gnawing on obnoxious game companies, which makes the show more positive. So that’s nice.</p>
 <p>Hosts: <a href="http://www.chocolatehammer.org/">Rutskarn</a>, <a href="http://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli">Josh</a>, <a href="http://www.errantsignal.com/blog/">Chris</a>, and <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>.</p>
 <p>Show notes:<br /> <span id="more-21103"></span><strong>1:40 Shamus is programming.</strong></p>
@@ -3608,8 +3756,8 @@ We also talk about Dear Esther.
       <title>Diecast #29: Happiness is Mandatory</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Tue, 10 Sep 2013 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=21035</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=21035</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;21035</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;21035</guid>
       <description><![CDATA[<p>As Rutskarn declares at the start of the episode, this week Happiness Is Mandatory. This requirement extends to the audience. You will be required to appreciate this episode cheerfully and without pointing out our numerous mistakes, omissions, errors, and war crimes. Thank you for your cooperation.</p>
 <p>Hosts: <a href="http://www.chocolatehammer.org/">Rutskarn</a>, <a href="http://www.youtube.com/watch?feature=player_embedded&amp;v=ZiFjopmKDxg#t=27m21s">Josh</a>, <a href="http://www.errantsignal.com/blog/">Chris</a>, and <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>.</p>
 <p>Show notes:</p>
@@ -3661,8 +3809,8 @@ Spoiler: This part might slightly diverge from mandatory happiness and spiral in
       <title>Diecast #28: Papers Please, Saints Row, Sim City on Mac, Focus Testing</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Tue, 03 Sep 2013 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=20926</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=20926</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;20926</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;20926</guid>
       <description><![CDATA[<p>Here is an hour and a half of five people talking about videogames. We got together and realized that one of the big problems in the world is that people don’t spend enough time talking about videogames. So we went beyond the call of duty and gave you an extra half an hour.</p>
 <p>You’re welcome.</p>
 <p>Hosts: <a href="http://www.chocolatehammer.org/">Rutskarn</a>, <a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TheBerserker">Josh</a>, <a href="http://www.errantsignal.com/blog/">Chris</a>, <a href="http://digitalmumbles.com/" title="Digital Mumbles">Mumbles</a>, and <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>.</p>
@@ -3726,8 +3874,8 @@ We compare the changes made to Overstrike to the changes made in Portal 2.
       <title>Diecast #27: D&amp;D, Analogue, Elder Scrolls Online</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Tue, 27 Aug 2013 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=20839</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=20839</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;20839</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;20839</guid>
       <description><![CDATA[<p>As all of you demanded, here’s a rambly show that’s mostly about what we’re doing. Well, some of you wanted this. I distinctly remember one or two of you saying you wouldn’t mind a directionless show. Occasionally. So here it is!</p>
 <p>I hope you like it because <del datetime="2013-08-27T20:18:44+00:00">these are way easier to produce</del> we’re eager to please!</p>
 <p>Hosts: <a href="http://www.chocolatehammer.org/">Rutskarn</a>, <a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TheBerserker">Josh</a>, <a href="http://www.errantsignal.com/blog/">Chris</a>, and <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>.</p>
@@ -3779,8 +3927,8 @@ Story here. We also discuss Wildstar.
       <title>Diecast #26: Not Gone Home, Sim Stuff</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Tue, 20 Aug 2013 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=20708</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=20708</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;20708</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;20708</guid>
       <description><![CDATA[<p>We don’t talk about Gone Home in this episode, but we wanted to. We do spend the first segment of the show talking about how we reacted to the game. I don’t know if it’ll get its own one-off special, or if we’ll just give it a couple of weeks so people can play through it. But I will say the response from the cast is universally positive.</p>
 <p>Hosts: <a href="http://www.chocolatehammer.org/">Rutskarn</a>, <a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TheBerserker">Josh</a>, <a href="http://digitalmumbles.com/">Mumbles</a>, <a href="http://www.errantsignal.com/blog/">Chris</a>, and <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>.</p>
 <p><strong>01:00 What is all the peoples doing this week?</strong></p>
@@ -3829,8 +3977,8 @@ The “Gimmie five bucks to not stab you” video is here: Doctor Who – Hey As
       <title>Diecast #25: Games Journalism, Carmack Joins Rift, Tropes vs. Women</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Tue, 13 Aug 2013 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=20625</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=20625</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;20625</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;20625</guid>
       <description><![CDATA[<p>We spend a lot of time talking about what we’re playing. Conceptually the Diecast has three segments: The personal warm-up talk about what we’re playing, the supposedly informed discussion of current gaming news, and the mailbag. Often a third of the show is spent on the warmup, and the mailbag often gets pushed out. How do you guys feel about that? Would you rather more news discussion? Or more mailbag?</p>
 <p>Not that we’re promising to change anything. I’m just askin’.</p>
 <p>Hosts: <a href="http://en.wikipedia.org/wiki/Troll">Josh</a>, <a href="http://digitalmumbles.com/">Mumbles</a>, <a href="http://www.errantsignal.com/blog/">Chris</a>, and <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>.</p>
@@ -3885,8 +4033,8 @@ We don’t say anything terribly controversial here, so I hope people can keep c
       <title>Diecast #24: The Mailbag</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Wed, 07 Aug 2013 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=20588</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=20588</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;20588</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;20588</guid>
       <description><![CDATA[<p>Special episode this week.  There’s no news we care to talk about, so we’re answering mailbag questions. Note that I’ve paraphrased the questions in the show notes because I don’t want to transcribe the originals.</p>
 <p>Hosts: <a href="http://www.errantsignal.com/blog/">Chris</a>, <a href="http://en.wikipedia.org/wiki/Theodore_Roosevelt">Josh</a>, <a href="http://www.chocolatehammer.org/">Rutskarn</a> and <a href="http://www.shamusyoung.com/twentysidedtale/" title="DUH">Shamus</a>.</p>
 <p>Show notes:</p>
@@ -3941,8 +4089,8 @@ But Spiderman was a “regular” guy and when he took off the mask he had regul
       <title>Diecast #23: Phil Fish, Gamer Fury, Company of Heroes</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Tue, 30 Jul 2013 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=20508</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=20508</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;20508</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;20508</guid>
       <description><![CDATA[<p>I have a non-binding promise from <a href="http://www.chocolatehammer.org/">Rutskarn</a> that we’ll be getting a new splash image that will include Mumbles. But then Rutskarn didn’t show up this week. And neither did Mumbles. So I don’t know.</p>
 <p>Hosts: <a href="http://www.errantsignal.com/blog/">Chris</a>, <a href="http://en.wikipedia.org/wiki/Theodore_Roosevelt">Josh</a>, <a href="http://bluescreenofawesome.com/">Jarenth</a> and <a href="http://www.shamusyoung.com/twentysidedtale/" title="DUH">Shamus</a>.</p>
 <p>Show notes:</p>
@@ -3980,8 +4128,8 @@ Show notes:
       <title>Diecast #22: Videogame Journalism, Pacific Rim, and Comics</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Tue, 23 Jul 2013 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=20423</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=20423</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;20423</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;20423</guid>
       <description><![CDATA[<p>I’m pretty proud of the conversation we had about game journalism.  We had a lot of different views, we looked at it from a lot of different angles, and I think some smart things were said.</p>
 <p>In other news: Someone suggested that putting the fully qualified URL to the audio in the RSS feed would help the Diecast show up for podcasting software.  I have done this. I’m sure you’ll let me know if it helped.</p>
 <p>Hosts: <a href="http://www.shamusyoung.com/twentysidedtale">Shamus</a>, <a href="http://en.wikipedia.org/wiki/Theodore_Roosevelt">Josh</a>, and <a href="http://digitalmumbles.com/">Mumbles</a>, <a href="http://www.errantsignal.com/blog/">Chris</a> but not <a href="http://www.chocolatehammer.org/">Rutskarn</a>.</p>
@@ -4021,8 +4169,8 @@ Show notes:
       <title>Diecast #21: Steam Sale, Mortal Kombat, Deus Ex</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Tue, 16 Jul 2013 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=20362</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=20362</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;20362</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;20362</guid>
       <description><![CDATA[<p>I don’t like how Josh and Rutskarn have been tarnishing the show with their lack of professionalism. So this week I reclaimed the throne and hope to return the show to its former glory as a bastion of efficiency and order.</p>
 <p>Hosts: Shamus, Josh, Rutskarn, Chris, Potato Chips</p>
 <p>Show notes:</p>
@@ -4063,8 +4211,8 @@ Show notes:
       <title>Diecast #20: SimCity, Darkspore, UPlay</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Tue, 09 Jul 2013 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=20310</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=20310</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;20310</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;20310</guid>
       <description><![CDATA[<p>Some people like our random, unplanned discussions. Others prefer it when we follow a list of news items and keep the discussion nominally on track. This week we’re doing the latter.</p>
 <p>Hosts: <a href="http://www.chocolatehammer.org/">Rutskarn</a>, <a href="http://www.errantsignal.com/blog/">Chris</a>, Josh, Shamus</p>
 <p>Show notes:</p>
@@ -4107,8 +4255,8 @@ Show notes:
       <title>Diecast #19: Scribblenauts, Skyrim</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Wed, 03 Jul 2013 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=20279</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=20279</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;20279</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;20279</guid>
       <description><![CDATA[<p>Some behind-the-scenes info: We generally forward news stories to each other all week. When Sunday rolls around, we take the headlines for the week, sort them out, and figure out which ones we want to talk about and which ones we don’t. Then we record the show.</p>
 <p>This week we had nothing. Not one news story. I don’t know if we weren’t following the news or we didn’t care, but we had no stories and nothing to say. We just got together for our once-a-week blather session and Josh began recording halfway through. That means this podcast is even less structured than last week. Just so you know what you’re getting into. In any case, the choice was between this and nothing.</p>
 <p>We’ve got a good slate of stories now, so the Diecast should return to normal next week. In the meantime, you’ve been warned:</p>
@@ -4160,8 +4308,8 @@ If you’ve got a question for the cast, send it to diecast@shamusyoung.com. Als
       <title>Diecast #18: Xbox One, The Witcher, Unrest</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Tue, 25 Jun 2013 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=20216</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=20216</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;20216</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;20216</guid>
       <description><![CDATA[<p>Mystery guest this week. Even if you’re not usually a Diecast listener, you might want to give the first couple of minutes a try. Just saying.</p>
 <p><strong>3:15</strong> Chris is still working off his indentured servitude to Thomas Nook, certified jackass of Animal Crossing.</p>
 <p><strong>8:50</strong> Rutskarn explains the depth and verisimilitude of the Tropico political simulation.</p>
@@ -4201,8 +4349,8 @@ If you’ve got a question for the cast, send it to diecast@shamusyoung.com. Als
       <title>Diecast #17: The Citizen Kane of Podcasts</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Wed, 19 Jun 2013 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=20169</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=20169</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;20169</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;20169</guid>
       <description><![CDATA[<p>I won’t tell you not to listen to the podcast because I know you’re going to do it anyway, so I guess I’m stuck preemptively apologizing for this chaos. I really thought they were ready for this. I don’t know what happened.</p>
 <p><strong>01:00</strong> Shamus isn’t here this week.</p>
 <p><strong>08:45</strong> What’s everyone playing, and what’s your favorite E3 news?</p>
@@ -4230,8 +4378,8 @@ If you’ve got a question for the cast, send it to diecast@shamusyoung.com. Als
       <title>Diecast #16: XBone, Zynga, Call of Doggie</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Wed, 12 Jun 2013 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=20086</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=20086</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;20086</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;20086</guid>
       <description><![CDATA[<p>We had a long, meandering conversation about videogames, business, and other dumb things. We recorded the exchange so that you can enjoy the sensation of being trapped in a conversation with us where you can’t get a word in.</p>
 <p>Show notes:</p>
 <p><span id="more-20086"></span><br /> <strong>02:10</strong> What’s everyone playing?</p>
@@ -4265,8 +4413,8 @@ Show notes:
       <title>Diecast #15: XBone, Unrest</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Wed, 29 May 2013 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=19895</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=19895</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;19895</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;19895</guid>
       <description><![CDATA[<p>I know, I know.  We’re basically the last people on top of the Xbone dogpile. But if we didn’t say it in this episode, then people would be asking us what we thought.  On a related note: This is why I didn’t have a column this week.  It felt strange to have a column that didn’t address the BIG STORY of the week, but at the same time there was nothing left that hadn’t been said a hundred times already. So I said nothing.</p>
 <p>This gig is odd, sometimes.</p>
 <p>Hosts: Shamus, Josh, <a href="http://www.chocolatehammer.org/">Rutskarn</a>, <a href="http://www.errantsignal.com/blog/">Chris</a>.</p>
@@ -4306,8 +4454,8 @@ We will be doing a hangout this Friday, May 31st at 4:30pm pacific time. (10:30p
       <title>Diecast #14: Sid Kickstopper, Nintendo’s Cut</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Wed, 22 May 2013 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=19792</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=19792</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;19792</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;19792</guid>
       <description><![CDATA[<p>This was a bit of an odd week for us. Not a lot of playing games and not a lot of news. (That interested us.) But the show must go on. And really, “I have to talk about videogames but I’m not completely prepared” is about the most awesome problem you can have in this life. I mean, it’s a pretty mild affliction compared to hunger, ticks, migraines, or stubbing your toe.</p>
 <p>Hosts: Shamus, Josh, <a href="http://www.chocolatehammer.org/">Rutskarn</a>, <a href="http://www.errantsignal.com/blog/">Chris</a>, <a href="http://bluescreenofawesome.com/">Jarenth</a>.</p>
 <p>Additional note: <a href="http://www.shamusyoung.com/twentysidedtale/?p=19757" title="Coming Soon: Tomb Raider">I mentioned before</a> that the new season of Spoiler Warning would begin this week. Various technology problems have pushed that back. We’re basically throwing out our entire production pipeline for Spoiler Warning and starting over. We’ll try again next week.</p>
@@ -4350,8 +4498,8 @@ Show notes:
       <title>Diecast #13: Star Wars Exclusive, Diablo III Integer Overflow</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Thu, 16 May 2013 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=19690</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=19690</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;19690</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;19690</guid>
       <description><![CDATA[<p>Why is Chris playing Star Wars games? What unexpected turn caused me to buy Starcraft 2? What ridiculous stuff happened in SimCity this week? What mailbag letters will we answer? The answers to these questions can be found by listening to the podcast.</p>
 <p><strong>00:45</strong> What’s everyone playing?</p>
 <p><strong>18:00</strong> Aliens: Colonial Marines</p>
@@ -4385,8 +4533,8 @@ Show notes:
       <title>Diecast #12: Trolling Pirates, No Football for Wii, and Mailbag</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Tue, 07 May 2013 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=19617</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=19617</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;19617</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;19617</guid>
       <description><![CDATA[<p>This week we carefully adjusted the schedule to allow for a mailbag segment. And then we squandered all of it talking about a game we haven’t played on a console most of us don’t own in a genre we don’t care about.</p>
 <p><strong>00:45</strong> What’s everyone playing?</p>
 <p><strong>26:00</strong> DRM via irony.</p>
@@ -4414,8 +4562,8 @@ Show notes:
       <title>Diecast #11: Don’t Starve, Thief Troubles, EA Layoffs, and Kotick’s Millions</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Tue, 30 Apr 2013 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=19543</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=19543</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;19543</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;19543</guid>
       <description><![CDATA[<p>For various reasons, we had to move our recording to Saturday night this week, which meant Ruts couldn’t make it. Jarenth was nice enough to step in and act as the guy that never gets a word in edgewise. Thanks Jarenth!</p>
 <p>Show notes:</p>
 <p><span id="more-19543"></span><strong>00:40</strong> What’s everyone playing?</p>
@@ -4452,8 +4600,8 @@ Show notes:
       <title>Diecast #10: SimToothpaste, MMO Permadeath, and More Graphics</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Tue, 23 Apr 2013 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=19506</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=19506</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;19506</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;19506</guid>
       <description><![CDATA[<p>Josh couldn’t make it this week. My USB headset broke and my backup evidently has a white noise generator built into it. I did the editing. We forgot to do the mailbag segment. So basically, this episode features the usual level of polish and professionalism you’ve come to expect from us. Enjoy!</p>
 <p>Also! We we be doing a hangout on Thursday, April 25 at 7pm Eastern Time. (Which works out to midnight on Friday morning, GMT.) I’ll post links and give a heads-up when the show is ready to go live.</p>
 <p>Show notes:</p>
@@ -4502,8 +4650,8 @@ During the discussion, I brought up Realm of the Mad God, which was the basis fo
       <title>Diecast #9: EA Wins, BioWare’s Integrity, Sherlock Sucks</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Wed, 17 Apr 2013 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=19452</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=19452</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;19452</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;19452</guid>
       <description><![CDATA[<p>You know, we had a long list of topics in the queue for this week. We really don’t want this to be an EA bashing podcast. But dangit, EA is just so busy making noise.</p>
 <p>Show notes: <span id="more-19452"></span></p>
 <p><strong>1:00</strong> <em>What’s everyone playing?</em></p>
@@ -4564,8 +4712,8 @@ Nothing to report. However, they are working hard to give us something to talk a
       <title>Diecast #8: Nissan Leaf DLC, Thief, Mailbag</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Wed, 10 Apr 2013 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=19368</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=19368</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;19368</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;19368</guid>
       <description><![CDATA[<p>In this episode we’re still talking about SimCity. We also discuss Thief, the Oculus Rift, and Lucasarts before we finally get around to answering some of your emails.</p>
 <p><strong>00:30</strong> <em>What’s everyone playing?</em></p>
 <p>Josh is playing <a href="http://www.crusaderkings.com/">Crusader Kings II</a>.</p>
@@ -4617,8 +4765,8 @@ EDIT: And here is the link to Rutskarn’s Let’s Play Morrowind Part 1
       <title>Diecast Special: BioShock Infinite</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Sat, 06 Apr 2013 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=19319</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=19319</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;19319</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;19319</guid>
       <description><![CDATA[<p>I sat down with Josh, <a href="http://www.youtube.com/playlist?list=PL44284B7F254B4024" title="Errant Signal">Chris</a>, and <a href="http://bluescreenofawesome.com/" title="Blue Screen of Awesome ">Jarenth</a> and we discussed BioShock Infinite at length. It <em>should</em> go without saying, but just in case you’re intuition-impaired: <strong>This podcast will feature complete and total spoilers for all aspects of the game.</strong></p>
 <p>No timestamps for this one. The discussion is mostly freeform.</p>
 <p>As promised, here is the screenshot I mentioned in the discussion:</p>
@@ -4641,8 +4789,8 @@ As promised, here is the screenshot I mentioned in the discussion:
       <title>Diecast #7: Piracy, APB Reloaded 2, and Activision’s Face</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Tue, 02 Apr 2013 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=19246</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=19246</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;19246</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;19246</guid>
       <description><![CDATA[<p>On the upside, the podcast is proving to be really popular. On the downside, we seem to be slipping on our production of Spoiler Warning videos. Oops.</p>
 <p>Show notes:</p>
 <p><span id="more-19246"></span><strong>00:30</strong> <em>What’s everyone playing?</em></p>
@@ -4697,8 +4845,8 @@ The discussion morphs into a conversation about Kickstarter in general. Then it�
       <title>Diecast #6:Not-PAX, IGN, and the Rocketeer</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Tue, 26 Mar 2013 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=19169</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=19169</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;19169</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;19169</guid>
       <description><![CDATA[<p>Yes, we’re putting up a Diecast on Tuesday. Not sure if this is a permanent move or not, we’ll see. We record on Sundays. Given the transient nature of news and the fact that we’re already discussing things that have aged a few days, I figure the less time between recording and posting the better. Also: The browser-specific <a href="http://www.shamusyoung.com/twentysidedtale/?p=19134">auto-play issue</a> should now be fixed. Let me know if it isn’t.</p>
 <p>Show notes:</p>
 <p><span id="more-19169"></span><strong>00:30</strong> <em>What’s everyone playing?</em></p>
@@ -4768,8 +4916,8 @@ This entire discussion intersects with my column that went up today about EA’s
       <title>Diecast #5: SimCity, Saint’s Row 4, Tress FX</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Thu, 21 Mar 2013 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=19107</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=19107</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;19107</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;19107</guid>
       <description><![CDATA[<p>And it’s another one of these things that we seem to be doing.</p>
 <p><strong>01:30</strong> <em>What’s everyone doing?</em></p>
 <p>Josh is watching movies. When I said “Liam Neesons” it was a reference to <a href="http://www.comedycentral.com/video-clips/xwnjlx/key-and-peele-liam-neesons" title="Key &amp; Peele: Liam Neesons">this Key &amp; Peele sketch</a>.</p>
@@ -4827,8 +4975,8 @@ Here is a video of Tress FX in action.
       <title>The Diecast #4: Max Payne, SimCity, and Blip.tv</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Thu, 14 Mar 2013 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=19038</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=19038</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;19038</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;19038</guid>
       <description><![CDATA[<p>We should probably title these things or something. I mean, if we’re going to keep making episodes then at some point we’ll be like, “Wait. Which one did we discuss playing through Half-Life 2: Episode 3? Was that Diecast #230? No, 230 was when we discussed Sony’s inexplicable decision to design the Playstation 5 with a cotton-candy pink case.”</p>
 <p>Then again, I have no idea how to title long multi-topic discussions in a memorable way. Screw it. We’ll just kick this problem on down the road and let future-us deal with it.</p>
 <p>Show notes:</p>
@@ -4865,8 +5013,8 @@ This reminds me so much of the ages-old BioShock controversy: A polite spokeswom
       <title>Diecast #3: Jarenth, PS4, Elder Scrolls</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Thu, 07 Mar 2013 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=18984</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=18984</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;18984</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;18984</guid>
       <description><![CDATA[<p>With Shamus out for the week, I host and Jarenth guest stars on this exciting installment of the Diecast!</p>
 <p>And now for the show notes, complete with the oft-requested timestamps!</p>
 <p>00:15 – We talk about what we’ve been doing for the past week. Shamus is a zombie, Chris is a Tomb Raider, Rutskarn is Homestuck, Jarenth’s lost in Echo Bazaar, and I’ve been set on the Path of Exile.</p>
@@ -4883,7 +5031,7 @@ And now for the show notes, complete with the oft-requested timestamps!
 
 00:15 – We talk about what we’ve been doing for the past week. Shamus is a zombie, Chris is a Tomb Raider, Rutskarn is Homestuck, Jarenth’s lost in Echo Bazaar, and I’ve been set on the Path of Exile.
 
-15:55 – Everything and more about the Playstation 4 announcement, and in particular, the implication that “more polygons = stronger emotional connection.” And if you don’t want to watch the whole thing, VideoGamerTV made a helpful abridged version of the conference that has basically everything that’s important in it.
+15:55 – Everything and more about the Playstation 4 announcement, and in particular, the implication that “more polygons &#x3D; stronger emotional connection.” And if you don’t want to watch the whole thing, VideoGamerTV made a helpful abridged version of the conference that has basically everything that’s important in it.
 
 33:00 – We discuss the closure of Civilization World and what it can tell us about the state of Social Games, and how it compares to a similar collapse of the MMO space.
 
@@ -4903,8 +5051,8 @@ And now for the show notes, complete with the oft-requested timestamps!
       <title>The Diecast #2</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Thu, 21 Feb 2013 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=18872</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=18872</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;18872</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;18872</guid>
       <description><![CDATA[<p>The Diecast number two is now here. It’s now an official thing! We may even make a third one! Stranger things have happened. In this episode:</p>
 <p>Show notes:</p>
 <p><span id="more-18872"></span><ol><li>Whatcha doooin’? Josh is dealing with life stuff. Chris is playing <a href="http://www.gog.com/gamecard/system_shock_2">System Shock 2 from Good Old Games OH MY GOSH SO HAPPY</a>. And also <a href="http://www.gog.com/gamecard/daikatana">Daikatana</a>. Rutskarn is still playing <em>Far Cry 3: Cry Some More</em> and <a href="http://www.antichamber-game.com/">Antichamber</a>. And I’m still playing Minecraft using the <a href="http://www.technicpack.net/tekkit/">Tekkit Launcher</a>.</li></ol></p>
@@ -4926,8 +5074,8 @@ Whatcha doooin’? Josh is dealing with life stuff. Chris is playing System Shoc
       <title>The Diecast #1</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Thu, 14 Feb 2013 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p=18831</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=18831</guid>
+      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;18831</link>
+      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;18831</guid>
       <description><![CDATA[<p>There’s this long-running joke among the Spoiler Warning cast. When we’re getting ready to record the show, we frequently get sidetracked talking about other stuff.  Sometimes for hours. Then eventually one of us will say, “You know what? We should do a podcast.” This joke ran so long that we actually went and did it.</p>
 <p>Embedded using HTML5. It either works or it doesn’t:</p>
 <p>Discussion:</p>
