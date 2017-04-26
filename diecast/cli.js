@@ -3,7 +3,7 @@
 var ffmpeg = require('fluent-ffmpeg-extended');
 var fs = require('fs');
 var handlebars = require('handlebars');
-var jsdom = require('jsdom').jsdom;
+var JSDOM = require('jsdom').JSDOM;
 var jquery = require('jquery');
 var minimist = require('minimist');
 var parseString = require('xml2js').parseString;
@@ -99,9 +99,7 @@ function processUrl(baseUrl, cachedItems) {
     if (error || response.statusCode !== 200) {
       console.error('Error:', error, response && response.statusCode);
     }
-    var document = jsdom(body);
-    var window = document.createWindow();
-    var $ = jquery.create(window);
+    var $ = jquery(new JSDOM(body).window);
     var items = $('.entry');
     console.error(items.length + ' entries found.');
     var headers = [];
@@ -114,7 +112,8 @@ function processUrl(baseUrl, cachedItems) {
       });
       console.error('Processing', index, header.link, cachedItem.length);
       header.title = item.find('.splash-title').text();
-      header.date = makeDate(item.find('td:nth-child(5)')[0].textContent);
+      // console.log();
+      header.date = makeDate(item.find('.splash-avatar')[0].textContent.replace(/.*on /, ''));
       if (cachedItem.length) {
         addCachedData(cachedItem[0], header);
       }
@@ -130,9 +129,7 @@ function processUrl(baseUrl, cachedItems) {
       }
       request.get(item.link, function (error, response, body) {
         console.error('Got ' + item.title, error);
-        var document = jsdom(body);
-        var window = document.createWindow();
-        var $ = jquery.create(window);
+        var $ = jquery(new JSDOM(body).window);
         var pDivs = $('.entry-text > p, .entry-text > ol, .entry-text > ul, .entry-text > blockquote')
                     .not('.entry-text > p.entry-tags');
         item.descHtml = "";
