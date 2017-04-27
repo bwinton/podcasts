@@ -69,7 +69,7 @@ function outputAll(headers) {
     }
   });
   out += xmlEnd;
-  console.log(out);
+  return out;
 }
 
 function addCachedData(cachedItem, header) {
@@ -83,17 +83,24 @@ function addCachedData(cachedItem, header) {
   header.duration = cachedItem['itunes:duration'][0];
 }
 
-function checkFinished(count, headers) {
+function checkFinished(count, headers, file) {
   count++;
   if (count == headers.length) {
-    outputAll(headers);
-    console.error("Done!");
-    process.exit();
+    console.error("Writing!", count, file);
+    const output = outputAll(headers);
+    fs.writeFile(file, output, err => {
+      if (err) {
+        console.error('Error!', err);
+      } else {
+        console.error("Done!");
+      }
+      process.exit();
+    });
   }
   return count;
 }
 
-function processUrl(baseUrl, cachedItems) {
+function processUrl(baseUrl, cachedItems, file) {
   cachedItems = cachedItems || [];
   request.get(baseUrl, function (error, response, body) {
     if (error || response.statusCode !== 200) {
@@ -112,7 +119,6 @@ function processUrl(baseUrl, cachedItems) {
       });
       console.error('Processing', index, header.link, cachedItem.length);
       header.title = item.find('.splash-title').text();
-      // console.log();
       header.date = makeDate(item.find('.splash-avatar')[0].textContent.replace(/.*on /, ''));
       if (cachedItem.length) {
         addCachedData(cachedItem[0], header);
@@ -124,7 +130,7 @@ function processUrl(baseUrl, cachedItems) {
     headers.map(function (item, index) {
       if (item.cached) {
         console.error('Got cached ' + item.title);
-        count = checkFinished(count, headers);
+        count = checkFinished(count, headers, file);
         return;
       }
       request.get(item.link, function (error, response, body) {
@@ -157,7 +163,7 @@ function processUrl(baseUrl, cachedItems) {
             item.descText += div.text().trim() + '\n\n';
         }
         if (!item.audio) {
-          count = checkFinished(count, headers);
+          count = checkFinished(count, headers, file);
           return
         }
         request.head(item.audio, function (error, response, body) {
@@ -165,7 +171,7 @@ function processUrl(baseUrl, cachedItems) {
           item.length = response.headers['content-length'];
           var proc = new ffmpeg.Metadata(item.audio, function (metadata, err) {
             item.duration = metadata.durationraw.replace(/\.\d\d$/, "")
-            count = checkFinished(count, headers);
+            count = checkFinished(count, headers, file);
           });
         });
       });
@@ -188,7 +194,7 @@ function main(argv) {
     }
     parseString(body, function (err, result) {
       var items = result.rss.channel[0].item;
-      processUrl(baseUrl, items);
+      processUrl(baseUrl, items, file);
     });
   });
 }
