@@ -23,68 +23,6 @@
     </itunes:category>
     <itunes:image href="http://www.shamusyoung.com/twentysidedtale/images/splash_diecast2.jpg"/>
     <item>
-      <title>Diecast #197: BATTLEGROUNDS, Westerado, Call of Duty</title>
-      <dc:creator>Shamus Young</dc:creator>
-      <pubDate>Mon, 24 Apr 2017 05:37:00 +0000</pubDate>
-      <link>http://www.shamusyoung.com/twentysidedtale/?p&#x3D;38190</link>
-      <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p&#x3D;38190</guid>
-      <description><![CDATA[<p><small><a href="http://www.shamusyoung.com/diecast/diecast197.mp3" download="diecast197.mp3">Direct download</a> (MP3)</small><br><small><a href="http://www.shamusyoung.com/diecast/diecast197.ogg" download="diecast197.ogg">Direct download</a> (ogg Vorbis)</small><br><small><a href="http://www.shamusyoung.com/twentysidedtale/?feed=podcast">Podcast RSS feed.</a></small><br><br>
-Hosts: <a href="https://www.patreon.com/rutskarn?ty=c">Rutskarn</a>, <a href="http://www.shamusyoung.com/">Shamus</a>, <a href="https://www.youtube.com/user/Campster">Campster</a> and <a href="https://bayberrystudio.wordpress.com/">Baychel</a>.</p>
-<p><span id="more-38190"></span><br>
-<strong>01:35: Bay Eats Candy</strong></p>
-<p>Bay tries famous candies for the first time. You can read the results <a href="https://bayberrystudio.wordpress.com/2017/04/19/unwrapped-wednesday-twizzlers/">on her blog.</a></p>
-<p><a href="https://bayberrystudio.wordpress.com/2017/04/19/unwrapped-wednesday-twizzlers/"><img src="http://www.shamusyoung.com/twentysidedtale/images/bay_candy.gif" title="STOP PLAYING WITH YOUR FOOD."></a></p>
-<p><strong>11:03: PLAYER UNKNOWN’S BATTLEGROUNDS</strong></p>
-<p>Why does this game rise above the rest of the indie titles jumping on the Day Z bandwagon?</p>
-<p><strong>19:50: Westerado</strong></p>
-<p></p>
-<p></p>
-<p><strong>34:03: Roller Coaster Tycoon Touch</strong></p>
-<p>About five months ago <a href="https://www.youtube.com/watch?v=0XNqJW_8z58">Planet Coaster</a> kicked the crap out of <a href="https://www.youtube.com/watch?v=m8vltu1xLnU">RollerCoaster Tycoon</a>. But how does the RCT mobile game play?</p>
-<p>I can’t find a link to the <em>original</em> Mr. Bones Wild Ride. If someone can find it, I’ll add it to the show notes.</p>
-<p><strong>46:53: Flinthook</strong></p>
-<p></p>
-<p></p>
-<p><strong>51:55: Call of Duty: World War II</strong></p>
-<p>We talk about the WWII craze of 15 years ago and what it means that Call of Duty is coming back to it.</p>
-<p></p>
-<p class="byline"><i><img alt="" src="http://0.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg" srcset="http://0.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=84&amp;d=wavatar&amp;r=pg 2x" class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>
-]]></description>
-      <itunes:author>The Diecast</itunes:author>
-      <itunes:summary>Direct download (MP3)Direct download (ogg Vorbis)Podcast RSS feed.
-Hosts: Rutskarn, Shamus, Campster and Baychel.
-
-01:35: Bay Eats Candy
-
-Bay tries famous candies for the first time. You can read the results on her blog.
-
-11:03: PLAYER UNKNOWN’S BATTLEGROUNDS
-
-Why does this game rise above the rest of the indie titles jumping on the Day Z bandwagon?
-
-19:50: Westerado
-
-34:03: Roller Coaster Tycoon Touch
-
-About five months ago Planet Coaster kicked the crap out of RollerCoaster Tycoon. But how does the RCT mobile game play?
-
-I can’t find a link to the original Mr. Bones Wild Ride. If someone can find it, I’ll add it to the show notes.
-
-46:53: Flinthook
-
-51:55: Call of Duty: World War II
-
-We talk about the WWII craze of 15 years ago and what it means that Call of Duty is coming back to it.
-
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you&#x27;d like to support him, you can do so via Patreon or PayPal.
-
-</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration></itunes:duration>
-      <itunes:image href="http://www.shamusyoung.com/twentysidedtale/images/splash_diecast2.jpg"/>
-      <enclosure url="http://www.shamusyoung.com/diecast/diecast197.mp3?_&#x3D;1" length="63355888" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>Diecast #196: MST3K, Stories Untold, Game Jam</title>
       <dc:creator>Shamus Young</dc:creator>
       <pubDate>Mon, 17 Apr 2017 05:37:00 +0000</pubDate>
@@ -251,13 +189,13 @@ Caveat emptor!
 0:13:36: Mailbag: Story vs. Gameplay
 
 Dear Diecast
-If you were about to play a standard 15-20 hour triple A game, would you rather it had an amazing story… but dreadful gameplay, or amazing gameplay and a terrible story? 
+If you were about to play a standard 15-20 hour triple A game, would you rather it had an amazing story… but dreadful gameplay, or amazing gameplay and a terrible story?
 Sarah.
 
 0:27:28: Mailbag: Spider-Man Homecoming
 
-What’s up Dear Diecast 
-Are you looking forward to the new Spider-Man movie? Apart from some personal “It’s different and therefore it’s RUINED” complaints, I’m pretty hyped to see a Spider-Man movie in Marvel Studios’ hands. 
+What’s up Dear Diecast
+Are you looking forward to the new Spider-Man movie? Apart from some personal “It’s different and therefore it’s RUINED” complaints, I’m pretty hyped to see a Spider-Man movie in Marvel Studios’ hands.
 Your friendly neighborhood Christopher
 
 0:46:07: Destiny 2 coming to PC
@@ -435,8 +373,8 @@ We also get sidetracked talking about Game of Thrones for some reason?
 
 0:22:19: Mailbag: Stealth Games
 
-Dear Diecast 
-Some protagonists in stealth games can be played as either rampant murderers or pacifists, like all of the Snakes in Metal Gear Solid, Corvo or Adam Jensen. When you think of them, do you imagine the “true” version is them being largely non-lethal(Only killing the obligatory targets like bosses) or them killing hundreds? 
+Dear Diecast
+Some protagonists in stealth games can be played as either rampant murderers or pacifists, like all of the Snakes in Metal Gear Solid, Corvo or Adam Jensen. When you think of them, do you imagine the “true” version is them being largely non-lethal(Only killing the obligatory targets like bosses) or them killing hundreds?
 Love, Punished “Venom” Christopher
 
 0:37:34: Mailbag: Fighting Games
@@ -841,7 +779,7 @@ I forget what game this relates to.
 0:48:29: Lovecraft
 
 Dear Diecast
-When Lovecraft’s monsters are involved, people are often sticklers about following the rules or philosophy of his stories. Why do people care about how uncaring eldritch monstrosities are? There isn’t a lot of complaining when greek monsters are used outside of tragedies or trolls aren’t defeated by porridge eating contests. 
+When Lovecraft’s monsters are involved, people are often sticklers about following the rules or philosophy of his stories. Why do people care about how uncaring eldritch monstrosities are? There isn’t a lot of complaining when greek monsters are used outside of tragedies or trolls aren’t defeated by porridge eating contests.
 Lovecraft, Christopher
 
 0:53:39: Favorite game in least favorite genre.
@@ -1007,7 +945,7 @@ Hosts: Host, Reginald, Errant Signal, Gustav. Episode edited by Rachel.
 
 It’s been ages since I did a videogame podcast and I don’t quite remember how it goes, but the guys assured me the show should start with about 20 minutes of random non-videogame bullshit.
 
-Show notes: 
+Show notes:
 0:02:03: Favorite Jokes
 
 We talked about our favorite jokes. Here is mine:
@@ -1473,7 +1411,7 @@ Aaron
 0:49:48 Mailbag: Favorite Monsters
 
 Dear Diecast
-What is your favorite monster in a video game? No animals, humans or robots allowed. They can be game originals or adaptations of mythological creatures or other fictional beings. 
+What is your favorite monster in a video game? No animals, humans or robots allowed. They can be game originals or adaptations of mythological creatures or other fictional beings.
 Love, Christopher
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you&#x27;d like to support him, you can do so via Patreon or PayPal.
@@ -1795,7 +1733,7 @@ Do you think Bethesda would be surprised by your criticisms? Do you imagine them
 
 0:15:46: The game the broke you.
 
-Is there a game that “broke you” as a fan, so to speak. Turning you from young optimistic fans into the cynics we know and love. 
+Is there a game that “broke you” as a fan, so to speak. Turning you from young optimistic fans into the cynics we know and love.
 -Joe
 
 0:31:56: Dream guest.
@@ -1823,7 +1761,7 @@ Dear Diecast,
 Which mailbag question do you really wish you’d answered at the time but is now embarrassingly out of date or irrelevant?
 -Neko ;)
 
-My curiosity is simply how the (regular) five of you all met up and decided to do all these podcasts and let’s plays and the such. Apologies if this was answered in another diecast but I’m working backwards from present time and I’m only at 138. You guys have done alot of stuff, it’s almost overwhelming! 
+My curiosity is simply how the (regular) five of you all met up and decided to do all these podcasts and let’s plays and the such. Apologies if this was answered in another diecast but I’m working backwards from present time and I’m only at 138. You guys have done alot of stuff, it’s almost overwhelming!
 Cheers, Jared.
 
 1:11:58: Game of the century.
@@ -1902,7 +1840,7 @@ Henson
 1:17:02 Mailbag: Revisiting old seasons of Spoiler Warning
 
 Dear Diecast,
-If you could redo any one season of Spoiler Warning, what would it be and why? Also, which season of Spoiler warning was your favorite? 
+If you could redo any one season of Spoiler Warning, what would it be and why? Also, which season of Spoiler warning was your favorite?
 Keep being awesome,
 Joey
 
@@ -2023,7 +1961,7 @@ Fun fact that has nothing whatsoever to do with the show: If I put a properly es
 
 Yes, I’m supposedly a programmer. No, I have no idea why it does this. Yes, I should probably be curious and worried that this is a symptom of a deeper problem with WordPress / this theme / my brain. No, I’m not going to bother looking into it.
 
-Show notes: 
+Show notes:
 0:01:12 – The Bunker
 
 0:14:52 – Event Left Bracket Zero Right Bracket
@@ -2478,7 +2416,7 @@ Hosts: Josh, Rutskarn, Shamus, Campster.
 
 Episode edited by Mindie.
 
-Show notes: 
+Show notes:
 00:01:00: We talk about why we started this show and why that plan has failed.
 
 But it must be fun, because we keep showing up every week anyway.
@@ -2654,7 +2592,7 @@ Jared
 
 53:54 Mailbag: Details vs. Drama
 
-Dear Shamus/Diecast, 
+Dear Shamus/Diecast,
 In your Mass Effect Retrospective, you discussed details-first vs drama-first storytelling. However, you only spoke of this topic within sci-fi settings. Is it possible to tell a details-first fantasy story?
 Thank you,
 Steven
@@ -3197,7 +3135,7 @@ Chris did an Errant Signal on the Latest DOOM. It’s pretty good.
 0:38:10: Mailbag
 
 Dear Mumbles
-With lots of nerd culture, like anime, comics and video games, you’ll get a lot of mainstream commercial stuff and occasionally something  odd and artsy. Is there artsy wrestling, or is that just the theater? I’m imagining a wrestling match that looks like Limbo. 
+With lots of nerd culture, like anime, comics and video games, you’ll get a lot of mainstream commercial stuff and occasionally something  odd and artsy. Is there artsy wrestling, or is that just the theater? I’m imagining a wrestling match that looks like Limbo.
 Love, Christopher
 
 Here is the link Mumbles mentioned: Olde Wrestling.
@@ -3378,7 +3316,7 @@ Matthias
 47:30 Mailbag: Violence
 
 Dear Diecast,
-What do you think of the fact that violence, usually killing and being killed, is the primary way the player interacts with the universe in most games, and do you think that has had any spillover effect on other media?  
+What do you think of the fact that violence, usually killing and being killed, is the primary way the player interacts with the universe in most games, and do you think that has had any spillover effect on other media?
 I kept wondering about that after finally seeing the new Star Wars and being bugged by how many people the heroes kill onscreen, as opposed to being in far-off explosions or the camera cutting away before the killing blow, like what happens with most of the villains’ kills.  The amount of points where the protagonists are stuck in a place where they just have to kill everybody else in the area to proceed just felt like a videogame.
 Sincerely, Michael.
 
@@ -3500,7 +3438,7 @@ Hosts: Josh, Rutskarn, Shamus, Campster,  Mumbles.
 
 Episode edited by Issac.
 
-Show notes: 
+Show notes:
 01:08 Shamus is up for a Hugo Award
 
 Here I talk about the fact that I’ve been nominated for a Hugo, and I briefly mention the controversy the Hugos have been having for the past two years. I don’t want to talk about the controversy here. In fact, the no politics post was written specifically in anticipation of this discussion.
@@ -3533,7 +3471,7 @@ I have to give Erich credit for a well-constructed question. This setup anticipa
 
 1:00:50 Mailbag: EA Convention
 
-A while back, Shamus and Josh were talking about how EA and somebody else weren’t having E3 booths any more because it wasn’t worth the expense for them. 
+A while back, Shamus and Josh were talking about how EA and somebody else weren’t having E3 booths any more because it wasn’t worth the expense for them.
 Rather than having a presence at a general game show like E3 or a PAX, do you think it would make sense for somebody like EA to run their own show, Blizzcon-style?
 Eric
 
@@ -4197,7 +4135,7 @@ James
 00:49:02: Extemporaneous self-insert surprise question!
 
 Dear Diecast,
-Can you think of any games that broke from their old style and were just as good (or better for it) after being re-invented. 
+Can you think of any games that broke from their old style and were just as good (or better for it) after being re-invented.
 You have the best podcast ever,
 Shamus
 
@@ -4825,7 +4763,7 @@ But Josh and Chris kept the dream alive. Here they looked back at 2015.
 
 Also: My 2015 dénouement will run later this week.
 
-Show notes: 
+Show notes:
 0:01:23: Thoughts on the end of the year with Chris and josh
 0:07:32: Call of Duty
 0:10:20: Star Wars Battlefront
@@ -4898,7 +4836,7 @@ This week there won’t be any Spoiler Warning. But! You get a longer-than-usual
 
 This month is likely to be spotty, in terms of podcasts and videos. It’s hard enough to get all five of us together at the same time on a normal week, and now it’s the silly season. Everyone has a party to go to. Or get ready for. Or recover from. So I don’t know what we’ll be getting, content-wise.
 
-Show notes: 
+Show notes:
 00:01:00 Star Wars Battlefront
 
 00:20:40 Far Cry Primal
@@ -4955,7 +4893,7 @@ Hosts: Josh, Rutskarn, Shamus, Campster,  Mumbles. Episode edited by Rachel.
 
 Yes. Another entire hour of Fallout 4 talk. I suppose this is annoying if you don’t care about Fallout 4, but we can’t talk about games we’re not playing and right now this is what everyone is playing. This time we get to hear from Rutskarn and Mumbles.
 
-Show notes: 
+Show notes:
 1:59: Fallout 4
 
 15:67: Annnd Fallout 4
@@ -5160,7 +5098,7 @@ Saturday is our day to record the show. It was also Halloween this year. Everyon
 
 But we have a guest and we talk about games, so it still counts.
 
-Show notes: 
+Show notes:
 00:01:38 Human Resource Machine
 
 HRM is a game about coding, which I bought for my non-coding daughter. This is what she thought of it.
@@ -5218,7 +5156,7 @@ http://www.neogaf.com/forum/showthread.php?t=1099932</p>
       <itunes:summary>Direct download (MP3)Direct download (ogg Vorbis)Podcast RSS feed.
 Hosts: Josh, Rutskarn, Shamus, Campster. Episode edited by Rachel.
 
-Show notes: 
+Show notes:
 1:00 Fallout 4 is coming out! Are you hyped?!?!
 
 I said this a few days ago:
@@ -5235,7 +5173,7 @@ Chris talks about going to spooky houses.
 31:00: Mailbag: Nintendrives!
 
 Dear Diecast,
-Nintendo recently filed a patent for a game console without a disk drive.  While that certainly isn’t the same as officially announcing such a console it still seems like big news.  Thoughts? 
+Nintendo recently filed a patent for a game console without a disk drive.  While that certainly isn’t the same as officially announcing such a console it still seems like big news.  Thoughts?
 Here’s the link if you are more capable than I in reading hardware specs of a patent.
 http://www.neogaf.com/forum/showthread.php?t&#x3D;1099932
 Best regards,
@@ -5285,7 +5223,7 @@ Hosts: <a href="https://en.wikipedia.org/wiki/Jason_Voorhees">Josh</a>, <a href=
       <itunes:summary>Direct download (MP3)Direct download (ogg Vorbis)Podcast RSS feed.
 Hosts: Josh, Rutskarn, Shamus, Campster,  Mumbles. Episode edited by Rachel.
 
-Show notes: 
+Show notes:
 00:46 Human Resource Machine.
 
 Update: On the show I said I wanted to see how a non-coder would take to this game. I got it for Rachel last night, and she’s plowing through it. So it’s totally playable for people who have never coded before. Although now that I think of it, Rachel has done fairly extensive work with Minecraft command blocks, which probably gave her a good starting framework. Still, I think I can recommend this game unconditionally for both coders and non-coders. Which is pretty amazing.
@@ -5349,7 +5287,7 @@ Hosts: Josh, Shamus, Campster,  Mumbles. Episode edited by Rachel.
 
 The mailbag now looks like Jabba the Hutt after a visit to an all-you-can-eat buffet. I have no idea how we’re going to answer these. And according to the calendar, there’s a super-important game coming out almost every week between now and the end of the year. So this job is about to get very interesting.
 
-Show notes: 
+Show notes:
 00:40 Beginners Guide
 
 Caution: TOTAL spoilers.
@@ -5481,7 +5419,7 @@ Hosts: <a href="http://destiny.wikia.com/wiki/The_Speaker">Josh</a>, <a href="ht
       <itunes:summary>Direct download (MP3)Direct download (ogg Vorbis)Podcast RSS feed.
 Hosts: Josh, Rutskarn, Shamus, Campster. Episode edited by Rachel.
 
-Show notes: 
+Show notes:
 00:40 Drew Karpyshyn Returns to BioWare!
 
 (To work on SWTOR.)
@@ -5553,7 +5491,7 @@ Hosts: <a href="http://metalgear.wikia.com/wiki/Big_Boss">Josh</a>, <a href="htt
       <itunes:summary>Direct download (MP3)Direct download (ogg Vorbis)Podcast RSS feed.
 Hosts: Josh, Rutskarn, Mumbles, Campster. Episode edited by Rachel.
 
-Show notes: 
+Show notes:
 00:25: Mario maker: The sad life of Luigi
 
 YeAAAh!
@@ -5782,7 +5720,7 @@ Here is the trailer I mentioned:
 
 And here’s a screenshot from last week:
 
-53:35 Pillars of Eternity 
+53:35 Pillars of Eternity
 1:00:55: JOHN CENA
 1:02:25: Mailbag: BioWare Characters
 
@@ -5879,7 +5817,7 @@ Here is the Errant Signal in question:
 
 Hello Diecast crew!
 Recently a friend of mine and I were listing off examples of the worst games we’ve ever played, and most of them were games that were based off of movies. We kept on talking about those games and I mentioned one that had surprisingly good mechanics and fun gameplay that made it a lot of fun to play (it was Shrek 2 just so you know. And it was a gift from a family member). My question is, what makes most of these games horrible to play and is there a way to subvert that terribleness?
-Also, out of curiosity, Rutskarn, what do you think of the established settings like Farun and Eberon for any DnD game? 
+Also, out of curiosity, Rutskarn, what do you think of the established settings like Farun and Eberon for any DnD game?
 Curiously,
 Daniel
 
@@ -6425,7 +6363,7 @@ Related article: Wolverine had to die for the sake of Marvel comics.
 26:00 MAILTIME! Weapon degradation.
 
 Dear Dieter Cast,
-When I’m out adventuring in the open world, my swords and armour keep degrading at an alarming rate. Is there a good reason behind this or is it like Dandelion and just to waste my time? Can you see a use for this in other situations and settings? 
+When I’m out adventuring in the open world, my swords and armour keep degrading at an alarming rate. Is there a good reason behind this or is it like Dandelion and just to waste my time? Can you see a use for this in other situations and settings?
 Yours gruffly,
 Geralt of Rivia
 
@@ -6440,10 +6378,10 @@ And that’s why Bastila is naked. Wait, what was the question again?
 Dear Diecast
 I was just mulling over a thought experiment and I wanted your take –
 If you were a designer on a game like Fallout or Skyrim, and a requirement was “Player must be able to aquire a house and adopt a child, that will stay in or near home” – how would you handle this?
-What sort of maintenance would the player need to do to maintain the child? 
-Would you make it possible for the child to be attacked or abducted off-screen? 
-Would you make some mechanism for the player to change the odds of this? What form would it take? 
-In the greater narrative, what would you do with the child? 
+What sort of maintenance would the player need to do to maintain the child?
+Would you make it possible for the child to be attacked or abducted off-screen?
+Would you make some mechanism for the player to change the odds of this? What form would it take?
+In the greater narrative, what would you do with the child?
 -Gragsmash
 
 50:00 Shamus is angry at NASA.
@@ -6725,7 +6663,7 @@ If we have “twice the power” of the previous gen, can we render 2 of the pre
 Less polygons more fluid animations?
 Being able to create more complex AI or Simulations?
 Or just the ability to never have to see a loading screen ever again.
-From 
+From
 Michelle in England
 
 34:00 The Hinterlands
