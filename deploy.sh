@@ -5,7 +5,7 @@ set -e # exit with nonzero exit code if anything fails
 rm -rf dist || exit 0;
 
 # get the existing gh-pages history, but clean out the files.
-git clone --quiet --branch=gh-pages https://${GH_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git dist > /dev/null
+git clone --quiet --branch=gh-pages https://bwinton:${GH_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git dist > /dev/null
 
 # run our compile script, discussed above
 cd diecast
@@ -21,11 +21,11 @@ git config user.email "bwinton@latte.ca"
 
 if [ -n "$(git status --porcelain)" -a "${TRAVIS_PULL_REQUEST}" == "false" ]; then
   git add -Af .
-  git commit -m "Deploy ${TRAVIS_COMMIT_RANGE} to GitHub Pages."
+  git commit -m "Deploy build ${TRAVIS_BUILD_NUMBER} to GitHub Pages."
 
   # Force push from the current repo's master branch to the remote
   # repo's gh-pages branch. (All previous history on the gh-pages branch
   # will be lost, since we are overwriting it.) We redirect any output to
   # /dev/null to hide any sensitive credential data that might otherwise be exposed.
-  git push --quiet "https://${GH_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git" gh-pages
+  git push --quiet "https://bwinton:${GH_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git" gh-pages
 fi
