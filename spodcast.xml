@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     version="2.0">
+  <channel>
+    <title>The Spodcast</title>
+    <link>https://www.youtube.com/user/SpoilerWarningShow/videos</link>
+    <atom:link href="https://bwinton.github.io/podcasts/spodcast.xml" rel="self" type="application/rss+xml"/>
+    <language>en-US</language>
+    <itunes:author>Josh, Chris, Rutskan, and Mumbles?</itunes:author>
+    <itunes:subtitle>Like Spoiler Warning, but with less video.</itunes:subtitle>
+    <itunes:summary>Spoiler Warning, but audio-only</itunes:summary>
+    <description>Spoiler Warning, but audio-only</description>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:keywords>games,spoilerwarning,josh,chris,rutskarn,mumbles</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>Spoiler Warning</itunes:name>
+      <itunes:email>spodcast@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Games &amp; Hobbies">
+      <itunes:category text="Video Games"/>
+    </itunes:category>
+    <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png"/>
+    <item>
+      <title>The Spodcast #2: Destiny 2, Prey, and Typhoid Burgers</title>
+      <dc:creator>The Spodcast</dc:creator>
+      <pubDate>Wed, 24 May 2017 05:37:00 +0000</pubDate>
+      <link>https://www.patreon.com/posts/spodcast-2-2-and-11353895</link>
+      <guid isPermaLink="false">https://www.patreon.com/posts/spodcast-2-2-and-11353895</guid>
+      <description><![CDATA[
+        <div>Wherein the episode goes up three hours late, we still don't have a website yet, but Glitch gets Pop-Tarts.
+          <p><br></p>
+          <p>4:25 - Destiny 2 Reveal</p>
+          <p>17:05 - Square Enix parting ways with IO Interactive</p>
+          <p>25:20 - Prey</p>
+          <p>42:05 - Prey Story Spoilers</p>
+          <p>1:08:25 - Mailbag</p>
+          <p>1:08:35 - Chris, how is Pepsi Fire?</p>
+          <p>1:11:55 - Rank Fast Food Burgers from Worst to Best</p>
+          <p>1:24:45 - When do you think EA will shut down BioWare Montreal?</p>
+          <p>1:32:20 - Alan Wake and Expired Music Licenses</p>
+          <p>1:38:55 - What is your favorite recipe that uses alcohol as an ingredient?</p>
+          <p>1:44:00 - Glitch's wife made homemade Pop-Tarts and we're (mostly) all jealous.&nbsp;</p>
+          <p><br></p>
+          <p>Featuring: "Off to Osaka" Kevin MacLeod (<a href="http://incompetech.com" target="_blank" rel="noopener noreferrer">incompetech.com</a>)</p>
+          <p>Licensed under Creative Commons: By Attribution 3.0 License</p>
+          <p><a href="http://creativecommons.org/licenses/by/3.0/" rel="nofollow noopener" target="_blank">http://creativecommons.org/licenses/by/3.0/</a></p>
+        </div>]]></description>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:summary>Wherein the episode goes up three hours late, we still don't have a website yet, but Glitch gets Pop-Tarts.
+
+4:25 - Destiny 2 Reveal
+17:05 - Square Enix parting ways with IO Interactive
+25:20 - Prey
+42:05 - Prey Story Spoilers
+1:08:25 - Mailbag
+1:08:35 - Chris, how is Pepsi Fire?
+1:11:55 - Rank Fast Food Burgers from Worst to Best
+1:24:45 - When do you think EA will shut down BioWare Montreal?
+1:32:20 - Alan Wake and Expired Music Licenses
+1:38:55 - What is your favorite recipe that uses alcohol as an ingredient?
+1:44:00 - Glitch's wife made homemade Pop-Tarts and we're (mostly) all jealous.
+
+Featuring: "Off to Osaka" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:47:11</itunes:duration>
+      <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png"/>
+      <enclosure url="https://dl.dropboxusercontent.com/u/2301433/Spodcast/spodcast-2.m4a" length="102078088" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Spoiler Warning Podcast #1</title>
+      <dc:creator>The Spodcast</dc:creator>
+      <pubDate>Thu, 11 May 2017 05:37:00 +0000</pubDate>
+      <link>https://www.patreon.com/posts/spoiler-warning-11137679</link>
+      <guid isPermaLink="false">https://www.patreon.com/posts/spoiler-warning-11137679</guid>
+      <description><![CDATA[
+        <div>It seems only appropriate for us to try one of these things.
+	  <p>This was a little later than intended, but migraines be damned, it's going up tonight!</p>
+	  <p>2:30 - Spoiler Warning is leaving Twenty Sided.&nbsp;</p>
+	  <p>I didn't want to get too far into this on the podcast, but if you want to know more about the circumstances that led to the split, I wrote about it on Patreon: <a href="https://www.patreon.com/posts/well-that-9299827">https://www.patreon.com/posts/well-that-9299827</a></p>
+	  <p>6:30 - Sleeping Dogs is getting a movie?</p>
+	  <p>18:15 - Would Quantic Dream games be better or worse as films?</p>
+	  <p>22:45 - E3 and bad trailers</p>
+	  <p>31:05 - Prey</p>
+	  <p>46:55 - PLAYERUNKNOWN'S BATTLEGROUNDS</p>
+	  <p><br></p>
+	  <p>Featuring: "Off to Osaka" Kevin MacLeod (<a href="http://incompetech.com" target="_blank" rel="noopener noreferrer">incompetech.com</a>)</p>
+	  <p>Licensed under Creative Commons: By Attribution 3.0 License</p>
+	  <p><a href="http://creativecommons.org/licenses/by/3.0/" rel="nofollow noopener" target="_blank">http://creativecommons.org/licenses/by/3.0/</a></p>
+	</div>
+]]></description>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:summary>It seems only appropriate for us to try one of these things.
+This was a little later than intended, but migraines be damned, it's going up tonight!
+
+2:30 - Spoiler Warning is leaving Twenty Sided.
+I didn't want to get too far into this on the podcast, but if you want to know more about the circumstances that led to the split, I wrote about it on Patreon: https://www.patreon.com/posts/well-that-9299827
+6:30 - Sleeping Dogs is getting a movie?
+18:15 - Would Quantic Dream games be better or worse as films?
+22:45 - E3 and bad trailers
+31:05 - Prey
+46:55 - PLAYERUNKNOWN'S BATTLEGROUNDS
+
+Featuring: "Off to Osaka" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:04:58</itunes:duration>
+      <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png"/>
+      <enclosure url="https://dl.dropboxusercontent.com/u/2301433/Spodcast/spodcast-1.m4a" length="61877177" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
