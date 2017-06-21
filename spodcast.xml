@@ -23,6 +23,50 @@
     </itunes:category>
     <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png"/>
     <item>
+      <title>The Spodcast #6: Electronic Entertainment Expo Extravaganza</title>
+      <dc:creator>The Spodcast</dc:creator>
+      <pubDate>Tue, 20 Jun 2017 23:11:53 +0000</pubDate>
+      <link>http://spoilerwarning.net/index.php/2017/06/21/spodcast-6-electronic-entertainment-expo-extravaganza/</link>
+      <guid isPermaLink="false">http://spoilerwarning.net/index.php/2017/06/21/spodcast-6-electronic-entertainment-expo-extravaganza/</guid>
+      <description><![CDATA[
+        <div>
+          <p>E3 2017 is over, so now it’s time to share our thoughts on this whole crazy thing.</p>
+          <p>3:35 – Electronic Arts<br>
+          22:40 – Microsoft<br>
+          43:45 – Josh takes a break so Duck Tales?<br>
+          45:50 – Bethesda<br>
+          50:15 – Devolver Digital, Intel, and the PC Gaming Show<br>
+          54:10 – Ubisoft<br>
+          1:09:10 – Sony<br>
+          1:16:50 – Nintendo<br>
+          1:26:10 – Mailbag: Rate console names from smartest to XBox One X</p>
+          <p><br></p>
+          <p>Featuring: "Off to Osaka" Kevin MacLeod (<a href="http://incompetech.com" target="_blank" rel="noopener noreferrer">incompetech.com</a>)</p>
+          <p>Licensed under Creative Commons: By Attribution 3.0 License</p>
+          <p><a href="http://creativecommons.org/licenses/by/3.0/" rel="nofollow noopener" target="_blank">http://creativecommons.org/licenses/by/3.0/</a></p>
+        </div>]]></description>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:summary>E3 2017 is over, so now it’s time to share our thoughts on this whole crazy thing.
+
+3:35 – Electronic Arts
+22:40 – Microsoft
+43:45 – Josh takes a break so Duck Tales?
+45:50 – Bethesda
+50:15 – Devolver Digital, Intel, and the PC Gaming Show
+54:10 – Ubisoft
+1:09:10 – Sony
+1:16:50 – Nintendo
+1:26:10 – Mailbag: Rate console names from smartest to XBox One X
+
+Featuring: "Off to Osaka" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:36:11</itunes:duration>
+      <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png"/>
+      <enclosure url="http://spoilerwarning.net/spodcast/spodcast6.mp3" length="92332396" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>The Spodcast #5: Not E3, Bad Games, and Guardians of the Galaxy 2 </title>
       <dc:creator>The Spodcast</dc:creator>
       <pubDate>Wed, 14 Jun 2017 23:11:53 +0000</pubDate>
