@@ -23,6 +23,23 @@
     </itunes:category>
     <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png"/>
     <item>
+      <title>The Spodcast – RPG Sessions #1: Character Creation</title>
+      <dc:creator>The Spodcast</dc:creator>
+      <pubDate>Wed, 28 Jun 2017 23:11:53 +0000</pubDate>
+      <link>http://spoilerwarning.net/index.php/2017/06/28/the-spodcast-rpg-sessions-1-character-creation/</link>
+      <guid isPermaLink="false">http://spoilerwarning.net/index.php/2017/06/28/the-spodcast-rpg-sessions-1-character-creation/</guid>
+      <description><![CDATA[
+        <div>
+          <p>Rutskarn’s been wanting to do a tabletop RPG with the Spoiler Warning cast for years, so in this special podcast episode, we create our characters. We’ll be doing more of these occasionally in the future, so let us know what you think!</p>
+        </div>]]></description>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:summary>Rutskarn’s been wanting to do a tabletop RPG with the Spoiler Warning cast for years, so in this special podcast episode, we create our characters. We’ll be doing more of these occasionally in the future, so let us know what you think!</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:34:04</itunes:duration>
+      <itunes:image href="https://bwinton.github.io/podcasts/spodcast/rpg-sessions.png"/>
+      <enclosure url="http://spoilerwarning.net/spodcast/spodcastrpg1.mp3" length="90300257" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>The Spodcast #6: Electronic Entertainment Expo Extravaganza</title>
       <dc:creator>The Spodcast</dc:creator>
       <pubDate>Tue, 20 Jun 2017 23:11:53 +0000</pubDate>
