@@ -23,6 +23,44 @@
     </itunes:category>
     <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png"/>
     <item>
+      <title>The Spodcast #7: VR, SNES Classic, and the Han Solo Blues</title>
+      <dc:creator>The Spodcast</dc:creator>
+      <pubDate>Thu, 6 Jul 2017 11:24:53 +0000</pubDate>
+      <link>http://spoilerwarning.net/index.php/2017/07/06/the-spodcast-7-vr-snes-classic-and-the-han-solo-blues/</link>
+      <guid isPermaLink="false">http://spoilerwarning.net/index.php/2017/07/06/the-spodcast-7-vr-snes-classic-and-the-han-solo-blues/</guid>
+      <description><![CDATA[
+        <div>
+          <p>With everyone on vacation, we’ve got a skeleton crew this week, but Glitch, Josh, and Campster manage to get together to talk about Nintendo, the current state of VR, the new Han Solo director, and more!</p>
+          <p>5:15 – Nintendo Switch travel impressions<br>
+          18:00 – The Current State of VR<br>
+          35:35 – Steam Sale<br>
+          42:45 – SNES Classic<br>
+          53:10 – Han Solo Director Troubles<br>
+          1:08:10 – Mailbag<br>
+          1:08:45 – Who would play you in the movie adaptation of Spoiler Warning?<br>
+          1:14:25 – What do you think of the new XBox and do you have unfiltered wheat bear?<br>
+          1:20:20 – What are your favorite game reviewers?<br>
+          1:25:45 – Do you plan on watching the solar eclipse on the 21st of August?</p>
+        </div>]]></description>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:summary>With everyone on vacation, we’ve got a skeleton crew this week, but Glitch, Josh, and Campster manage to get together to talk about Nintendo, the current state of VR, the new Han Solo director, and more!
+
+5:15 – Nintendo Switch travel impressions
+18:00 – The Current State of VR
+35:35 – Steam Sale
+42:45 – SNES Classic
+53:10 – Han Solo Director Troubles
+1:08:10 – Mailbag
+1:08:45 – Who would play you in the movie adaptation of Spoiler Warning?
+1:14:25 – What do you think of the new XBox and do you have unfiltered wheat bear?
+1:20:20 – What are your favorite game reviewers?
+1:25:45 – Do you plan on watching the solar eclipse on the 21st of August?</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:27:20</itunes:duration>
+      <itunes:image href="https://bwinton.github.io/podcasts/spodcast/rpg-sessions.png"/>
+      <enclosure url="http://spoilerwarning.net/spodcast/spodcast7.mp3" length="115527410" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>The Spodcast – RPG Sessions #1: Character Creation</title>
       <dc:creator>The Spodcast</dc:creator>
       <pubDate>Wed, 28 Jun 2017 23:11:53 +0000</pubDate>
