@@ -23,6 +23,42 @@
     </itunes:category>
     <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png"/>
     <item>
+      <title>The Spodcast #8: Disney, Spider-Man, and Potato People </title>
+      <dc:creator>The Spodcast</dc:creator>
+      <pubDate>Wed, 19 Jul 2017 11:24:53 +0000</pubDate>
+      <link>http://spoilerwarning.net/index.php/2017/07/20/the-spodcast-8-disney-spider-man-and-potato-people/</link>
+      <guid isPermaLink="false">http://spoilerwarning.net/index.php/2017/07/20/the-spodcast-8-disney-spider-man-and-potato-people/</guid>
+      <description><![CDATA[
+        <div>
+          <p>Glitch, Josh, Mumbles and Chris put their heads together to find out if it’s even possible to talk about video games on this show.</p>
+          <p>0:22 – Disney Parks<br>
+          09:25 – Wrestlers and Actors<br>
+          30:10 – Spider-Man Homecoming<br>
+          35:45 – Spider-Man Spoilers<br>
+          1:06:50 – D23 Expo<br>
+          1:27:50 – Mailbag<br>
+          1:28:25 – How do you feel about Mass Effect being put on ice?<br>
+          1:38:55 – Would you rather listen to Josh talk about Dark Souls or Paradox Games?<br>
+          1:44:05 – What is your favorite Pokemon?</p>
+      </div>]]></description>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:summary>Glitch, Josh, Mumbles and Chris put their heads together to find out if it’s even possible to talk about video games on this show.
+
+0:22 – Disney Parks
+09:25 – Wrestlers and Actors
+30:10 – Spider-Man Homecoming
+35:45 – Spider-Man Spoilers
+1:06:50 – D23 Expo
+1:27:50 – Mailbag
+1:28:25 – How do you feel about Mass Effect being put on ice?
+1:38:55 – Would you rather listen to Josh talk about Dark Souls or Paradox Games?
+1:44:05 – What is your favorite Pokemon?</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:49:02</itunes:duration>
+      <itunes:image href="https://bwinton.github.io/podcasts/spodcast/rpg-sessions.png"/>
+      <enclosure url="http://spoilerwarning.net/spodcast/spodcast8.mp3" length="104666855" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>The Spodcast #7: VR, SNES Classic, and the Han Solo Blues</title>
       <dc:creator>The Spodcast</dc:creator>
       <pubDate>Thu, 6 Jul 2017 11:24:53 +0000</pubDate>
