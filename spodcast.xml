@@ -23,7 +23,34 @@
     </itunes:category>
     <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png"/>
     <item>
-      <title>The Spodcast #8: Disney, Spider-Man, and Potato People </title>
+      <title>The Spodcast #9: The Games of Yesteryear, Today!</title>
+      <dc:creator>The Spodcast</dc:creator>
+      <pubDate>Wed, 2 Aug 2017 11:24:53 +0000</pubDate>
+      <link>http://spoilerwarning.net/index.php/2017/08/02/the-spodcast-9-the-games-of-yesteryear-today/</link>
+      <guid isPermaLink="false">http://spoilerwarning.net/index.php/2017/08/02/the-spodcast-9-the-games-of-yesteryear-today/</guid>
+      <description><![CDATA[
+        <div>
+          <p>2:50 – Lucasarts (Adventure Games)<br>
+          13:08 – Trilobyte (7th Guest/11th Hour)<br>
+          23:53 – Westwood (Command &amp; Conquer)<br>
+          43:40 – 3D Realms (Duke Nukem)<br>
+          56:55 – Maxis (Sim Games)<br>
+          1:06:15 – Origin (Ultima)</p>
+      </div>]]></description>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:summary>2:50 – Lucasarts (Adventure Games)
+13:08 – Trilobyte (7th Guest/11th Hour)
+23:53 – Westwood (Command &amp; Conquer)
+43:40 – 3D Realms (Duke Nukem)
+56:55 – Maxis (Sim Games)
+1:06:15 – Origin (Ultima)</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:20:22</itunes:duration>
+      <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png"/>
+      <enclosure url="http://spoilerwarning.net/spodcast/spodcast9.mp3" length="77160858" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Spodcast #8: Disney, Spider-Man, and Potato People</title>
       <dc:creator>The Spodcast</dc:creator>
       <pubDate>Wed, 19 Jul 2017 11:24:53 +0000</pubDate>
       <link>http://spoilerwarning.net/index.php/2017/07/20/the-spodcast-8-disney-spider-man-and-potato-people/</link>
@@ -158,7 +185,7 @@ http://creativecommons.org/licenses/by/3.0/</itunes:summary>
       <enclosure url="http://spoilerwarning.net/spodcast/spodcast6.mp3" length="92332396" type="audio/mpeg"/>
     </item>
     <item>
-      <title>The Spodcast #5: Not E3, Bad Games, and Guardians of the Galaxy 2 </title>
+      <title>The Spodcast #5: Not E3, Bad Games, and Guardians of the Galaxy 2</title>
       <dc:creator>The Spodcast</dc:creator>
       <pubDate>Wed, 14 Jun 2017 23:11:53 +0000</pubDate>
       <link>http://spoilerwarning.net/index.php/2017/06/15/the-spodcast-5-not-e3-bad-games-and-guardians-of-the-galaxy-2/</link>
