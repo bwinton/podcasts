@@ -23,6 +23,36 @@
     </itunes:category>
     <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png"/>
     <item>
+      <title>The Spodcast #10: Ketchup, Mayo, and Zombie Wolves</title>
+      <dc:creator>The Spodcast</dc:creator>
+      <pubDate>Tue, 8 Aug 2017 11:24:53 +0000</pubDate>
+      <link>http://spoilerwarning.net/index.php/2017/08/08/the-spodcast-10-ketchup-mayo-and-zombie-wolves/</link>
+      <guid isPermaLink="false">http://spoilerwarning.net/index.php/2017/08/08/the-spodcast-10-ketchup-mayo-and-zombie-wolves/</guid>
+      <description><![CDATA[<div>
+      <p>It’s time for a laid back, late night Spodcast about condiments and unnaturally evil wolves.</p>
+      <p>0:42 – Splatfest<br>
+9:54 – Fortnite<br>
+21:00 – The Long Dark Story Mode<br>
+32:34 – Mailbag<br>
+33:08 – Dishonored 2, blink or far-reach?<br>
+35:04 – How do you feel about Kickstarter right now?<br>
+49:12 – Are you watching (or did you watch) EVO?</p></div>]]></description>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:summary>It’s time for a laid back, late night Spodcast about condiments and unnaturally evil wolves.
+
+0:42 – Splatfest
+9:54 – Fortnite
+21:00 – The Long Dark Story Mode
+32:34 – Mailbag
+33:08 – Dishonored 2, blink or far-reach?
+35:04 – How do you feel about Kickstarter right now?
+49:12 – Are you watching (or did you watch) EVO?</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:00:09</itunes:duration>
+      <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png"/>
+      <enclosure url="http://spoilerwarning.net/spodcast/spodcast10.mp3" length="57750000" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>The Spodcast #9: The Games of Yesteryear, Today!</title>
       <dc:creator>The Spodcast</dc:creator>
       <pubDate>Wed, 2 Aug 2017 11:24:53 +0000</pubDate>
