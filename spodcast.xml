@@ -23,6 +23,39 @@
     </itunes:category>
     <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png"/>
     <item>
+      <title>The Spodcast #12: TwitchCon, Dauntless, And Guild Wars 2</title>
+      <dc:creator>The Spodcast</dc:creator>
+      <pubDate>Thu, 31 Aug 2017 11:24:53 +0000</pubDate>
+      <link>http://spoilerwarning.net/index.php/2017/08/31/the-spodcast-12-twitchcon-dauntless-and-guild-wars-2/</link>
+      <guid isPermaLink="false">http://spoilerwarning.net/index.php/2017/08/31/the-spodcast-12-twitchcon-dauntless-and-guild-wars-2/</guid>
+      <description><![CDATA[<div><p>Recording times didn’t work out quite the way we’d hoped this week, so everyone got to be just a little bit loopy in this episode of the Spodcast, where we discuss fast food, travel, the dark ages of Web 1.0, and–ever so occasionally–video games.</p>
+        <p>Show Notes:<br>
+        1:08 – The Ancient Internet<br>
+        5:16 – Fast Food or something<br>
+        9:18 – TwitchCon<br>
+        28:10 – Guild Wars 2<br>
+        47:15 – Dauntless<br>
+        52:47 – Mailbag<br>
+        53:12 – What long-running franchise have you played the most games in?<br>
+        1:03:43 – What are some of your favorite gaming protagonists?</p></div>]]></description>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:summary>Recording times didn’t work out quite the way we’d hoped this week, so everyone got to be just a little bit loopy in this episode of the Spodcast, where we discuss fast food, travel, the dark ages of Web 1.0, and–ever so occasionally–video games.
+
+Show Notes:
+1:08 – The Ancient Internet
+5:16 – Fast Food or something
+9:18 – TwitchCon
+28:10 – Guild Wars 2
+47:15 – Dauntless
+52:47 – Mailbag
+53:12 – What long-running franchise have you played the most games in?
+1:03:43 – What are some of your favorite gaming protagonists?</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:15:27</itunes:duration>
+      <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png"/>
+      <enclosure url="http://spoilerwarning.net/spodcast/spodcast12.mp3" length="72440435" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>The Spodcast #11: Bad Habits, Proper Nouns, and the Historical Veracity of the Existence of Hel</title>
       <dc:creator>The Spodcast</dc:creator>
       <pubDate>Wed, 23 Aug 2017 11:24:53 +0000</pubDate>
