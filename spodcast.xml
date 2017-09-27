@@ -23,6 +23,39 @@
     </itunes:category>
     <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png"/>
     <item>
+      <title>The Spodcast #13: Gambling, Rabbids, and The Amazing Netherlands</title>
+      <dc:creator>The Spodcast</dc:creator>
+      <pubDate>Thu, 19 Sep 2017 11:24:53 +0000</pubDate>
+      <link>http://spoilerwarning.net/index.php/2017/09/19/the-spodcast-13-gambling-rabbids-and-the-amazing-netherlands/</link>
+      <guid isPermaLink="false">http://spoilerwarning.net/index.php/2017/09/19/the-spodcast-13-gambling-rabbids-and-the-amazing-netherlands/</guid>
+      <description><![CDATA[<div><p>Alex returns from vacation bringing tales of the exotic and mystical Amsterdam!</p>
+      <p>Show Notes:<br>
+      0:32 – Alex in the Netherlands<br>
+      23:55 – Alex and the Gambling Conference<br>
+      34:50 – Halloween Horror Nights<br>
+      38:33 – Mario + Rabids Kingdom Battle<br>
+      52:14 – Mailbag<br>
+      53:45 – What’s your favorite adaptation of games to another medium?<br>
+      1:00:30 – MC Hawking – <a href="https://www.youtube.com/watch?v=aXLIzk_7KCE">Quake Master</a><br>
+      1:03:18 – Guild Wars 2’s <a href="https://www.youtube.com/watch?v=Noh81HcovYY">Horrible Advertising</a></p></div>]]></description>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:summary>Alex returns from vacation bringing tales of the exotic and mystical Amsterdam!
+
+Show Notes:
+0:32 – Alex in the Netherlands
+23:55 – Alex and the Gambling Conference
+34:50 – Halloween Horror Nights
+38:33 – Mario + Rabids Kingdom Battle
+52:14 – Mailbag
+53:45 – What’s your favorite adaptation of games to another medium?
+1:00:30 – MC Hawking – Quake Master https://www.youtube.com/watch?v=aXLIzk_7KCE
+1:03:18 – Guild Wars 2’s Horrible Advertising – https://www.youtube.com/watch?v=Noh81HcovYY</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:07:32</itunes:duration>
+      <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png"/>
+      <enclosure url="http://spoilerwarning.net/spodcast/spodcast13.mp3" length="64828153" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>The Spodcast #12: TwitchCon, Dauntless, And Guild Wars 2</title>
       <dc:creator>The Spodcast</dc:creator>
       <pubDate>Thu, 31 Aug 2017 11:24:53 +0000</pubDate>
