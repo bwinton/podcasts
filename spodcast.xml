@@ -23,6 +23,35 @@
     </itunes:category>
     <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png"/>
     <item>
+      <title>The Spodcast #16: The Spooky Roundtable</title>
+      <dc:creator>The Spodcast</dc:creator>
+      <pubDate>Mon, 16 Oct 2017 11:24:53 +0000</pubDate>
+      <link>http://spoilerwarning.net/index.php/2017/10/16/the-spodcast-16-the-spooky-roundtable/</link>
+      <guid isPermaLink="false">http://spoilerwarning.net/index.php/2017/10/16/the-spodcast-16-the-spooky-roundtable/</guid>
+      <description><![CDATA[<div><p>This week on the Spodcast, we get spoopy as we discuss all the stuff we love and hate about Horror.</p>
+      <p>Show Notes:<br>
+      2:23 – An unrelated foray into more XCOM 2<br>
+      8:30 – Horror Roundtable<br>
+      9:15 – What’s Alex’s relationship with scary games?<br>
+      16:20 – What does Chris think about jumpscares?<br>
+      36:41 – Does Josh play horror games differently when he’s not recording?<br>
+      47:41 – Good jump scares</p></div>]]></description>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:summary>This week on the Spodcast, we get spoopy as we discuss all the stuff we love and hate about Horror.
+
+Show Notes:
+2:23 – An unrelated foray into more XCOM 2
+8:30 – Horror Roundtable
+9:15 – What’s Alex’s relationship with scary games?
+16:20 – What does Chris think about jumpscares?
+36:41 – Does Josh play horror games differently when he’s not recording?
+47:41 – Good jump scares</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:11:04</itunes:duration>
+      <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png"/>
+      <enclosure url="http://spoilerwarning.net/spodcast/spodcast16.mp3" length="68232405" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>The Spodcast #15: Wine, Bad Dates, Backlogs, and Hair Metal</title>
       <dc:creator>The Spodcast</dc:creator>
       <pubDate>Tue, 10 Oct 2017 11:24:53 +0000</pubDate>
