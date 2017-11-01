@@ -23,6 +23,31 @@
     </itunes:category>
     <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png"/>
     <item>
+      <title>The Spodcast #17: Halloween Horror Nights</title>
+      <dc:creator>The Spodcast</dc:creator>
+      <pubDate>Tue, 31 Oct 2017 11:24:53 +0000</pubDate>
+      <link>http://spoilerwarning.net/index.php/2017/10/31/the-spodcast-17-halloween-horror-nights/</link>
+      <guid isPermaLink="false">http://spoilerwarning.net/index.php/2017/10/31/the-spodcast-17-halloween-horror-nights/</guid>
+      <description><![CDATA[<div><p>It’s Halloween, so it’s the perfect time to talk about Halloween Haunted House Theme Parks! That’s right, it’s the Halloween Horror Nights edition of the Spodcast!</p>
+      <p>Show Notes:<br>
+      0:30 – The Rise of Bootskarn and Dampster<br>
+      1:39 – Halloween costumes<br>
+      5:12 – Alex and Josh fail at Halloween parties, get lost in Long Beach instead<br>
+      25:14 – Everything you ever wanted to know about Halloween Horror Nights</p></div>]]></description>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:summary>It’s Halloween, so it’s the perfect time to talk about Halloween Haunted House Theme Parks! That’s right, it’s the Halloween Horror Nights edition of the Spodcast!
+
+Show Notes:
+0:30 – The Rise of Bootskarn and Dampster
+1:39 – Halloween costumes
+5:12 – Alex and Josh fail at Halloween parties, get lost in Long Beach instead
+25:14 – Everything you ever wanted to know about Halloween Horror Nights</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:17:03</itunes:duration>
+      <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png"/>
+      <enclosure url="http://spoilerwarning.net/spodcast/spodcast17.mp3" length="73969498" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>The Spodcast #16: The Spooky Roundtable</title>
       <dc:creator>The Spodcast</dc:creator>
       <pubDate>Mon, 16 Oct 2017 11:24:53 +0000</pubDate>
