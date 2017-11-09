@@ -23,6 +23,41 @@
     </itunes:category>
     <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png"/>
     <item>
+      <title>The Spodcast #18: Fortnite, Ancient Egypt, And Chris Fieri</title>
+      <dc:creator>The Spodcast</dc:creator>
+      <pubDate>Wed, 8 Nov 2017 11:24:53 +0000</pubDate>
+      <link>http://spoilerwarning.net/index.php/2017/11/08/the-spodcast-18-fortnite-ancient-egypt-and-chris-fieri/</link>
+      <guid isPermaLink="false">http://spoilerwarning.net/index.php/2017/11/08/the-spodcast-18-fortnite-ancient-egypt-and-chris-fieri/</guid>
+      <description><![CDATA[<div><p>And just like that, a legend is born.</p>
+      <p>Show Notes:<br>
+      1:10 – Warframe: Plains of Eidolon<br>
+      18:42 – Assassin’s Creed: Origins<br>
+      40:33 – Fortnite: Battle Royale<br>
+      54:19 – Divinity: Original Sin 2<br>
+      1:08:22 – Mailbag<br>
+      1:09:05 – What does Chris think of Scott Pilgrim the comic, the game, the movie, the man?<br>
+      1:11:52 – How do you give feedback to a friend when you don’t like what they made?<br>
+      1:18:18 – What game had the most emotional effect on you?<br>
+      1:28:19 – Which does Chris hate most: Guy Fieri, the name “Spodcast,” or Yarny the Cute Little Yarn Monster?</p></div>]]></description>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:summary>And just like that, a legend is born.
+
+Show Notes:
+1:10 – Warframe: Plains of Eidolon
+18:42 – Assassin’s Creed: Origins
+40:33 – Fortnite: Battle Royale
+54:19 – Divinity: Original Sin 2
+1:08:22 – Mailbag
+1:09:05 – What does Chris think of Scott Pilgrim the comic, the game, the movie, the man?
+1:11:52 – How do you give feedback to a friend when you don’t like what they made?
+1:18:18 – What game had the most emotional effect on you?
+1:28:19 – Which does Chris hate most: Guy Fieri, the name “Spodcast,” or Yarny the Cute Little Yarn Monster?</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:31:20</itunes:duration>
+      <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png"/>
+      <enclosure url="http://spoilerwarning.net/spodcast/spodcast18.mp3" length="87678314" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>The Spodcast #17: Halloween Horror Nights</title>
       <dc:creator>The Spodcast</dc:creator>
       <pubDate>Tue, 31 Oct 2017 11:24:53 +0000</pubDate>
