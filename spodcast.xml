@@ -23,6 +23,26 @@
     </itunes:category>
     <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png"/>
     <item>
+      <title>Save vs. Death EP1: Attack of the Soup Monsters</title>
+      <dc:creator>The Spodcast</dc:creator>
+      <pubDate>Wed, 22 Nov 2017 11:24:53 +0000</pubDate>
+      <link>http://spoilerwarning.net/index.php/2017/11/23/save-vs-death-ep1-attack-of-the-soup-monsters/</link>
+      <guid isPermaLink="false">http://spoilerwarning.net/index.php/2017/11/23/save-vs-death-ep1-attack-of-the-soup-monsters/</guid>
+      <description><![CDATA[<div><p>This holiday season, it’s always good to remember what we’re thankful for. For example, that Dungeons and Dragons isn’t nearly as obtuse and inscrutable as it once was. And what better way to remind ourselves of that than to actually go back and try to play old D&amp;D?</p>
+        <p>Welcome to Save vs. Death, the series where Josh and Rutskarn attempt to survive a playthrough of Dungeons and Dragons 2nd edition! THAC0! Two completely different ways to multi-class! No encounter tables!</p>
+        <p>Will any of our stalwart hosts make it out alive?</p></div>]]></description>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:summary>This holiday season, it’s always good to remember what we’re thankful for. For example, that Dungeons and Dragons isn’t nearly as obtuse and inscrutable as it once was. And what better way to remind ourselves of that than to actually go back and try to play old D&amp;D?
+
+Welcome to Save vs. Death, the series where Josh and Rutskarn attempt to survive a playthrough of Dungeons and Dragons 2nd edition! THAC0! Two completely different ways to multi-class! No encounter tables!
+
+Will any of our stalwart hosts make it out alive?</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:27:22</itunes:duration>
+      <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png"/>
+      <enclosure url="http://spoilerwarning.net/spodcast/savevsdeath1.mp3" length="83876702" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>The Spodcast #18: Fortnite, Ancient Egypt, And Chris Fieri</title>
       <dc:creator>The Spodcast</dc:creator>
       <pubDate>Wed, 8 Nov 2017 11:24:53 +0000</pubDate>
