@@ -23,6 +23,29 @@
     </itunes:category>
     <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png"/>
     <item>
+      <title>The Spodcast #19: Sniffles, Gambling, and Orlando in Orlando</title>
+      <dc:creator>The Spodcast</dc:creator>
+      <pubDate>Fri, 01 Dec 2017 11:24:53 +0000</pubDate>
+      <link>http://spoilerwarning.net/index.php/2017/12/01/the-spodcast-19-sniffles-gambling-and-orlando-in-orlando/</link>
+      <guid isPermaLink="false">http://spoilerwarning.net/index.php/2017/12/01/the-spodcast-19-sniffles-gambling-and-orlando-in-orlando/</guid>
+      <description><![CDATA[<div><p>This week: Everyone’s sick, Alex invades Florida, and we muse over EA’s prodigious bungling of loot boxes and Star Wars.</p>
+      <p>Show Notes:<br>
+      1:38 – Alex Orlando was in Orlando<br>
+      28:20 – Battlefront 2, Loot Boxes, and Game Budgets<br>
+      57:16 – But what is Battlefield 2 like to play anyway?</p></div>]]></description>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:summary>This week: Everyone’s sick, Alex invades Florida, and we muse over EA’s prodigious bungling of loot boxes and Star Wars.
+
+Show Notes:
+1:38 – Alex Orlando was in Orlando
+28:20 – Battlefront 2, Loot Boxes, and Game Budgets
+57:16 – But what is Battlefield 2 like to play anyway?</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:07:19</itunes:duration>
+      <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png"/>
+      <enclosure url="http://spoilerwarning.net/spodcast/spodcast19.mp3" length="64627949" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Save vs. Death EP1: Attack of the Soup Monsters</title>
       <dc:creator>The Spodcast</dc:creator>
       <pubDate>Wed, 22 Nov 2017 11:24:53 +0000</pubDate>
