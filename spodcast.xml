@@ -23,6 +23,40 @@
     </itunes:category>
     <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png"/>
     <item>
+      <title>The Spodcast #20: Battle Royale!</title>
+      <dc:creator>The Spodcast</dc:creator>
+      <pubDate>Wed, 06 Dec 2017 11:24:53 +0000</pubDate>
+      <link>http://spoilerwarning.net/index.php/2017/12/06/the-spodcast-20-battle-royale/</link>
+      <guid isPermaLink="false">http://spoilerwarning.net/index.php/2017/12/06/the-spodcast-20-battle-royale/</guid>
+      <description><![CDATA[<div><p><b>This episode may make slightly more sense if you watch the video version…</b></p>
+      <p>Josh explores the afterlife, Chris gives in to road rage, and Alex and Glitch fight for their lives on this special episode of the Spodcast!</p>
+      <p>Show Notes:<br>
+      2:05 – Playstation VR Games<br>
+      16:53 – Battlerite<br>
+      23:12 – Animal Crossing Pocket Camp<br>
+      32:04 – The Elder Scrolls Legends<br>
+      33:10 – Kingdoms and Castles<br>
+      40:22 – Die Young<br>
+      44:41 – Divinity: Original Sin 2</p></div>]]></description>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:summary>This episode may make slightly more sense if you watch the video version…
+
+Josh explores the afterlife, Chris gives in to road rage, and Alex and Glitch fight for their lives on this special episode of the Spodcast!
+
+Show Notes:
+2:05 – Playstation VR Games
+16:53 – Battlerite
+23:12 – Animal Crossing Pocket Camp
+32:04 – The Elder Scrolls Legends
+33:10 – Kingdoms and Castles
+40:22 – Die Young
+44:41 – Divinity: Original Sin 2</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>52:47</itunes:duration>
+      <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png"/>
+      <enclosure url="http://spoilerwarning.net/spodcast/spodcast20.mp3" length="50677776" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>The Spodcast #19: Sniffles, Gambling, and Orlando in Orlando</title>
       <dc:creator>The Spodcast</dc:creator>
       <pubDate>Fri, 01 Dec 2017 11:24:53 +0000</pubDate>
