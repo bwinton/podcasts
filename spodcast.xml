@@ -23,6 +23,20 @@
     </itunes:category>
     <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png"/>
     <item>
+      <title>Save vs. Death EP2: The HackMaster Snafu</title>
+      <dc:creator>The Spodcast</dc:creator>
+      <pubDate>Fri, 12 Jan 2018 11:24:53 +0000</pubDate>
+      <link>http://spoilerwarning.net/index.php/2018/01/12/save-vs-death-ep2-the-hackmaster-snafu/</link>
+      <guid isPermaLink="false">http://spoilerwarning.net/index.php/2018/01/12/save-vs-death-ep2-the-hackmaster-snafu/</guid>
+      <description><![CDATA[<div><p>Jacob joins us as we take a detour from D&D 2 into a frightening glimpse at a system succinctly described as “AD&D if you set out to make it more convoluted.” It was not a wise decision.</p></div>]]></description>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:summary>Jacob joins us as we take a detour from D&amp;D 2 into a frightening glimpse at a system succinctly described as “AD&amp;D if you set out to make it more convoluted.” It was not a wise decision.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>49:36</itunes:duration>
+      <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png"/>
+      <enclosure url="http://spoilerwarning.net/spodcast/savevsdeath2.mp3" length="47611159" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>The Spodcast #22: Assassins, Indies, and Star Wars</title>
       <dc:creator>The Spodcast</dc:creator>
       <pubDate>Thu, 11 Jan 2018 11:24:53 +0000</pubDate>
