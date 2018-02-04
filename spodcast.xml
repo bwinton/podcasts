@@ -23,6 +23,23 @@
     </itunes:category>
     <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png"/>
     <item>
+      <title>Save vs. Death EP3: The Battle of Boot Hill</title>
+      <dc:creator>The Spodcast</dc:creator>
+      <pubDate>Fri, 2 Feb 2018 11:24:53 +0000</pubDate>
+      <link>http://spoilerwarning.net/index.php/2018/02/02/save-vs-death-ep3-the-battle-of-boot-hill/</link>
+      <guid isPermaLink="false">http://spoilerwarning.net/index.php/2018/02/02/save-vs-death-ep3-the-battle-of-boot-hill/</guid>
+      <description><![CDATA[<div><p>Alex and Josh are transported to the Old West for a Very Special Episode about Not Getting Into Gun Fights.</p>
+<p>Also, at request, I’ve added a separate RSS feed for Save vs. Death, so be sure to check that out if that’s your thing. Future episodes will be posted only in the Save vs. Death feed, and not in the Spodcast feed.</p></div>]]></description>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:summary>Alex and Josh are transported to the Old West for a Very Special Episode about Not Getting Into Gun Fights.
+
+Also, at request, I’ve added a separate RSS feed for Save vs. Death, so be sure to check that out if that’s your thing. Future episodes will be posted only in the Save vs. Death feed, and not in the Spodcast feed.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:26:43</itunes:duration>
+      <itunes:image href="https://bwinton.github.io/podcasts/spodcast/savevsdeath.png"/>
+      <enclosure url="http://spoilerwarning.net/spodcast/savevsdeath3.mp3" length="83247130" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>The Spodcast #23: Nintendo Direct Directly</title>
       <dc:creator>The Spodcast</dc:creator>
       <pubDate>Wed, 17 Jan 2018 11:24:53 +0000</pubDate>
@@ -83,7 +100,7 @@ Show Notes:
       <itunes:summary>Jacob joins us as we take a detour from D&amp;D 2 into a frightening glimpse at a system succinctly described as “AD&amp;D if you set out to make it more convoluted.” It was not a wise decision.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>49:36</itunes:duration>
-      <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png"/>
+      <itunes:image href="https://bwinton.github.io/podcasts/spodcast/savevsdeath.png"/>
       <enclosure url="http://spoilerwarning.net/spodcast/savevsdeath2.mp3" length="47611159" type="audio/mpeg"/>
     </item>
     <item>
@@ -233,7 +250,7 @@ Welcome to Save vs. Death, the series where Josh and Rutskarn attempt to survive
 Will any of our stalwart hosts make it out alive?</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>1:27:22</itunes:duration>
-      <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png"/>
+      <itunes:image href="https://bwinton.github.io/podcasts/spodcast/savevsdeath.png"/>
       <enclosure url="http://spoilerwarning.net/spodcast/savevsdeath1.mp3" length="83876702" type="audio/mpeg"/>
     </item>
     <item>
