@@ -23,6 +23,36 @@
     </itunes:category>
     <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png"/>
     <item>
+      <title>The Spodcast #24: The Infectious Madness of Video Game Lore</title>
+      <dc:creator>The Spodcast</dc:creator>
+      <pubDate>Tue, 13 Feb 2018 11:24:53 +0000</pubDate>
+      <link>http://spoilerwarning.net/index.php/2018/02/13/the-spodcast-24-the-infectious-madness-of-video-game-lore/</link>
+      <guid isPermaLink="false">http://spoilerwarning.net/index.php/2018/02/13/the-spodcast-24-the-infectious-madness-of-video-game-lore/</guid>
+      <description><![CDATA[<div><p>We go mildly insane in this episode of FMV games, Kingdom Hearts lore, and the Wild, Wild West.</p>
+<p>We’ve got a Discord now! Come hang out: <a href="https://discord.gg/mMupuCr">https://discord.gg/mMupuCr</a></p>
+<p>Show Notes:<br>
+0:59 – The Infectious Madness of Dr. Dekker<br>
+14:11 – The Kingdom Hearts Lore Singularity<br>
+27:32 – The Problem with Video Game Lore<br>
+40:50 – Golf Story<br>
+45:55 – Rutskarn’s Perfect Western Game</p></div>]]></description>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:summary>We go mildly insane in this episode of FMV games, Kingdom Hearts lore, and the Wild, Wild West.
+
+We’ve got a Discord now! Come hang out: https://discord.gg/mMupuCr
+
+Show Notes:
+0:59 – The Infectious Madness of Dr. Dekker
+14:11 – The Kingdom Hearts Lore Singularity
+27:32 – The Problem with Video Game Lore
+40:50 – Golf Story
+45:55 – Rutskarn’s Perfect Western Game</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:01:19</itunes:duration>
+      <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png"/>
+      <enclosure url="http://spoilerwarning.net/spodcast/spodcast24.mp3" length="58866796" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Save vs. Death EP3: The Battle of Boot Hill</title>
       <dc:creator>The Spodcast</dc:creator>
       <pubDate>Fri, 2 Feb 2018 11:24:53 +0000</pubDate>
