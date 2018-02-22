@@ -1,0 +1,10 @@
+[package]
+name = "podcasts"
+version = "0.1.0"
+authors = ["Blake Winton <bwinton@latte.ca>"]
+
+[dependencies]
+rayon = "1.0.0"
+reqwest = "0.8.5"
+rss = "1.0"
+select = "0.4.2"
