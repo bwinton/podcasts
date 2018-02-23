@@ -1,11 +1,9 @@
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>The Spodcast</title>
     <link>https://www.youtube.com/user/SpoilerWarningShow/videos</link>
     <description>Spoiler Warning, but audio-only</description>
     <language>en-US</language>
-    <atom:link href="https://bwinton.github.io/podcasts/spodcast.xml" rel="self" type="application/rss+xml">
-    </atom:link>
     <itunes:author>Josh, Chris, Rutskan, and Mumbles?</itunes:author>
     <itunes:category text="Games &amp; Hobbies">
       <itunes:category text="Video Games">
@@ -29,7 +27,7 @@
       </description>
       <enclosure url="http://spoilerwarning.net/spodcast/spodcastlive1.mp3" length="112437860" type="audio/mpeg"/>
       <guid isPermaLink="false">http://spoilerwarning.net/index.php/2018/02/21/the-spodcast-live-1/</guid>
-      <pubDate>Fri, 23 Feb 2018 18:43:16 GMT</pubDate>
+      <pubDate>Wed, 21 Feb 2018 02:55:20 +0000</pubDate>
       <itunes:author>The Spodcast</itunes:author>
       <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png">
       </itunes:image>
@@ -55,7 +53,7 @@ If you’re interested in catching the next live version of the Spodcast, you ca
       </description>
       <enclosure url="http://spoilerwarning.net/spodcast/spodcast24.mp3" length="58866796" type="audio/mpeg"/>
       <guid isPermaLink="false">http://spoilerwarning.net/index.php/2018/02/13/the-spodcast-24-the-infectious-madness-of-video-game-lore/</guid>
-      <pubDate>Fri, 23 Feb 2018 18:43:16 GMT</pubDate>
+      <pubDate>Tue, 13 Feb 2018 02:55:20 +0000</pubDate>
       <itunes:author>The Spodcast</itunes:author>
       <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png">
       </itunes:image>
@@ -77,17 +75,17 @@ Show Notes:
       <title>Save vs. Death EP3: The Battle of Boot Hill</title>
       <link>http://spoilerwarning.net/index.php/2018/02/02/save-vs-death-ep3-the-battle-of-boot-hill/</link>
       <description>
-        <![CDATA[<div><p>Alex and Josh are transported to the Old West for a Very Special Episode about Not Getting Into Gun Fights.</p>
-<p>Also, at request, I’ve added a separate RSS feed for Save vs. Death, so be sure to check that out if that’s your thing. Future episodes will be posted only in the Save vs. Death feed, and not in the Spodcast feed.</p></div>]]>
+        <![CDATA[<p>Alex and Josh are transported to the Old West for a Very Special Episode about Not Getting Into Gun Fights.</p>
+<p>Also, at request, I’ve added a separate RSS feed for Save vs. Death, so be sure to check that out if that’s your thing. Future episodes will be posted only in the Save vs. Death feed, and not in the Spodcast feed.</p>]]>
       </description>
       <enclosure url="http://spoilerwarning.net/spodcast/savevsdeath3.mp3" length="83247130" type="audio/mpeg"/>
       <guid isPermaLink="false">http://spoilerwarning.net/index.php/2018/02/02/save-vs-death-ep3-the-battle-of-boot-hill/</guid>
-      <pubDate>Fri, 2 Feb 2018 11:24:53 +0000</pubDate>
-      <itunes:author>The Diecast</itunes:author>
-      <itunes:image href="https://bwinton.github.io/podcasts/spodcast/savevsdeath.png">
+      <pubDate>Fri, 2 Feb 2018 02:55:20 +0000</pubDate>
+      <itunes:author>The Spodcast</itunes:author>
+      <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png">
       </itunes:image>
-      <itunes:duration>1:26:43</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:26:42</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
       <itunes:summary>Alex and Josh are transported to the Old West for a Very Special Episode about Not Getting Into Gun Fights.
 
 Also, at request, I’ve added a separate RSS feed for Save vs. Death, so be sure to check that out if that’s your thing. Future episodes will be posted only in the Save vs. Death feed, and not in the Spodcast feed.</itunes:summary>
@@ -97,33 +95,33 @@ Also, at request, I’ve added a separate RSS feed for Save vs. Death, so be sur
       <title>The Spodcast #23: Nintendo Direct Directly</title>
       <link>http://spoilerwarning.net/index.php/2018/01/17/the-spodcast-23-nintendo-direct-directly/</link>
       <description>
-        <![CDATA[<div><p>Nintendo dropped a Direct last week, and we spend over an hour talking about it. Also, Chris reveals his dark Virtual Boy trauma!</p>
-      <p>We’ve got a Discord now! Come hang out: <a href="https://discord.gg/mMupuCr">https://discord.gg/mMupuCr</a></p>
-      <p>Show Notes:<br>
-        1:04 – Nintendo DLC<br>
-        10:20 – Hyrule Warriors<br>
-        14:29 – Donkey Kong Country: Tropical Freeze<br>
-        18:41 – The World Ends With You<br>
-        21:22 – Payday 2?<br>
-        25:02 – Dark Souls<br>
-        33:08 – SNK Heroines: Tag Team Frenzy<br>
-        42:04 – Ys VIII: Lacrimosa of Dana<br>
-        43:24 – Mario Tennis<br>
-        44:24 – Chris vs The Virtual Boy<br>
-        47:57 – Kirby Star Allies<br>
-        51:10 – Fe and Celeste<br>
-        52:08 – The end of the 3DS?<br>
-        57:50 – Switch Online Service<br>
-        1:05:57 – Oh shit it’s 2018</p></div>]]>
+        <![CDATA[<p>Nintendo dropped a Direct last week, and we spend over an hour talking about it. Also, Chris reveals his dark Virtual Boy trauma!</p>
+<p>We’ve got a Discord now! Come hang out: <a href="https://discord.gg/mMupuCr">https://discord.gg/mMupuCr</a></p>
+<p>Show Notes:<br>
+1:04 – Nintendo DLC<br>
+10:20 – Hyrule Warriors<br>
+14:29 – Donkey Kong Country: Tropical Freeze<br>
+18:41 – The World Ends With You<br>
+21:22 – Payday 2?<br>
+25:02 – Dark Souls<br>
+33:08 – SNK Heroines: Tag Team Frenzy<br>
+42:04 – Ys VIII: Lacrimosa of Dana<br>
+43:24 – Mario Tennis<br>
+44:24 – Chris vs The Virtual Boy<br>
+47:57 – Kirby Star Allies<br>
+51:10 – Fe and Celeste<br>
+52:08 – The end of the 3DS?<br>
+57:50 – Switch Online Service<br>
+1:05:57 – Oh shit it’s 2018</p>]]>
       </description>
       <enclosure url="http://spoilerwarning.net/spodcast/spodcast23.mp3" length="68007899" type="audio/mpeg"/>
       <guid isPermaLink="false">http://spoilerwarning.net/index.php/2018/01/17/the-spodcast-23-nintendo-direct-directly/</guid>
-      <pubDate>Wed, 17 Jan 2018 11:24:53 +0000</pubDate>
-      <itunes:author>The Diecast</itunes:author>
+      <pubDate>Wed, 17 Jan 2018 02:55:20 +0000</pubDate>
+      <itunes:author>The Spodcast</itunes:author>
       <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png">
       </itunes:image>
       <itunes:duration>1:10:50</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>No</itunes:explicit>
       <itunes:summary>Nintendo dropped a Direct last week, and we spend over an hour talking about it. Also, Chris reveals his dark Virtual Boy trauma!
 
 We’ve got a Discord now! Come hang out: https://discord.gg/mMupuCr
@@ -150,43 +148,43 @@ Show Notes:
       <title>Save vs. Death EP2: The HackMaster Snafu</title>
       <link>http://spoilerwarning.net/index.php/2018/01/12/save-vs-death-ep2-the-hackmaster-snafu/</link>
       <description>
-        <![CDATA[<div><p>Jacob joins us as we take a detour from D&D 2 into a frightening glimpse at a system succinctly described as “AD&D if you set out to make it more convoluted.” It was not a wise decision.</p></div>]]>
+        <![CDATA[<p>Jacob joins us as we take a detour from D&amp;D 2 into a frightening glimpse at a system succinctly described as  “AD&amp;D if you set out to make it more convoluted.” It was not a wise decision.</p>]]>
       </description>
       <enclosure url="http://spoilerwarning.net/spodcast/savevsdeath2.mp3" length="47611159" type="audio/mpeg"/>
       <guid isPermaLink="false">http://spoilerwarning.net/index.php/2018/01/12/save-vs-death-ep2-the-hackmaster-snafu/</guid>
-      <pubDate>Fri, 12 Jan 2018 11:24:53 +0000</pubDate>
-      <itunes:author>The Diecast</itunes:author>
-      <itunes:image href="https://bwinton.github.io/podcasts/spodcast/savevsdeath.png">
+      <pubDate>Fri, 12 Jan 2018 02:55:20 +0000</pubDate>
+      <itunes:author>The Spodcast</itunes:author>
+      <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png">
       </itunes:image>
-      <itunes:duration>49:36</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:summary>Jacob joins us as we take a detour from D&amp;D 2 into a frightening glimpse at a system succinctly described as “AD&amp;D if you set out to make it more convoluted.” It was not a wise decision.</itunes:summary>
+      <itunes:duration>49:35</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>Jacob joins us as we take a detour from D&amp;D 2 into a frightening glimpse at a system succinctly described as  “AD&amp;D if you set out to make it more convoluted.” It was not a wise decision.</itunes:summary>
       <dc:creator>The Spodcast</dc:creator>
     </item>
     <item>
       <title>The Spodcast #22: Assassins, Indies, and Star Wars</title>
       <link>http://spoilerwarning.net/index.php/2018/01/11/the-spodcast-22-assassins-indies-and-star-wars/</link>
       <description>
-        <![CDATA[<div><p>We talk about The Last Jedi in full spoiler mode! Also, we discuss Assassins, Indie Games, Indie Hipsters, and the fearsome Galaxy Gun.</p>
-      <p>We’ve got a Discord now! Come hang out: <a href="https://discord.gg/mMupuCr">https://discord.gg/mMupuCr</a></p>
-      <p>Show Notes:<br>
-        1:24 – Patreon and Format Changes<br>
-        7:45 – The Last Jedi (SPOILERS)<br>
-        47:27 – Battle Chasers<br>
-        52:52 – Slay the Spire<br>
-        58:14 – Assassin’s Creed: Origins<br>
-        1:11:55 – Mr. Shifty<br>
-        1:12:50 – Opus Magnum<br>
-        1:18:00 – The Disaster Artist and <a href="https://youtu.be/dXlao2KNYjQ" rel="noopener" target="_blank">Star Wars with Tommy Wiseau</a></p></div>]]>
+        <![CDATA[<p>We talk about The Last Jedi in full spoiler mode! Also, we discuss Assassins, Indie Games, Indie Hipsters, and the fearsome Galaxy Gun.</p>
+<p>We’ve got a Discord now! Come hang out: <a href="https://discord.gg/mMupuCr">https://discord.gg/mMupuCr</a></p>
+<p>Show Notes:<br>
+1:24 – Patreon and Format Changes<br>
+7:45 – The Last Jedi (SPOILERS)<br>
+47:27 – Battle Chasers<br>
+52:52 – Slay the Spire<br>
+58:14 – Assassin’s Creed: Origins<br>
+1:11:55 – Mr. Shifty<br>
+1:12:50 – Opus Magnum<br>
+1:18:00 – The Disaster Artist and <a href="https://youtu.be/dXlao2KNYjQ" rel="noopener" target="_blank">Star Wars with Tommy Wiseau</a></p>]]>
       </description>
       <enclosure url="http://spoilerwarning.net/spodcast/spodcast22.mp3" length="76350691" type="audio/mpeg"/>
       <guid isPermaLink="false">http://spoilerwarning.net/index.php/2018/01/11/the-spodcast-22-assassins-indies-and-star-wars/</guid>
-      <pubDate>Thu, 11 Jan 2018 11:24:53 +0000</pubDate>
-      <itunes:author>The Diecast</itunes:author>
+      <pubDate>Thu, 11 Jan 2018 02:55:20 +0000</pubDate>
+      <itunes:author>The Spodcast</itunes:author>
       <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png">
       </itunes:image>
-      <itunes:duration>1:19:32</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:19:31</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
       <itunes:summary>We talk about The Last Jedi in full spoiler mode! Also, we discuss Assassins, Indie Games, Indie Hipsters, and the fearsome Galaxy Gun.
 
 We’ve got a Discord now! Come hang out: https://discord.gg/mMupuCr
@@ -206,27 +204,27 @@ Show Notes:
       <title>The Spodcast #21: 2017’s Games of the Year</title>
       <link>http://spoilerwarning.net/index.php/2017/12/21/the-spodcast-21-2017s-games-of-the-year/</link>
       <description>
-        <![CDATA[<div><p>We look back on some of 2017’s greatest games, and a few of its most terrible blunders.</p>
-      <p>Show Notes:<br>
-        2:15 – PLAYERUNKNOWN’S BATTLEGROUNDS<br>
-        12:04 – Fortnite<br>
-        18:54 – Loot Boxes<br>
-        43:10 – Horizon: Zero Dawn and Assassin’s Creed: Origins<br>
-        56:52 – The Legend of Zelda: Breath of the Wild<br>
-        1:05:43 – Night in the Woods<br>
-        1:14:04 – Heat Signature<br>
-        1:21:37 – Hellblade: Senua’s Sacrifice<br>
-        1:31:10 – City of Brass<br>
-        1:34:30 – Prey</p></div>]]>
+        <![CDATA[<p>We look back on some of 2017’s greatest games, and a few of its most terrible blunders.</p>
+<p>Show Notes:<br>
+2:15 – PLAYERUNKNOWN’S BATTLEGROUNDS<br>
+12:04 – Fortnite<br>
+18:54 – Loot Boxes<br>
+43:10 – Horizon: Zero Dawn and Assassin’s Creed: Origins<br>
+56:52 – The Legend of Zelda: Breath of the Wild<br>
+1:05:43 – Night in the Woods<br>
+1:14:04 – Heat Signature<br>
+1:21:37 – Hellblade: Senua’s Sacrifice<br>
+1:31:10 – City of Brass<br>
+1:34:30 – Prey</p>]]>
       </description>
       <enclosure url="http://spoilerwarning.net/spodcast/spodcast21.mp3" length="96594203" type="audio/mpeg"/>
       <guid isPermaLink="false">http://spoilerwarning.net/index.php/2017/12/21/the-spodcast-21-2017s-games-of-the-year/</guid>
-      <pubDate>Thu, 21 Dec 2017 11:24:53 +0000</pubDate>
-      <itunes:author>The Diecast</itunes:author>
+      <pubDate>Thu, 21 Dec 2017 02:55:20 +0000</pubDate>
+      <itunes:author>The Spodcast</itunes:author>
       <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png">
       </itunes:image>
       <itunes:duration>1:40:37</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>No</itunes:explicit>
       <itunes:summary>We look back on some of 2017’s greatest games, and a few of its most terrible blunders.
 
 Show Notes:
@@ -246,25 +244,25 @@ Show Notes:
       <title>The Spodcast #20: Battle Royale!</title>
       <link>http://spoilerwarning.net/index.php/2017/12/06/the-spodcast-20-battle-royale/</link>
       <description>
-        <![CDATA[<div><p><b>This episode may make slightly more sense if you watch the video version…</b></p>
-      <p>Josh explores the afterlife, Chris gives in to road rage, and Alex and Glitch fight for their lives on this special episode of the Spodcast!</p>
-      <p>Show Notes:<br>
-        2:05 – Playstation VR Games<br>
-        16:53 – Battlerite<br>
-        23:12 – Animal Crossing Pocket Camp<br>
-        32:04 – The Elder Scrolls Legends<br>
-        33:10 – Kingdoms and Castles<br>
-        40:22 – Die Young<br>
-        44:41 – Divinity: Original Sin 2</p></div>]]>
+        <![CDATA[<p><b>This episode may make slightly more sense if you watch the video version…</b></p>
+<p>Josh explores the afterlife, Chris gives in to road rage, and Alex and Glitch fight for their lives on this special episode of the Spodcast!</p>
+<p>Show Notes:<br>
+2:05 – Playstation VR Games<br>
+16:53 – Battlerite<br>
+23:12 – Animal Crossing Pocket Camp<br>
+32:04 – The Elder Scrolls Legends<br>
+33:10 – Kingdoms and Castles<br>
+40:22 – Die Young<br>
+44:41 – Divinity: Original Sin 2</p>]]>
       </description>
       <enclosure url="http://spoilerwarning.net/spodcast/spodcast20.mp3" length="50677776" type="audio/mpeg"/>
       <guid isPermaLink="false">http://spoilerwarning.net/index.php/2017/12/06/the-spodcast-20-battle-royale/</guid>
-      <pubDate>Wed, 06 Dec 2017 11:24:53 +0000</pubDate>
-      <itunes:author>The Diecast</itunes:author>
+      <pubDate>Wed, 6 Dec 2017 02:55:20 +0000</pubDate>
+      <itunes:author>The Spodcast</itunes:author>
       <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png">
       </itunes:image>
       <itunes:duration>52:47</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>No</itunes:explicit>
       <itunes:summary>This episode may make slightly more sense if you watch the video version…
 
 Josh explores the afterlife, Chris gives in to road rage, and Alex and Glitch fight for their lives on this special episode of the Spodcast!
@@ -283,20 +281,20 @@ Show Notes:
       <title>The Spodcast #19: Sniffles, Gambling, and Orlando in Orlando</title>
       <link>http://spoilerwarning.net/index.php/2017/12/01/the-spodcast-19-sniffles-gambling-and-orlando-in-orlando/</link>
       <description>
-        <![CDATA[<div><p>This week: Everyone’s sick, Alex invades Florida, and we muse over EA’s prodigious bungling of loot boxes and Star Wars.</p>
-      <p>Show Notes:<br>
-        1:38 – Alex Orlando was in Orlando<br>
-        28:20 – Battlefront 2, Loot Boxes, and Game Budgets<br>
-        57:16 – But what is Battlefield 2 like to play anyway?</p></div>]]>
+        <![CDATA[<p>This week: Everyone’s sick, Alex invades Florida, and we muse over EA’s prodigious bungling of loot boxes and Star Wars.</p>
+<p>Show Notes:<br>
+1:38 – Alex Orlando was in Orlando<br>
+28:20 – Battlefront 2, Loot Boxes, and Game Budgets<br>
+57:16 – But what is Battlefield 2 like to play anyway?</p>]]>
       </description>
       <enclosure url="http://spoilerwarning.net/spodcast/spodcast19.mp3" length="64627949" type="audio/mpeg"/>
       <guid isPermaLink="false">http://spoilerwarning.net/index.php/2017/12/01/the-spodcast-19-sniffles-gambling-and-orlando-in-orlando/</guid>
-      <pubDate>Fri, 01 Dec 2017 11:24:53 +0000</pubDate>
-      <itunes:author>The Diecast</itunes:author>
+      <pubDate>Fri, 1 Dec 2017 02:55:20 +0000</pubDate>
+      <itunes:author>The Spodcast</itunes:author>
       <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png">
       </itunes:image>
       <itunes:duration>1:07:19</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>No</itunes:explicit>
       <itunes:summary>This week: Everyone’s sick, Alex invades Florida, and we muse over EA’s prodigious bungling of loot boxes and Star Wars.
 
 Show Notes:
@@ -309,18 +307,18 @@ Show Notes:
       <title>Save vs. Death EP1: Attack of the Soup Monsters</title>
       <link>http://spoilerwarning.net/index.php/2017/11/23/save-vs-death-ep1-attack-of-the-soup-monsters/</link>
       <description>
-        <![CDATA[<div><p>This holiday season, it’s always good to remember what we’re thankful for. For example, that Dungeons and Dragons isn’t nearly as obtuse and inscrutable as it once was. And what better way to remind ourselves of that than to actually go back and try to play old D&amp;D?</p>
-        <p>Welcome to Save vs. Death, the series where Josh and Rutskarn attempt to survive a playthrough of Dungeons and Dragons 2nd edition! THAC0! Two completely different ways to multi-class! No encounter tables!</p>
-        <p>Will any of our stalwart hosts make it out alive?</p></div>]]>
+        <![CDATA[<p>This holiday season, it’s always good to remember what we’re thankful for. For example, that Dungeons and Dragons isn’t nearly as obtuse and inscrutable as it once was. And what better way to remind ourselves of that than to actually go back and try to play old D&amp;D? </p>
+<p>Welcome to Save vs. Death, the series where Josh and Rutskarn attempt to survive a playthrough of Dungeons and Dragons 2nd edition! THAC0! Two completely different ways to multi-class! No encounter tables! </p>
+<p>Will any of our stalwart hosts make it out alive?</p>]]>
       </description>
       <enclosure url="http://spoilerwarning.net/spodcast/savevsdeath1.mp3" length="83876702" type="audio/mpeg"/>
       <guid isPermaLink="false">http://spoilerwarning.net/index.php/2017/11/23/save-vs-death-ep1-attack-of-the-soup-monsters/</guid>
-      <pubDate>Wed, 22 Nov 2017 11:24:53 +0000</pubDate>
-      <itunes:author>The Diecast</itunes:author>
-      <itunes:image href="https://bwinton.github.io/podcasts/spodcast/savevsdeath.png">
+      <pubDate>Thu, 23 Nov 2017 02:55:20 +0000</pubDate>
+      <itunes:author>The Spodcast</itunes:author>
+      <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png">
       </itunes:image>
       <itunes:duration>1:27:22</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>No</itunes:explicit>
       <itunes:summary>This holiday season, it’s always good to remember what we’re thankful for. For example, that Dungeons and Dragons isn’t nearly as obtuse and inscrutable as it once was. And what better way to remind ourselves of that than to actually go back and try to play old D&amp;D?
 
 Welcome to Save vs. Death, the series where Josh and Rutskarn attempt to survive a playthrough of Dungeons and Dragons 2nd edition! THAC0! Two completely different ways to multi-class! No encounter tables!
@@ -332,26 +330,26 @@ Will any of our stalwart hosts make it out alive?</itunes:summary>
       <title>The Spodcast #18: Fortnite, Ancient Egypt, And Chris Fieri</title>
       <link>http://spoilerwarning.net/index.php/2017/11/08/the-spodcast-18-fortnite-ancient-egypt-and-chris-fieri/</link>
       <description>
-        <![CDATA[<div><p>And just like that, a legend is born.</p>
-      <p>Show Notes:<br>
-        1:10 – Warframe: Plains of Eidolon<br>
-        18:42 – Assassin’s Creed: Origins<br>
-        40:33 – Fortnite: Battle Royale<br>
-        54:19 – Divinity: Original Sin 2<br>
-        1:08:22 – Mailbag<br>
-        1:09:05 – What does Chris think of Scott Pilgrim the comic, the game, the movie, the man?<br>
-        1:11:52 – How do you give feedback to a friend when you don’t like what they made?<br>
-        1:18:18 – What game had the most emotional effect on you?<br>
-        1:28:19 – Which does Chris hate most: Guy Fieri, the name “Spodcast,” or Yarny the Cute Little Yarn Monster?</p></div>]]>
+        <![CDATA[<p>And just like that, a legend is born.</p>
+<p>Show Notes:<br>
+1:10 – Warframe: Plains of Eidolon<br>
+18:42 – Assassin’s Creed: Origins<br>
+40:33 – Fortnite: Battle Royale<br>
+54:19 – Divinity: Original Sin 2<br>
+1:08:22 – Mailbag<br>
+1:09:05 – What does Chris think of Scott Pilgrim the comic, the game, the movie, the man?<br>
+1:11:52 – How do you give feedback to a friend when you don’t like what they made?<br>
+1:18:18 – What game had the most emotional effect on you?<br>
+1:28:19 – Which does Chris hate most: Guy Fieri, the name “Spodcast,” or Yarny the Cute Little Yarn Monster?</p>]]>
       </description>
       <enclosure url="http://spoilerwarning.net/spodcast/spodcast18.mp3" length="87678314" type="audio/mpeg"/>
       <guid isPermaLink="false">http://spoilerwarning.net/index.php/2017/11/08/the-spodcast-18-fortnite-ancient-egypt-and-chris-fieri/</guid>
-      <pubDate>Wed, 8 Nov 2017 11:24:53 +0000</pubDate>
-      <itunes:author>The Diecast</itunes:author>
+      <pubDate>Wed, 8 Nov 2017 02:55:20 +0000</pubDate>
+      <itunes:author>The Spodcast</itunes:author>
       <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png">
       </itunes:image>
-      <itunes:duration>1:31:20</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:31:19</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
       <itunes:summary>And just like that, a legend is born.
 
 Show Notes:
@@ -370,21 +368,21 @@ Show Notes:
       <title>The Spodcast #17: Halloween Horror Nights</title>
       <link>http://spoilerwarning.net/index.php/2017/10/31/the-spodcast-17-halloween-horror-nights/</link>
       <description>
-        <![CDATA[<div><p>It’s Halloween, so it’s the perfect time to talk about Halloween Haunted House Theme Parks! That’s right, it’s the Halloween Horror Nights edition of the Spodcast!</p>
-      <p>Show Notes:<br>
-        0:30 – The Rise of Bootskarn and Dampster<br>
-        1:39 – Halloween costumes<br>
-        5:12 – Alex and Josh fail at Halloween parties, get lost in Long Beach instead<br>
-        25:14 – Everything you ever wanted to know about Halloween Horror Nights</p></div>]]>
+        <![CDATA[<p>It’s Halloween, so it’s the perfect time to talk about Halloween Haunted House Theme Parks! That’s right, it’s the Halloween Horror Nights edition of the Spodcast!</p>
+<p>Show Notes:<br>
+0:30 – The Rise of Bootskarn and Dampster<br>
+1:39 – Halloween costumes<br>
+5:12 – Alex and Josh fail at Halloween parties, get lost in Long Beach instead<br>
+25:14 – Everything you ever wanted to know about Halloween Horror Nights</p>]]>
       </description>
       <enclosure url="http://spoilerwarning.net/spodcast/spodcast17.mp3" length="73969498" type="audio/mpeg"/>
       <guid isPermaLink="false">http://spoilerwarning.net/index.php/2017/10/31/the-spodcast-17-halloween-horror-nights/</guid>
-      <pubDate>Tue, 31 Oct 2017 11:24:53 +0000</pubDate>
-      <itunes:author>The Diecast</itunes:author>
+      <pubDate>Tue, 31 Oct 2017 02:55:20 +0000</pubDate>
+      <itunes:author>The Spodcast</itunes:author>
       <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png">
       </itunes:image>
       <itunes:duration>1:17:03</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>No</itunes:explicit>
       <itunes:summary>It’s Halloween, so it’s the perfect time to talk about Halloween Haunted House Theme Parks! That’s right, it’s the Halloween Horror Nights edition of the Spodcast!
 
 Show Notes:
@@ -398,23 +396,23 @@ Show Notes:
       <title>The Spodcast #16: The Spooky Roundtable</title>
       <link>http://spoilerwarning.net/index.php/2017/10/16/the-spodcast-16-the-spooky-roundtable/</link>
       <description>
-        <![CDATA[<div><p>This week on the Spodcast, we get spoopy as we discuss all the stuff we love and hate about Horror.</p>
-      <p>Show Notes:<br>
-        2:23 – An unrelated foray into more XCOM 2<br>
-        8:30 – Horror Roundtable<br>
-        9:15 – What’s Alex’s relationship with scary games?<br>
-        16:20 – What does Chris think about jumpscares?<br>
-        36:41 – Does Josh play horror games differently when he’s not recording?<br>
-        47:41 – Good jump scares</p></div>]]>
+        <![CDATA[<p>This week on the Spodcast, we get spoopy as we discuss all the stuff we love and hate about Horror.</p>
+<p>Show Notes:<br>
+2:23 – An unrelated foray into more XCOM 2<br>
+8:30 – Horror Roundtable<br>
+9:15 – What’s Alex’s relationship with scary games?<br>
+16:20 – What does Chris think about jumpscares?<br>
+36:41 – Does Josh play horror games differently when he’s not recording?<br>
+47:41 – Good jump scares</p>]]>
       </description>
       <enclosure url="http://spoilerwarning.net/spodcast/spodcast16.mp3" length="68232405" type="audio/mpeg"/>
       <guid isPermaLink="false">http://spoilerwarning.net/index.php/2017/10/16/the-spodcast-16-the-spooky-roundtable/</guid>
-      <pubDate>Mon, 16 Oct 2017 11:24:53 +0000</pubDate>
-      <itunes:author>The Diecast</itunes:author>
+      <pubDate>Mon, 16 Oct 2017 02:55:20 +0000</pubDate>
+      <itunes:author>The Spodcast</itunes:author>
       <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png">
       </itunes:image>
       <itunes:duration>1:11:04</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>No</itunes:explicit>
       <itunes:summary>This week on the Spodcast, we get spoopy as we discuss all the stuff we love and hate about Horror.
 
 Show Notes:
@@ -430,27 +428,27 @@ Show Notes:
       <title>The Spodcast #15: Wine, Bad Dates, Backlogs, and Hair Metal</title>
       <link>http://spoilerwarning.net/index.php/2017/10/10/the-spodcast-15-wine-bad-dates-backlogs-and-hair-metal/</link>
       <description>
-        <![CDATA[<div><p>Mumbles returns to tell us about Mystic Messenger, we discuss our massive Steam backlogs, get abducted by aliens, and try to remember the names of obscure hair metal bands on this jam-packed episode of the Spodcast!</p>
-      <p>Show Notes:<br>
-        0:41 – Danganronpa<br>
-        8:25 – Alex did a Warframe charity stream<br>
-        10:30 – Ruiner<br>
-        16:35 – Mystic Messenger V Route<br>
-        25:43 – Wine and Painting<br>
-        32:12 – Cuphead<br>
-        39:22 – Stories Untold<br>
-        43:30 – Heat Signature<br>
-        47:13 – XCOM 2: War of the Chosen<br>
-        1:08:25 – Mailbag: “What do you think of all the games you buy but don’t ever get around to playing?”</p></div>]]>
+        <![CDATA[<p>Mumbles returns to tell us about Mystic Messenger, we discuss our massive Steam backlogs, get abducted by aliens, and try to remember the names of obscure hair metal bands on this jam-packed episode of the Spodcast!</p>
+<p>Show Notes:<br>
+0:41 – Danganronpa<br>
+8:25 – Alex did a Warframe charity stream<br>
+10:30 – Ruiner<br>
+16:35 – Mystic Messenger V Route<br>
+25:43 – Wine and Painting<br>
+32:12 – Cuphead<br>
+39:22 – Stories Untold<br>
+43:30 – Heat Signature<br>
+47:13 – XCOM 2: War of the Chosen<br>
+1:08:25 – Mailbag: “What do you think of all the games you buy but don’t ever get around to playing?”</p>]]>
       </description>
       <enclosure url="http://spoilerwarning.net/spodcast/spodcast15.mp3" length="86972043" type="audio/mpeg"/>
       <guid isPermaLink="false">http://spoilerwarning.net/index.php/2017/10/10/the-spodcast-15-wine-bad-dates-backlogs-and-hair-metal/</guid>
-      <pubDate>Tue, 10 Oct 2017 11:24:53 +0000</pubDate>
-      <itunes:author>The Diecast</itunes:author>
+      <pubDate>Tue, 10 Oct 2017 02:55:20 +0000</pubDate>
+      <itunes:author>The Spodcast</itunes:author>
       <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png">
       </itunes:image>
-      <itunes:duration>1:30:36</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:30:35</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
       <itunes:summary>Mumbles returns to tell us about Mystic Messenger, we discuss our massive Steam backlogs, get abducted by aliens, and try to remember the names of obscure hair metal bands on this jam-packed episode of the Spodcast!
 
 Show Notes:
@@ -470,22 +468,22 @@ Show Notes:
       <title>The Spodcast #14: Star Trek And Erotic Questions</title>
       <link>http://spoilerwarning.net/index.php/2017/10/05/the-spodcast-14-star-trek-and-erotic-questions/</link>
       <description>
-        <![CDATA[<div><p>Things get spicy in space in this installment of the Spodcast!</p>
-      <p>Show Notes:<br>
-        1:16 – Star Trek Discovery Pilot Discussion (SPOILERS!)<br>
-        35:21 – Mailbag<br>
-        37:10 – Have you tried erotic games funded by Patreon?<br>
-        45:15 – Do you have any thoughts on a game’s ending being decided by player choice vs player action?<br>
-        55:00 – Are you aware of the homebrew erotic game genre?</p></div>]]>
+        <![CDATA[<p>Things get spicy in space in this installment of the Spodcast!</p>
+<p>Show Notes:<br>
+1:16 – Star Trek Discovery Pilot Discussion (SPOILERS!)<br>
+35:21 – Mailbag<br>
+37:10 – Have you tried erotic games funded by Patreon?<br>
+45:15 – Do you have any thoughts on a game’s ending being decided by player choice vs player action?<br>
+55:00 – Are you aware of the homebrew erotic game genre?</p>]]>
       </description>
       <enclosure url="http://spoilerwarning.net/spodcast/spodcast14.mp3" length="68326455" type="audio/mpeg"/>
       <guid isPermaLink="false">http://spoilerwarning.net/index.php/2017/10/05/the-spodcast-14-star-trek-and-erotic-questions/</guid>
-      <pubDate>Thu, 5 Oct 2017 11:24:53 +0000</pubDate>
-      <itunes:author>The Diecast</itunes:author>
+      <pubDate>Thu, 5 Oct 2017 02:55:20 +0000</pubDate>
+      <itunes:author>The Spodcast</itunes:author>
       <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png">
       </itunes:image>
       <itunes:duration>1:11:10</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>No</itunes:explicit>
       <itunes:summary>Things get spicy in space in this installment of the Spodcast!
 
 Show Notes:
@@ -500,25 +498,25 @@ Show Notes:
       <title>The Spodcast #13: Gambling, Rabbids, and The Amazing Netherlands</title>
       <link>http://spoilerwarning.net/index.php/2017/09/19/the-spodcast-13-gambling-rabbids-and-the-amazing-netherlands/</link>
       <description>
-        <![CDATA[<div><p>Alex returns from vacation bringing tales of the exotic and mystical Amsterdam!</p>
-      <p>Show Notes:<br>
-        0:32 – Alex in the Netherlands<br>
-        23:55 – Alex and the Gambling Conference<br>
-        34:50 – Halloween Horror Nights<br>
-        38:33 – Mario + Rabids Kingdom Battle<br>
-        52:14 – Mailbag<br>
-        53:45 – What’s your favorite adaptation of games to another medium?<br>
-        1:00:30 – MC Hawking – <a href="https://www.youtube.com/watch?v=aXLIzk_7KCE">Quake Master</a><br>
-        1:03:18 – Guild Wars 2’s <a href="https://www.youtube.com/watch?v=Noh81HcovYY">Horrible Advertising</a></p></div>]]>
+        <![CDATA[<p>Alex returns from vacation bringing tales of the exotic and mystical Amsterdam!</p>
+<p>Show Notes:<br>
+0:32 – Alex in the Netherlands<br>
+23:55 – Alex and the Gambling Conference<br>
+34:50 – Halloween Horror Nights<br>
+38:33 – Mario + Rabids Kingdom Battle<br>
+52:14 – Mailbag<br>
+53:45 – What’s your favorite adaptation of games to another medium?<br>
+1:00:30 – MC Hawking – Quake Master https://www.youtube.com/watch?v=aXLIzk_7KCE<br>
+1:03:18 – Guild Wars 2’s Horrible Advertising – https://www.youtube.com/watch?v=Noh81HcovYY</p>]]>
       </description>
       <enclosure url="http://spoilerwarning.net/spodcast/spodcast13.mp3" length="64828153" type="audio/mpeg"/>
       <guid isPermaLink="false">http://spoilerwarning.net/index.php/2017/09/19/the-spodcast-13-gambling-rabbids-and-the-amazing-netherlands/</guid>
-      <pubDate>Tue, 19 Sep 2017 11:24:53 +0000</pubDate>
-      <itunes:author>The Diecast</itunes:author>
+      <pubDate>Tue, 19 Sep 2017 02:55:20 +0000</pubDate>
+      <itunes:author>The Spodcast</itunes:author>
       <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png">
       </itunes:image>
-      <itunes:duration>1:07:32</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:07:31</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
       <itunes:summary>Alex returns from vacation bringing tales of the exotic and mystical Amsterdam!
 
 Show Notes:
@@ -536,25 +534,25 @@ Show Notes:
       <title>The Spodcast #12: TwitchCon, Dauntless, And Guild Wars 2</title>
       <link>http://spoilerwarning.net/index.php/2017/08/31/the-spodcast-12-twitchcon-dauntless-and-guild-wars-2/</link>
       <description>
-        <![CDATA[<div><p>Recording times didn’t work out quite the way we’d hoped this week, so everyone got to be just a little bit loopy in this episode of the Spodcast, where we discuss fast food, travel, the dark ages of Web 1.0, and–ever so occasionally–video games.</p>
-        <p>Show Notes:<br>
-          1:08 – The Ancient Internet<br>
-          5:16 – Fast Food or something<br>
-          9:18 – TwitchCon<br>
-          28:10 – Guild Wars 2<br>
-          47:15 – Dauntless<br>
-          52:47 – Mailbag<br>
-          53:12 – What long-running franchise have you played the most games in?<br>
-          1:03:43 – What are some of your favorite gaming protagonists?</p></div>]]>
+        <![CDATA[<p>Recording times didn’t work out quite the way we’d hoped this week, so everyone got to be just a little bit loopy in this episode of the Spodcast, where we discuss fast food, travel, the dark ages of Web 1.0, and–ever so occasionally–video games.</p>
+<p>Show Notes:<br>
+1:08 – The Ancient Internet<br>
+5:16 – Fast Food or something<br>
+9:18 – TwitchCon<br>
+28:10 – Guild Wars 2<br>
+47:15 – Dauntless<br>
+52:47 – Mailbag<br>
+53:12 – What long-running franchise have you played the most games in?<br>
+1:03:43 – What are some of your favorite gaming protagonists?</p>]]>
       </description>
       <enclosure url="http://spoilerwarning.net/spodcast/spodcast12.mp3" length="72440435" type="audio/mpeg"/>
       <guid isPermaLink="false">http://spoilerwarning.net/index.php/2017/08/31/the-spodcast-12-twitchcon-dauntless-and-guild-wars-2/</guid>
-      <pubDate>Thu, 31 Aug 2017 11:24:53 +0000</pubDate>
-      <itunes:author>The Diecast</itunes:author>
+      <pubDate>Thu, 31 Aug 2017 02:55:20 +0000</pubDate>
+      <itunes:author>The Spodcast</itunes:author>
       <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png">
       </itunes:image>
       <itunes:duration>1:15:27</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>No</itunes:explicit>
       <itunes:summary>Recording times didn’t work out quite the way we’d hoped this week, so everyone got to be just a little bit loopy in this episode of the Spodcast, where we discuss fast food, travel, the dark ages of Web 1.0, and–ever so occasionally–video games.
 
 Show Notes:
@@ -572,24 +570,24 @@ Show Notes:
       <title>The Spodcast #11: Bad Habits, Proper Nouns, and the Historical Veracity of the Existence of Hel</title>
       <link>http://spoilerwarning.net/index.php/2017/08/23/the-spodcast-11-bad-habits-proper-nouns-and-the-historical-veracity-of-the-existence-of-hel/</link>
       <description>
-        <![CDATA[<div><p>We play dress-up, forget everyone’s name, and Campster becomes very confused about the metaphysical concept of the underworld.</p>
-      <p>0:27 – GOG Pinata sale<br>
-        9:20 – Glitch vs Spooky Noises<br>
-        12:03 – Love Nikki-Dress UP Queen<br>
-        17:39 – Hellblade: Senua’s Sacrifice<br>
-        20:45 – Hellblade SPOILERS<br>
-        31:07 – The Signal from Tolva and Sir, You Are Being Hunted<br>
-        38:17 – Roundtable Topic: Have you ever imposed a rule on a game that diminished the experience for yourself?<br>
-        53:10 – Mailbag: Which is your favorite daughter of Sad-Dads in games?</p></div>]]>
+        <![CDATA[<p>We play dress-up, forget everyone’s name, and Campster becomes very confused about the metaphysical concept of the underworld.</p>
+<p>0:27 – GOG Pinata sale<br>
+9:20 – Glitch vs Spooky Noises<br>
+12:03 – Love Nikki-Dress UP Queen<br>
+17:39 – Hellblade: Senua’s Sacrifice<br>
+20:45 – Hellblade SPOILERS<br>
+31:07 – The Signal from Tolva and Sir, You Are Being Hunted<br>
+38:17 – Roundtable Topic: Have you ever imposed a rule on a game that diminished the experience for yourself?<br>
+53:10 – Mailbag: Which is your favorite daughter of Sad-Dads in games?</p>]]>
       </description>
       <enclosure url="http://spoilerwarning.net/spodcast/spodcast11.mp3" length="56147572" type="audio/mpeg"/>
       <guid isPermaLink="false">http://spoilerwarning.net/index.php/2017/08/23/the-spodcast-11-bad-habits-proper-nouns-and-the-historical-veracity-of-the-existence-of-hel/</guid>
-      <pubDate>Wed, 23 Aug 2017 11:24:53 +0000</pubDate>
-      <itunes:author>The Diecast</itunes:author>
+      <pubDate>Wed, 23 Aug 2017 02:55:20 +0000</pubDate>
+      <itunes:author>The Spodcast</itunes:author>
       <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png">
       </itunes:image>
       <itunes:duration>58:29</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>No</itunes:explicit>
       <itunes:summary>We play dress-up, forget everyone’s name, and Campster becomes very confused about the metaphysical concept of the underworld.
 
 0:27 – GOG Pinata sale
@@ -606,25 +604,24 @@ Show Notes:
       <title>The Spodcast #10: Ketchup, Mayo, and Zombie Wolves</title>
       <link>http://spoilerwarning.net/index.php/2017/08/08/the-spodcast-10-ketchup-mayo-and-zombie-wolves/</link>
       <description>
-        <![CDATA[<div>
-      <p>It’s time for a laid back, late night Spodcast about condiments and unnaturally evil wolves.</p>
-      <p>0:42 – Splatfest<br>
-        9:54 – Fortnite<br>
-        21:00 – The Long Dark Story Mode<br>
-        32:34 – Mailbag<br>
-        33:08 – Dishonored 2, blink or far-reach?<br>
-        35:04 – How do you feel about Kickstarter right now?<br>
-        49:12 – Are you watching (or did you watch) EVO?</p></div>]]>
+        <![CDATA[<p>It’s time for a laid back, late night Spodcast about condiments and unnaturally evil wolves. </p>
+<p>0:42 – Splatfest<br>
+9:54 – Fortnite<br>
+21:00 – The Long Dark Story Mode<br>
+32:34 – Mailbag<br>
+33:08 – Dishonored 2, blink or far-reach?<br>
+35:04 – How do you feel about Kickstarter right now?<br>
+49:12 – Are you watching (or did you watch) EVO?</p>]]>
       </description>
       <enclosure url="http://spoilerwarning.net/spodcast/spodcast10.mp3" length="57750000" type="audio/mpeg"/>
       <guid isPermaLink="false">http://spoilerwarning.net/index.php/2017/08/08/the-spodcast-10-ketchup-mayo-and-zombie-wolves/</guid>
-      <pubDate>Tue, 8 Aug 2017 11:24:53 +0000</pubDate>
-      <itunes:author>The Diecast</itunes:author>
+      <pubDate>Tue, 8 Aug 2017 02:55:20 +0000</pubDate>
+      <itunes:author>The Spodcast</itunes:author>
       <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png">
       </itunes:image>
       <itunes:duration>1:00:09</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:summary>It’s time for a laid back, late night Spodcast about condiments and unnaturally evil wolves.
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>It’s time for a laid back, late night Spodcast about condiments and unnaturally evil wolves. 
 
 0:42 – Splatfest
 9:54 – Fortnite
@@ -639,24 +636,21 @@ Show Notes:
       <title>The Spodcast #9: The Games of Yesteryear, Today!</title>
       <link>http://spoilerwarning.net/index.php/2017/08/02/the-spodcast-9-the-games-of-yesteryear-today/</link>
       <description>
-        <![CDATA[
-        <div>
-          <p>2:50 – Lucasarts (Adventure Games)<br>
-          13:08 – Trilobyte (7th Guest/11th Hour)<br>
-          23:53 – Westwood (Command &amp; Conquer)<br>
-          43:40 – 3D Realms (Duke Nukem)<br>
-          56:55 – Maxis (Sim Games)<br>
-          1:06:15 – Origin (Ultima)</p>
-      </div>]]>
+        <![CDATA[<p>2:50 – Lucasarts (Adventure Games)<br>
+13:08 – Trilobyte (7th Guest/11th Hour)<br>
+23:53 – Westwood (Command &amp; Conquer)<br>
+43:40 – 3D Realms (Duke Nukem)<br>
+56:55 – Maxis (Sim Games)<br>
+1:06:15 – Origin (Ultima)</p>]]>
       </description>
       <enclosure url="http://spoilerwarning.net/spodcast/spodcast9.mp3" length="77160858" type="audio/mpeg"/>
       <guid isPermaLink="false">http://spoilerwarning.net/index.php/2017/08/02/the-spodcast-9-the-games-of-yesteryear-today/</guid>
-      <pubDate>Wed, 2 Aug 2017 11:24:53 +0000</pubDate>
-      <itunes:author>The Diecast</itunes:author>
+      <pubDate>Wed, 2 Aug 2017 02:55:20 +0000</pubDate>
+      <itunes:author>The Spodcast</itunes:author>
       <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png">
       </itunes:image>
       <itunes:duration>1:20:22</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>No</itunes:explicit>
       <itunes:summary>2:50 – Lucasarts (Adventure Games)
 13:08 – Trilobyte (7th Guest/11th Hour)
 23:53 – Westwood (Command &amp; Conquer)
@@ -669,28 +663,25 @@ Show Notes:
       <title>The Spodcast #8: Disney, Spider-Man, and Potato People</title>
       <link>http://spoilerwarning.net/index.php/2017/07/20/the-spodcast-8-disney-spider-man-and-potato-people/</link>
       <description>
-        <![CDATA[
-        <div>
-          <p>Glitch, Josh, Mumbles and Chris put their heads together to find out if it’s even possible to talk about video games on this show.</p>
-          <p>0:22 – Disney Parks<br>
-            09:25 – Wrestlers and Actors<br>
-            30:10 – Spider-Man Homecoming<br>
-            35:45 – Spider-Man Spoilers<br>
-            1:06:50 – D23 Expo<br>
-            1:27:50 – Mailbag<br>
-            1:28:25 – How do you feel about Mass Effect being put on ice?<br>
-            1:38:55 – Would you rather listen to Josh talk about Dark Souls or Paradox Games?<br>
-            1:44:05 – What is your favorite Pokemon?</p>
-      </div>]]>
+        <![CDATA[<p>Glitch, Josh, Mumbles and Chris put their heads together to find out if it’s even possible to talk about video games on this show.</p>
+<p>0:22 – Disney Parks<br>
+09:25 – Wrestlers and Actors<br>
+30:10 – Spider-Man Homecoming<br>
+35:45 – Spider-Man Spoilers<br>
+1:06:50 – D23 Expo<br>
+1:27:50 – Mailbag<br>
+1:28:25 – How do you feel about Mass Effect being put on ice?<br>
+1:38:55 – Would you rather listen to Josh talk about Dark Souls or Paradox Games?<br>
+1:44:05 – What is your favorite Pokemon?</p>]]>
       </description>
       <enclosure url="http://spoilerwarning.net/spodcast/spodcast8.mp3" length="104666855" type="audio/mpeg"/>
       <guid isPermaLink="false">http://spoilerwarning.net/index.php/2017/07/20/the-spodcast-8-disney-spider-man-and-potato-people/</guid>
-      <pubDate>Wed, 19 Jul 2017 11:24:53 +0000</pubDate>
-      <itunes:author>The Diecast</itunes:author>
-      <itunes:image href="https://bwinton.github.io/podcasts/spodcast/rpg-sessions.png">
+      <pubDate>Thu, 20 Jul 2017 02:55:20 +0000</pubDate>
+      <itunes:author>The Spodcast</itunes:author>
+      <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png">
       </itunes:image>
-      <itunes:duration>1:49:02</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:49:01</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
       <itunes:summary>Glitch, Josh, Mumbles and Chris put their heads together to find out if it’s even possible to talk about video games on this show.
 
 0:22 – Disney Parks
@@ -708,29 +699,26 @@ Show Notes:
       <title>The Spodcast #7: VR, SNES Classic, and the Han Solo Blues</title>
       <link>http://spoilerwarning.net/index.php/2017/07/06/the-spodcast-7-vr-snes-classic-and-the-han-solo-blues/</link>
       <description>
-        <![CDATA[
-        <div>
-          <p>With everyone on vacation, we’ve got a skeleton crew this week, but Glitch, Josh, and Campster manage to get together to talk about Nintendo, the current state of VR, the new Han Solo director, and more!</p>
-          <p>5:15 – Nintendo Switch travel impressions<br>
-            18:00 – The Current State of VR<br>
-            35:35 – Steam Sale<br>
-            42:45 – SNES Classic<br>
-            53:10 – Han Solo Director Troubles<br>
-            1:08:10 – Mailbag<br>
-            1:08:45 – Who would play you in the movie adaptation of Spoiler Warning?<br>
-            1:14:25 – What do you think of the new XBox and do you have unfiltered wheat bear?<br>
-            1:20:20 – What are your favorite game reviewers?<br>
-            1:25:45 – Do you plan on watching the solar eclipse on the 21st of August?</p>
-        </div>]]>
+        <![CDATA[<p>With everyone on vacation, we’ve got a skeleton crew this week, but Glitch, Josh, and Campster manage to get together to talk about Nintendo, the current state of VR, the new Han Solo director, and more!</p>
+<p>5:15 – Nintendo Switch travel impressions<br>
+18:00 – The Current State of VR<br>
+35:35 – Steam Sale<br>
+42:45 – SNES Classic<br>
+53:10 – Han Solo Director Troubles<br>
+1:08:10 – Mailbag<br>
+1:08:45 – Who would play you in the movie adaptation of Spoiler Warning?<br>
+1:14:25 – What do you think of the new XBox and do you have unfiltered wheat bear?<br>
+1:20:20 – What are your favorite game reviewers?<br>
+1:25:45 – Do you plan on watching the solar eclipse on the 21st of August?</p>]]>
       </description>
       <enclosure url="http://spoilerwarning.net/spodcast/spodcast7.mp3" length="115527410" type="audio/mpeg"/>
       <guid isPermaLink="false">http://spoilerwarning.net/index.php/2017/07/06/the-spodcast-7-vr-snes-classic-and-the-han-solo-blues/</guid>
-      <pubDate>Thu, 6 Jul 2017 11:24:53 +0000</pubDate>
-      <itunes:author>The Diecast</itunes:author>
-      <itunes:image href="https://bwinton.github.io/podcasts/spodcast/rpg-sessions.png">
+      <pubDate>Thu, 6 Jul 2017 02:55:20 +0000</pubDate>
+      <itunes:author>The Spodcast</itunes:author>
+      <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png">
       </itunes:image>
-      <itunes:duration>1:27:20</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:27:19</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
       <itunes:summary>With everyone on vacation, we’ve got a skeleton crew this week, but Glitch, Josh, and Campster manage to get together to talk about Nintendo, the current state of VR, the new Han Solo director, and more!
 
 5:15 – Nintendo Switch travel impressions
@@ -749,19 +737,16 @@ Show Notes:
       <title>The Spodcast – RPG Sessions #1: Character Creation</title>
       <link>http://spoilerwarning.net/index.php/2017/06/28/the-spodcast-rpg-sessions-1-character-creation/</link>
       <description>
-        <![CDATA[
-        <div>
-          <p>Rutskarn’s been wanting to do a tabletop RPG with the Spoiler Warning cast for years, so in this special podcast episode, we create our characters. We’ll be doing more of these occasionally in the future, so let us know what you think!</p>
-        </div>]]>
+        <![CDATA[<p>Rutskarn’s been wanting to do a tabletop RPG with the Spoiler Warning cast for years, so in this special podcast episode, we create our characters. We’ll be doing more of these occasionally in the future, so let us know what you think!</p>]]>
       </description>
       <enclosure url="http://spoilerwarning.net/spodcast/spodcastrpg1.mp3" length="90300257" type="audio/mpeg"/>
       <guid isPermaLink="false">http://spoilerwarning.net/index.php/2017/06/28/the-spodcast-rpg-sessions-1-character-creation/</guid>
-      <pubDate>Wed, 28 Jun 2017 23:11:53 +0000</pubDate>
-      <itunes:author>The Diecast</itunes:author>
-      <itunes:image href="https://bwinton.github.io/podcasts/spodcast/rpg-sessions.png">
+      <pubDate>Wed, 28 Jun 2017 02:55:20 +0000</pubDate>
+      <itunes:author>The Spodcast</itunes:author>
+      <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png">
       </itunes:image>
-      <itunes:duration>1:34:04</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:34:03</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
       <itunes:summary>Rutskarn’s been wanting to do a tabletop RPG with the Spoiler Warning cast for years, so in this special podcast episode, we create our characters. We’ll be doing more of these occasionally in the future, so let us know what you think!</itunes:summary>
       <dc:creator>The Spodcast</dc:creator>
     </item>
@@ -769,32 +754,25 @@ Show Notes:
       <title>The Spodcast #6: Electronic Entertainment Expo Extravaganza</title>
       <link>http://spoilerwarning.net/index.php/2017/06/21/spodcast-6-electronic-entertainment-expo-extravaganza/</link>
       <description>
-        <![CDATA[
-        <div>
-          <p>E3 2017 is over, so now it’s time to share our thoughts on this whole crazy thing.</p>
-          <p>3:35 – Electronic Arts<br>
-            22:40 – Microsoft<br>
-            43:45 – Josh takes a break so Duck Tales?<br>
-            45:50 – Bethesda<br>
-            50:15 – Devolver Digital, Intel, and the PC Gaming Show<br>
-            54:10 – Ubisoft<br>
-            1:09:10 – Sony<br>
-            1:16:50 – Nintendo<br>
-            1:26:10 – Mailbag: Rate console names from smartest to XBox One X</p>
-          <p><br></p>
-          <p>Featuring: "Off to Osaka" Kevin MacLeod (<a href="http://incompetech.com" target="_blank" rel="noopener noreferrer">incompetech.com</a>)</p>
-          <p>Licensed under Creative Commons: By Attribution 3.0 License</p>
-          <p><a href="http://creativecommons.org/licenses/by/3.0/" rel="nofollow noopener" target="_blank">http://creativecommons.org/licenses/by/3.0/</a></p>
-        </div>]]>
+        <![CDATA[<p>E3 2017 is over, so now it’s time to share our thoughts on this whole crazy thing.</p>
+<p>3:35 – Electronic Arts<br>
+22:40 – Microsoft<br>
+43:45 – Josh takes a break so Duck Tales?<br>
+45:50 – Bethesda<br>
+50:15 – Devolver Digital, Intel, and the PC Gaming Show<br>
+54:10 – Ubisoft<br>
+1:09:10 – Sony<br>
+1:16:50 – Nintendo<br>
+1:26:10 – Mailbag: Rate console names from smartest to XBox One X</p>]]>
       </description>
       <enclosure url="http://spoilerwarning.net/spodcast/spodcast6.mp3" length="92332396" type="audio/mpeg"/>
       <guid isPermaLink="false">http://spoilerwarning.net/index.php/2017/06/21/spodcast-6-electronic-entertainment-expo-extravaganza/</guid>
-      <pubDate>Tue, 20 Jun 2017 23:11:53 +0000</pubDate>
-      <itunes:author>The Diecast</itunes:author>
+      <pubDate>Wed, 21 Jun 2017 02:55:20 +0000</pubDate>
+      <itunes:author>The Spodcast</itunes:author>
       <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png">
       </itunes:image>
-      <itunes:duration>1:36:11</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:36:10</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
       <itunes:summary>E3 2017 is over, so now it’s time to share our thoughts on this whole crazy thing.
 
 3:35 – Electronic Arts
@@ -805,42 +783,31 @@ Show Notes:
 54:10 – Ubisoft
 1:09:10 – Sony
 1:16:50 – Nintendo
-1:26:10 – Mailbag: Rate console names from smartest to XBox One X
-
-Featuring: &quot;Off to Osaka&quot; Kevin MacLeod (incompetech.com)
-Licensed under Creative Commons: By Attribution 3.0 License
-http://creativecommons.org/licenses/by/3.0/</itunes:summary>
+1:26:10 – Mailbag: Rate console names from smartest to XBox One X</itunes:summary>
       <dc:creator>The Spodcast</dc:creator>
     </item>
     <item>
       <title>The Spodcast #5: Not E3, Bad Games, and Guardians of the Galaxy 2</title>
       <link>http://spoilerwarning.net/index.php/2017/06/15/the-spodcast-5-not-e3-bad-games-and-guardians-of-the-galaxy-2/</link>
       <description>
-        <![CDATA[
-        <div>
-          <p>Recorded on the eve of E3, we instead talk about other conferences that weren’t E3. Also, Glitch returns to talk about Guardians of the Galaxy 2, we discuss the bad games we still enjoy, and more!</p>
-          <p>2:20 – We talk about not talking about E3<br>
-            6:35 – Guardians of the Galaxy 2 (SPOILERS)<br>
-            34:00 – Josh got a Switch somehow<br>
-            40:05 – A tale of two Academic Conferences<br>
-            54:10 – Enjoying Bad Games<br>
-            1:13:45 – Mailbag<br>
-            1:14 20 – Which games have you gotten really deep into because you enjoyed the mechanics so much?<br>
-            1:29:35 – What do you think about politics in games?</p>
-          <p><br></p>
-          <p>Featuring: "Off to Osaka" Kevin MacLeod (<a href="http://incompetech.com" target="_blank" rel="noopener noreferrer">incompetech.com</a>)</p>
-          <p>Licensed under Creative Commons: By Attribution 3.0 License</p>
-          <p><a href="http://creativecommons.org/licenses/by/3.0/" rel="nofollow noopener" target="_blank">http://creativecommons.org/licenses/by/3.0/</a></p>
-        </div>]]>
+        <![CDATA[<p>Recorded on the eve of E3, we instead talk about other conferences that weren’t E3. Also, Glitch returns to talk about Guardians of the Galaxy 2, we discuss the bad games we still enjoy, and more!</p>
+<p>2:20 – We talk about not talking about E3<br>
+6:35 – Guardians of the Galaxy 2 (SPOILERS)<br>
+34:00 – Josh got a Switch somehow<br>
+40:05 – A tale of two Academic Conferences<br>
+54:10 – Enjoying Bad Games<br>
+1:13:45 – Mailbag<br>
+1:14 20 – Which games have you gotten really deep into because you enjoyed the mechanics so much?<br>
+1:29:35 – What do you think about politics in games?</p>]]>
       </description>
       <enclosure url="http://spoilerwarning.net/spodcast/spodcast5.mp3" length="106727218" type="audio/mpeg"/>
       <guid isPermaLink="false">http://spoilerwarning.net/index.php/2017/06/15/the-spodcast-5-not-e3-bad-games-and-guardians-of-the-galaxy-2/</guid>
-      <pubDate>Wed, 14 Jun 2017 23:11:53 +0000</pubDate>
-      <itunes:author>The Diecast</itunes:author>
+      <pubDate>Thu, 15 Jun 2017 02:55:20 +0000</pubDate>
+      <itunes:author>The Spodcast</itunes:author>
       <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png">
       </itunes:image>
       <itunes:duration>1:51:10</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>No</itunes:explicit>
       <itunes:summary>Recorded on the eve of E3, we instead talk about other conferences that weren’t E3. Also, Glitch returns to talk about Guardians of the Galaxy 2, we discuss the bad games we still enjoy, and more!
 
 2:20 – We talk about not talking about E3
@@ -850,49 +817,35 @@ http://creativecommons.org/licenses/by/3.0/</itunes:summary>
 54:10 – Enjoying Bad Games
 1:13:45 – Mailbag
 1:14 20 – Which games have you gotten really deep into because you enjoyed the mechanics so much?
-1:29:35 – What do you think about politics in games?
-
-Featuring: &quot;Off to Osaka&quot; Kevin MacLeod (incompetech.com)
-Licensed under Creative Commons: By Attribution 3.0 License
-http://creativecommons.org/licenses/by/3.0/</itunes:summary>
+1:29:35 – What do you think about politics in games?</itunes:summary>
       <dc:creator>The Spodcast</dc:creator>
     </item>
     <item>
       <title>Spodcast #4: Switches, Steam and MUD Fights</title>
       <link>http://spoilerwarning.net/index.php/2017/06/06/spodcast-4-switches-steam-and-mud-fights/</link>
       <description>
-        <![CDATA[
-        <div><p>As we gear up for E3, we discuss the news of the Switch online service, Steam Direct, and rumors about another Life is Strange game. And then things get dirty as Rutskarn regales us with a cautionary tale about MUDs. </p>
-          <p>3:30 – We’ll be talking over the E3 press conferences! You can catch those at our <a href="http://twitch.tv/spoilerwarningshow/">Twitch Channel</a><br />
-            11:05 – <a href="http://www.nintendo.com/switch/online-service/">Nintendo unveils plans for the Switch online service</a><br />
-            39:25 – <a href="http://steamcommunity.com/games/593110/announcements/detail/1265921510652460726">Steam Direct fee and curation plans</a><br />
-            53:50 – <a href="http://gematsu.com/2017/06/rumor-life-strange-prequel-deck-nine-games-images-leaked">Life is Strange Prequel rumors</a><br />
-            1:02:55 – Rutskarn rants about MUDs</p>
-          <p><br></p>
-          <p>Featuring: "Off to Osaka" Kevin MacLeod (<a href="http://incompetech.com" target="_blank" rel="noopener noreferrer">incompetech.com</a>)</p>
-          <p>Licensed under Creative Commons: By Attribution 3.0 License</p>
-          <p><a href="http://creativecommons.org/licenses/by/3.0/" rel="nofollow noopener" target="_blank">http://creativecommons.org/licenses/by/3.0/</a></p>
-        </div>]]>
+        <![CDATA[<p>As we gear up for E3, we discuss the news of the Switch online service, Steam Direct, and rumors about another Life is Strange game. And then things get dirty as Rutskarn regales us with a cautionary tale about MUDs. </p>
+<p>3:30 – We’ll be talking over the E3 press conferences! You can catch those at our <a href="http://twitch.tv/spoilerwarningshow/">Twitch Channel</a><br>
+11:05 – <a href="http://www.nintendo.com/switch/online-service/">Nintendo unveils plans for the Switch online service</a><br>
+39:25 – <a href="http://steamcommunity.com/games/593110/announcements/detail/1265921510652460726">Steam Direct fee and curation plans</a><br>
+53:50 – <a href="http://gematsu.com/2017/06/rumor-life-strange-prequel-deck-nine-games-images-leaked">Life is Strange Prequel rumors</a><br>
+1:02:55 – Rutskarn rants about MUDs</p>]]>
       </description>
       <enclosure url="http://spoilerwarning.net/spodcast/spodcast4.mp3" length="96808481" type="audio/mpeg"/>
       <guid isPermaLink="false">http://spoilerwarning.net/index.php/2017/06/06/spodcast-4-switches-steam-and-mud-fights/</guid>
-      <pubDate>Tue, 06 Jun 2017 23:11:53 +0000</pubDate>
-      <itunes:author>The Diecast</itunes:author>
+      <pubDate>Tue, 6 Jun 2017 02:55:20 +0000</pubDate>
+      <itunes:author>The Spodcast</itunes:author>
       <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png">
       </itunes:image>
       <itunes:duration>1:40:50</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:summary>As we gear up for E3, we discuss the news of the Switch online service, Steam Direct, and rumors about another Life is Strange game. And then things get dirty as Rutskarn regales us with a cautionary tale about MUDs.
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>As we gear up for E3, we discuss the news of the Switch online service, Steam Direct, and rumors about another Life is Strange game. And then things get dirty as Rutskarn regales us with a cautionary tale about MUDs. 
 
 3:30 – We’ll be talking over the E3 press conferences! You can catch those at our Twitch Channel
 11:05 – Nintendo unveils plans for the Switch online service
 39:25 – Steam Direct fee and curation plans
 53:50 – Life is Strange Prequel rumors
-1:02:55 – Rutskarn rants about MUDs
-
-Featuring: &quot;Off to Osaka&quot; Kevin MacLeod (incompetech.com)
-Licensed under Creative Commons: By Attribution 3.0 License
-http://creativecommons.org/licenses/by/3.0/</itunes:summary>
+1:02:55 – Rutskarn rants about MUDs</itunes:summary>
       <dc:creator>The Spodcast</dc:creator>
     </item>
     <item>
