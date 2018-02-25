@@ -2053,9 +2053,7 @@ Shamus Young is a programmer, an author, and nearly a composer. He works on this
       </itunes:image>
       <itunes:duration>1:10:53</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-
-Hosts: Josh, Rutskarn, Campster. Episode edited by Rachel.
+      <itunes:summary>Hosts: Josh, Rutskarn, Campster. Episode edited by Rachel.
 
 Fun fact that has nothing whatsoever to do with the show: If I put a properly escaped HTML line break in the title of this post using `br` then it will – for reasons I’ll never understand – break the embed code above that shows the audio player and download links.
 
@@ -2081,8 +2079,7 @@ Trivia: I’ve been to one haunted house in my life. As it turns out, a lot of h
 Dear Diecast
 What’s your take on Mass Effect Andromeda having an established father and brother/sister for your character? Do you prefer when they provide some backstory and family for your character(like Dragon Age Dwarf Slum Origin or Dragon Age 2 for instance), or do you like it more when that’s as minimal as possible(like Mass Effect)? Odds on either of them dying/turning evil?
 Love, Christopher
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -3883,26 +3880,28 @@ Tagged:DC comics, disney, la noire</itunes:summary>
       <title>Mumblo Drama: Spoiler Warning Edition</title>
       <link>http://www.shamusyoung.com/twentysidedtale/?p=31392</link>
       <description>
-        <![CDATA[<p><strong>EDIT: Okay. That’s enough of this. Topic closed.</strong></p>
-<p></p>
-<p></p>
+        <![CDATA[<p></p>
+<p><strong>EDIT: Okay. That’s enough of this. Topic closed.</strong></p>
+<p></p><table border="0" class="nomargin" cellpadding="0" cellspacing="0"><tbody><tr><td><img src="http://shamusyoung.com/twentysidedtale/images/dumpster_fire.gif" class="imagefull" alt="For me, it's always like this." title="For me, it's always like this."></td></tr><tr><td class="insetcaptionx"><p class="mouseover_alt">For me, it's always like this.</p></td></tr></tbody></table><p></p>
 <p>Last week there was a bit of controversy <a href="http://www.shamusyoung.com/twentysidedtale/?p=31309">on Spoiler Warning</a>. If you don’t watch the show or don’t read the comments then you probably won’t have the context for this. Basically, Mumbles made some jokes about torturing robots, some other people objected, and then Mumbles recorded this:</p>
 <p>During the show, when she said she was sick of the female coach character, it hit on something I’d been thinking about for weeks, which was the series of design decisions that led to this trope. So as she commented on it, I reflexively went, “Oh, here’s a segue into that thing I’ve been thinking about!” So then I tried to talk about it on the spot, and halfway into it I realized it was too big and complicated to cover on the show<span class="snote" title="1">This actually happens pretty often. I should rename my column, “Random Shit That Didn’t Fit on Spoiler Warning.”</span>. I ended up turning it into <a href="http://www.shamusyoung.com/twentysidedtale/?p=31376">my weekly column</a>. But then that dumped even more aggro on Mumbles. (Sorry Mumbles.)</p>
 <p>Hopefully this clears everything up and puts the controversy to rest. This is supposed to be fun.</p>
-<p></p>
-<p></p>
-<p class="byline"><i><img alt="" src="http://0.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg" class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>
-]]>
+<br><p class="byline"><i><img alt="" src="http://0.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>]]>
       </description>
-      <enclosure url="http://www.shamusyoung.com/diecast/mumblo.mp3?_=1" length="8549399" type="audio/mpeg"/>
+      <enclosure url="http://www.shamusyoung.com/diecast/mumblo.mp3" length="8549399" type="audio/mpeg"/>
       <guid isPermaLink="false">http://www.shamusyoung.com/twentysidedtale/?p=31392</guid>
-      <pubDate>Wed, 30 Mar 2016 05:37:00 +0000</pubDate>
+      <pubDate>Wed, 30 Mar 2016 03:55:20 +0000</pubDate>
       <itunes:author>The Diecast</itunes:author>
       <itunes:image href="http://www.shamusyoung.com/twentysidedtale/images/splash_diecast2.jpg">
       </itunes:image>
-      <itunes:duration>00:08:54</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:summary>EDIT: Okay. That’s enough of this. Topic closed.
+      <itunes:duration>8:54</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+
+EDIT: Okay. That’s enough of this. Topic closed.
+
+
+For me, it’s always like this.
 
 Last week there was a bit of controversy on Spoiler Warning. If you don’t watch the show or don’t read the comments then you probably won’t have the context for this. Basically, Mumbles made some jokes about torturing robots, some other people objected, and then Mumbles recorded this:
 
@@ -3910,7 +3909,8 @@ During the show, when she said she was sick of the female coach character, it hi
 
 Hopefully this clears everything up and puts the controversy to rest. This is supposed to be fun.
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
+</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
