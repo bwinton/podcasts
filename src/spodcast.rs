@@ -32,7 +32,7 @@ pub fn get_info(url: &str, document: &Document) -> Result<Item, PodcastError> {
         .find(Class("post-date-ribbon"))
         .next()
         .map(|x| x.text())
-        .ok_or(PodcastError::new("missing date"))?;
+        .ok_or_else(|| PodcastError::new("missing date"))?;
     date_str.push_str(" 02:55:20");
     let pub_date = Utc.datetime_from_str(&date_str, "%B %d, %Y %T")?;
 
@@ -68,13 +68,13 @@ pub fn get_info(url: &str, document: &Document) -> Result<Item, PodcastError> {
         ))
         .next()
         .and_then(|x| x.attr("src"))
-        .ok_or(PodcastError::new("missing mp3 link"))?;
+        .ok_or_else(|| PodcastError::new("missing mp3 length"))?;
     let mut response = reqwest::get(mp3)?;
     let length = response
         .headers()
         .get::<ContentLength>()
         .map(|ct_len| **ct_len)
-        .ok_or(PodcastError::new("missing mp3 length"))?
+        .ok_or_else(|| PodcastError::new("missing mp3 length"))?
         .to_string();
     let duration = Duration::from_std(mp3_duration::from_read(&mut response)?)?;
     let duration_string = format_duration(duration.num_seconds());

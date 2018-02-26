@@ -91,7 +91,7 @@ pub fn format_duration(duration: i64) -> String {
     rv.join(":").to_string()
 }
 
-pub fn format_description(description: Vec<String>, base: &Url) -> String {
+pub fn format_description(description: &[String], base: &Url) -> String {
     lazy_static! {
     static ref HREF_RE: Regex = Regex::new("(src|href)=\"([^\"]*)\"").unwrap();
     static ref LANG_RE: Regex = Regex::new("(srcset|download|data-[^=]*)=\"[^\"]*\"").unwrap();
@@ -108,7 +108,7 @@ pub fn format_description(description: Vec<String>, base: &Url) -> String {
     rv
 }
 
-pub fn format_summary(summary: Vec<String>) -> String {
+pub fn format_summary(summary: &[String]) -> String {
     lazy_static! {
     static ref GARBAGE_RE: Regex = Regex::new("(Â®| â€.| ðŸ¦)").unwrap();
   }
@@ -117,7 +117,7 @@ pub fn format_summary(summary: Vec<String>) -> String {
     rv = GARBAGE_RE.replace_all(&rv, "").to_string();
     rv = rv.replace("'", "’");
 
-    if let &Some((idx, _)) = &rv.char_indices().nth(3990) {
+    if let Some((idx, _)) = rv.char_indices().nth(3990) {
         rv = rv[..idx].to_string();
         rv.push_str("…");
     }

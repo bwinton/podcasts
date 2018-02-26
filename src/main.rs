@@ -63,7 +63,7 @@ fn handle(podcast: &str) {
     println!("{}: {}/{}", podcast, rss_data.items().len(), urls.len());
     let items: Vec<_> = urls.par_iter()
         .map(|url| {
-            if url.starts_with("#") {
+            if url.starts_with('#') {
                 None
             } else if let Some(found) = rss_data.items().iter().find(
                 |item| item.link() == Some(url),
@@ -93,7 +93,8 @@ fn main() {
     let podcasts = vec!["spodcast", "diecast"];
     // For podcast in spodcast/diecast
     podcasts.par_iter().for_each(|podcast| handle(podcast));
-    // let result = process_document("http://www.shamusyoung.com/twentysidedtale/?p=41977", &Document::from(include_str!("../diecast.html"))).ok();
+    // let result = process_document("http://www.shamusyoung.com/twentysidedtale/?p=41977",
+    // &Document::from(include_str!("../diecast.html"))).ok();
     // println!("\n{:?}", result);
     // let path = Path::new("mumblo.mp3");
     // let duration = mp3_duration::from_path(&path).unwrap();

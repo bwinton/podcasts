@@ -33,12 +33,11 @@ pub fn get_info(url: &str, document: &Document) -> Result<Item, PodcastError> {
         .find(Class("splash-avatar"))
         .next()
         .map(|x| x.text())
-        .ok_or(PodcastError::new("missing avatar"))?;
+        .ok_or_else(|| PodcastError::new("missing avatar"))?;
     date_str = date_str
         .split("on ")
-        .skip(1)
-        .next()
-        .ok_or(PodcastError::new("missing date"))?
+        .nth(1)
+        .ok_or_else(|| PodcastError::new("missing date"))?
         .to_string();
     date_str.push_str(" 03:55:20");
     let pub_date = Utc.datetime_from_str(&date_str, "%A %B %d, %Y %T")?;
@@ -71,8 +70,8 @@ pub fn get_info(url: &str, document: &Document) -> Result<Item, PodcastError> {
             rv
         }));
     }
-    let description_string = format_description(description, &this_document);
-    let summary_string = format_summary(summary);
+    let description_string = format_description(&description, &this_document);
+    let summary_string = format_summary(&summary);
 
     let mp3_link = document
         .find(Name("audio").child(
@@ -80,14 +79,14 @@ pub fn get_info(url: &str, document: &Document) -> Result<Item, PodcastError> {
         ))
         .next()
         .and_then(|x| x.attr("src"))
-        .ok_or(PodcastError::new("missing mp3 link"))?;
+        .ok_or_else(|| PodcastError::new("missing mp3 link"))?;
     let mp3 = this_document.join(mp3_link)?;
     let mut response = reqwest::get(mp3.as_str())?;
     let length = response
         .headers()
         .get::<ContentLength>()
         .map(|ct_len| **ct_len)
-        .ok_or(PodcastError::new("missing mp3 length"))?
+        .ok_or_else(|| PodcastError::new("missing mp3 length"))?
         .to_string();
     let temp = mp3_duration::from_read(&mut response)?;
     let duration = Duration::from_std(temp)?;
