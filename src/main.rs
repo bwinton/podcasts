@@ -1,24 +1,30 @@
+#[macro_use]
+extern crate lazy_static;
+
+mod util;
+mod diecast;
+mod spodcast;
+
+extern crate chrono;
+extern crate mp3_duration;
 extern crate rayon;
+extern crate regex;
 extern crate reqwest;
 extern crate rss;
 extern crate select;
+extern crate url;
 
-use std::fs::File;
-use std::io::BufReader;
-use std::io::prelude::*;
+use util::PodcastError;
 
 use rayon::prelude::*;
 use rss::Channel;
-use rss::EnclosureBuilder;
-use rss::extension::dublincore::DublinCoreExtensionBuilder;
-use rss::extension::itunes::ITunesItemExtensionBuilder;
-use rss::GuidBuilder;
 use rss::Item;
-use rss::ItemBuilder;
 use select::document::Document;
-// use select::predicate::{Predicate, Attr, Class, Name};
-use select::predicate::Class;
-use select::predicate::Predicate;
+use std::convert::From;
+use std::error::Error;
+use std::fs::File;
+use std::io::BufReader;
+use std::io::prelude::*;
 
 fn get_urls(podcast: &str) -> Vec<String> {
   let urls = File::open(format!("{}.urls", podcast)).unwrap();
@@ -28,100 +34,62 @@ fn get_urls(podcast: &str) -> Vec<String> {
   contents.lines().map(|x| x.to_owned()).collect()
 }
 
-fn get_rss(podcast: &str) -> Channel {
-  let xml = File::open(format!("dist/{}.xml", podcast)).unwrap();
-  Channel::read_from(BufReader::new(xml)).unwrap()
+fn get_rss(podcast: &str) -> Result<Channel, PodcastError> {
+  let xml = File::open(format!("dist/{}.xml", podcast))?;
+  Channel::read_from(BufReader::new(xml)).map_err(|error| PodcastError::new(error.description()))
 }
 
-fn get_item(url: &str) -> Option<Item> {
+fn process_document(url: &str, document: &Document) -> Result<Item, PodcastError> {
+  match url {
+    x if spodcast::matches(x) => spodcast::get_info(url, document),
+    x if diecast::matches(x) => diecast::get_info(url, document),
+    _ => Err(PodcastError::new(&format!("Unknown podcast {}", url)))
+  }
+}
+
+fn get_item(url: &str) -> Result<Item, PodcastError> {
   // Get the html and build an Item.
-  if let Ok(mut response) = reqwest::get(url) {
-    if let Ok(body) = response.text() {
-      let document = Document::from(body.as_str());
+  let mut response = reqwest::get(url)?;
+  let body = response.text()?;
+  let document = Document::from(body.as_str());
 
-      let title = document.find(Class("title").and(Class("single-title"))).next().map(|x| x.text());
-      println!("title: {:?}", title);
-
-      // <dc:creator>The Spodcast</dc:creator>
-      let dc = DublinCoreExtensionBuilder::default()
-        .creators(vec!["The Spodcast".to_string()])
-        .build().ok();
-      println!("dc: {:?}", dc);
-
-      // <pubDate>Tue, 13 Feb 2018 11:24:53 +0000</pubDate>
-      let pub_date = document.find(Class("post-date-ribbon")).next().map(|x| x.text());
-      println!("date: {:?}", pub_date);
-      // <link>http://spoilerwarning.net/index.php/2018/02/13/the-spodcast-24-the-infectious-madness-of-video-game-lore/</link>
-      // <guid isPermaLink="false">http://spoilerwarning.net/index.php/2018/02/13/the-spodcast-24-the-infectious-madness-of-video-game-lore/</guid>
-      let guid = GuidBuilder::default()
-        .permalink(false)
-        .value(url.to_owned())
-        .build().ok();
-      println!("guid: {:?}", guid);
-      // <description><![CDATA[<div></div>]]></description>
-      // <itunes:author>The Diecast</itunes:author>
-      // <itunes:summary>...</itunes:summary>
-      // <itunes:explicit>no</itunes:explicit>
-      // <itunes:duration>1:01:19</itunes:duration>
-      // <itunes:image href="https://bwinton.github.io/podcasts/spodcast/title.png"/>
-      let itunes = ITunesItemExtensionBuilder::default()
-        .author(Some("The Spodcast".to_string()))
-        // .summary?
-        .explicit(Some("No".to_string()))
-        // .duration
-        .image(Some("https://bwinton.github.io/podcasts/spodcast/title.png".to_string()))
-        .build().ok();
-      println!("itunes: {:?}", itunes);
-      // <enclosure url="http://spoilerwarning.net/spodcast/spodcast24.mp3" length="58866796" type="audio/mpeg"/>
-      let enclosure = EnclosureBuilder::default()
-        // .url()
-        // .length()
-        .mime_type("audio/mpeg".to_string())
-        .build().ok();
-      println!("enclosure: {:?}", enclosure);
-
-      ItemBuilder::default()
-        .title(title)
-        .pub_date(pub_date)
-        .dublin_core_ext(dc)
-        .link(Some(url.to_owned()))
-        .guid(guid)
-        .itunes_ext(itunes)
-        .enclosure(enclosure)
-        .build().ok()
-    } else { None }
-  } else { None }
+  process_document(url, &document)
 }
 
 fn handle(podcast: &str) {
   // Read podcast.urls and dist/podcast.xml
   let urls = get_urls(podcast);
-  let mut rss_data = get_rss(podcast);
+  let mut rss_data = get_rss(podcast).unwrap();
   println!("{}: {}/{}", podcast, rss_data.items().len(), urls.len());
   let items: Vec<_> = urls.par_iter().map(|url| {
-    if let Some(found) = rss_data.items().iter().find(|item| item.link() == Some(url)) {
-      // Some(found.clone())
+    if url.starts_with("#") {
       None
+    } else if let Some(found) = rss_data.items().iter().find(|item| item.link() == Some(url)) {
+      Some(found.clone())
     } else {
       // Find any missing urls.
+      // println!("Missing {}", url);
       let item = get_item(url);
-      // println!("Missing {:?}", item);
-      item
+      if item.is_err() {
+        println!("Error! {} {:?}", url, item);
+      }
+      item.ok()
     }
   }).filter_map(|x| x).collect();
   // Write out the new dist/podcast.xml
   rss_data.set_items(items);
-  println!("{}", rss_data.to_string());
-  // for item in rss_data.items() {
-  //   if item.description().unwrap_or("").len() > 4000 {
-  //     println!("{} {}", item.link().unwrap(), item.description().unwrap_or("").len());
-  //   }
-  // }
+  let output = File::create(format!("dist/{}.xml", podcast)).unwrap();
+  rss_data.pretty_write_to(output, b' ', 2).unwrap();
 }
 
+// use std::path::Path;
 fn main() {
-  // let podcasts = vec!["spodcast", "diecast"];
-  let podcasts = vec!["spodcast"];
+  let podcasts = vec!["spodcast", "diecast"];
   // For podcast in spodcast/diecast
   podcasts.par_iter().for_each(|podcast| handle(podcast));
+  // let result = process_document("http://www.shamusyoung.com/twentysidedtale/?p=41977", &Document::from(include_str!("../diecast.html"))).ok();
+  // println!("\n{:?}", result);
+  // let path = Path::new("mumblo.mp3");
+  // let duration = mp3_duration::from_path(&path).unwrap();
+  // println!("\n{:?}", duration);
 }

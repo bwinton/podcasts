@@ -1,0 +1,213 @@
+extern crate chrono;
+extern crate failure;
+extern crate mp3_duration;
+extern crate rayon;
+extern crate reqwest;
+extern crate rss;
+extern crate select;
+extern crate time;
+
+use std::convert::From;
+use std::error::Error;
+use std::fs::File;
+use std::io::BufReader;
+use std::io::prelude::*;
+
+use chrono::Duration;
+use chrono::TimeZone;
+use chrono::Utc;
+// use failure::Error;
+use rayon::prelude::*;
+use reqwest::header::ContentLength;
+use rss::Channel;
+use rss::EnclosureBuilder;
+use rss::extension::dublincore::DublinCoreExtensionBuilder;
+use rss::extension::itunes::ITunesItemExtensionBuilder;
+use rss::GuidBuilder;
+use rss::Item;
+use rss::ItemBuilder;
+use select::document::Document;
+use select::predicate::Attr;
+use select::predicate::Class;
+use select::predicate::Name;
+use select::predicate::Predicate;
+
+#[derive(Debug)]
+struct PodcastError {
+  description: String
+}
+
+impl From<reqwest::Error> for PodcastError {
+  fn from(error: reqwest::Error) -> Self {
+    PodcastError {description: error.to_string()}
+  }
+}
+
+impl From<std::string::String> for PodcastError {
+  fn from(error: std::string::String) -> Self {
+    println!("String Error! {:?}", error);
+    PodcastError {description: error}
+  }
+}
+
+impl From<std::io::Error> for PodcastError {
+  fn from(error: std::io::Error) -> Self {
+    println!("IO Error! {:?}", error);
+    PodcastError {description: error.description().to_string()}
+  }
+}
+
+impl From<failure::Error> for PodcastError {
+  fn from(_error: failure::Error) -> Self {
+    println!("Failure Error! {:?}", error);
+    PodcastError {description: "failure".to_string()}
+  }
+}
+
+impl From<time::OutOfRangeError> for PodcastError {
+  fn from(error: time::OutOfRangeError) -> Self {
+    println!("Time Error! {:?}", error);
+    PodcastError {description: error.description().to_string()}
+  }
+}
+
+impl From<chrono::ParseError> for PodcastError {
+  fn from(error: chrono::ParseError) -> Self {
+    println!("Chrono Error! {:?}", error);
+    PodcastError {description: error.description().to_string()}
+  }
+}
+
+
+fn format_duration(duration: i64) -> String {
+  let mut rv = vec![];
+  let mut duration = duration;
+  if duration > 3600 {
+    rv.push(format!("{}", duration / 3600));
+    duration -= duration / 3600 * 3600;
+  }
+  if rv.is_empty() {
+    rv.push(format!("{}", duration / 60));
+  } else {
+    rv.push(format!("{:02}", duration / 60));
+  }
+  duration -= duration / 60 * 60;
+  rv.push(format!("{:02}", duration));
+  rv.join(":").to_string()
+}
+
+fn get_urls(podcast: &str) -> Vec<String> {
+  let urls = File::open(format!("{}.urls", podcast)).unwrap();
+  let mut buf_reader = BufReader::new(urls);
+  let mut contents = String::new();
+  buf_reader.read_to_string(&mut contents).unwrap();
+  contents.lines().map(|x| x.to_owned()).collect()
+}
+
+fn get_rss(podcast: &str) -> Result<Channel, PodcastError> {
+  let xml = File::open(format!("dist/{}.xml", podcast))?;
+  Channel::read_from(BufReader::new(xml)).map_err(|error| PodcastError { description: error.description().to_string() } )
+}
+
+fn get_spodcast_info(url: &str, document: &Document) -> Result<Item, PodcastError> {
+  // Starts with http://spoilerwarning.net
+  let title = document.find(Class("title").and(Class("single-title"))).next().map(|x| x.text());
+  let mut date_str = document.find(Class("post-date-ribbon")).next().map(|x| x.text()).ok_or(PodcastError { description: "missing date".to_owned() })?;
+  date_str.push_str(" 02:55:20");
+  println!("dateStr: {}", date_str);
+  let pub_date = Utc.datetime_from_str(&date_str, "%B %d, %Y %T")?;
+  println!("pubDate: {}", pub_date.to_rfc2822());
+
+  let dc = DublinCoreExtensionBuilder::default()
+    .creators(vec!["The Spodcast".to_string()])
+    .build()?;
+
+  let guid = GuidBuilder::default()
+    .permalink(false)
+    .value(url.to_owned())
+    .build()?;
+
+  let mut description = Vec::new();
+  let mut summary = Vec::new();
+  if let Some(temp) = document.find(Attr("id", "content")).next() {
+    description.extend(temp.children().skip(4).filter(|node| node.name() == Some("p")).map(|node| node.html()));
+    summary.extend(temp.children().skip(4).filter(|node| node.name() == Some("p")).map(|node| node.text()));
+  }
+
+  let mp3 = document.find(Name("audio").child(Name("source").and(Attr("type", "audio/mpeg")))).next().and_then(|x| x.attr("src")).ok_or(PodcastError { description: "missing mp3 link".to_owned() })?;
+  let mut response = reqwest::get(mp3)?;
+  let length = response.headers().get::<ContentLength>().map(|ct_len| **ct_len).ok_or(PodcastError { description: "missing mp3 length".to_owned() })?.to_string();
+  let duration = Duration::from_std(mp3_duration::from_read(&mut response)?)?;
+  let duration_string = format_duration(duration.num_seconds());
+
+  let enclosure = EnclosureBuilder::default()
+    .url(mp3)
+    .length(length)
+    .mime_type("audio/mpeg".to_string())
+    .build()?;
+
+  let itunes = ITunesItemExtensionBuilder::default()
+    .author(Some("The Spodcast".to_string()))
+    .summary(Some(summary.join("\n\n")))
+    .explicit(Some("No".to_string()))
+    .duration(duration_string)
+    .image(Some("https://bwinton.github.io/podcasts/spodcast/title.png".to_string()))
+    .build()?;
+
+  ItemBuilder::default()
+    .title(title)
+    .dublin_core_ext(dc)
+    .pub_date(pub_date.to_rfc2822())
+    .link(Some(url.to_owned()))
+    .guid(guid)
+    .description(description.join("\n"))
+    .itunes_ext(itunes)
+    .enclosure(enclosure)
+    .build().map_err(|desc| PodcastError { description: desc } )
+}
+
+fn process_document(url: &str, document: &Document) -> Result<Item, PodcastError> {
+  match url {
+    x if x.starts_with("http://spoilerwarning.net") => get_spodcast_info(url, document),
+    _ => Err(PodcastError {description: format!("Unknown podcast {}", url)})
+  }
+}
+
+fn get_item(url: &str) -> Result<Item, PodcastError> {
+  // Get the html and build an Item.
+  let mut response = reqwest::get(url)?;
+  let body = response.text()?;
+  let document = Document::from(body.as_str());
+
+  process_document(url, &document)
+}
+
+fn handle(podcast: &str) {
+  // Read podcast.urls and dist/podcast.xml
+  let urls = get_urls(podcast);
+  let mut rss_data = get_rss(podcast).unwrap();
+  println!("{}: {}/{}", podcast, rss_data.items().len(), urls.len());
+  let items: Vec<_> = urls.par_iter().map(|url| {
+    if let Some(found) = rss_data.items().iter().find(|item| item.link() == Some(url)) {
+      Some(found.clone())
+    } else {
+      // Find any missing urls.
+      println!("Missing {}", url);
+      let item = get_item(url);
+      item.ok()
+    }
+  }).filter_map(|x| x).collect();
+  // Write out the new dist/podcast.xml
+  rss_data.set_items(items);
+  let output = File::create(format!("dist/{}.xml", podcast)).unwrap();
+  rss_data.write_to(output).unwrap();
+}
+
+fn main() {
+  // let podcasts = vec!["spodcast", "diecast"];
+  let podcasts = vec!["spodcast"];
+  // For podcast in spodcast/diecast
+  podcasts.par_iter().for_each(|podcast| handle(podcast));
+  // let result = process_document("http://spoilerwarning.net/index.php/2018/02/21/the-spodcast-live-1/", include_str!("../spodcast.html")).ok();
+  // println!("\n{:?}", result);
+}
