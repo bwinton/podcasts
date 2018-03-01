@@ -26,9 +26,10 @@ pub fn matches(url: &str) -> bool {
 pub fn get_info(url: &str, document: &Document) -> Result<Item, PodcastError> {
     let this_document = Url::parse(url)?;
 
-    let title = document.find(Class("splash-title")).next().map(
-        |x| x.text(),
-    );
+    let title = document
+        .find(Class("splash-title"))
+        .next()
+        .map(|x| x.text());
     let mut date_str = document
         .find(Class("splash-avatar"))
         .next()
@@ -56,9 +57,9 @@ pub fn get_info(url: &str, document: &Document) -> Result<Item, PodcastError> {
     if let Some(temp) = document.find(Class("entry-text")).next() {
         let children: Vec<_> = temp.children()
             .filter(|node| {
-                node.name() != Some("div") && node.find(Name("iframe")).next() == None &&
-                    node.find(Name("script")).next() == None &&
-                    node.find(Name("audio")).next() == None
+                node.name() != Some("div") && node.find(Name("iframe")).next() == None
+                    && node.find(Name("script")).next() == None
+                    && node.find(Name("audio")).next() == None
             })
             .collect();
         description.extend(children.iter().map(|node| node.html()));
@@ -74,9 +75,7 @@ pub fn get_info(url: &str, document: &Document) -> Result<Item, PodcastError> {
     let summary_string = format_summary(&summary);
 
     let mp3_link = document
-        .find(Name("audio").child(
-            Name("source").and(Attr("type", "audio/mpeg")),
-        ))
+        .find(Name("audio").child(Name("source").and(Attr("type", "audio/mpeg"))))
         .next()
         .and_then(|x| x.attr("src"))
         .ok_or_else(|| PodcastError::new("missing mp3 link"))?;
@@ -104,8 +103,7 @@ pub fn get_info(url: &str, document: &Document) -> Result<Item, PodcastError> {
         .explicit(Some("No".to_string()))
         .duration(duration_string)
         .image(Some(
-            "http://www.shamusyoung.com/twentysidedtale/images/splash_diecast2.jpg"
-                .to_string(),
+            "http://www.shamusyoung.com/twentysidedtale/images/splash_diecast2.jpg".to_string(),
         ))
         .build()?;
 

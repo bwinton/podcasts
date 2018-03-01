@@ -65,9 +65,10 @@ fn handle(podcast: &str) {
         .map(|url| {
             if url.starts_with('#') {
                 None
-            } else if let Some(found) = rss_data.items().iter().find(
-                |item| item.link() == Some(url),
-            )
+            } else if let Some(found) = rss_data
+                .items()
+                .iter()
+                .find(|item| item.link() == Some(url))
             {
                 Some(found.clone())
             } else {

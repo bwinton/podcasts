@@ -25,3 +25,6 @@ build/Release
 
 /target/
 **/*.rs.bk
+.idea
+*.iml
+src/._*

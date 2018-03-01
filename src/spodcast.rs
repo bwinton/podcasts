@@ -63,9 +63,7 @@ pub fn get_info(url: &str, document: &Document) -> Result<Item, PodcastError> {
     }
 
     let mp3 = document
-        .find(Name("audio").child(
-            Name("source").and(Attr("type", "audio/mpeg")),
-        ))
+        .find(Name("audio").child(Name("source").and(Attr("type", "audio/mpeg"))))
         .next()
         .and_then(|x| x.attr("src"))
         .ok_or_else(|| PodcastError::new("missing mp3 length"))?;
@@ -91,8 +89,7 @@ pub fn get_info(url: &str, document: &Document) -> Result<Item, PodcastError> {
         .explicit(Some("No".to_string()))
         .duration(duration_string)
         .image(Some(
-            "https://bwinton.github.io/podcasts/spodcast/title.png"
-                .to_string(),
+            "https://bwinton.github.io/podcasts/spodcast/title.png".to_string(),
         ))
         .build()?;
 
