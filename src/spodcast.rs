@@ -1,4 +1,4 @@
-use util::{format_duration, PodcastError};
+use util::*;
 
 use chrono::Duration;
 use chrono::TimeZone;
@@ -22,7 +22,7 @@ pub fn matches(url: &str) -> bool {
     url.starts_with("http://spoilerwarning.net")
 }
 
-pub fn get_info(url: &str, document: &Document) -> Result<Item, PodcastError> {
+pub fn get_info(url: &str, document: &Document) -> Result<Item> {
     // Starts with http://spoilerwarning.net
     let title = document
         .find(Class("title").and(Class("single-title")))
@@ -32,18 +32,18 @@ pub fn get_info(url: &str, document: &Document) -> Result<Item, PodcastError> {
         .find(Class("post-date-ribbon"))
         .next()
         .map(|x| x.text())
-        .ok_or_else(|| PodcastError::new("missing date"))?;
+        .ok_or_else(|| format_err!("missing date in {}", url))?;
     date_str.push_str(" 02:55:20");
     let pub_date = Utc.datetime_from_str(&date_str, "%B %d, %Y %T")?;
 
     let dc = DublinCoreExtensionBuilder::default()
         .creators(vec!["The Spodcast".to_string()])
-        .build()?;
+        .build().map_err(|desc| format_err!("{}", desc))?;
 
     let guid = GuidBuilder::default()
         .permalink(false)
         .value(url.to_owned())
-        .build()?;
+        .build().map_err(|desc| format_err!("{}", desc))?;
 
     let mut description = Vec::new();
     let mut summary = Vec::new();
@@ -66,13 +66,13 @@ pub fn get_info(url: &str, document: &Document) -> Result<Item, PodcastError> {
         .find(Name("audio").child(Name("source").and(Attr("type", "audio/mpeg"))))
         .next()
         .and_then(|x| x.attr("src"))
-        .ok_or_else(|| PodcastError::new("missing mp3 length"))?;
+        .ok_or_else(|| format_err!("missing mp3 link in {}", url))?;
     let mut response = reqwest::get(mp3)?;
     let length = response
         .headers()
         .get::<ContentLength>()
         .map(|ct_len| **ct_len)
-        .ok_or_else(|| PodcastError::new("missing mp3 length"))?
+        .ok_or_else(|| format_err!("missing mp3 length for {}", mp3))?
         .to_string();
     let duration = Duration::from_std(mp3_duration::from_read(&mut response)?)?;
     let duration_string = format_duration(duration.num_seconds());
@@ -81,7 +81,7 @@ pub fn get_info(url: &str, document: &Document) -> Result<Item, PodcastError> {
         .url(mp3)
         .length(length)
         .mime_type("audio/mpeg".to_string())
-        .build()?;
+        .build().map_err(|desc| format_err!("{}", desc))?;
 
     let itunes = ITunesItemExtensionBuilder::default()
         .author(Some("The Spodcast".to_string()))
@@ -91,7 +91,7 @@ pub fn get_info(url: &str, document: &Document) -> Result<Item, PodcastError> {
         .image(Some(
             "https://bwinton.github.io/podcasts/spodcast/title.png".to_string(),
         ))
-        .build()?;
+        .build().map_err(|desc| format_err!("{}", desc))?;
 
     ItemBuilder::default()
         .title(title)
@@ -103,5 +103,5 @@ pub fn get_info(url: &str, document: &Document) -> Result<Item, PodcastError> {
         .itunes_ext(itunes)
         .enclosure(enclosure)
         .build()
-        .map_err(|desc| PodcastError::new(&desc))
+        .map_err(|desc| format_err!("{}", desc))
 }

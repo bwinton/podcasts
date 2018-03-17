@@ -1,4 +1,6 @@
 #[macro_use]
+extern crate failure;
+#[macro_use]
 extern crate lazy_static;
 
 mod util;
@@ -14,40 +16,45 @@ extern crate rss;
 extern crate select;
 extern crate url;
 
-use util::PodcastError;
+use util::*;
 
+use failure::ResultExt;
 use rayon::prelude::*;
 use rss::Channel;
 use rss::Item;
 use select::document::Document;
 use std::convert::From;
-use std::error::Error;
 use std::fs::File;
 use std::io::BufReader;
 use std::io::prelude::*;
 
-fn get_urls(podcast: &str) -> Vec<String> {
-    let urls = File::open(format!("{}.urls", podcast)).unwrap();
+fn get_urls(podcast: &str) -> Result<Vec<String>> {
+    let urls = File::open(format!("{}.urls", podcast))
+        .context(format_err!("Error opening {}.urls", podcast))?;
     let mut buf_reader = BufReader::new(urls);
     let mut contents = String::new();
-    buf_reader.read_to_string(&mut contents).unwrap();
-    contents.lines().map(|x| x.to_owned()).collect()
+    buf_reader.read_to_string(&mut contents)
+        .context(format_err!("Error reading {}.urls", podcast))?;
+    Ok(contents.lines().map(|x| x.to_owned()).collect())
 }
 
-fn get_rss(podcast: &str) -> Result<Channel, PodcastError> {
-    let xml = File::open(format!("dist/{}.xml", podcast))?;
-    Channel::read_from(BufReader::new(xml)).map_err(|error| PodcastError::new(error.description()))
+fn get_rss(podcast: &str) -> Result<Channel> {
+    let xml = File::open(format!("dist/{}.xml", podcast))
+        .context(format_err!("Error opening {}.xml", podcast))?;
+    Channel::read_from(BufReader::new(xml))
+        .context(format_err!("Error opening {}.xml", podcast))
+        .map_err(From::from)
 }
 
-fn process_document(url: &str, document: &Document) -> Result<Item, PodcastError> {
+fn process_document(url: &str, document: &Document) -> Result<Item> {
     match url {
         x if spodcast::matches(x) => spodcast::get_info(url, document),
         x if diecast::matches(x) => diecast::get_info(url, document),
-        _ => Err(PodcastError::new(&format!("Unknown podcast {}", url))),
+        _ => Err(format_err!("Unknown podcast: {}", url)),
     }
 }
 
-fn get_item(url: &str) -> Result<Item, PodcastError> {
+fn get_item(url: &str) -> Result<Item> {
     // Get the html and build an Item.
     let mut response = reqwest::get(url)?;
     let body = response.text()?;
@@ -58,8 +65,22 @@ fn get_item(url: &str) -> Result<Item, PodcastError> {
 
 fn handle(podcast: &str) {
     // Read podcast.urls and dist/podcast.xml
-    let urls = get_urls(podcast);
-    let mut rss_data = get_rss(podcast).unwrap();
+    let urls = match get_urls(podcast) {
+        Err(ref e) => {
+            print_error(e);
+            return;
+        },
+        Ok(urls) => urls
+    };
+
+    let mut rss_data = match get_rss(podcast) {
+        Err(ref e) => {
+            print_error(e);
+            return;
+        },
+        Ok(rss_data) => rss_data
+    };
+
     println!("{}: {}/{}", podcast, rss_data.items().len(), urls.len());
     let items: Vec<_> = urls.par_iter()
         .map(|url| {
@@ -75,8 +96,9 @@ fn handle(podcast: &str) {
                 // Find any missing urls.
                 // println!("Missing {}", url);
                 let item = get_item(url);
-                if item.is_err() {
-                    println!("Error! {} {:?}", url, item);
+                if let Err(ref e) = item {
+                    // println!("Error in {}", url);
+                    print_error(e);
                 }
                 item.ok()
             }
