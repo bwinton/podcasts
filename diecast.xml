@@ -19,6 +19,97 @@
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
     <item>
+      <title>Diecast #202: Kerbal Space Program, Human Revolution, Hosting Problems</title>
+      <link>http://shamusyoung.com/twentysidedtale/?p=42274</link>
+      <description>
+        <![CDATA[<p>Heads up: An enterprising reader has created <a href="https://mbafford-static.s3.amazonaws.com/diecast.xml">their own RSS feed</a> for the show. I don’t use RSS often enough to appraise it, so let me know how it works for you. If it’s good and does what we need, I’d be happy to make this the official feed.</p>
+<p>Good news for those of you who enjoyed SolderHawk’s visit in the previous episode: She’s going to come back and visit again in a few weeks.</p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="http://www.shamusyoung.com/">Shamus</a>.<p></p>
+<p>Episode edited by <a href="http://steamcommunity.com/profiles/76561198087035658/">Issac</a>.</p>
+<p>Show notes:<span id="more-42274"></span><br>
+<strong>00:09 Mailbag</strong></p>
+<blockquote><p>Dear Diecast</p>
+<p>This week the community is doing <a href="https://kotaku.com/a-massive-bloodborne-community-event-is-happening-right-1823671312">a Return to Bloodborne event</a>, which just means encouraging people to create a new character and go through the game again while using all of the online features. A similar event was done yearly for Demon’s Souls, which had its servers shut down earlier this year. </p>
+<p>Which older game that you like would you participate in such an event for?</p>
+<p>Love, Christopher </p></blockquote>
+<p><strong>03:21 Kerbal Space Program</strong></p>
+<p>The new DLC (which we shamefully didn’t name in the show) is called “Making History”. The stellar Scott Manley can give you a pretty good overview of what the new features are:</p>
+<p></p><p></p>
+<p><strong>08:00 Issac played Deus Ex: Human Revolution</strong></p>
+<p>My son: This doesn’t work for me.</p>
+<p>Me: That’s my boy!</p>
+<p><strong>13:57 SubNautica</strong></p>
+<p>Here is the first episode of the Let’s Play that Paul was talking about:</p>
+<p></p><p></p>
+<p><strong>23:34 My site went down for 6 hours on Friday the 9th.</strong></p>
+<p>Note that I think I used the wrong terms here. The tiers of web service are roughly: 1) Shared Hosting. 2) VPS 3) Dedicated hosting. In the show I mispoke when I said I needed “shared hosting”. I need the second one.</p>
+<p>I have better things to do than move my site again, after <a href="http://shamusyoung.com/twentysidedtale/?p=41629">the last move was such a nightmare</a>. And I’m paid up for the year and I’d hate to see that cash go to waste. But this host is ticking time bomb. </p>
+<p>Like I said on the show: I’m looking for a LAMP<span class="snote" title="1">The four pillars of the modern web: Linux, Apache, MySql, PHP.</span> VPS with shell access. I know I got some recommendations the last time the site went down, but it’s been a few months and I’m looking for updated information. I have to crowdsource this, since, like I said in the show, the typical review sites don’t dig deep enough to find the big problems.</p>
+<p><strong>36:50 Affinity / Photoshop replacement</strong></p>
+<p>I can’t believe I’ve found a possible replacement for the venerable <a href="https://www.cnet.com/products/jasc-paint-shop-pro-8-0/review/">Paint Shop Pro 8</a>. </p>
+<br><p class="byline"><i><img alt="" src="http://0.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>]]>
+      </description>
+      <enclosure url="http://www.shamusyoung.com/diecast/diecast202.mp3" length="44282551" type="audio/mpeg"/>
+      <guid isPermaLink="false">http://shamusyoung.com/twentysidedtale/?p=42274</guid>
+      <pubDate>Mon, 19 Mar 2018 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://www.shamusyoung.com/twentysidedtale/images/splash_diecast2.jpg">
+      </itunes:image>
+      <itunes:duration>46:07</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>Heads up: An enterprising reader has created their own RSS feed for the show. I don’t use RSS often enough to appraise it, so let me know how it works for you. If it’s good and does what we need, I’d be happy to make this the official feed.
+
+Good news for those of you who enjoyed SolderHawk’s visit in the previous episode: She’s going to come back and visit again in a few weeks.
+
+
+Hosts: Paul, Shamus.
+
+Episode edited by Issac.
+
+Show notes:
+00:09 Mailbag
+
+Dear Diecast
+This week the community is doing a Return to Bloodborne event, which just means encouraging people to create a new character and go through the game again while using all of the online features. A similar event was done yearly for Demon’s Souls, which had its servers shut down earlier this year. 
+Which older game that you like would you participate in such an event for?
+Love, Christopher 
+03:21 Kerbal Space Program
+
+The new DLC (which we shamefully didn’t name in the show) is called “Making History”. The stellar Scott Manley can give you a pretty good overview of what the new features are:
+
+
+
+
+08:00 Issac played Deus Ex: Human Revolution
+
+My son: This doesn’t work for me.
+
+Me: That’s my boy!
+
+13:57 SubNautica
+
+Here is the first episode of the Let’s Play that Paul was talking about:
+
+
+
+
+23:34 My site went down for 6 hours on Friday the 9th.
+
+Note that I think I used the wrong terms here. The tiers of web service are roughly: 1) Shared Hosting. 2) VPS 3) Dedicated hosting. In the show I mispoke when I said I needed “shared hosting”. I need the second one.
+
+I have better things to do than move my site again, after the last move was such a nightmare. And I’m paid up for the year and I’d hate to see that cash go to waste. But this host is ticking time bomb. 
+
+Like I said on the show: I’m looking for a LAMPThe four pillars of the modern web: Linux, Apache, MySql, PHP. VPS with shell access. I know I got some recommendations the last time the site went down, but it’s been a few months and I’m looking for updated information. I have to crowdsource this, since, like I said in the show, the typical review sites don’t dig deep enough to find the big problems.
+
+36:50 Affinity / Photoshop replacement
+
+I can’t believe I’ve found a possible replacement for the venerable Paint Shop Pro 8. 
+
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
+    <item>
       <title>Diecast #201: Another Funeral for Mass Effect</title>
       <link>http://shamusyoung.com/twentysidedtale/?p=42173</link>
       <description>
