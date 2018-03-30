@@ -39,7 +39,7 @@ fn get_urls(podcast: &str) -> Result<Vec<String>> {
 }
 
 fn get_rss(podcast: &str) -> Result<Channel> {
-    let xml = File::open(format!("dist/{}.xml", podcast))
+    let xml = File::open(format!("{}.xml", podcast))
         .context(format_err!("Error opening {}.xml", podcast))?;
     Channel::read_from(BufReader::new(xml))
         .context(format_err!("Error opening {}.xml", podcast))
@@ -64,7 +64,7 @@ fn get_item(url: &str) -> Result<Item> {
 }
 
 fn handle(podcast: &str) {
-    // Read podcast.urls and dist/podcast.xml
+    // Read podcast.urls and podcast.xml
     let urls = match get_urls(podcast) {
         Err(ref e) => {
             print_error(e);
@@ -105,9 +105,9 @@ fn handle(podcast: &str) {
         })
         .filter_map(|x| x)
         .collect();
-    // Write out the new dist/podcast.xml
+    // Write out the new podcast.xml
     rss_data.set_items(items);
-    let output = File::create(format!("dist/{}.xml", podcast)).unwrap();
+    let output = File::create(format!("{}.xml", podcast)).unwrap();
     rss_data.pretty_write_to(output, b' ', 2).unwrap();
 }
 
