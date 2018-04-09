@@ -19,6 +19,47 @@
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
     <item>
+      <title>Diecast #205: Kerbal Space Programming, Unity, C#</title>
+      <link>http://shamusyoung.com/twentysidedtale/?p=42395</link>
+      <description>
+        <![CDATA[<p>The title is not a typo. This is actually about programming for Kerbal Space Program. For those of you who’ve been missing out on the programming content around here: Your time has come. We talk about programming on the Diecast, and then tomorrow I have a new programming series starting. </p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="http://www.shamusyoung.com/">Shamus</a>.<p></p>
+<p>Episode edited by <a href="http://steamcommunity.com/profiles/76561198087035658/">Issac</a>.</p>
+<p>Show notes:</p>
+<p><strong>01:20 KSP Modding</strong></p>
+<p><strong>26:08 Unity game Engine</strong></p>
+<p><strong>43:57 Programming in C# versus C++</strong></p>
+<br><p class="byline"><i><img alt="" src="http://0.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>]]>
+      </description>
+      <enclosure url="http://www.shamusyoung.com/diecast/diecast205.mp3" length="71789991" type="audio/mpeg"/>
+      <guid isPermaLink="false">http://shamusyoung.com/twentysidedtale/?p=42395</guid>
+      <pubDate>Mon, 9 Apr 2018 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://www.shamusyoung.com/twentysidedtale/images/splash_diecast2.jpg">
+      </itunes:image>
+      <itunes:duration>1:14:46</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>The title is not a typo. This is actually about programming for Kerbal Space Program. For those of you who’ve been missing out on the programming content around here: Your time has come. We talk about programming on the Diecast, and then tomorrow I have a new programming series starting. 
+
+
+Hosts: Paul, Shamus.
+
+Episode edited by Issac.
+
+Show notes:
+
+01:20 KSP Modding
+
+26:08 Unity game Engine
+
+43:57 Programming in C# versus C++
+
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
+</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
+    <item>
       <title>Diecast #204: Left 4 Dead, Factorio Pricing, Minecraft and World Scale</title>
       <link>http://shamusyoung.com/twentysidedtale/?p=42338</link>
       <description>
