@@ -19,6 +19,69 @@
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
     <item>
+      <title>Diecast #207: Minecraft Scripting, Aer, Business Rant</title>
+      <link>http://shamusyoung.com/twentysidedtale/?p=42631</link>
+      <description>
+        <![CDATA[<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="http://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="http://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<p></p>
+<p>Show notes:<span id="more-42631"></span><br>
+<strong>00:00 RSS feeds.</strong></p>
+<p><a href="http://feeds.feedburner.com/shamusyoung/diecast">Here is yet another attempt by a member of the community to make an RSS feed that works for longer than ten minutes</a>. If it works for everyone, I’ll make this the official feed.</p>
+<p><strong>06:10 There have been NO mailbag questions.</strong></p>
+<p>I’m really curious about this. I’ve changed servers so I can’t compare downloads of the old episodes to the new, but if we go by number of comments, the show is maybe half as popular as it used to be. But the number of mailbag questions has gone from dozens to zero. So… that’s a little strange. </p>
+<p><strong>07:31 Minecraft Scripting fun. </strong></p>
+<p>Here are <a href="http://peripheralarbor.com/minecraft/minecraftscripts.html">the Minecraft scripts Paul was talking about</a>.</p>
+<p><strong>23:11 La Mesa, Texas</strong></p>
+<p>Any other cities that are flagrantly mispronounced?</p>
+<p><strong>25:29 Aer. Fun little game. Low poly art-style. </strong></p>
+<p></p><p></p>
+<p>Here are the <a href="http://peripheralarbor.com/gallery/v/CG+Art/scripts/crystal/">cool crystal test renders</a> Paul was talking about. </p>
+<p><strong>34:22 [Failing at] starting a business.</strong></p>
+<p>If you missed it, <a href="https://www.youtube.com/watch?v=4aL1rV6AfZo">this</a> is the game I’m trying to release on Steam.</p>
+<br><p class="byline"><i><img alt="" src="http://0.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>]]>
+      </description>
+      <enclosure url="http://www.shamusyoung.com/diecast/diecast207.mp3" length="47438401" type="audio/mpeg"/>
+      <guid isPermaLink="false">http://shamusyoung.com/twentysidedtale/?p=42631</guid>
+      <pubDate>Mon, 23 Apr 2018 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://www.shamusyoung.com/twentysidedtale/images/splash_diecast2.jpg">
+      </itunes:image>
+      <itunes:duration>49:24</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>Hosts: Paul, Shamus. Episode edited by Issac.
+
+Show notes:
+00:00 RSS feeds.
+
+Here is yet another attempt by a member of the community to make an RSS feed that works for longer than ten minutes. If it works for everyone, I’ll make this the official feed.
+
+06:10 There have been NO mailbag questions.
+
+I’m really curious about this. I’ve changed servers so I can’t compare downloads of the old episodes to the new, but if we go by number of comments, the show is maybe half as popular as it used to be. But the number of mailbag questions has gone from dozens to zero. So… that’s a little strange. 
+
+07:31 Minecraft Scripting fun. 
+
+Here are the Minecraft scripts Paul was talking about.
+
+23:11 La Mesa, Texas
+
+Any other cities that are flagrantly mispronounced?
+
+25:29 Aer. Fun little game. Low poly art-style. 
+
+
+
+
+Here are the cool crystal test renders Paul was talking about. 
+
+34:22 [Failing at] starting a business.
+
+If you missed it, this is the game I’m trying to release on Steam.
+
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
+    <item>
       <title>Diecast #206: Another Funeral for Half-Life</title>
       <link>http://shamusyoung.com/twentysidedtale/?p=42469</link>
       <description>
@@ -74,8 +137,7 @@ And here is the EgoRaptor video Brittany brought up:
 
 
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
