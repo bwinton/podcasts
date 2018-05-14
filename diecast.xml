@@ -19,6 +19,111 @@
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
     <item>
+      <title>Diecast #210: Mods</title>
+      <link>http://shamusyoung.com/twentysidedtale/?p=42740</link>
+      <description>
+        <![CDATA[<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="http://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="http://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<p></p>
+<p>Show notes:<span id="more-42740"></span><br>
+<strong>00:00 Let’s talk about modding!</strong></p>
+<p>Spoiler: We don’t begin to scratch the surface of the topic here. We focus a lot on the PC modding scene and don’t talk much about ROM hacks and the like.</p>
+<p><strong>06:02 Game unplayable without mods?</strong></p>
+<p>I wish I’d thought of this answer during the show, but Garry’s Mod strikes me as being a game that exists as a platform for mods and would be more or less pointless without them.</p>
+<p><strong>11:00 Games that would be ruined by modding?</strong><br>
+<strong>14:03 Games that would benefit from modding.</strong></p>
+<p>As promised, here is what the game looks like with a shaderpack installed:</p>
+<p></p><table border="0" class="nomargin" cellpadding="0" cellspacing="0"><tbody><tr><td><img src="http://shamusyoung.com/twentysidedtale/images/minecraft2018_shader.jpg" class="imagefull" alt="I love it." title="I love it."></td></tr><tr><td class="insetcaptionx"><p class="mouseover_alt">I love it.</p></td></tr></tbody></table><p></p>
+<p>To install this:</p>
+<p>Get the <a href="https://www.feed-the-beast.com/">Feed the Beast</a> <strong>legacy</strong> launcher. Once you have it installed and running, find a modpack that sounds fun. I’m currently playing Direwolf20 for Minecraft 1.12.2<span class="snote" title="1">Not sure if I’m into Direwolf yet. I just started.</span>. Launch the game, make sure it works.</p>
+<p>Exit the game and you’ll go back to the FTB launcher. Press the button that says “Open Modpack Folder”. That will open up an Explorer window<span class="snote" title="2">Yeah, all of these directions are for Windows PC. If you’re on another platform you’ll have to figure this out for yourself. Good luck!</span> that shows all of your mods. (There will be a lot.) Get a version of <a href="https://optifine.net/downloads">Optifine</a> that matches the version of the modpack you’re running. If you’re playing Direwolf20, that’s 1.12.2. Download the file (you should get a .jar file) and place it in the folder you opened up a minute ago.</p>
+<p>Fire up the game again. If you’re very lucky, it will work. If not… I have no idea. Sorry. It either means you downloaded the wrong version of Optifine, OR Optifine is randomly incompatible with one of the other dozens of mods. </p>
+<p>Fire up the game again. Yes, it takes five minutes to launch. Yes, every time. Yes, that’s absurd and even allowing for the inefficiencies of Java that’s probably a good order of magnitude larger than it should be. Like Paul said on the show, the world REALLY needs a version of Minecraft with native mod support.</p>
+<p>Once you’re in the game (like, go into a world, not just at the menu) go to options » Video Settings » Shaders. This will take you to a screen where you can choose which shader you want to use. You don’t have any yet. There are dozens. Some are fantastic. Some are silly. Some are really slow. Many are broken. I’m currently using <a href="http://shadersmods.com/wisdom-shaders-mod/">Wisdom shaders</a>, which has these wonderful moving clouds.</p>
+<p>From this shader-selection screen in Minecraft you can open up the shader folder. Do so, then take the shader you downloaded and put it in there. At this point you should be able to switch to the shader without needing to restart the game. Sometimes changing shaders will force the game to dump and reload all texture data, which takes a good 30 seconds. It will feel like MC locked up, but it should still be good. Wait it out. </p>
+<p>I don’t know if this will work for you, but that’s the procedure I follow. Good luck!</p>
+<p><strong>33:36 Mailbag: Programming</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>my friends are fond of saying “the only good code is your code, and only if you’ve worked on that codebase continuously / from the beginning”. Do you agree with that sentiment?</p>
+<p>And on a related note, is there one thing you just wish every programmer would do or stop doing, and if so, what is it?</p>
+<p>Best regards,<br>
+Droid</p></blockquote>
+<p><strong>47:57 Mailbag: Short games.</strong></p>
+<blockquote><p>DDC,<br>
+Minit?Other short games?<br>
+Short DL</p></blockquote>
+<p><a href="https://www.youtube.com/watch?v=D_84aBNgLR0">Here is the review of Minit</a>. </p>
+<p>And here is <a href="https://store.steampowered.com/app/732430/Superflight/">Superflight</a>:</p>
+<p></p><p></p>
+<br><p class="byline"><i><img alt="" src="http://0.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>]]>
+      </description>
+      <enclosure url="http://www.shamusyoung.com/diecast/diecast210.mp3" length="50098947" type="audio/mpeg"/>
+      <guid isPermaLink="false">http://shamusyoung.com/twentysidedtale/?p=42740</guid>
+      <pubDate>Mon, 14 May 2018 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://www.shamusyoung.com/twentysidedtale/images/splash_diecast2.jpg">
+      </itunes:image>
+      <itunes:duration>52:11</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+Hosts: Paul, Shamus. Episode edited by Issac.
+
+Show notes:
+00:00 Let’s talk about modding!
+
+Spoiler: We don’t begin to scratch the surface of the topic here. We focus a lot on the PC modding scene and don’t talk much about ROM hacks and the like.
+
+06:02 Game unplayable without mods?
+
+I wish I’d thought of this answer during the show, but Garry’s Mod strikes me as being a game that exists as a platform for mods and would be more or less pointless without them.
+
+11:00 Games that would be ruined by modding?
+14:03 Games that would benefit from modding.
+
+As promised, here is what the game looks like with a shaderpack installed:
+
+
+I love it.
+
+To install this:
+
+Get the Feed the Beast legacy launcher. Once you have it installed and running, find a modpack that sounds fun. I’m currently playing Direwolf20 for Minecraft 1.12.2Not sure if I’m into Direwolf yet. I just started.. Launch the game, make sure it works.
+
+Exit the game and you’ll go back to the FTB launcher. Press the button that says “Open Modpack Folder”. That will open up an Explorer windowYeah, all of these directions are for Windows PC. If you’re on another platform you’ll have to figure this out for yourself. Good luck! that shows all of your mods. (There will be a lot.) Get a version of Optifine that matches the version of the modpack you’re running. If you’re playing Direwolf20, that’s 1.12.2. Download the file (you should get a .jar file) and place it in the folder you opened up a minute ago.
+
+Fire up the game again. If you’re very lucky, it will work. If not… I have no idea. Sorry. It either means you downloaded the wrong version of Optifine, OR Optifine is randomly incompatible with one of the other dozens of mods. 
+
+Fire up the game again. Yes, it takes five minutes to launch. Yes, every time. Yes, that’s absurd and even allowing for the inefficiencies of Java that’s probably a good order of magnitude larger than it should be. Like Paul said on the show, the world REALLY needs a version of Minecraft with native mod support.
+
+Once you’re in the game (like, go into a world, not just at the menu) go to options » Video Settings » Shaders. This will take you to a screen where you can choose which shader you want to use. You don’t have any yet. There are dozens. Some are fantastic. Some are silly. Some are really slow. Many are broken. I’m currently using Wisdom shaders, which has these wonderful moving clouds.
+
+From this shader-selection screen in Minecraft you can open up the shader folder. Do so, then take the shader you downloaded and put it in there. At this point you should be able to switch to the shader without needing to restart the game. Sometimes changing shaders will force the game to dump and reload all texture data, which takes a good 30 seconds. It will feel like MC locked up, but it should still be good. Wait it out. 
+
+I don’t know if this will work for you, but that’s the procedure I follow. Good luck!
+
+33:36 Mailbag: Programming
+
+Dear Diecast,
+my friends are fond of saying “the only good code is your code, and only if you’ve worked on that codebase continuously / from the beginning”. Do you agree with that sentiment?
+And on a related note, is there one thing you just wish every programmer would do or stop doing, and if so, what is it?
+Best regards,
+Droid
+47:57 Mailbag: Short games.
+
+DDC,
+Minit?Other short games?
+Short DL
+Here is the review of Minit. 
+
+And here is Superflight:
+
+
+
+
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
+</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
+    <item>
       <title>Diecast #209: System Shock, TotalBiscuit, Minecraft, Mailbag</title>
       <link>http://shamusyoung.com/twentysidedtale/?p=42690</link>
       <description>
