@@ -19,6 +19,69 @@
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
     <item>
+      <title>Diecast #217: July 4th, Google Drive, Raytracing</title>
+      <link>http://shamusyoung.com/twentysidedtale/?p=43194</link>
+      <description>
+        <![CDATA[<p>I hope to have SoldierHawk on Real Soon Now. Send in any questions you have for her / us. The email address is in the header image.</p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="http://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="http://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<p></p>
+<p>Show notes:<span id="more-43194"></span><br>
+<strong>00:00 July 4th</strong></p>
+<p>For you non-Americans: Obviously you don’t observe American Independence Day, but do you have some other holiday where fireworks are a major part of the celebration?</p>
+<p><strong>10:12 Google Drive, Photos, Backups, and Grief</strong></p>
+<p>I talked to my wife after recording this show, and she had the same problem Paul and I did. So now I’m curious if anyone out there finds the Google Drive behavior to be intuitive.</p>
+<p><strong>48:36  Mailbag: Raytracing</strong></p>
+<blockquote><p>Hello Paul, Shamus, Isaac</p>
+<p>At the GDC 2018 nVidea and Microsoft promoted the upcomming “new thing” in game technology: <a href="https://en.wikipedia.org/wiki/Ray_tracing_(graphics)">Raytracing</a></p>
+<p>They will update their <a href="https://devblogs.nvidia.com/introduction-nvidia-rtx-directx-ray-tracing/">APIs</a> and Unity, Epic and Dice promised support.</p>
+<p>What is your take on that shiny, new and expensive technology? Will it improve anything, that isn’t already accomplished? Will you try messing with it (after Pixel City Redux is completed/abandoned)?</p>
+<p>Best Regards</p>
+<p>Lars
+ </p></blockquote>
+<p>Here is a demonstration of real-time raytracing in action:<br>
+</p><p></p>
+<br><p class="byline"><i><img alt="" src="http://0.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>]]>
+      </description>
+      <enclosure url="http://www.shamusyoung.com/diecast/diecast217.mp3" length="67837457" type="audio/mpeg"/>
+      <guid isPermaLink="false">http://shamusyoung.com/twentysidedtale/?p=43194</guid>
+      <pubDate>Mon, 9 Jul 2018 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://www.shamusyoung.com/twentysidedtale/images/splash_diecast2.jpg">
+      </itunes:image>
+      <itunes:duration>1:10:39</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>I hope to have SoldierHawk on Real Soon Now. Send in any questions you have for her / us. The email address is in the header image.
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+
+Show notes:
+00:00 July 4th
+
+For you non-Americans: Obviously you don’t observe American Independence Day, but do you have some other holiday where fireworks are a major part of the celebration?
+
+10:12 Google Drive, Photos, Backups, and Grief
+
+I talked to my wife after recording this show, and she had the same problem Paul and I did. So now I’m curious if anyone out there finds the Google Drive behavior to be intuitive.
+
+48:36  Mailbag: Raytracing
+
+Hello Paul, Shamus, Isaac
+At the GDC 2018 nVidea and Microsoft promoted the upcomming “new thing” in game technology: Raytracing
+They will update their APIs and Unity, Epic and Dice promised support.
+What is your take on that shiny, new and expensive technology? Will it improve anything, that isn’t already accomplished? Will you try messing with it (after Pixel City Redux is completed/abandoned)?
+Best Regards
+Lars
+ 
+Here is a demonstration of real-time raytracing in action:
+
+
+
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
+</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
+    <item>
       <title>Diecast #216: GDQ, Item Hoarding, NMS Rant</title>
       <link>http://shamusyoung.com/twentysidedtale/?p=43157</link>
       <description>
