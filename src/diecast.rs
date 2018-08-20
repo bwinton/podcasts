@@ -16,6 +16,7 @@ use select::document::Document;
 use select::predicate::Attr;
 use select::predicate::Class;
 use select::predicate::Name;
+use select::predicate::Or;
 use select::predicate::Predicate;
 use url::Url;
 
@@ -30,18 +31,26 @@ pub fn get_info(url: &str, document: &Document) -> Result<Item> {
         .find(Class("splash-title"))
         .next()
         .map(|x| x.text());
-    let mut date_str = document
+
+    let splash = document
+        .find(Or(Class("splash-image"), Class("insetimage")))
+        .next()
+        .map_or(Some("images/splash_diecast2.jpg"), |x| x.attr("src"))
+        .ok_or_else(|| format_err!("missing splash in {}", url))?;
+    let splash = this_document.join(splash)?.to_string();
+
+    let mut pub_date = document
         .find(Class("splash-avatar"))
         .next()
         .map(|x| x.text())
         .ok_or_else(|| format_err!("missing avatar in {}", url))?;
-    date_str = date_str
+    pub_date = pub_date
         .split("on ")
         .nth(1)
         .ok_or_else(|| format_err!("missing date in {}", url))?
         .to_string();
-    date_str.push_str(" 03:55:20");
-    let pub_date = Utc.datetime_from_str(&date_str, "%A %B %d, %Y %T")?;
+    pub_date.push_str(" 03:55:20");
+    let pub_date = Utc.datetime_from_str(&pub_date, "%A %B %d, %Y %T")?;
 
     let dc = DublinCoreExtensionBuilder::default()
         .creators(vec!["Shamus Young".to_string()])
@@ -71,15 +80,15 @@ pub fn get_info(url: &str, document: &Document) -> Result<Item> {
             rv
         }));
     }
-    let description_string = format_description(&description, &this_document);
-    let summary_string = format_summary(&summary);
+    let description = format_description(&description, &this_document);
+    let summary = format_summary(&summary);
 
-    let mp3_link = document
+    let mp3 = document
         .find(Name("audio").child(Name("source").and(Attr("type", "audio/mpeg"))))
         .next()
         .and_then(|x| x.attr("src"))
         .ok_or_else(|| format_err!("missing mp3 link in {}", url))?;
-    let mp3 = this_document.join(mp3_link)?;
+    let mp3 = this_document.join(mp3)?;
     let mut response = reqwest::get(mp3.as_str())?;
     let length = response
         .headers()
@@ -89,7 +98,7 @@ pub fn get_info(url: &str, document: &Document) -> Result<Item> {
         .to_string();
     let temp = mp3_duration::from_read(&mut response)?;
     let duration = Duration::from_std(temp)?;
-    let duration_string = format_duration(duration.num_seconds());
+    let duration = format_duration(duration.num_seconds());
 
     let enclosure = EnclosureBuilder::default()
         .url(mp3.as_str())
@@ -99,12 +108,10 @@ pub fn get_info(url: &str, document: &Document) -> Result<Item> {
 
     let itunes = ITunesItemExtensionBuilder::default()
         .author(Some("The Diecast".to_string()))
-        .summary(Some(summary_string))
+        .summary(Some(summary))
         .explicit(Some("No".to_string()))
-        .duration(duration_string)
-        .image(Some(
-            "http://www.shamusyoung.com/twentysidedtale/images/splash_diecast2.jpg".to_string(),
-        ))
+        .duration(duration)
+        .image(splash)
         .build().map_err(|desc| format_err!("{}", desc))?;
 
     ItemBuilder::default()
@@ -113,7 +120,7 @@ pub fn get_info(url: &str, document: &Document) -> Result<Item> {
         .pub_date(pub_date.to_rfc2822().replace("  ", " "))
         .link(Some(url.to_owned()))
         .guid(guid)
-        .description(Some(description_string))
+        .description(Some(description))
         .itunes_ext(itunes)
         .enclosure(enclosure)
         .build()
