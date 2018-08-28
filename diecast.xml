@@ -19,6 +19,122 @@
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
     <item>
+      <title>Diecast #223: GPU, Linux vs. Windows, Net Neutrality</title>
+      <link>http://shamusyoung.com/twentysidedtale/?p=43764</link>
+      <description>
+        <![CDATA[
+		<p>In the show I claimed we answered ALL mailbag questions. Technically we cut one because neither one of us had anything to say on the topic. Still, the ratio of useful / cut questions usually goes in the other direction so this was a pretty good week for the mailbag. As always, the address is in the header image.</p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="http://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="http://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<p></p>
+<p>Show notes:<span id="more-43764"></span></p>
+<p><strong>01:03 Graphics card naming </strong></p>
+<blockquote><p>Dear Diecast</p>
+<p>With Nvidia’s announcement of their new RTX 2000 cards and all their talk of Giga Rays it reminded me of a problem I used to have back when I worked in gaming retail.  </p>
+<p>Due to the fact that most PC games had/have limited use one time codes we had a no returns policy on PC games which is obviously a problem for people who do not know if a particular game will run on their hardware.  Customers would often ask me if a particular game will run on their PC and I would try and answer to the best of my ability but sometimes it is not always easy to help.  Sometimes their hardware would be older or newer and I would have to try guesstimate how it compared to the listed requirements or they would ask why 2 graphics cards were so different in price or performance when they had the same amount of VRAM, etc.  </p>
+<p><strong>My question at the end of all of this is could there be a better way to classify and quantify hardware performance so that people who are not experts can more easily figure out what they have and what they need?</strong></p>
+<p>Regards Eric</p></blockquote>
+<p><strong>10:51 Linux vs. Windows</strong>  </p>
+<blockquote><p>Dear casters of die,</p>
+<p>recently Steam released Proton, their custom Wine implementation allowing<br>
+Linux users to run Windows games. Do you guys think this could cause a shift<br>
+in the market?</p>
+<p>As always, thanks for the great show!</p>
+<p>-Tim</p></blockquote>
+<p>Looking into this after the show, I can see why I didn’t hear about this sooner. Proton isn’t really ready for casual adoption yet. You can tell because you don’t get it from Valve. Instead, <a href="https://github.com/ValveSoftware/Proton/">you get it from GitHub</a>.</p>
+<p>On one hand, getting Windows games running on Linux is a HARD problem to solve. On the other hand, Valve has deep pockets and it <em>is</em> solvable. It’s too soon to tell right now, but it will be very interesting to see how this works out in the long term. Maybe this will be another SteamBox style failure, or maybe this will be another paradigm shift like Steam itself. Either way, it’s a good thing for PC Gamers. Anything that keeps Microsoft from getting too complacent is good for us.</p>
+<p><strong>19:20 Satisfactory </strong></p>
+<blockquote><p>Given you’re Minecraft and Factorio fans, thoughts / impressions / hopes for Satisfactory?</p>
+<p>Regards</p>
+<p>G</p></blockquote>
+<p></p><p></p>
+<p><strong>22:16 Bully</strong></p>
+<blockquote><p>Dear rollers of analogue pseudo random number generators,</p>
+<p>I am back and I have an inquiry upon your opinions in regards to DLC. You might want to cut out the next bit for brevity.</p>
+<p>The history of DLC since it inception is quite intriguing and turbulent. First there were cosmetic stuff and useless bits (Horse Armor). Followed by the wave of cut out content (Battle for Forli in AC2). Then there was the phase of some additional missions without anything really of interest in regards to gameplay and/or story. And lastly we had an increase of either mini expansions or experimental story/mission pieces. Things like the Fallout DLC comes to mind or the DLC packs for Mafia 3 and the newer Far Cry games (4 and beyond). The last thing i find especially interesting given that these are sometimes used to prototype mechanics and ideas for future games. Question: Do you think about this practice of using DLC as prototype testbed?</p>
+<p>An addendum:<br>
+<strong>You stated San Andreas is the best Rockstar game because it had heart. I personally think Bully is the best one for similar reasons even if most characters are asshats. Have you ever played Bully or would you consider trying it out?</strong></p>
+<p>Furthermore I was wondering which kind of speedrun you prefer? The ones where one glitch is repeated over and over again and is abused ad absurdum or more of the technical kind where a lot of skills are being used?</p>
+<p>Lastly:<br>
+There is a lot of bashing going on in the direction of Ubisoft due to their open world games all being the same. Or at least sameish. I personally have the feeling that this open world sameyness already existed long before the Ubisoft formula was established. Sure Open World games are samey within their genre but if you compare entries from a specific developer you will always have quite a bit of sameness. Just Cause and Mad Max are somewhat self similar. But given your recent experiences with some Rockstar games would you say that they are similar to each other. I personally would extend them being similar to all Rockstar games be it GTA, Bully or Read Dead. Please discuss.</p>
+<p>Cheers and a nice weekend from Austria,<br>
+Gresman</p>
+<p><strong>PS: Would you be willing to share the distribution of your readers over the globe if you have access to such data?</strong></p></blockquote>
+<p>I should add to what I said on the show: I loved Bully, but the classroom minigames were pretty bad. </p>
+<p><strong>26:20 Distribution of readers</strong></p>
+<p>Like I said on the show: We’re coming up on the anniversary of the site. I’ll do a post with a bunch of random factoids about the site. I suspect that post will happen next Tuesday, the 4th. If you have any questions about the readership of this site, the database that holds it, or the technology that holds it all together, now is the time to ask.</p>
+<p><strong>26:59 Net Neutrality</strong></p>
+<blockquote><p>To the last die caster.</p>
+<p>What are your thoughts on Net Neutrality now that it was officially repealed as law in the US?</p>
+<p>I know that when you first wrote about it Net Neutrality was an unspoken rule no-one broke because it would ruin it for everyone, but since then companies started to break it and ruined it for everyone, which in turn forced the US government to sign it into law.</p>
+<p>Now that companies are free to break it, and since they’ve clearly paid handsomely for this “benefit” they will, how would it affect American costumers? And how it would affect other countries that have their connection go through US cables, like South American costumers trying to access servers in Europe and the like?</p>
+<p>signed,<br>
+RCN, your Brazilian fan</p></blockquote>
+<p>Whenever I caution people against talking politics, I always get a little pushback in the form of, “But Shamus, EVERYTHING is politics!” Note here that when I say “politics” I’m talking specifically about partisan politics of the classic Red vs. Blue variety. These arguments will always spiral into ugly tribalism. There will always be one or two people who feel the need to unleash their pent-up frustration and irritation on anyone from the Other Party. They mean well, but these arguments are a dead-end and I don’t care to watch my readers tear each other apart over things we can’t change.</p>
+<p>To put it more specifically: I really enjoy abstract thought experiments talking about how you balance the desire for freedom against the need for regulation and the drawbacks of going too far in either direction. That’s an interesting discussion. For contrast, I don’t care what you think of Donald Trump or Ajit Pai and I don’t care to moderate the argument that will result if you decide to start an argument centered American partisan politics.</p>
+<p>There are a lot of interesting topics this week. Please don’t make me close the comments because you can’t participate in this discussion without picking a fight.</p>
+<p><strong>40:27 Modding</strong></p>
+<blockquote><p>Have you had any experience making mods? Of so, what’s the most/least fun you’ve had doing so? </p>
+<p>Thanks, Echo Tango!</p></blockquote>
+<p><a href="https://www.doomworld.com/idgames/levels/doom2/p-r/relive">Here is the Doom2 mod I made back in 1995</a>. That’s the last major mod I made. It’s also just before I got married. (The release date is actually just a couple of weeks after the wedding.) I imagine these two facts are at least somewhat related.</p>
+
+    <br><p class="byline"><i><img alt="" src="http://0.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://www.shamusyoung.com/diecast/diecast223.mp3" length="54647673" type="audio/mpeg"/>
+      <guid isPermaLink="false">http://shamusyoung.com/twentysidedtale/?p=43764</guid>
+      <pubDate>Mon, 27 Aug 2018 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast2018.jpg">
+      </itunes:image>
+      <itunes:duration>56:55</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		In the show I claimed we answered ALL mailbag questions. Technically we cut one because neither one of us had anything to say on the topic. Still, the ratio of useful / cut questions usually goes in the other direction so this was a pretty good week for the mailbag. As always, the address is in the header image.
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+
+Show notes:
+
+01:03 Graphics card naming 
+
+Dear Diecast
+With Nvidia’s announcement of their new RTX 2000 cards and all their talk of Giga Rays it reminded me of a problem I used to have back when I worked in gaming retail.  
+Due to the fact that most PC games had/have limited use one time codes we had a no returns policy on PC games which is obviously a problem for people who do not know if a particular game will run on their hardware.  Customers would often ask me if a particular game will run on their PC and I would try and answer to the best of my ability but sometimes it is not always easy to help.  Sometimes their hardware would be older or newer and I would have to try guesstimate how it compared to the listed requirements or they would ask why 2 graphics cards were so different in price or performance when they had the same amount of VRAM, etc.  
+My question at the end of all of this is could there be a better way to classify and quantify hardware performance so that people who are not experts can more easily figure out what they have and what they need?
+Regards Eric
+10:51 Linux vs. Windows  
+
+Dear casters of die,
+recently Steam released Proton, their custom Wine implementation allowing
+Linux users to run Windows games. Do you guys think this could cause a shift
+in the market?
+As always, thanks for the great show!
+-Tim
+Looking into this after the show, I can see why I didn’t hear about this sooner. Proton isn’t really ready for casual adoption yet. You can tell because you don’t get it from Valve. Instead, you get it from GitHub.
+
+On one hand, getting Windows games running on Linux is a HARD problem to solve. On the other hand, Valve has deep pockets and it is solvable. It’s too soon to tell right now, but it will be very interesting to see how this works out in the long term. Maybe this will be another SteamBox style failure, or maybe this will be another paradigm shift like Steam itself. Either way, it’s a good thing for PC Gamers. Anything that keeps Microsoft from getting too complacent is good for us.
+
+19:20 Satisfactory 
+
+Given you’re Minecraft and Factorio fans, thoughts / impressions / hopes for Satisfactory?
+Regards
+G
+
+
+
+22:16 Bully
+
+Dear rollers of analogue pseudo random number generators,
+I am back and I have an inquiry upon your opinions in regards to DLC. You might want to cut out the next bit for brevity.
+The history of DLC since it inception is quite intriguing and turbulent. First there were cosmetic stuff and useless bits (Horse Armor). Followed by the wave of cut out content (Battle for Forli in AC2). Then there was the phase of some additional missions without anything really of interest in regards to gameplay and/or story. And lastly we had an increase of either mini expansions or experimental story/mission pieces. Things like the Fallout DLC comes to mind or the DLC packs for Mafia 3 and the newer Far Cry games (4 and beyond). The last thing i find especially interesting given that these are sometimes used to prototype mechanics and ideas for future games. Question: Do you think about this practice of using DLC as prototype testbed?
+An addendum:
+You stated San Andreas is the best Rockstar game because it had heart. I personally think Bully is the best one for similar reasons even if most characters are asshats. Have you ever played Bully or would you consider trying it out?
+Furthermore I was wondering which kind of speedrun you prefer? The ones where one glitch is repeated over and over again and is abused ad absurdum or more of the technical kind where a lot of skills are being used?
+Lastly:
+There is a lot of bashing going on in t…</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
+    <item>
       <title>Diecast #222: Birthday Week</title>
       <link>http://shamusyoung.com/twentysidedtale/?p=43689</link>
       <description>
@@ -46,8 +162,7 @@ We weren’t really working from a fixed list of topics, so no show notes this w
 
 One final note is that this was recorded with Heather and I sitting at the same computer with an open microphone. Normally I do the show via VOIP and everyone has a key for push-to-talk. The setup we used this time means you’ll hear a little more background noise. So if you’re curious why you can hear my sniffing or the THUD of me setting down my silo-sized drink, now you know.
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -136,8 +251,7 @@ Ugh. This game drives me crazy.
 
 Shamus,
 You and the rest of the diecast crew had an Nintendo Switch launch espectacular in which most of you seemed pretty down on the new console (except Campster and you daughter IIRC). Has your perspective on it changed since? Why do you think the machine is successful?
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -218,8 +332,7 @@ On the show I said everything was up and running again. It turns out the RSS fee
 
 Also, I just noticed the new host seems to have some curious throttling. I used to be able to download the audio of this showWhy do I download my own show? Issac uploads it, then I download it. This way I can make sure the link works. in one minute, and this week it took ten. What’s odd is that the site doesn’t seem to be slower overall. Curious. 
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -297,8 +410,7 @@ World Wars as settings, but not with anything before. They were extremely
 brutal, of course, but so was the 30 Years War. I don’t know why it
 should matter how far back you go, but it does seem to matter to me…
 RFS-81
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -378,8 +490,7 @@ it came out, but would you mind discussing it a bit more, especially the
 story? I’m curious what you thought about the ending twist; I liked it
 but can see why some might not. Thanks!
 Kestrellius
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -441,8 +552,7 @@ Here is a demonstration of real-time raytracing in action:
 
 
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -483,8 +593,7 @@ Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="http://www.s
       </itunes:image>
       <itunes:duration>1:06:46</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Paul, Shamus. Episode edited by Issac.
+      <itunes:summary>Hosts: Paul, Shamus. Episode edited by Issac.
 
 Show notes:
 00:00 Games Done Quick Marathon
@@ -519,8 +628,7 @@ Note! In this section I said “Kaiju Game” when I meant Kaizo Game. Whoops.
 
 Apparently Paul doesn’t care for this game? I don’t know what his problem is.
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -627,8 +735,7 @@ For the new-ish readers:
 
 This blog began as a write-up of the D&amp;D Campaign I was running in 2005.
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -813,8 +920,7 @@ Oh gweat ledah, I’m pwoud to therf you in thith conqwetht of Erth.
 
 It’s not just me, right? The guy on the right looks like a cartoon character with a hilarious speech defect, doesn’t he? Please tell me I’m not the only person who laughed at him.
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -856,8 +962,7 @@ Gresman (probably mispronounced) :)</p></blockquote>
       </itunes:image>
       <itunes:duration>51:24</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Paul, Shamus. Episode edited by Issac.
+      <itunes:summary>Hosts: Paul, Shamus. Episode edited by Issac.
 
 Show notes:00:04 No Man’s Sky
 
@@ -890,8 +995,7 @@ Charlie.
 
 
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -950,8 +1054,7 @@ There is this level in the first game where you have to pretend you are a Hammer
       </itunes:image>
       <itunes:duration>49:30</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Paul, Shamus. Episode edited by Issac.
+      <itunes:summary>Hosts: Paul, Shamus. Episode edited by Issac.
 
 Show notes:
 00:13 Mailbag: Total Conversion Mods
@@ -1045,8 +1148,7 @@ Short DL</p></blockquote>
       </itunes:image>
       <itunes:duration>52:11</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Paul, Shamus. Episode edited by Issac.
+      <itunes:summary>Hosts: Paul, Shamus. Episode edited by Issac.
 
 Show notes:
 00:00 Let’s talk about modding!
@@ -1100,8 +1202,7 @@ And here is Superflight:
 
 
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -1186,8 +1287,7 @@ Hi!
 I haven’t listened to last two podcasts (time and all that).
 But I can’t see you sad with empty mailbag. So here’s the question. What games with FMV you really like and where it works because of FMV itself? What’s the strength of using FMV in your opinion? More specific, did you play or saw Tex Murphy games (including the last one, Tesla Effect. 2015, I think?), Command and Conquer series, Late Shift.
 Best regards, DeadlyDark
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -1293,8 +1393,7 @@ Have a nice week.
 Baudouin
 Here is the first of my Steam Backlog series.
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -1327,8 +1426,7 @@ Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="http://www.s
       </itunes:image>
       <itunes:duration>49:24</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Paul, Shamus. Episode edited by Issac.
+      <itunes:summary>Hosts: Paul, Shamus. Episode edited by Issac.
 
 Show notes:
 00:00 RSS feeds.
@@ -1358,8 +1456,7 @@ Here are the cool crystal test renders Paul was talking about.
 
 If you missed it, this is the game I’m trying to release on Steam.
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -1418,8 +1515,7 @@ And here is the EgoRaptor video Brittany brought up:
 
 
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -1459,8 +1555,7 @@ Show notes:
 
 43:57 Programming in C# versus C++
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -1488,8 +1583,7 @@ Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="http://www.s
       </itunes:image>
       <itunes:duration>55:54</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Paul, Shamus.
+      <itunes:summary>Hosts: Paul, Shamus.
 
 Episode edited by Issac.
 
@@ -1508,8 +1602,7 @@ Here is the pricing announcement we discussed.
 
 I know the movie came out months ago, but I guess it’s polite to warn you that there will be massive spoilers here.
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -1541,8 +1634,7 @@ Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="http://www.s
       </itunes:image>
       <itunes:duration>59:37</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Paul, Shamus.
+      <itunes:summary>Hosts: Paul, Shamus.
 
 Episode edited by Issac.
 
@@ -1572,8 +1664,7 @@ If you like the idea of Paul and I playing Left 4 Dead together, then you can wa
 
 Here is the Andrew Huang: Why I’m taking a break from YouTube.
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -1664,8 +1755,7 @@ Like I said on the show: I’m looking for a LAMPThe four pillars of the modern 
 
 I can’t believe I’ve found a possible replacement for the venerable Paint Shop Pro 8. 
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -1724,8 +1814,7 @@ The tragic thing is that years later Mass Effect remains the best Trek-style AAA
 
 Like I said in the show, we were trying to think of works that had a fantastic opening but led to terrible sequels. For the purposes of this discussion, we’re talking about works where the first installment begins a story and leaves us with a solid hook, promising more in the future. So I don’t think something like Highlander counts. Lots of long-running franchises degrade in quality over time, but we’re specifically looking for works that begin a story and fail to end it properly. Obviously there’s a lot of wiggle-room here, so see what you can come up with.
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -1900,8 +1989,7 @@ Here are the Unity tutorials I talked about. It’s probably the best overview o
 
 I wish I had time for this sort of thing.
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -1975,8 +2063,7 @@ In the Spoiler Warning episode for Contradiction, you said your wife was enthuse
 -Kunedog
 Note that my answer in the episode is WRONG. Heather did indeed play Contradiction. I missed it because my daughter got the game, and my wife played upstairs in my daughter’s room. Heather loved the it, but was a little frustrated at how your actions are restricted late in the game. 
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -2010,8 +2097,7 @@ Hosts: <a href="https://www.patreon.com/rutskarn?ty=c">Rutskarn</a>, <a href="ht
       </itunes:image>
       <itunes:duration>1:04:11</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Rutskarn, Shamus, Campster and Baychel.
+      <itunes:summary>Hosts: Rutskarn, Shamus, Campster and Baychel.
 
 
 01:35: Bay Eats Candy
@@ -2044,8 +2130,7 @@ I can’t find a link to the original Mr. Bones Wild Ride. If someone can find i
 
 We talk about the WWII craze of 15 years ago and what it means that Call of Duty is coming back to it.
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -2077,9 +2162,7 @@ Shamus Young is a programmer, an author, and nearly a composer. He works on this
       </itunes:image>
       <itunes:duration>1:06:30</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-
-Hosts: Josh, Rutskarn, Shamus, Campster. Episode edited by Issac.
+      <itunes:summary>Hosts: Josh, Rutskarn, Shamus, Campster. Episode edited by Issac.
 
 Diecast #200 is right around the corner. I’m open to suggestions as to how we should observe the landmark.
 
@@ -2107,8 +2190,7 @@ Given a $200 million budget, how can we make the worst possible Deus Ex game tha
 
 Let us know how we did. Feel free to add your own ideas. If we work together, we might be able to make something really abominable.
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -2142,9 +2224,7 @@ Shamus Young is a programmer, an author, and nearly a composer. He works on this
       </itunes:image>
       <itunes:duration>1:10:35</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-
-Hosts: Josh, Shamus, and Campster. Edited by Baychel.
+      <itunes:summary>Hosts: Josh, Shamus, and Campster. Edited by Baychel.
 
 Sorry this one is late. We had to record on Sunday due to the intrusion of Real Life. 
 
@@ -2178,8 +2258,7 @@ Here’s the Bulletstorm comparison I talked about:
 Old Hotness
 New &amp; Busted
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -2216,8 +2295,7 @@ Hosts: <a href="https://www.patreon.com/spoilerwarning/posts">Josh</a>, <a href=
       </itunes:image>
       <itunes:duration>1:02:11</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Rutskarn, Shamus, Campster and Baychel.
+      <itunes:summary>Hosts: Josh, Rutskarn, Shamus, Campster and Baychel.
 
 Funny story about this episode: I noticed Baychel sounded off, but for some unfathomable reason I didn’t say anything until after we’d recorded the show. Once I did, she discovered her good mic had come unplugged and the system had defaulted to using her crappy webcam mic. Sad trombone.
 
@@ -2249,8 +2327,7 @@ The Kotaku story Chris quoted is here: The Messy, True Story Behind The Making O
 “Let’s say a designer wants to go in and move a resource node two inches,” said one person familiar with the engine. “They go into the editor. First they have to load their map overnight. It takes eight hours to input their map overnight. They get [into the office] in the morning. If their importer didn’t fail, they open the map. It takes about 20 minutes to open. They go in and they move that node two feet. And then they’d do a 15-20 minute compile. Just to do a half-second change.”
 Just shameful. It’s a miracle they shipped at all.
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -2288,8 +2365,7 @@ Hosts: <a href="https://www.patreon.com/spoilerwarning/posts">Josh</a>, <a href=
       </itunes:image>
       <itunes:duration>1:03:16</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Download.
+      <itunes:summary>Download.
 Hosts: Josh, Rutskarn, Shamus, Campster and Baychel.
 
 Hilariously, I managed to introduce the first segment without ever saying the name of the game. Sometimes coherent communication is hard.
@@ -2323,8 +2399,7 @@ Dear Diecast,
 What if any are your personal tricks/solutions when you encounter writer’s block, of the type where you hit a mental obstacle the size though not shape of Jupiter that refuses to give you the inspiration to continue? How do you reduce the stress/frustration-buildup?
 Thanks!
 Mike
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -2378,8 +2453,7 @@ in pre-release ads and such?</p>
       </itunes:image>
       <itunes:duration>1:06:35</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Crunch Buttsteak, Reb Brown, Buff Drinklots, Stump Chunkman and Lump Beefbroth.
+      <itunes:summary>Hosts: Crunch Buttsteak, Reb Brown, Buff Drinklots, Stump Chunkman and Lump Beefbroth.
 
 If you’re curious about the names of the hosts, then you should probably watch this. Or better yet watch the Space Mutiny Episode of Mystery Science Theater 3000, which is on Netflix even as I type these words to you. Like, why are you even listening to this show? The mind reels.
 
@@ -2427,8 +2501,7 @@ What (if anything) is wrong with the Netflix Marvel shows?
 Here’s the FCH article Chris mentioned: Film Crit Hulk Smash: LUKE CAGE, Netflix And The Death Of Episodic TV.
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:mailbag
-</itunes:summary>
+Tagged:mailbag</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -2457,8 +2530,7 @@ Hosts: <a href="https://www.patreon.com/spoilerwarning/posts">Josh</a>, <a href=
       </itunes:image>
       <itunes:duration>57:39</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Rutskarn, Shamus, Campster and Baychel.
+      <itunes:summary>Hosts: Josh, Rutskarn, Shamus, Campster and Baychel.
 
 This is a really good time for videogames. We’ve got everyone raving about Horizon and Zelda. Later this month we’ll get Mass Effect and STRAFE. Also a major Factorio update is on the way. And it’s only March!
 
@@ -2481,8 +2553,7 @@ The whole world is excited about this game. I have yet to hear a serious complai
 
 Josh, fitness, steam link, and Valve’s corporate culture.
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -2513,8 +2584,7 @@ Hosts: <a href="https://www.patreon.com/spoilerwarning/posts">Josh</a>, <a href=
       </itunes:image>
       <itunes:duration>1:05:51</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Shamus, Campster and Baychel. (Editor)
+      <itunes:summary>Hosts: Josh, Shamus, Campster and Baychel. (Editor)
 
 Show notes:
 00:00:55: Overwatch
@@ -2540,8 +2610,7 @@ And because I know you’ll ask: Yes, I saw the Gearbox talk on rendering tech t
 
 Chris has been playing it on the Wii U. 
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -2572,8 +2641,7 @@ Hosts: <a href="https://www.patreon.com/spoilerwarning/posts">Josh</a>, <a href=
       </itunes:image>
       <itunes:duration>1:06:53</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Rutskarn, Shamus, Campster. Edited by Baychel.
+      <itunes:summary>Hosts: Josh, Rutskarn, Shamus, Campster. Edited by Baychel.
 
 Show notes:
 
@@ -2598,8 +2666,7 @@ Shamus is still trying to get his game approved on Greenlight. You can vote for 
 
 This was supposed to appear on the anniversary episode, but… it didn’t.
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -2626,9 +2693,7 @@ Shamus Young is a programmer, an author, and nearly a composer. He works on this
       </itunes:image>
       <itunes:duration>1:00:30</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-
-Hosts: Josh, Glitch, Campster, and Baychel.
+      <itunes:summary>Hosts: Josh, Glitch, Campster, and Baychel.
 
 The Diecast is now four years old. In celebration of this, Josh takes us back to our roots and makes the conversation a freeform ramble. Thanks to Glitch for joining in while we were short-handed.
 
@@ -2646,8 +2711,7 @@ It’s a shame I couldn’t make it this week. I’m putting the finishing touch
 
 Maybe we’ll talk more about this next week.
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -2682,8 +2746,7 @@ Hosts: <a href="https://www.patreon.com/spoilerwarning/posts">Josh</a>, <a href=
       </itunes:image>
       <itunes:duration>1:01:01</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Rutskarn, Shamus, Campster, and Baychel.
+      <itunes:summary>Hosts: Josh, Rutskarn, Shamus, Campster, and Baychel.
 
 Show notes:
 0:01:25: Husk
@@ -2719,8 +2782,7 @@ Here’s the LGR review of Vampires that I mentioned on the show:
 
 
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -2774,8 +2836,7 @@ Keep on keep on-ing!</p>
       </itunes:image>
       <itunes:duration>1:02:43</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Rutskarn, Shamus, Campster, and Baychel.
+      <itunes:summary>Hosts: Josh, Rutskarn, Shamus, Campster, and Baychel.
 
 This is it! We finally get around to answering all those questions you’ve been sending us.
 
@@ -2829,8 +2890,7 @@ Greetings Crossers of the Rubicon!
 What is your favourite game from your least favourite genre?
 Keep on keep on-ing!
 – Sova
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -2864,8 +2924,7 @@ Hosts: <a href="http://archer.wikia.com/wiki/Algernop_Krieger">Josh</a>, <a href
       </itunes:image>
       <itunes:duration>1:11:11</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Rutskarn, Shamus, Cyril Figgis. Edited by Baychel.
+      <itunes:summary>Hosts: Josh, Rutskarn, Shamus, Cyril Figgis. Edited by Baychel.
 
 I made announcements at the top of the show, but I forgot the most important one: Next week we’re going to do a bunch of mailbag questions. Also, Baychel hasn’t really been introduced to the community except for the Crypt of the Necrodancer review, and the fact that she edits the podcast. So now’s your chance to get to know her. Ask some questions.
 
@@ -2896,8 +2955,7 @@ Apparently Uplay is getting better-ish?
 
 I don’t understand any of this but I’m sure it’s cool.
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -2923,8 +2981,7 @@ Hosts: <a href="https://twitter.com/rainmaker0000lariat/status/68528302409991372
       </itunes:image>
       <itunes:duration>1:07:17</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Rutskarn, Shamus, Campster and Baychel (editor).
+      <itunes:summary>Hosts: Josh, Rutskarn, Shamus, Campster and Baychel (editor).
 
 No show notes this week. The whole thing is pretty much a Nintendathon. For those that didn’t see it, the full Nintendo presentation is after the jump.
 
@@ -2937,8 +2994,7 @@ Also: “Joycon” sounds like a convention for people obsessed with joysticks.
 Here’s a very sensual @DanRyckert video for you to loop forever. pic.twitter.com/7pPeOlHk30
 — Jeff Gerstmann (@jeffgerstmann) January 13, 2017
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -2981,8 +3037,7 @@ Hosts: <a href="http://www.shamusyoung.com/">Host</a>, <a href="https://twitter.
       </itunes:image>
       <itunes:duration>1:22:23</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Host, Reginald, Errant Signal, Gustav. Episode edited by Rachel.
+      <itunes:summary>Hosts: Host, Reginald, Errant Signal, Gustav. Episode edited by Rachel.
 
 It’s been ages since I did a videogame podcast and I don’t quite remember how it goes, but the guys assured me the show should start with about 20 minutes of random non-videogame bullshit. 
 
@@ -3032,8 +3087,7 @@ Chris has just finished Dishonored 2.
 
 I’ve been playing GTA V for some reason. I have a love-hate relationship with this game. Parts of it are extraordinary. Parts of it sicken me. Other parts are just pathetic and irritating. 
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -3071,9 +3125,7 @@ Shamus Young is a programmer, an author, and nearly a composer. He works on this
       </itunes:image>
       <itunes:duration>1:23:02</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-
-Hosts: Josh, Rutskarn, Campster,  Mumbles. Edited by Josh.
+      <itunes:summary>Hosts: Josh, Rutskarn, Campster,  Mumbles. Edited by Josh.
 
 The year of 2016 is officially behind us now, and for whatever else you could say about all the crazy things that happened over the year, you can definitely say that 2016 was a year in which some video games were made. In this episode, we talk about some of those games that stood out to us.
 
@@ -3097,8 +3149,7 @@ Show notes after the jump.
 1:13:30 Final Fantasy XV
 1:15:40 Watch Dogs 2
 
-Josh Viel is the primary editor and producer of the Spoiler Warning video series. You can support the show by backing the Patreon.
-</itunes:summary>
+Josh Viel is the primary editor and producer of the Spoiler Warning video series. You can support the show by backing the Patreon.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -3127,8 +3178,7 @@ Hosts: <a href="https://twitter.com/rainmaker0000lariat/status/68528302409991372
       </itunes:image>
       <itunes:duration>1:20:23</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Rutskarn, Campster.  Episode edited by Josh.
+      <itunes:summary>Hosts: Josh, Rutskarn, Campster.  Episode edited by Josh.
 
 I couldn’t be on the show, since my family Christmas party was on the night we usually record. We’re not going to have a podcast for the next couple of weeks, since nobody wants to record a show on the eve / day of a major holiday.
 
@@ -3150,8 +3200,7 @@ Mostly this is just a talk about VR.
 1:03:00 Rutskarn has been playing bad Mount &amp; Blade Mods
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:mario, mobile, nintendo, star wars, VR
-</itunes:summary>
+Tagged:mario, mobile, nintendo, star wars, VR</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -3180,8 +3229,7 @@ Hosts: <a href="https://twitter.com/rainmaker0000lariat/status/68528302409991372
       </itunes:image>
       <itunes:duration>55:13</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Rutskarn, Campster. Edited by Josh.
+      <itunes:summary>Hosts: Josh, Rutskarn, Campster. Edited by Josh.
 
 With both Shamus and Mumbles out, Rutskarn proposed something a little different for this show: Before we started, he asked twitter for game pitches. The following podcast is our attempt to design them.
 
@@ -3196,8 +3244,7 @@ The pitches:
 0:44:30 – Vending machine manager- @BryceWalton
 0:51:00 – Game about podcast about designing games – @BryceWalton
 
-Josh Viel is the primary editor and producer of the Spoiler Warning video series. You can support the show by backing the Patreon.
-</itunes:summary>
+Josh Viel is the primary editor and producer of the Spoiler Warning video series. You can support the show by backing the Patreon.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -3229,8 +3276,7 @@ And it’s actually really cool. That and a sometimes-vomit comet.</p>
       </itunes:image>
       <itunes:duration>1:16:20</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Rutskarn, Campster,  Mumbles. Edited by Josh.
+      <itunes:summary>Hosts: Josh, Rutskarn, Campster,  Mumbles. Edited by Josh.
 
 Shamus is out this week to prep for the trip he’ll be taking next week. During which he’ll also be out. You know what that means? It’s time to throw a Shame-less party! (Please don’t kill me for writing that Shamus.)
 
@@ -3253,8 +3299,7 @@ Hey, Shamus isn’t here this week and suddenly we’re talking about Mass Effec
 0:52:20: I am crazy and bought a Vive.
 And it’s actually really cool. That and a sometimes-vomit comet.
 
-Josh Viel is the primary editor and producer of the Spoiler Warning video series. You can support the show by backing the Patreon.
-</itunes:summary>
+Josh Viel is the primary editor and producer of the Spoiler Warning video series. You can support the show by backing the Patreon.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -3294,8 +3339,7 @@ I’m looking for a machine that can let me create content and admin this site. 
       </itunes:image>
       <itunes:duration>1:12:05</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Shamus, Campster,  Mumbles. Episode edited by Rachel.
+      <itunes:summary>Hosts: Josh, Shamus, Campster,  Mumbles. Episode edited by Rachel.
 
 Like I said on the show: I’m going to be travelling during the second week in December. I’m not sure how well I’ll be able to keep up with comments, or if I’ll be able to queue up enough content to get us through. 
 
@@ -3364,8 +3408,7 @@ Hosts: <a href="https://twitter.com/rainmaker0000lariat/status/68528302409991372
       </itunes:image>
       <itunes:duration>1:06:24</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Rutskarn, Shamus, Campster,  Jin. Episode edited by Rachel.
+      <itunes:summary>Hosts: Josh, Rutskarn, Shamus, Campster,  Jin. Episode edited by Rachel.
 
 Show notes:
 
@@ -3389,8 +3432,7 @@ Other source.
 
 0:55:14: Jin’s Elder Scrolls Experiences
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -3427,8 +3469,7 @@ Aaron</p></blockquote>
       </itunes:image>
       <itunes:duration>57:35</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Rutskarn, Shamus, Campster. Episode edited by Issac.
+      <itunes:summary>Hosts: Josh, Rutskarn, Shamus, Campster. Episode edited by Issac.
 
 Show notes:
 0:01:50 Dishonored 2
@@ -3459,8 +3500,7 @@ Aaron
 Dear Diecast
 What is your favorite monster in a video game? No animals, humans or robots allowed. They can be game originals or adaptations of mythological creatures or other fictional beings. 
 Love, Christopher
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -3501,8 +3541,7 @@ Cute Boy Steven</p></blockquote>
       </itunes:image>
       <itunes:duration>1:10:36</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Shamus, Campster,  Mumbles. Episode edited by Issac.
+      <itunes:summary>Hosts: Josh, Shamus, Campster,  Mumbles. Episode edited by Issac.
 
 Show notes:
 0:00:34 Doctor Strange (No spoilers.)
@@ -3535,8 +3574,7 @@ Love, Christopher
 Dear Diecast
 What are Shamus’ and Josh’s picks for anime this season? (yuri on ice obvi)
 Love, Christopher
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -3576,8 +3614,7 @@ Hosts: <a href="https://twitter.com/rainmaker0000lariat/status/68528302409991372
       </itunes:image>
       <itunes:duration>1:21:52</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Rutskarn, Shamus, Campster,  MrBtongue. Episode edited by Issac.
+      <itunes:summary>Hosts: Josh, Rutskarn, Shamus, Campster,  MrBtongue. Episode edited by Issac.
 
 Fun fact: Bob and I both release videos once every 2d6 months, but last week we randomly released videos within one day of each other. 
 
@@ -3623,8 +3660,7 @@ And here is the “Suddenly, a wild apocalypse appears!” ending that Chris was
 This is actually sounding like something I want. We’ll see if I manage to find time for it before the end of the year.
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:bioware, Civilization, skyrim
-</itunes:summary>
+Tagged:bioware, Civilization, skyrim</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -3663,8 +3699,7 @@ Galad_t  \m/</p></blockquote>
       </itunes:image>
       <itunes:duration>1:02:41</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Rutskarn, Shamus, Mumbles. Episode edited by Issac.
+      <itunes:summary>Hosts: Josh, Rutskarn, Shamus, Mumbles. Episode edited by Issac.
 
 Show notes:
 1:36 Nintendo Switch
@@ -3698,8 +3733,7 @@ Love, Christopher
 
 
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -3756,8 +3790,7 @@ Jared</p></blockquote>
       </itunes:image>
       <itunes:duration>1:24:35</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Rutskarn, Shamus, Campster,  Mumbles. Episode edited by Rachel.
+      <itunes:summary>Hosts: Josh, Rutskarn, Shamus, Campster,  Mumbles. Episode edited by Rachel.
 
 As promised last week, we answer listener questions. As always, the show email is in the header image.
 
@@ -3814,8 +3847,7 @@ Dear Diecast
 What’s your favorite game from the last sixteen years? How about your favorite game that’s older than that?
 Love, Christopher
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -3853,8 +3885,7 @@ Joey</p></blockquote>
       </itunes:image>
       <itunes:duration>1:30:49</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Rutskarn, Shamus, Campster,  Mumbles. Episode edited by Issac.
+      <itunes:summary>Hosts: Josh, Rutskarn, Shamus, Campster,  Mumbles. Episode edited by Issac.
 
 I really wanted to do more emails this week. We had some good ones lined up, but we ran short on time. Assuming there isn’t any huge news in the coming week, we’ll try again next episode.
 
@@ -3887,8 +3918,7 @@ Dear Diecast,
 If you could redo any one season of Spoiler Warning, what would it be and why? Also, which season of Spoiler warning was your favorite? 
 Keep being awesome,
 Joey
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -3925,8 +3955,7 @@ Hosts: <a href="https://twitter.com/rainmaker0000lariat/status/68528302409991372
       </itunes:image>
       <itunes:duration>1:12:30</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Shamus, Campster,  Mumbles. Episode edited by Rachel.
+      <itunes:summary>Hosts: Josh, Shamus, Campster,  Mumbles. Episode edited by Rachel.
 
 Show notes:
 0:00:33: Mumbles Sadness
@@ -3966,8 +3995,7 @@ SHAUUUUN!
 
 For the record, Kayfabe is not actually a wrestler. It’s what they call it when people within wrestling pretend that the staged events are real or true.
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -3999,9 +4027,7 @@ Shamus Young is a programmer, an author, and nearly a composer. He works on this
       </itunes:image>
       <itunes:duration>1:10:53</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-
-Hosts: Josh, Rutskarn, Campster. Episode edited by Rachel.
+      <itunes:summary>Hosts: Josh, Rutskarn, Campster. Episode edited by Rachel.
 
 Fun fact that has nothing whatsoever to do with the show: If I put a properly escaped HTML line break in the title of this post using &lt;br/&gt; then it will – for reasons I’ll never understand – break the embed code above that shows the audio player and download links. 
 
@@ -4027,8 +4053,7 @@ Trivia: I’ve been to one haunted house in my life. As it turns out, a lot of h
 Dear Diecast
 What’s your take on Mass Effect Andromeda having an established father and brother/sister for your character? Do you prefer when they provide some backstory and family for your character(like Dragon Age Dwarf Slum Origin or Dragon Age 2 for instance), or do you like it more when that’s as minimal as possible(like Mass Effect)? Odds on either of them dying/turning evil?
 Love, Christopher
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -4065,8 +4090,7 @@ Hosts: <a href="https://twitter.com/rainmaker0000lariat/status/68528302409991372
       </itunes:image>
       <itunes:duration>1:06:33</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Shamus, Campster. Episode edited by Rachel.
+      <itunes:summary>Hosts: Josh, Shamus, Campster. Episode edited by Rachel.
 
 REMINDER: The RSS feed has changed as of a couple of weeks ago. The new feed is here: http://www.shamusyoung.com/twentysidedtale/?feed=podcast.
 
@@ -4108,8 +4132,7 @@ Here’s ten minutes of random gameplay footage:
 
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:Brookhaven Experiment, Charnel House, deus ex, for honor, VR
-</itunes:summary>
+Tagged:Brookhaven Experiment, Charnel House, deus ex, for honor, VR</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -4148,8 +4171,7 @@ Hosts: <a href="https://twitter.com/rainmaker0000lariat/status/68528302409991372
       </itunes:image>
       <itunes:duration>1:07:11</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Rutskarn, Shamus, Campster,  Mumbles. Episode edited by Rachel.
+      <itunes:summary>Hosts: Josh, Rutskarn, Shamus, Campster,  Mumbles. Episode edited by Rachel.
 
 
 0:01:17 – Mystic Messenger
@@ -4187,8 +4209,7 @@ Here is the important quote, from Andrew House, head of Sony Interactive Enterta
 Here is the press release from Bethesda, which is behind an age-gate for some idiotic reason.
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:playstation, sony, Star Citizen
-</itunes:summary>
+Tagged:playstation, sony, Star Citizen</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -4224,8 +4245,7 @@ Hosts: <a href="https://twitter.com/rainmaker0000lariat/status/68528302409991372
       </itunes:image>
       <itunes:duration>1:15:24</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Rutskarn, Shamus, Campster. Episode edited by Rachel.
+      <itunes:summary>Hosts: Josh, Rutskarn, Shamus, Campster. Episode edited by Rachel.
 
 Show notes:
 0:01:27: The Turing Test
@@ -4260,8 +4280,7 @@ Love, Christopher
 As always, the mailbox for questions is in the header image.
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:epistory, obduction, turing test
-</itunes:summary>
+Tagged:epistory, obduction, turing test</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -4295,8 +4314,7 @@ Tagged:epistory, obduction, turing test
       </itunes:image>
       <itunes:duration>1:19:58</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Direct link to this episode.
+      <itunes:summary>Direct link to this episode.
 
 Here is an extra-long Diecast to distract you from the fact that these posts are still wonky and I need to fix that. 
 
@@ -4329,8 +4347,7 @@ This was the season where Campster joined the show. Time flies.
 THERE WILL BE TOTAL SPOILERS FOR ALL THINGS HARRY POTTER.
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:deus ex, harry potter, no mans sky
-</itunes:summary>
+Tagged:deus ex, harry potter, no mans sky</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -4383,8 +4400,7 @@ Tagged:deus ex, harry potter, no mans sky
       </itunes:image>
       <itunes:duration>1:13:21</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Direct link to this episode.
+      <itunes:summary>Direct link to this episode.
 
 Hosts: Josh, Shamus, Campster. 
 
@@ -4451,8 +4467,7 @@ So I’m actually pretty ambivalent about this game so far. This is on top of th
 I SHOULDN’T NEED TO SAY THIS BUT I WILL: This is not the place to talk about Black Lives Matter. We can talk about hijacking existing controversy as a marketing ploy, or using current events as setting flavor, but let’s leave the particulars of BLM out of it. If you see someone go too far, please for my sake let it slide and let me handle it. I’ll do my best to keep this stress-free for all of us.
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:2016, deus ex, inside
-</itunes:summary>
+Tagged:2016, deus ex, inside</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -4484,8 +4499,7 @@ Tagged:2016, deus ex, inside
       </itunes:image>
       <itunes:duration>1:18:37</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Direct link to this episode.
+      <itunes:summary>Direct link to this episode.
 
 Thanks for the feedback last week. I know how I want to structure these posts so that the RSS feed works and is easy to find, and the built-in media player appears properly. I just need to get around to making the changes. This would be done already, but No Man’s Sky is out and its ability to fill space is matched only by its ability to eat time. 
 
@@ -4514,8 +4528,7 @@ It’s hard to recommend this game, because while it’s a very unique and novel
 He’s using Inklewriter to tell Dead Adventurer stories, which are part of his Patreon work.
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:no mans sky
-</itunes:summary>
+Tagged:no mans sky</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -4559,9 +4572,7 @@ Tagged:no mans sky
       </itunes:image>
       <itunes:duration>1:04:06</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-
-Like I said in the show intro, I’m working on adding the podcast to Google Play and (eventually) to iTunes. While this is going on, the post will be a little wonky. (For example, as of right now there are two media players on this page, although if you’re reading this from the archives in the future then I’ve hopefully fixed it by now.) Please bear with us. Here is the podcast on Google Play and here is a link to the GP RSS feed.
+      <itunes:summary>Like I said in the show intro, I’m working on adding the podcast to Google Play and (eventually) to iTunes. While this is going on, the post will be a little wonky. (For example, as of right now there are two media players on this page, although if you’re reading this from the archives in the future then I’ve hopefully fixed it by now.) Please bear with us. Here is the podcast on Google Play and here is a link to the GP RSS feed.
 
 Hosts: Josh, Rutskarn, Shamus, Campster,  Mumbles. 
 
@@ -4607,8 +4618,7 @@ What does a gentleman say? pic.twitter.com/9U59QVq02L
 — Llamapunk (@TheGameLlama) August 6, 2016
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:batman, homestar, star trek
-</itunes:summary>
+Tagged:batman, homestar, star trek</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -4647,8 +4657,7 @@ Steven </p></blockquote>
       </itunes:image>
       <itunes:duration>1:09:41</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Direct link to this episode.
+      <itunes:summary>Direct link to this episode.
 
 Hosts: Josh, Rutskarn, Shamus, Campster. 
 
@@ -4684,8 +4693,7 @@ Dear Shamus/Diecast,
 In your Mass Effect Retrospective, you discussed details-first vs drama-first storytelling. However, you only spoke of this topic within sci-fi settings. Is it possible to tell a details-first fantasy story?
 Thank you,
 Steven 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -4771,8 +4779,7 @@ And if you haven’t been reading Rutskarn’s series on Battlespire, you’re m
 Stuart Benvie@TheRealStooB 1m
 @Rutskarn Why do rpgs have Jenkins??
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:doom, elder scrolls, marvel
-</itunes:summary>
+Tagged:doom, elder scrolls, marvel</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -4847,8 +4854,7 @@ Sincerely,
 Funklewrinkler
 (Funk-uhl-wrinkle-er)
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -4914,8 +4920,7 @@ We spend a lot of time talking about Dear Esther and the degree to which it did 
 We start off talking about the game, but then move onto the more important topic of “If each of us was turned into a videogame, what would it be?”
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:overwatch, tf2, the room, VA-11 Hall-A
-</itunes:summary>
+Tagged:overwatch, tf2, the room, VA-11 Hall-A</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -4945,8 +4950,7 @@ Tagged:overwatch, tf2, the room, VA-11 Hall-A
       </itunes:image>
       <itunes:duration>1:08:56</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Direct link to this episode.
+      <itunes:summary>Direct link to this episode.
 
 Hosts: Josh, Rutskarn, Shamus, Campster,  Mumbles. 
 
@@ -4971,8 +4975,7 @@ We talk about the game, plus the comic and the novel. For real. Also, here is th
 1:05:00: DONGS!
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:doom, overwatch, tf2, vive, VR
-</itunes:summary>
+Tagged:doom, overwatch, tf2, vive, VR</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -5028,8 +5031,7 @@ Dear Diecast,
 We often praise games for trying something new, but it doesn’t always work out. What is your favorite/most interesting failure of a game?
 Anthony
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:mailbag, steam, witcher
-</itunes:summary>
+Tagged:mailbag, steam, witcher</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -5079,8 +5081,7 @@ Tagged:mailbag, steam, witcher
       </itunes:image>
       <itunes:duration>1:13:09</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Direct link to this episode.
+      <itunes:summary>Direct link to this episode.
 
 Last week we did a Livestream of the E3 press conferences. I don’t know when those will show up on YouTube, but until then here we are talking about what we saw and what we thought about it.
 
@@ -5147,8 +5148,7 @@ The really bad thing is that now I have a terrible case of wanting to play a 4X 
 1:01:30: Overwatch
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:dishonored, e3, mirrors edge, Stellaris, xbox
-</itunes:summary>
+Tagged:dishonored, e3, mirrors edge, Stellaris, xbox</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -5252,8 +5252,7 @@ And I guess I’ve linked this before, but here it is again because I love it:
 @shamusyoung Shamus, any advice for getting them to understand that I have a schedule and I’m not free to just do whatever they want?
 — (((Edith))) (@micamoan) June 12, 2016
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -5323,8 +5322,7 @@ What do you make of Valve’s recent announcement that they have teamed up with 
 Cheers,
 RTBones
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:hitman, uncharted, wasted
-</itunes:summary>
+Tagged:hitman, uncharted, wasted</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -5434,8 +5432,7 @@ Dan
 See you next week for the start of season 2!
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:Final Fantasy X, mailbag, overwatch, Stellaris
-</itunes:summary>
+Tagged:Final Fantasy X, mailbag, overwatch, Stellaris</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -5491,8 +5488,7 @@ So when they make a sequel to this, what’s it going to be called? DOOM 2? Nope
 
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:doom, marvel, pinball
-</itunes:summary>
+Tagged:doom, marvel, pinball</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -5651,8 +5647,7 @@ Be on the lookout for other names that should be familiar, even if you don’t k
 Mirrors Edge has been delayed again.
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:mirrors edge, playstation, star fox
-</itunes:summary>
+Tagged:mirrors edge, playstation, star fox</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -5732,8 +5727,7 @@ It aired 1976-1977, which puts me at 5 or 6 years old. I know I said I was 8 in 
 I realize this probably seems like a fun kitschy novelty to the younger generation, but that’s because you’ve had the pleasure of real sci-fi and comic book media. In a world where this is basically the best anyone can do, it’s just depressing and cringe-worthy. 
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:borderlands, darksouls, tf2
-</itunes:summary>
+Tagged:borderlands, darksouls, tf2</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -5805,8 +5799,7 @@ It’s a sad tale.
 42:15: Good Robot
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:dark souls, Factorio, good robot, Xcom 2
-</itunes:summary>
+Tagged:dark souls, Factorio, good robot, Xcom 2</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -5834,8 +5827,7 @@ Episode edited by Issac.<p></p>
       </itunes:image>
       <itunes:duration>1:13:10</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Rutskarn, Mumbles.
+      <itunes:summary>Hosts: Josh, Rutskarn, Mumbles.
 Episode edited by Issac.
 
 It’s a rare non-Shamus Diecast. Trust me, this is for the best. I sound like Mr. New Vegas gradually drowning in a vat of runny oatmeal. Not to worry, I’m on the mend. If I take extra-special care of myself, then in another three or four months I might regain the ability to get out of bed and eat things besides soup. Who knows? I might even find rediscover the will to liveSeriously, don’t worry. I really am almost better.. In the meantime, here’s an internet show about nerd stuff:
@@ -5855,8 +5847,7 @@ The cast barely discusses the movie. Most of the time is spent talking about the
 57:05 LA Noire
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:DC comics, disney, la noire
-</itunes:summary>
+Tagged:DC comics, disney, la noire</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -5879,9 +5870,7 @@ Tagged:DC comics, disney, la noire
       </itunes:image>
       <itunes:duration>8:54</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-
-EDIT: Okay. That’s enough of this. Topic closed.
+      <itunes:summary>EDIT: Okay. That’s enough of this. Topic closed.
 
 
 For me, it’s always like this.
@@ -5892,8 +5881,7 @@ During the show, when she said she was sick of the female coach character, it hi
 
 Hopefully this clears everything up and puts the controversy to rest. This is supposed to be fun.
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -5923,8 +5911,7 @@ Episode edited by Issac.<p></p>
       </itunes:image>
       <itunes:duration>56:29</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Rutskarn, Shamus, Campster.
+      <itunes:summary>Hosts: Josh, Rutskarn, Shamus, Campster.
 Episode edited by Issac.
 
 If the show auto-plays for you, please consult this post for details. In short, it’s a bug in the latest Firefox, I can’t fix it, but it should be patched soon. (And maybe the patch is up already.)
@@ -5949,8 +5936,7 @@ Like I said in the show, this is on my to-watch list as soon as this Good Robot 
 Also contains japery and shenanigans.
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:batman, D&amp;D, Daredevil, DC comics, Marvel comics, superman
-</itunes:summary>
+Tagged:batman, D&amp;D, Daredevil, DC comics, Marvel comics, superman</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -5979,8 +5965,7 @@ Episode edited by Issac.<p></p>
       </itunes:image>
       <itunes:duration>1:05:17</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Rutskarn, Shamus, Campster.
+      <itunes:summary>Hosts: Josh, Rutskarn, Shamus, Campster.
 Episode edited by Issac.
 
 This week we spend probably too much time talking about the recently-released Korean MMO Black Desert. It’s strange and wonderful and goofy and annoying. You’ve been warned.
@@ -6003,8 +5988,7 @@ What if people made an online shooter but they learned literally nothing from th
 
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:blackdesert, overload, the division
-</itunes:summary>
+Tagged:blackdesert, overload, the division</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -6040,8 +6024,7 @@ Episode edited by <a href="http://steamcommunity.com/profiles/76561198087035658/
       </itunes:image>
       <itunes:duration>1:03:55</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Shamus, Campster.
+      <itunes:summary>Hosts: Josh, Shamus, Campster.
 Episode edited by Issac.
 
 Trivia: My daughter Rachel went out and got herself a full-time job, and doesn’t have time to edit the show. So my son Issac took over. So audio may be a little wobbly for the next few weeks until he learns the ropes. We’ll see how it goes. 
@@ -6079,8 +6062,7 @@ Also, since we mentioned Jill of the Jungle, I have to link to this. I fell in l
 “Skipping” in this case means no standalone booth; they’ll likely have representation at the console booths, etc.
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:gfwl, no mans sky, xcom
-</itunes:summary>
+Tagged:gfwl, no mans sky, xcom</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -6129,8 +6111,7 @@ Episode edited by Josh.<p></p>
       </itunes:image>
       <itunes:duration>1:11:58</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Rutskarn, Shamus, Campster,  Mumbles.
+      <itunes:summary>Hosts: Josh, Rutskarn, Shamus, Campster,  Mumbles.
 Episode edited by Josh.
 
 As we recorded this, Mumbles was getting over being sick. And while I didn’t know it at the time, I was just a few hours from becoming annoyingly sick myself. 
@@ -6191,8 +6172,7 @@ Thanks to the rest of the cast for humoring this digression.
 — wheals (@shmuale) February 28, 2016
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:devil daggers, oxenfree
-</itunes:summary>
+Tagged:devil daggers, oxenfree</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -6238,8 +6218,7 @@ Shamus</p></blockquote>
       </itunes:image>
       <itunes:duration>1:12:24</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Rutskarn, Shamus, Campster,  Mumbles.
+      <itunes:summary>Hosts: Josh, Rutskarn, Shamus, Campster,  Mumbles.
 Episode edited by Rachel.
 
 Show notes:
@@ -6281,8 +6260,7 @@ Can you think of any games that broke from their old style and were just as good
 You have the best podcast ever,
 Shamus
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:bethesda, deadpool, distance, firewatch, mailbag, star wars
-</itunes:summary>
+Tagged:bethesda, deadpool, distance, firewatch, mailbag, star wars</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -6321,8 +6299,7 @@ While this obviously provides a $5 incentive to purchasing the whole game at onc
       </itunes:image>
       <itunes:duration>1:17:30</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Shamus. Episode edited by Rachel.
+      <itunes:summary>Hosts: Josh, Shamus. Episode edited by Rachel.
 
 It was just Josh and I this week. Mumbles was sick, Chris was on a trip, and Rutskarn is actually such an astounding nerd that our videogame podcast was not nerdy enough for him and he needed to go out and find something that is somehow even nerdier. Spoiler: This means no Spoiler Warning this week. Sorry. (You nerd.)
 
@@ -6355,8 +6332,7 @@ To sum up their new format, at launch you can purchase the full game at $60, or 
 While this obviously provides a $5 incentive to purchasing the whole game at once, it does give consumers a little more freedom of choice, and does seem to make it a little more like a traditional episodic release.
 Do you have any new thoughts on this, or are you still concerned?
 Yours, Merzendi.
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -6398,8 +6374,7 @@ Funklewrinkler</p></blockquote>
       </itunes:image>
       <itunes:duration>1:07:21</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Rutskarn, Shamus, Campster. Episode edited by Rachel.
+      <itunes:summary>Hosts: Josh, Rutskarn, Shamus, Campster. Episode edited by Rachel.
 
 Yes, the topics for this week look a lot like the topics for last week, but I promise this is a new episode.
 
@@ -6438,8 +6413,7 @@ Dear Spoilers,
 Has doing Spoiler Warning changed the way you look at video games as a whole? If so, howz?
 Sincerely,
 Funklewrinkler
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -6474,8 +6448,7 @@ Hosts: Josh, Jacob, <a href="http://www.shamusyoung.com/">Shamus</a>, <a href="h
       </itunes:image>
       <itunes:duration>1:16:49</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Jacob, Shamus, Chris. Episode edited by Rachel.
+      <itunes:summary>Hosts: Josh, Jacob, Shamus, Chris. Episode edited by Rachel.
 
 Show notes: 
 
@@ -6507,8 +6480,7 @@ Having played a few more hours now, I’m pretty sure it’s a magical glowstick
 My column this week is also on this topic. But I’m sure you guessed that already.
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:EA, rainbow six, the witness, tomb raider
-</itunes:summary>
+Tagged:EA, rainbow six, the witness, tomb raider</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -6535,8 +6507,7 @@ Hosts: <a href="http://shamusyoung.com/twentysidedtale/?p=30319">Josh</a>, <a hr
       </itunes:image>
       <itunes:duration>55:20</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Rutskarn, Campster,  Mumbles. Episode edited by Rachel.
+      <itunes:summary>Hosts: Josh, Rutskarn, Campster,  Mumbles. Episode edited by Rachel.
 
 Show notes: 
 
@@ -6552,8 +6523,7 @@ Some (mild?) Spoilers in the discussion for this one. Also, here’s what Bunnyh
 00:43:40: Good Robot
 00:50:51: Mailbag 
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -6583,8 +6553,7 @@ Hosts: <a href="http://minecraft.gamepedia.com/Slime">Josh</a>, <a href="http://
       </itunes:image>
       <itunes:duration>1:02:28</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Rutskarn, Campster,  Mumbles. Episode edited by Josh.
+      <itunes:summary>Hosts: Josh, Rutskarn, Campster,  Mumbles. Episode edited by Josh.
 
 The show is late. There are no show notes. I am not in this episode. The answers behind these mysteries are bound together: My daughter Rachel – who edits these things – turned 18 this weekend, and I was at her party. Also, her graphics card died, meaning she can’t use her computer until the replacement arrives. 
 
@@ -6603,8 +6572,7 @@ Show notes:
 38:00 – RUTSKARN DIECAST D&amp;D ADVENTURES [EXCALMATION MARK]
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:amplitude, cradle, slime rancher
-</itunes:summary>
+Tagged:amplitude, cradle, slime rancher</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -6647,9 +6615,7 @@ Tagged:amplitude, cradle, slime rancher
       </itunes:image>
       <itunes:duration>1:24:17</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-
-Hosts: Josh, Campster,  Mumbles. Episode edited by Rachel.
+      <itunes:summary>Hosts: Josh, Campster,  Mumbles. Episode edited by Rachel.
 
 Is this the first time Mumbles has hosted? I think it is! And I wasn’t there to see it.
 
@@ -6699,8 +6665,7 @@ Compare to my mod list. Probably not a lot of overlap between us.
 1:03:20: Twitter questions
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:Cibele, Oculus Rift, skyrim
-</itunes:summary>
+Tagged:Cibele, Oculus Rift, skyrim</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -6736,8 +6701,7 @@ Hosts: <a href="https://twitter.com/kylor3n?lang=en">Josh</a>, <a href="http://w
       </itunes:image>
       <itunes:duration>1:17:45</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Rutskarn, Shamus, Campster,  Mumbles. Episode edited by Rachel.
+      <itunes:summary>Hosts: Josh, Rutskarn, Shamus, Campster,  Mumbles. Episode edited by Rachel.
 
 This week we have a TOTAL SPOILER discussion on the new Star Wars. Turn back or have the movie spoiled. This means you, fanboy. Seriously, I drop the biggest spoiler of the whole movie right at the 40-minute mark as I introduce the topic. 
 
@@ -6767,8 +6731,7 @@ They start with Undertale.
 
 
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -6816,8 +6779,7 @@ You’ve described the origins of the Diecast as a warmup before Spoiler Warning
       </itunes:image>
       <itunes:duration>1:16:02</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Shamus, Campster,  Mumbles. Episode edited by Rachel.
+      <itunes:summary>Hosts: Josh, Shamus, Campster,  Mumbles. Episode edited by Rachel.
 
 No Star Wars talk this week. It’s a little too soon. But I suspect next week will be the big spoiler discussion. Be ready!
 
@@ -6858,8 +6820,7 @@ Daniel
 @nicemovemumbles (for the whole cast) You’re trapped on a desert island with 1 Dragon Age companion. Which one?
 — Alex K (@StoopidTallKid) December 20, 2015
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -6907,8 +6868,7 @@ Hosts: <a href="https://en.wikipedia.org/wiki/Star_Wars:_TIE_Fighter">Josh</a> a
       </itunes:image>
       <itunes:duration>1:31:00</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh and Campster. Episode edited by Rachel.
+      <itunes:summary>Hosts: Josh and Campster. Episode edited by Rachel.
 
 I couldn’t make it to our recording session this week, since I was hosting our family Christmas party at the time. Mumbles couldn’t make it, since she was at Disneyland. Rutskarn was busy with [age joke].
 
@@ -6943,8 +6903,7 @@ Show notes:
 1:19:53: Rock Band and Guitar Hero
 1:24:58: The Long Dark 
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -6983,8 +6942,7 @@ Fellow Education System Inmate #Ira</p></blockquote>
       </itunes:image>
       <itunes:duration>1:19:33</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Shamus, Campster. Episode edited by Rachel.
+      <itunes:summary>Hosts: Josh, Shamus, Campster. Episode edited by Rachel.
 
 This week there won’t be any Spoiler Warning. But! You get a longer-than-usual Diecast, and if we’re all really good maybe Josh will upload last week’s hangout to YouTube.
 
@@ -7021,8 +6979,7 @@ Today I was talking to Horror Games and her cousin Spooky Games at lunch ingesti
 With love,
 Fellow Education System Inmate #Ira
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:far cry, Psychonauts, Star Wars Battlefront
-</itunes:summary>
+Tagged:far cry, Psychonauts, Star Wars Battlefront</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -7047,8 +7004,7 @@ Hosts: <a href="http://fallout.wikia.com/wiki/Dogmeat_(Fallout_3)">Josh</a>, <a 
       </itunes:image>
       <itunes:duration>58:36</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Rutskarn, Shamus, Campster,  Mumbles. Episode edited by Rachel.
+      <itunes:summary>Hosts: Josh, Rutskarn, Shamus, Campster,  Mumbles. Episode edited by Rachel.
 
 Yes. Another entire hour of Fallout 4 talk. I suppose this is annoying if you don’t care about Fallout 4, but we can’t talk about games we’re not playing and right now this is what everyone is playing. This time we get to hear from Rutskarn and Mumbles.
 
@@ -7062,8 +7018,7 @@ Show notes:
 57:11: Not Fallout 4!! 
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:fallout
-</itunes:summary>
+Tagged:fallout</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -7106,8 +7061,7 @@ It's the best bits of New Vegas, with the best bits of Skyrim. My new favorite i
       </itunes:image>
       <itunes:duration>1:11:54</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Direct link to this episode.
+      <itunes:summary>Direct link to this episode.
 
 Hosts: Josh, Shamus, Mumbles. Episode edited by Rachel.
 
@@ -7154,8 +7108,7 @@ Poor Crystal Dynamics. We’ll catch up with them once the game comes out for re
 I know we usually give a game a year, but unless there’s a huge backlash Fallout 4 will happen in just a couple of months.
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:fallout
-</itunes:summary>
+Tagged:fallout</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -7192,8 +7145,7 @@ Hosts: <a href="http://shamusyoung.com/twentysidedtale/?p=29354">Josh</a>, <a hr
       </itunes:image>
       <itunes:duration>1:05:48</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Rutskarn, Shamus, Campster. Episode edited by Rachel.
+      <itunes:summary>Hosts: Josh, Rutskarn, Shamus, Campster. Episode edited by Rachel.
 
 Hope you had a fun Halloween. Here is an hour of us talking about videogames. 
 
@@ -7234,8 +7186,7 @@ But on the other hand, it’s pretty hard to have an all-positive show all the t
 What I’m getting at is: I love positive content and upbeat personalities. If given the choice, that’s the kind of space I’d prefer to occupy. But the engineer in me wants to troubleshoot problems. This site is basically the balance between those two opposing forces. 
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:candy crush, mass effect, tomb raider, warcraft
-</itunes:summary>
+Tagged:candy crush, mass effect, tomb raider, warcraft</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -7263,8 +7214,7 @@ Hosts: <a href="https://en.wikipedia.org/wiki/Daylight_saving_time">Josh</a>, <a
       </itunes:image>
       <itunes:duration>53:22</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Shamus, Rachel. Episode edited by Rachel.
+      <itunes:summary>Hosts: Josh, Shamus, Rachel. Episode edited by Rachel.
 
 Saturday is our day to record the show. It was also Halloween this year. Everyone mysteriously went to fun Halloween parties instead of doing an internet podcast with an old man and hang on that’s actually not mysterious at all. 
 
@@ -7284,8 +7234,7 @@ Total Spoilers. I assume. I actually skipped this segment.
 Why is Josh playing this MMO again? He answers the question, yet by the end you’ll probably find yourself thinking, “No, REALLY. Why is Josh playing this again?.”
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:human resource machine, life is strange, SWTOR
-</itunes:summary>
+Tagged:human resource machine, life is strange, SWTOR</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -7325,8 +7274,7 @@ http://www.neogaf.com/forum/showthread.php?t=1099932</p>
       </itunes:image>
       <itunes:duration>55:06</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Rutskarn, Shamus, Campster. Episode edited by Rachel.
+      <itunes:summary>Hosts: Josh, Rutskarn, Shamus, Campster. Episode edited by Rachel.
 
 Show notes: 
 1:00 Fallout 4 is coming out! Are you hyped?!?!
@@ -7357,8 +7305,7 @@ Dear Diecast,
 Limited ammunition is one of the most common mechanics in video games, but it’s never seemed that interesting to me.  It’s only ever used to gate off certain weapons from use by not providing ammo for them, or to provide tension when the player has very little ammo left, but if you ever run out of all your ammo, then you just can’t play anymore.  Ammo seems to be at most just a hindrance to having fun.
 My question is, are there any games that make ammo fun, if not, is there a way to make ammo a fun mechanic, or should ammo go the way of health in modern shooters, and just regenerate over time?
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:bethesda, fallout
-</itunes:summary>
+Tagged:bethesda, fallout</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -7391,8 +7338,7 @@ Hosts: <a href="https://en.wikipedia.org/wiki/Jason_Voorhees">Josh</a>, <a href=
       </itunes:image>
       <itunes:duration>1:11:30</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Rutskarn, Shamus, Campster,  Mumbles. Episode edited by Rachel.
+      <itunes:summary>Hosts: Josh, Rutskarn, Shamus, Campster,  Mumbles. Episode edited by Rachel.
 
 Show notes: 
 00:46 Human Resource Machine.
@@ -7422,8 +7368,7 @@ The trailer:
 
 Sigh. Someday.
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -7456,8 +7401,7 @@ Hosts: <a href="http://starwars.wikia.com/wiki/All_Terrain_Armored_Transport">Jo
       </itunes:image>
       <itunes:duration>1:21:35</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Shamus, Campster,  Mumbles. Episode edited by Rachel.
+      <itunes:summary>Hosts: Josh, Shamus, Campster,  Mumbles. Episode edited by Rachel.
 
 The mailbag now looks like Jabba the Hutt after a visit to an all-you-can-eat buffet. I have no idea how we’re going to answer these. And according to the calendar, there’s a super-important game coming out almost every week between now and the end of the year. So this job is about to get very interesting.
 
@@ -7488,8 +7432,7 @@ It’s everything we ever dreamed of…
 
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:battlefront, beginners guide, soma
-</itunes:summary>
+Tagged:battlefront, beginners guide, soma</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -7525,8 +7468,7 @@ Hosts: <a href="https://en.wikipedia.org/wiki/John_Cena">Josh</a>, <a href="http
       </itunes:image>
       <itunes:duration>1:03:09</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Rutskarn, Shamus, Campster,  Mumbles. Episode edited by Rachel.
+      <itunes:summary>Hosts: Josh, Rutskarn, Shamus, Campster,  Mumbles. Episode edited by Rachel.
 
 Show notes: 
 
@@ -7562,8 +7504,7 @@ What is your worst example of when a game writer overestimated how cool their ch
 No spoilers here. We plan to spoil the game next week.
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:Star Citizen, tony hawk
-</itunes:summary>
+Tagged:Star Citizen, tony hawk</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -7595,8 +7536,7 @@ Hosts: <a href="http://destiny.wikia.com/wiki/The_Speaker">Josh</a>, <a href="ht
       </itunes:image>
       <itunes:duration>1:11:30</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Rutskarn, Shamus, Campster. Episode edited by Rachel.
+      <itunes:summary>Hosts: Josh, Rutskarn, Shamus, Campster. Episode edited by Rachel.
 
 Show notes: 
 00:40 Drew Karpyshyn Returns to BioWare!
@@ -7623,8 +7563,7 @@ Let’s talk tabletop games because this site is all about that topic!
 
 Damn it, Chris!
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -7667,8 +7606,7 @@ Hosts: <a href="http://metalgear.wikia.com/wiki/Big_Boss">Josh</a>, <a href="htt
       </itunes:image>
       <itunes:duration>1:09:58</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Rutskarn, Mumbles, Campster. Episode edited by Rachel.
+      <itunes:summary>Hosts: Josh, Rutskarn, Mumbles, Campster. Episode edited by Rachel.
 
 Show notes: 
 00:25: Mario maker: The sad life of Luigi
@@ -7710,8 +7648,7 @@ Here is a comic I made back in 2010 before I went into Chime rehab.
 1:05:33: Good Robot
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:chime, Mario Maker, metal gear
-</itunes:summary>
+Tagged:chime, Mario Maker, metal gear</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -7753,8 +7690,7 @@ Arvind, Randy, and Glitch have each been in 1 episode.
       </itunes:image>
       <itunes:duration>1:04:14</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Shamus, Josh, Rudeskarn, Campster. Episode edited by Rachel.
+      <itunes:summary>Hosts: Shamus, Josh, Rudeskarn, Campster. Episode edited by Rachel.
 
 Reader Jared recently went through the Diecast archives – all 119 episodes – and noted who was there and who hosted. This resulted in some interesting trivia:
 
@@ -7792,8 +7728,7 @@ I might have over-sold the “historical accuracy” angle a bit too much. Compa
 Here is an overview of how the Fallout 3 ride-able train is actually a hat worn by an NPC below the tracks and no that’s not a joke.
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:deus ex, hitman, mad max, netflix, stargate
-</itunes:summary>
+Tagged:deus ex, hitman, mad max, netflix, stargate</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -7820,8 +7755,7 @@ Hosts: <a href="http://www.shamusyoung.com/twentysidedtale/">Shamus</a>, <a href
       </itunes:image>
       <itunes:duration>1:09:43</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Shamus, Josh, Rutskarn, Mumbles, Campster. Episode edited by Rachel.
+      <itunes:summary>Hosts: Shamus, Josh, Rutskarn, Mumbles, Campster. Episode edited by Rachel.
 
 Show notes:
 1:15: Until Dawn
@@ -7839,8 +7773,7 @@ Here is Scott Manley’s YouTube channel. Great stuff.
 56:45: DIY plumbing with Josh
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:darkest dungeons, kerbal space program, mount &amp; blade, until dawn
-</itunes:summary>
+Tagged:darkest dungeons, kerbal space program, mount &amp; blade, until dawn</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -7877,8 +7810,7 @@ Hosts: <a href="http://www.shamusyoung.com/twentysidedtale/">Shamus</a>, <a href
       </itunes:image>
       <itunes:duration>1:14:47</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Shamus, Josh, Mumbles, Campster. Episode edited by Rachel.
+      <itunes:summary>Hosts: Shamus, Josh, Mumbles, Campster. Episode edited by Rachel.
 
 Did you have trouble getting the Diecast to work with your RSS feed last week? I mistakenly had the download link pointed at “diecast117”, when it should have linked to “diecast117.mp3“. I noticed the problem a day later, and “fixed” it by changing the link to “diecast177.mp3″. I didn’t notice that blunder until Sunday when I write this post.
 
@@ -7915,8 +7847,7 @@ Less Terrible Robot
 Hey Mumbles, can we get a top ten best bioware characters list from you now that you have played through Dragon Age Inquisition.
 Thanks, Jokerman.
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:Everybody’s Gone to the Rapture, Invisible Inc, Shadow of the Colossus
-</itunes:summary>
+Tagged:Everybody’s Gone to the Rapture, Invisible Inc, Shadow of the Colossus</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -7966,8 +7897,7 @@ Matthias</p></blockquote>
       </itunes:image>
       <itunes:duration>53:48</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Shamus, Joshua, Campster, Josh Viel, Rutskarn, and Cuftburt. Episode edited by Rachel.
+      <itunes:summary>Hosts: Josh, Shamus, Joshua, Campster, Josh Viel, Rutskarn, and Cuftburt. Episode edited by Rachel.
 
 Show notes:
 
@@ -8018,8 +7948,7 @@ Matthias
 53:40 Josh is introduced.
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:xcom
-</itunes:summary>
+Tagged:xcom</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -8054,9 +7983,7 @@ Tagged:xcom
       </itunes:image>
       <itunes:duration>1:07:11</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-
-Hey, everyone, it’s Rutskarn. I don’t know if you’ve been keeping up with your farmer’s almanac, but the Time of Terror and Blood was recently upon us, and the Great Beast you know as Josh was briefly trapped inside the Southern California ley line. I took advantage of his psychic imprisonment to schedule an ad hoc game of Paranoia. Unfortunately for you, I recorded it.
+      <itunes:summary>Hey, everyone, it’s Rutskarn. I don’t know if you’ve been keeping up with your farmer’s almanac, but the Time of Terror and Blood was recently upon us, and the Great Beast you know as Josh was briefly trapped inside the Southern California ley line. I took advantage of his psychic imprisonment to schedule an ad hoc game of Paranoia. Unfortunately for you, I recorded it.
 
 Also starring: Josh’s brother Glitch, Glitch’s fiancee Madison.
 
@@ -8089,8 +8016,7 @@ NOTE 8: THEY ARE ABSOLUTELY MUTANTS.
 
 NOTE ??? YOU ARE NOT AUTHORIZED TO READ THIS NOTE, CITIZEN. PLEASE REPORT TO NEAREST CONFESSION BOOTH TO PROVIDE A DETAILED ACCOUNT OF WHY YOU THOUGHT THIS INFORMATION WAS MISSION-CRITICAL BE PREPARED TO PROVIDE PROOF OF ULTRAVIOLET CLEARANCE (REQUIRED TO HIGHLIGHT WHITE TEXT).
 
- Rutskarn is a writer, author, wordsmith, text producer, article deviser, prose architect, and accredited language-talker. If you enjoy his contributions to this site you could always back his Patreon.
-</itunes:summary>
+ Rutskarn is a writer, author, wordsmith, text producer, article deviser, prose architect, and accredited language-talker. If you enjoy his contributions to this site you could always back his Patreon.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -8123,9 +8049,7 @@ NOTE ??? YOU ARE NOT AUTHORIZED TO READ THIS NOTE, CITIZEN. PLEASE REPORT TO NEA
       </itunes:image>
       <itunes:duration>1:12:36</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-
-Hosts: Shamus, Pushing Up Roses, Campster, Rutskarn, and Josh. 
+      <itunes:summary>Hosts: Shamus, Pushing Up Roses, Campster, Rutskarn, and Josh. 
 
 Thanks so much to  Pushing Up Roses for being on the show. 
 
@@ -8157,8 +8081,7 @@ This question goes for everyone in the comments as well.
 Discuss: Why is Microsoft pushing so hard to give this away? What’s their plan for the future?
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:kings quest, retro games, windows
-</itunes:summary>
+Tagged:kings quest, retro games, windows</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -8200,8 +8123,7 @@ P.S. Pokemon aside.
       </itunes:image>
       <itunes:duration>1:02:55</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Shamus, Campster,   Rutskarn. 
+      <itunes:summary>Hosts: Shamus, Campster,   Rutskarn. 
 
 Here is an example of the ultra-rare episode without Josh. I think Josh-less episodes are more rare than Shamus-less episodes. 
 
@@ -8237,8 +8159,7 @@ Dave
 I hope you liked this topic, because I’m going to bring it up again in my Escapist column this week.
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:assassins creed, bioware
-</itunes:summary>
+Tagged:assassins creed, bioware</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -8308,8 +8229,7 @@ https://hitman.com/en-us/news/hitman-q-a#</p>
       </itunes:image>
       <itunes:duration>1:03:39</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Shamus, Campster,   Rutskarn, Josh. 
+      <itunes:summary>Hosts: Shamus, Campster,   Rutskarn, Josh. 
 
 This Diecast barely happened. Thanks for Josh and Rutskarn for making the effort to show up when they had so much else going on. Thanks also to my daughter Rachel, who edited this so I could do other stuff. Thanks to everyone who sent in questions. 
 
@@ -8380,8 +8300,7 @@ You can’t see because of the ridiculous bloom lighting, but eventually the rai
 The graphical glitches I can forgive. But the juvenile debasement of Tolkien lore? Not so much.
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:dragon age, early access, hitman, tacoma, tf2
-</itunes:summary>
+Tagged:dragon age, early access, hitman, tacoma, tf2</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -8424,8 +8343,7 @@ Hosts: <a href="https://www.youtube.com/user/Campster">Campster</a>,  <a href="h
       </itunes:image>
       <itunes:duration>1:04:39</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Campster,  Josh, Josh’s Imitation of Rutskarn.
+      <itunes:summary>Hosts: Campster,  Josh, Josh’s Imitation of Rutskarn.
 
 I wasn’t on the show this week, but the rest of the cast (by which I mean almost nobody) carried on without me. As of typing this paragraph, I have no idea what the show will be about. I’m just going to post the show now, and fill in the show notes after it’s up. So we’re going to listen to the show together! This will be fun! These exclamation marks are persuasive!
 
@@ -8464,8 +8382,7 @@ Oh hey! The game also has Stephen Russel in it! (The original voice of Garret fr
 
 Well, that was certainly an hour of people talking about things. Thanks to everybody for doing the show while I was busy, and thanks to Josh for editing.
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -8528,8 +8445,7 @@ Geralt of Rivia</p></blockquote>
       </itunes:image>
       <itunes:duration>1:02:56</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Shamus, Campster,   Mumbles, Josh. 
+      <itunes:summary>Hosts: Shamus, Campster,   Mumbles, Josh. 
 
 Show notes:
 2:00 Rutskarn is not dead, but probably wishes he was.
@@ -8622,8 +8538,7 @@ Hosts: <a href="http://www.shamusyoung.com/twentysidedtale/">Shamus</a>, <a href
       </itunes:image>
       <itunes:duration>60:00</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Shamus, Campster,   Mumbles, Josh. 
+      <itunes:summary>Hosts: Shamus, Campster,   Mumbles, Josh. 
 
 Audio excuse this week: We recorded this on July 4th, and so most of the cast had family to meet, cookouts to attend, and fingers to blow off with fireworks, so we couldn’t meet in the evening like we usually do. Which means we did this during the day when my family was awake and living their lives, which means the TV was on in the background. 
 
@@ -8646,8 +8561,7 @@ This section has mild spoilers where we discuss the identity of the Arkham Knigh
 Seriously, we spoil everything here. 
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:arkham knight, batman, her story, massive chalice
-</itunes:summary>
+Tagged:arkham knight, batman, her story, massive chalice</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -8690,8 +8604,7 @@ The Neil Not From England</p></blockquote>
       </itunes:image>
       <itunes:duration>1:10:58</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Shamus, Campster,  Josh. 
+      <itunes:summary>Hosts: Shamus, Campster,  Josh. 
 
 Heads up: No Spoiler Warning this week, but we’re going to try and post the archive of our E3 livestream.
 
@@ -8731,8 +8644,7 @@ Dear Diecast,
 It’s common practice, when inventing made-up peoples and cultures, to draw from real history and existing establishments. What games do you see as having done this the best? Which have done this the worst? Why?
 Yours, Ira
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:AMD, batman, nintendo, NVIDIA
-</itunes:summary>
+Tagged:AMD, batman, nintendo, NVIDIA</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -8878,8 +8790,7 @@ Why do video games always come out on Tuesdays? How did that start?
 Best regards,
 Jared
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:mailbag
-</itunes:summary>
+Tagged:mailbag</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -8972,8 +8883,7 @@ Suddenly my name came up in conversation and I had no idea what anyone was talki
 
 Josh tells the story of when we tried to upload the New Year episode of Far Cry 4 and YouTube killed it because the credits used a copyrighted song. 
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -9062,8 +8972,7 @@ Always ludonarratively dissonant,
 Daniel
 Here are the edutainment dino games Chris was talking about: Create-A-Saurus from 3-D Dinosaur Adventure and Save The Dinosaurs! From 3-D Dinosaur Adventure.
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -9134,8 +9043,7 @@ Here is the trailer I was talking about:
 At some point the conversation drifts to FMV games. So… watch out for that.
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:kings quest, pushing up roses, sierra
-</itunes:summary>
+Tagged:kings quest, pushing up roses, sierra</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -9175,8 +9083,7 @@ Ambitious Sloth</p></blockquote>
       </itunes:image>
       <itunes:duration>1:05:04</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh,Chris, Mumbles, and Shamus.
+      <itunes:summary>Hosts: Josh,Chris, Mumbles, and Shamus.
 
 Show notes: 
 
@@ -9212,8 +9119,7 @@ Earlier this year I played Shadowrun: Returns and the Dragonfall DLC. I liked bo
 My question is this, have any you ever played an expansion/DLC that you thought was better than the base game? If so, why do you think it was better?
 Thanks,
  -Kerr.
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -9308,8 +9214,7 @@ Everyone else: Answer whichever you want.
 -Anthony
 PS: Sure hope I didn’t get the first two questions confused. Nah.
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:far cry, game awards, GTA
-</itunes:summary>
+Tagged:far cry, game awards, GTA</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -9351,8 +9256,7 @@ Ira.</p>
       </itunes:image>
       <itunes:duration>59:38</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Rutskarn, Josh,  Shamus, Chris and Mumbles.
+      <itunes:summary>Hosts: Rutskarn, Josh,  Shamus, Chris and Mumbles.
 
 Show notes:
 
@@ -9387,8 +9291,7 @@ Is there a foreseeable way put of the “everything is a franchise” mindset in
 Yours,
 Ira.
 P.S.: Mr. Viel, what is a good entry point into the Shin Megami Tensei series? I’ve loved it from afar for a few years, but don’t know how or where to get involved.
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -9425,8 +9328,7 @@ NotDog</p></blockquote>
       </itunes:image>
       <itunes:duration>1:04:13</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Rutskarn, Josh,  Shamus, and Mumbles.
+      <itunes:summary>Hosts: Rutskarn, Josh,  Shamus, and Mumbles.
 
 Show notes: 
 
@@ -9456,8 +9358,7 @@ Here is the SuperBunnyHop episode on this topic. Highly recommended:
 
 So it looks like I won’t make it to PAX East again this year. Shame. 
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -9538,8 +9439,7 @@ Here is a spoiler-free synopsis of the plot that is truly amazing…
 For all you Gragon Age 3 players, here is Mumbles Twitter, which she mentioned in the show.
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:batman, blizzard, gotham, overwatch, star wars, steam, the fall, titan, uplay
-</itunes:summary>
+Tagged:batman, blizzard, gotham, overwatch, star wars, steam, the fall, titan, uplay</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -9614,8 +9514,7 @@ So you gotta corpse in a dandy suit as your internet avatar.  There a story behi
 To Chrampster:
 Yo!  Last Errant Sigz wuz a month ago bro!  …and it was repost!  Wuzzup wit dat?  You quitting da vidz homes?
 Neil
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -9654,8 +9553,7 @@ Shamus Young is a programmer, an author, and nearly a composer. He works on this
       </itunes:image>
       <itunes:duration>60:00</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Chris, Josh,  Shamus, and Rutskarn.
+      <itunes:summary>Hosts: Chris, Josh,  Shamus, and Rutskarn.
 
 Show notes:
 1:00 The PC system specs for Assassins Creed Unity are kinda steep.
@@ -9691,8 +9589,7 @@ I have two new questions for the crew:
 regards,
 -Anthony
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:assassins creed, beyond earth, borderlands, crusader kings, unity
-</itunes:summary>
+Tagged:assassins creed, beyond earth, borderlands, crusader kings, unity</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -9768,8 +9665,7 @@ Actually, maybe that would just be really annoying. But it’s an interesting id
 
 I can’t believe it.
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -9822,8 +9718,7 @@ This is all highly amusing. So the actual question: Has anyone else actually not
       </itunes:image>
       <itunes:duration>57:15</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh,  Shamus, Rutskarn, Chris, and Arvind.
+      <itunes:summary>Hosts: Josh,  Shamus, Rutskarn, Chris, and Arvind.
 
 Show notes:
 2:30 Blizzard canceled it’s upcoming MMO, Tighten Titan.
@@ -9867,8 +9762,7 @@ This is all highly amusing. So the actual question: Has anyone else actually not
 We didn’t actually answer this on the show, so for the record: For the first few dozen episodes, when I linked to Josh’s name in the hosts list I’d link to a different random thing every time. I stopped doing it because nobody noticed. But now I guess someone noticed.
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:alien isolation, blizzard, destiny, mailbag
-</itunes:summary>
+Tagged:alien isolation, blizzard, destiny, mailbag</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -9927,8 +9821,7 @@ But somehow we end up talking about leaderboad games. This is the game I was tal
 But instead of talking about those he tells us some tabletop gaming stories, which are a lot more interesting. 
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:diablo, far cry, final fantasy, payday, waves
-</itunes:summary>
+Tagged:diablo, far cry, final fantasy, payday, waves</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -10057,8 +9950,7 @@ Do you think its better to balance costs of items and upgrades based on what the
 Like the parachute jump upgrade in Deus Ex Human Revolution. It seems like it would be the most expensive augmentation in real life but in terms of its game effect, as you pointed out on Spoiler Warning, its generally just a convenience and other upgrades are much more useful for game related tasks.
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:dead island, good robot, itunes, microsoft, minecraft, the walking dead
-</itunes:summary>
+Tagged:dead island, good robot, itunes, microsoft, minecraft, the walking dead</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -10154,8 +10046,7 @@ If you’d like to respond to our top 100 PC games list, we made a handy form! p
 But I fell for it. I even got mad. I’m still a little mad. Well played, PC Gamer. You win this round, you shallow hacks. 
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:gotham, nintendo
-</itunes:summary>
+Tagged:gotham, nintendo</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -10179,8 +10070,7 @@ Tagged:gotham, nintendo
       </itunes:image>
       <itunes:duration>56:09</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Chris, Josh,  Shamus, and Rutskarn.
+      <itunes:summary>Hosts: Chris, Josh,  Shamus, and Rutskarn.
 
 1:00 The Next Tomb Raider game will be an Xbox One exclusive.
 
@@ -10193,8 +10083,7 @@ We’re talking about City of Heroes, Champions Online, DC Universe Online, and 
 Here is the City of Titans Kickstarter that we discussed, and here is their website, which we were sort of mocking. 
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:Champions Online, city of heroes, city of titans, dcuo, marvel heroes, tomb raider, xbox one
-</itunes:summary>
+Tagged:Champions Online, city of heroes, city of titans, dcuo, marvel heroes, tomb raider, xbox one</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -10235,8 +10124,7 @@ RTBones
       </itunes:image>
       <itunes:duration>1:01:13</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Chris, Josh,  Shamus.
+      <itunes:summary>Hosts: Chris, Josh,  Shamus.
 
 Show notes:
 
@@ -10276,8 +10164,7 @@ Here is the Errant Signal episode we were talking about in this segment:
 
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:bioware, mass effect, sims, Twitch
-</itunes:summary>
+Tagged:bioware, mass effect, sims, Twitch</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -10323,8 +10210,7 @@ The guy who sent this email.</p></blockquote>
       </itunes:image>
       <itunes:duration>59:28</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Chris, Josh,  Shamus, and Rutskarn.
+      <itunes:summary>Hosts: Chris, Josh,  Shamus, and Rutskarn.
 
 At the start of the show there’s some debate about how long it’s been since Rutskarn was on the show. For the record it was: Diecast #64: E3 Dustup, Watch_Dogs, Steam Summer Sale, back in June. 
 
@@ -10368,8 +10254,7 @@ Wide And Nerdy
 47:00 Josh follows up on his Star Citizen comments from last week.
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:EA, gamespot, mailbag, playstation, Star Citizen, VR
-</itunes:summary>
+Tagged:EA, gamespot, mailbag, playstation, Star Citizen, VR</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -10445,8 +10330,7 @@ Steven
 What do each of you think is the most prevalent problem affecting stories of games?
 -Michael
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:bulletstorm, saints row, system shock, unrest
-</itunes:summary>
+Tagged:bulletstorm, saints row, system shock, unrest</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -10511,8 +10395,7 @@ Random Internet Lurker
 The Yogventures story is so sad. Half a million bucks, and very little to show for it other than a lot of rumors and finger-pointing. Contrast this with how the Unrest kickstarter turned out. This is not to rub salt in the Yogventures wound, but only to point out how important it is that these projects are transparent so that we can all learn from each other’s mistakes. 
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:Crytek, kickstarter, Twitch, Yogscast
-</itunes:summary>
+Tagged:Crytek, kickstarter, Twitch, Yogscast</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -10565,8 +10448,7 @@ Gilfareth</p></blockquote>
       </itunes:image>
       <itunes:duration>57:32</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh,  Chris, Shamus, and Rutskarn, and Mumbles.
+      <itunes:summary>Hosts: Josh,  Chris, Shamus, and Rutskarn, and Mumbles.
 
 Show notes:
 
@@ -10614,8 +10496,7 @@ Rustkarn,
 As one of the people incredibly interested in both writing for video games and Unrest, I’ve always wanted to see a sort of detailed description of the process of writing for a narrative-heavy game. Would you be interested in doing a sort of ‘The Writing of Unrest’ series once the game is out?
 Keep on writing,
 Gilfareth
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -10703,8 +10584,7 @@ Dear Diecast,
 What genres of music do guys enjoy and how well do you think they’ve been implemented in games?
 -Protazoa34
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:batman, dead island, dead rising, girls like robots, lego movie, marvel, payday, steam, valiant hearts
-</itunes:summary>
+Tagged:batman, dead island, dead rising, girls like robots, lego movie, marvel, payday, steam, valiant hearts</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -10784,8 +10664,7 @@ Warning: Spoilers.
 48:00 Cooking tacos with Chef Josh!
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:a dark room, fast food, magicite, medal of honor, retro/grade, steam sale, typing of the dead
-</itunes:summary>
+Tagged:a dark room, fast food, magicite, medal of honor, retro/grade, steam sale, typing of the dead</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -10847,8 +10726,7 @@ Chris is playing In the Kingdom and Killer Instinct.
 I’m playing Risk of Rain. Also Revenge of the Titans from Puppygames. In this segment I said I had all the titles from Puppygames. Not so! They now have Droid Assault, which is part of the Steam sale at the moment. So NOW I have all the Puppygames.
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:e3, elder scrolls, killer instinct, puppygames, watch_dogs
-</itunes:summary>
+Tagged:e3, elder scrolls, killer instinct, puppygames, watch_dogs</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -10903,8 +10781,7 @@ Show notes:
 Strangely enough, all of the questions are for Josh. And all of them are oddly specific.
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:nintendo
-</itunes:summary>
+Tagged:nintendo</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -10991,8 +10868,7 @@ My column (should go up on Tuesday) is about the game. The question of “Is thi
 We talk about the early X-Men movies, the latest X-Men movie, and the X-Men comics. This conversation was really confusing and hard for me to follow, but I think there are Days of Future Past spoilers in there. Maybe. 
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:Among the Sleep, edge of tomorrow, mario kart, the shield, walking dead, wolfenstein, X-Men
-</itunes:summary>
+Tagged:Among the Sleep, edge of tomorrow, mario kart, the shield, walking dead, wolfenstein, X-Men</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -11089,8 +10965,7 @@ I recently noticed that Deus Ex: Human revolution and its DLC has been removed f
 Mincraft lets you choose what version of the game to play. Should all games offer this? Should Steam let you do this? Or should we just let the latest update be the one true version and pretend the previous ones never existed?
 /Zukhramm
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -11126,8 +11001,7 @@ Shamus Young is a programmer, an author, and nearly a composer. He works on this
       </itunes:image>
       <itunes:duration>1:11:22</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Chris, Josh,  Shamus, and Mumbles.
+      <itunes:summary>Hosts: Chris, Josh,  Shamus, and Mumbles.
 
 Show notes: 
 
@@ -11165,8 +11039,7 @@ Here is what SuperBunnyHop said about it:
 
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:adsense, google, wolfenstein
-</itunes:summary>
+Tagged:adsense, google, wolfenstein</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -11195,8 +11068,7 @@ Tagged:adsense, google, wolfenstein
       </itunes:image>
       <itunes:duration>1:12:54</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Chris, SuperBunnyHop, Josh,  Shamus, and Rutskarn, with a secret surprise guest that you can probably guess.
+      <itunes:summary>Hosts: Chris, SuperBunnyHop, Josh,  Shamus, and Rutskarn, with a secret surprise guest that you can probably guess.
 
 Show notes:
 
@@ -11219,8 +11091,7 @@ If you only listen to one 80’s sitcom-style song about Dark Souls 2, make sure
 1:03:00 Mumbles is playing Diablo III for Xbox.
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:bombshell, dark souls, diablo
-</itunes:summary>
+Tagged:bombshell, dark souls, diablo</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -11250,8 +11121,7 @@ Tagged:bombshell, dark souls, diablo
       </itunes:image>
       <itunes:duration>1:31:12</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Rutskarn, Chris, and Shamus.
+      <itunes:summary>Hosts: Josh, Rutskarn, Chris, and Shamus.
 
 Show notes:
 
@@ -11276,8 +11146,7 @@ Unrest is not available for pre-order on Steam, but it has a Steam page anyway. 
 Outro: Slamba Yetu.
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:alpha centauri, Civilization, dark souls, Marvel Unlimited, unrest
-</itunes:summary>
+Tagged:alpha centauri, Civilization, dark souls, Marvel Unlimited, unrest</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -11390,8 +11259,7 @@ Also, there is Homestuck spoilers in this segment. Whatever THAT means.
 Here is the image Rutskarn shared at the end of the show. You’re… welcome?
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:hearthstone, Jurassic Park, Planescape Torment, Rusty’s Real Deal Baseball, stronghold
-</itunes:summary>
+Tagged:hearthstone, Jurassic Park, Planescape Torment, Rusty’s Real Deal Baseball, stronghold</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -11423,8 +11291,7 @@ Just in case your palate needs scrubbing, I’ll be around to answer any questio
 Ask whatever you’d like. I should get to most of them within a day or so, but I’ll plug away until I’ve hit ’em all.
 
  Rutskarn is a writer, author, wordsmith, text producer, article deviser, prose architect, and accredited language-talker. If you enjoy his contributions to this site you could always back his Patreon.
-Tagged:chart-crunching godmoding nitwit, diecast, dm, dungeons and dragons, game mastering, rpgs, spoiler warning
-</itunes:summary>
+Tagged:chart-crunching godmoding nitwit, diecast, dm, dungeons and dragons, game mastering, rpgs, spoiler warning</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -11503,8 +11370,7 @@ Rutskarn
 We end with Rutskarn beginning a tale of his very first D&amp;D game. That story will lead off our next Diecast. See you later this week.
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:diecast, mailbag, mass effect, necco wafers, neverwinter nights, skyrim, unreal, witcher
-</itunes:summary>
+Tagged:diecast, mailbag, mass effect, necco wafers, neverwinter nights, skyrim, unreal, witcher</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -11572,8 +11438,7 @@ As Mumbles explained, digital comics are a thing. At Marvel Unlimited you can pa
 Thanks again to George for joining in. 
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:comics, infamous, jane jensen, marvel, superbunnyhop, trials, wildstar, witcher
-</itunes:summary>
+Tagged:comics, infamous, jane jensen, marvel, superbunnyhop, trials, wildstar, witcher</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -11625,8 +11490,7 @@ Tagged:comics, infamous, jane jensen, marvel, superbunnyhop, trials, wildstar, w
       </itunes:image>
       <itunes:duration>1:02:37</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Chris, and Shamus.
+      <itunes:summary>Hosts: Josh, Chris, and Shamus.
 
 Show notes:
 
@@ -11685,8 +11549,7 @@ Neil from England
 Let me plug Jarenth here while I have an excuse.
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:actual sunlight, Civilization, depression quest, Disney Magical World, ftl
-</itunes:summary>
+Tagged:actual sunlight, Civilization, depression quest, Disney Magical World, ftl</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -11727,8 +11590,7 @@ Tagged:actual sunlight, Civilization, depression quest, Disney Magical World, ft
       </itunes:image>
       <itunes:duration>1:23:26</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Josh, Chris, Jarenth, and Shamus.
+      <itunes:summary>Hosts: Josh, Chris, Jarenth, and Shamus.
 
 Show notes:
 
@@ -11766,8 +11628,7 @@ What do you guys think about Facebook buying Occulus?  I mean, a global megacorp
 – Ed (Kavonde)
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:Burial at Sea, goat simulator, netrunner
-</itunes:summary>
+Tagged:Burial at Sea, goat simulator, netrunner</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -11825,8 +11686,7 @@ Try to keep it no more than two sentences.
 Aim for subjects that the whole cast can discuss. (So, questions about Good Robot would be bad, since it would just be me talking.)
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:diecast, mailbag
-</itunes:summary>
+Tagged:diecast, mailbag</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -11887,8 +11747,7 @@ Here is the Errant Signal that Chris made about Greenlight when it was introduce
 A couple of Lost Levels moments: Professor Oak Dance-Off and A History Of Jeff Goldblum In Games, and a Talk by Ric Chivo
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:gdc, Oculus Rift, steam
-</itunes:summary>
+Tagged:gdc, Oculus Rift, steam</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -11960,8 +11819,7 @@ We get into a really interesting conversation about what happens when the player
 Under no circumstances will we be discussing feminism this week. I know this kind of strayed a tiny bit close to that, but let’s not do it. Nothing could possibly be said this week that wasn’t said last week. 
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:alpha protocol, dark souls, la noire
-</itunes:summary>
+Tagged:alpha protocol, dark souls, la noire</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -12035,8 +11893,7 @@ Here is the Dark Souls Critical Close-up Chris mentioned.
 1:05:00 MAIL TIME!
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:borderlands, broken age, dark souls, race the sun, titanfall, walking dead
-</itunes:summary>
+Tagged:borderlands, broken age, dark souls, race the sun, titanfall, walking dead</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -12107,8 +11964,7 @@ And yes, we answer several questions this week. These are good ones. Remember to
 
 TRIGGER WARNING: We discuss rare vs well-done steak, which to some people is a religious topic. For some reason.
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -12143,8 +11999,7 @@ The entire show is about Thief, so no timestamps. We spoil some of the themes of
 At the 57-minute mark we talk about the ending, so you might want to skip that part if you’re spoiler-averse.  Although as Chris says, the story is pretty much broken, and I don’t think spoilers will hurt you. And by “broken” I mean, “clearly a patchwork of different revisions of the story that don’t fit together or form a proper sequence of events”. 
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:diecast, thief
-</itunes:summary>
+Tagged:diecast, thief</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -12194,8 +12049,7 @@ Specifically, we talk about the way the game portrays a world in which only Euro
 Spoiler Warning: He’s not delighted.
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:assassins creed, Europa Universalis, irrational, thief
-</itunes:summary>
+Tagged:assassins creed, Europa Universalis, irrational, thief</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -12234,8 +12088,7 @@ Tagged:assassins creed, Europa Universalis, irrational, thief
       </itunes:image>
       <itunes:duration>1:02:10</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Rutskarn, Mumbles, Josh, Chris, and Shamus.
+      <itunes:summary>Hosts: Rutskarn, Mumbles, Josh, Chris, and Shamus.
 
 Show Notes:
 
@@ -12277,8 +12130,7 @@ For thos eof you confused by the chaos, what happened is that Rutskarn lagged ou
 
 As of this writing, the Total Biscuit video in question is still down. But here is a copy uploaded by someone else. It starts off looking just a little shabby, but if you stick with it you’ll see the problems go a lot deeper than bad art.
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -12351,8 +12203,7 @@ We talk about Tomb Raider: Definitive Edition and about Steam Early Access progr
 
 Request: When you send us a question (the address is in the splash image at the top of the post) please put “Diecast” in the title so Josh can find them when we finally get around to reading them.
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -12388,8 +12239,7 @@ Shamus Young is a programmer, an author, and nearly a composer. He works on this
       </itunes:image>
       <itunes:duration>1:05:55</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Mumbles, Josh, Chris, and Shamus.
+      <itunes:summary>Hosts: Mumbles, Josh, Chris, and Shamus.
 
 Show Notes:
 
@@ -12418,8 +12268,7 @@ The people at Nintendo that designed the Wii U do not use or have any understand
 The Wii U development tools are horrible, bordering on the barbaric.
 Nintendo has shameful support for third parties, to the point that their few third-party devs have trouble getting coherent answers to basic technology questions.
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -12452,8 +12301,7 @@ Shamus Young is a programmer, an author, and nearly a composer. He works on this
       </itunes:image>
       <itunes:duration>1:15:44</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Rutskarn, Josh, Chris, and Shamus.
+      <itunes:summary>Hosts: Rutskarn, Josh, Chris, and Shamus.
 
 Show notes: 
 
@@ -12482,8 +12330,7 @@ I’m not saying it can’t be a great game, but the whole “Ripley’s daughte
 
 Having said that: This is the first Alien game in ages that sounds promising. Survival stealth? Oh yeah. I’m on board with that.
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -12530,8 +12377,7 @@ Shamus Young is a programmer, an author, and nearly a composer. He works on this
       </itunes:image>
       <itunes:duration>1:19:58</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Rutskarn, Josh, Chris, and Shamus.
+      <itunes:summary>Hosts: Rutskarn, Josh, Chris, and Shamus.
 
 Show notes: 
 
@@ -12581,8 +12427,7 @@ It’s an awful system, and the only reason we’re using it is because we don�
 
 Like Errant Signal? Want to encourage it? You can support it here. And as Chris is quick to say: The show will continue whether you give or not. Giving is your way of saying, “Dear internet. Make more stuff like this.”
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -12652,8 +12497,7 @@ Also, I claimed I was a “one man operation”, which is completely untrue. I h
 We talk about the oddball leveling, the screwy balance, the broken economy, and the way the modding scene is becoming more visible and useful to the community.
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:rott, skyrim, steam, zombiod
-</itunes:summary>
+Tagged:rott, skyrim, steam, zombiod</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -12701,8 +12545,7 @@ The video where Mumbles talks about Skyrim can be found here.
 
 1:23:00 MAILBAG! “Should devs be putting more effort into QA?”
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -12763,8 +12606,7 @@ During this segment I said that there’s no way this is an indie project by fou
 
 1:40:00 Chris is playing Need for Speed: Rivals and Long Live the Queen.
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -12797,8 +12639,7 @@ Shamus Young is a programmer, an author, and nearly a composer. He works on this
       </itunes:image>
       <itunes:duration>1:23:06</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Hosts: Rutskarn, Josh, and Shamus.
+      <itunes:summary>Hosts: Rutskarn, Josh, and Shamus.
 
 Show Notes:
 1:00 We Dump on Oblivion for ten minutes for no reason.
@@ -12828,8 +12669,7 @@ We also talk about Ron Gilbert‘s Scurvy Scallywags.
 2) [Comparing roleplay focused tabletop games with systems focused ones.]
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:elder scrolls, Sid Meier
-</itunes:summary>
+Tagged:elder scrolls, Sid Meier</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -12906,8 +12746,7 @@ During this discussion I mention this episode of Jimquisition, talking about how
 
 Hoping we can get through this topic with minimal loss of life.
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -12971,8 +12810,7 @@ Here is the story about how Typing of the Dead was made (sort of) in six weeks, 
 
 1:16:00 Mailbag!
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -13051,8 +12889,7 @@ He’s taking playing through all the games, in order, with the same character. 
 We talk about BioWare and LGBT characters. 
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:batman, elder scrolls, stanley parable
-</itunes:summary>
+Tagged:batman, elder scrolls, stanley parable</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -13107,8 +12944,7 @@ If you want to see only the best parts of Morrowind, then you want to read Rutsk
 
 53:30 Josh talks about the Steam Machine and system specs.
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -13158,8 +12994,7 @@ Seriously composers: You folks are doing a fine job.  But the number and quality
 More on this later.
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:steam
-</itunes:summary>
+Tagged:steam</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -13222,8 +13057,7 @@ In talking about Dreamfall, I referenced my old rant on the end of the game. Che
 I’m sure fans of the game will be quick to point out that this is the second act in a three-act play. Great. The first installment came out in 1999. Adventure games and budgets being what they are, there is no guarantee that the next game will even be made. And even if it is, I don’t really care to wait for it. In another seven years I’ll be 42, my oldest daughter will be getting ready to turn 16, and I will only have a vague memory of what happened in this game. 
 Correct on all counts. I’m 42, my daughter is about to turn 16, and I barely remember the game aside from being angry at the end. Also relevant is this ancient post on why I dislike episodic games. 
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -13278,8 +13112,7 @@ We also digress into game piracy vs. abandonware. (And also Sim City. Obviously.
 
 We also talk about Dear Esther.
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -13343,8 +13176,7 @@ Spoiler: This part might slightly diverge from mandatory happiness and spiral in
 
 1:07:30 Shamus is making a videogame and working in 2D is easy!
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -13419,8 +13251,7 @@ It really is amazing how this game can continue to find new ways to fail.
 We compare the changes made to Overstrike to the changes made in Portal 2.
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:papers please, saints row, sim city
-</itunes:summary>
+Tagged:papers please, saints row, sim city</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -13481,8 +13312,7 @@ Disney Infinity, Tom Clancy’s Splinter Cell: Blacklist and Saints Row IV.
 Story here. We also discuss Wildstar.
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:disney infinity, elder scrolls, saints row, splinter cell
-</itunes:summary>
+Tagged:disney infinity, elder scrolls, saints row, splinter cell</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -13538,8 +13368,7 @@ Not a planned topic, but we spent some time talking about it.
 The “Gimmie five bucks to not stab you” video is here: Doctor Who – Hey Ash Whatcha Playin’?
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:gone home
-</itunes:summary>
+Tagged:gone home</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -13601,8 +13430,7 @@ We begin with this story.
 We don’t say anything terribly controversial here, so I hope people can keep calm. And if anyone does feel the need to object, I hope you can do it calmly. 
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:carmack, tropes vs women
-</itunes:summary>
+Tagged:carmack, tropes vs women</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -13634,8 +13462,7 @@ Tagged:carmack, tropes vs women
       </itunes:image>
       <itunes:duration>1:00:28</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-Special episode this week.  There’s no news we care to talk about, so we’re answering mailbag questions. Note that I’ve paraphrased the questions in the show notes because I don’t want to transcribe the originals.
+      <itunes:summary>Special episode this week.  There’s no news we care to talk about, so we’re answering mailbag questions. Note that I’ve paraphrased the questions in the show notes because I don’t want to transcribe the originals.
 
 Hosts: Chris, Josh, Rutskarn and Shamus.
 
@@ -13662,8 +13489,7 @@ But Spiderman was a “regular” guy and when he took off the mask he had regul
 
 47:00 What do you think about “benign deaths” in videogames like BioShock, Prey, RAGE, and Borderlands?
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -13712,8 +13538,7 @@ Show notes:
 56:30 MAILBAG. 
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:diecast
-</itunes:summary>
+Tagged:diecast</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -13763,8 +13588,7 @@ Show notes:
 
 1:17:30 Mailbag.
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -13820,8 +13644,7 @@ Show notes:
 1:02:00 Deus Ex: The Fall Disables Weapons on Jailbroken Devices. 
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:deus ex, Mortal Kombat, steam
-</itunes:summary>
+Tagged:deus ex, Mortal Kombat, steam</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -13870,8 +13693,7 @@ Show notes:
 
 1:08:00 Tea Time! (Mailbag.) Related reading: Here are my thoughts on drinking coffee, how I started and why I stopped.
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -13929,8 +13751,7 @@ Also, I want to apologize to Neil (or Neal) who sent in the long question. While
 
 If you’ve got a question for the cast, send it to [email protected] Also: Short questions make for better launching points for conversation. Long questions are better left in the comments. (I used to have a special page where people could leave long questions for me to answer. Looks like it got culled last time I tinkered with the site. I’ll look into bringing that back.)
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -13976,8 +13797,7 @@ Shamus Young is a programmer, an author, and nearly a composer. He works on this
 
 1:11:55 Mailbag
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -14015,8 +13835,7 @@ Shamus Young is a programmer, an author, and nearly a composer. He works on this
 
 54:30 (ish) Mailbag!
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -14067,8 +13886,7 @@ Show notes:
 1:00:00 MAILBAG!
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:diecast, xbox
-</itunes:summary>
+Tagged:diecast, xbox</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -14119,8 +13937,7 @@ ALSO:
 We will be doing a hangout this Friday, May 31st at 4:30pm pacific time. (10:30pm GMT.) We’ll have links to the stream closer to when the event goes live. 
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:diecast, unrest, xbone
-</itunes:summary>
+Tagged:diecast, unrest, xbone</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -14176,8 +13993,7 @@ Show notes:
 54:00 Mailbag!
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:kickstarter, nintendo, steam
-</itunes:summary>
+Tagged:kickstarter, nintendo, steam</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -14228,8 +14044,7 @@ Tagged:kickstarter, nintendo, steam
 49:20 MAIL TIME!
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:EA, simcity
-</itunes:summary>
+Tagged:EA, simcity</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -14267,8 +14082,7 @@ Tagged:EA, simcity
 
 57:00 Mailbag
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -14299,10 +14113,7 @@ Shamus Young is a programmer, an author, and nearly a composer. He works on this
       </itunes:image>
       <itunes:duration>1:05:59</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-
-
-For various reasons, we had to move our recording to Saturday night this week, which meant Ruts couldn’t make it. Jarenth was nice enough to step in and act as the guy that never gets a word in edgewise. Thanks Jarenth!
+      <itunes:summary>For various reasons, we had to move our recording to Saturday night this week, which meant Ruts couldn’t make it. Jarenth was nice enough to step in and act as the guy that never gets a word in edgewise. Thanks Jarenth!
 
 
 Show notes:
@@ -14323,8 +14134,7 @@ Show notes:
 59:00 Bobby Kotick got (or gave himself) an 8-fold raise.
 
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -14355,10 +14165,7 @@ Shamus Young is a programmer, an author, and nearly a composer. He works on this
       </itunes:image>
       <itunes:duration>58:56</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-
-
-Josh couldn’t make it this week. My USB headset broke and my backup evidently has a white noise generator built into it. I did the editing. We forgot to do the mailbag segment. So basically, this episode features the usual level of polish and professionalism you’ve come to expect from us. Enjoy!
+      <itunes:summary>Josh couldn’t make it this week. My USB headset broke and my backup evidently has a white noise generator built into it. I did the editing. We forgot to do the mailbag segment. So basically, this episode features the usual level of polish and professionalism you’ve come to expect from us. Enjoy!
 
 
 Also! We we be doing a hangout on Thursday, April 25 at 7pm Eastern Time. (Which works out to midnight on Friday morning, GMT.) I’ll post links and give a heads-up when the show is ready to go live. 
@@ -14384,8 +14191,7 @@ During the discussion, I brought up Realm of the Mad God, which was the basis fo
 45:30 Cevat Yerli, the CEO of Crytek, says that graphics are “60% of the game”.
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:crysis, Salem, simcity, thief
-</itunes:summary>
+Tagged:crysis, Salem, simcity, thief</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -14421,10 +14227,7 @@ Tagged:crysis, Salem, simcity, thief
       </itunes:image>
       <itunes:duration>1:23:07</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-
-
-You know, we had a long list of topics in the queue for this week. We really don’t want this to be an EA bashing podcast. But dangit, EA is just so busy making noise. 
+      <itunes:summary>You know, we had a long list of topics in the queue for this week. We really don’t want this to be an EA bashing podcast. But dangit, EA is just so busy making noise. 
 
 
 Show notes: 
@@ -14459,8 +14262,7 @@ Nothing to report. However, they are working hard to give us something to talk a
 57:00 Mail time. We just got a letter.
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:bioware, EA
-</itunes:summary>
+Tagged:bioware, EA</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -14492,10 +14294,7 @@ Tagged:bioware, EA
       </itunes:image>
       <itunes:duration>1:22:11</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-
-
-In this episode we’re still talking about SimCity. We also discuss Thief, the Oculus Rift, and Lucasarts before we finally get around to answering some of your emails. 
+      <itunes:summary>In this episode we’re still talking about SimCity. We also discuss Thief, the Oculus Rift, and Lucasarts before we finally get around to answering some of your emails. 
 
 
 00:30 What’s everyone playing?
@@ -14522,8 +14321,7 @@ We had many emails over the past few weeks, and now we’re finally answering a 
 
 EDIT: And here is the link to Rutskarn’s Let’s Play Morrowind Part 1 
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -14546,10 +14344,7 @@ Shamus Young is a programmer, an author, and nearly a composer. He works on this
       </itunes:image>
       <itunes:duration>1:16:21</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-
-
-I sat down with Josh, Chris, and Jarenth and we discussed BioShock Infinite at length. It should go without saying, but just in case you’re intuition-impaired: This podcast will feature complete and total spoilers for all aspects of the game. 
+      <itunes:summary>I sat down with Josh, Chris, and Jarenth and we discussed BioShock Infinite at length. It should go without saying, but just in case you’re intuition-impaired: This podcast will feature complete and total spoilers for all aspects of the game. 
 
 
 No timestamps for this one. The discussion is mostly freeform. 
@@ -14560,8 +14355,7 @@ As promised, here is the screenshot I mentioned in the discussion:
 
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:bioshock infinite
-</itunes:summary>
+Tagged:bioshock infinite</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -14594,10 +14388,7 @@ Tagged:bioshock infinite
       </itunes:image>
       <itunes:duration>1:11:29</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-
-
-On the upside, the podcast is proving to be really popular. On the downside, we seem to be slipping on our production of Spoiler Warning videos. Oops.
+      <itunes:summary>On the upside, the podcast is proving to be really popular. On the downside, we seem to be slipping on our production of Spoiler Warning videos. Oops.
 
 
 Show notes: 
@@ -14626,8 +14417,7 @@ The discussion morphs into a conversation about Kickstarter in general. Then it�
 
 54:00 Activision’s Tech Demo.  Here is the duck demo from a few years back. 
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -14665,10 +14455,7 @@ Shamus Young is a programmer, an author, and nearly a composer. He works on this
       </itunes:image>
       <itunes:duration>1:11:30</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-
-
-Yes, we’re putting up a Diecast on Tuesday. Not sure if this is a permanent move or not, we’ll see. We record on Sundays. Given the transient nature of news and the fact that we’re already discussing things that have aged a few days, I figure the less time between recording and posting the better. Also: The browser-specific auto-play issue should now be fixed. Let me know if it isn’t.
+      <itunes:summary>Yes, we’re putting up a Diecast on Tuesday. Not sure if this is a permanent move or not, we’ll see. We record on Sundays. Given the transient nature of news and the fact that we’re already discussing things that have aged a few days, I figure the less time between recording and posting the better. Also: The browser-specific auto-play issue should now be fixed. Let me know if it isn’t.
 
 
 Show notes:
@@ -14707,8 +14494,7 @@ Can you imagine looking at this game and going, “Meh. Replace the protagonist 
 
 This entire discussion intersects with my column that went up today about EA’s ongoing problems. 
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -14743,10 +14529,7 @@ Shamus Young is a programmer, an author, and nearly a composer. He works on this
       </itunes:image>
       <itunes:duration>1:04:51</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-
-
-And it’s another one of these things that we seem to be doing. 
+      <itunes:summary>And it’s another one of these things that we seem to be doing. 
 
 
 01:30 What’s everyone doing? 
@@ -14780,8 +14563,7 @@ And here’s the Deadpool Trailer that gets dragged into the discussion.
 
 Here is a video of Tress FX in action.
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -14808,10 +14590,7 @@ Shamus Young is a programmer, an author, and nearly a composer. He works on this
       </itunes:image>
       <itunes:duration>1:19:40</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-
-
-We should probably title these things or something. I mean, if we’re going to keep making episodes then at some point we’ll be like, “Wait. Which one did we discuss playing through Half-Life 2: Episode 3? Was that Diecast #230? No, 230 was when we discussed Sony’s inexplicable decision to design the Playstation 5 with a cotton-candy pink case.” 
+      <itunes:summary>We should probably title these things or something. I mean, if we’re going to keep making episodes then at some point we’ll be like, “Wait. Which one did we discuss playing through Half-Life 2: Episode 3? Was that Diecast #230? No, 230 was when we discussed Sony’s inexplicable decision to design the Playstation 5 with a cotton-candy pink case.” 
 
 Then again, I have no idea how to title long multi-topic discussions in a memorable way. Screw it. We’ll just kick this problem on down the road and let future-us deal with it.
 
@@ -14828,8 +14607,7 @@ This reminds me so much of the ages-old BioShock controversy: A polite spokeswom
 
 1:03:30 The Blip.tv story. Here is what Chris posted about it. And here is the original post where I hurled bricks at the company after too many trips through the same advertisement: Blip.tv Sucks. Stay classy, Shamus. 
 
-Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-</itunes:summary>
+Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -14856,10 +14634,7 @@ Shamus Young is a programmer, an author, and nearly a composer. He works on this
       </itunes:image>
       <itunes:duration>1:30:12</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-
-
-With Shamus out for the week, I host and Jarenth guest stars on this exciting installment of the Diecast!
+      <itunes:summary>With Shamus out for the week, I host and Jarenth guest stars on this exciting installment of the Diecast!
 
 
 And now for the show notes, complete with the oft-requested timestamps!
@@ -14877,8 +14652,7 @@ And now for the show notes, complete with the oft-requested timestamps!
 1:18:00 – We round out the podcast with the Assassin’s Creed 4 announcement. I hope you like pirates, because… uh… well I’m not really sure where the hell they’re going with this. Assassins and pirates? Are we going to finally see a video game about pirates versus ninjas? I don’t know, but here’s the announcement trailer.
 
 Josh Viel is the primary editor and producer of the Spoiler Warning video series. You can support the show by backing the Patreon.
-Tagged:diecast, Josh
-</itunes:summary>
+Tagged:diecast, Josh</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -14916,10 +14690,7 @@ Tagged:diecast, Josh
       </itunes:image>
       <itunes:duration>1:06:06</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-
-
-The Diecast number two is now here. It’s now an official thing! We may even make a third one! Stranger things have happened. In this episode:
+      <itunes:summary>The Diecast number two is now here. It’s now an official thing! We may even make a third one! Stranger things have happened. In this episode:
 
 
 Show notes:
@@ -14948,8 +14719,7 @@ I’ve been a guest on a lot of different podcasts over the years, and they all 
 Still, we’re working on making the show suck less.
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:diecast
-</itunes:summary>
+Tagged:diecast</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -14979,10 +14749,7 @@ Tagged:diecast
       </itunes:image>
       <itunes:duration>1:03:51</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-
-
-There’s this long-running joke among the Spoiler Warning cast. When we’re getting ready to record the show, we frequently get sidetracked talking about other stuff.  Sometimes for hours. Then eventually one of us will say, “You know what? We should do a podcast.” This joke ran so long that we actually went and did it. 
+      <itunes:summary>There’s this long-running joke among the Spoiler Warning cast. When we’re getting ready to record the show, we frequently get sidetracked talking about other stuff.  Sometimes for hours. Then eventually one of us will say, “You know what? We should do a podcast.” This joke ran so long that we actually went and did it. 
 
 Embedded using HTML5. It either works or it doesn’t: 
 
@@ -14999,8 +14766,7 @@ Star Wars Free-for-all: Disney owns Star Wars, JJ Abrams directing next SW movie
 The odds of us making more of these is directly proportional to how many people are interested in this one. 
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-Tagged:diecast
-</itunes:summary>
+Tagged:diecast</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
   </channel>

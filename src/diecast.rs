@@ -28,7 +28,7 @@ pub fn get_info(url: &str, document: &Document) -> Result<Item> {
     let this_document = Url::parse(url)?;
 
     let title = document
-        .find(Class("splash-title"))
+        .find(Class("entry-title"))
         .next()
         .map(|x| x.text());
 
@@ -40,12 +40,12 @@ pub fn get_info(url: &str, document: &Document) -> Result<Item> {
     let splash = this_document.join(splash)?.to_string();
 
     let mut pub_date = document
-        .find(Class("splash-avatar"))
-        .next()
+        .find(Class("subhead-box"))
+        .nth(1)
         .map(|x| x.text())
-        .ok_or_else(|| format_err!("missing avatar in {}", url))?;
+        .ok_or_else(|| format_err!("missing date box in {}", url))?;
     pub_date = pub_date
-        .split("on ")
+        .split("Posted ")
         .nth(1)
         .ok_or_else(|| format_err!("missing date in {}", url))?
         .to_string();
