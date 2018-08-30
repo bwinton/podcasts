@@ -20,7 +20,7 @@ pub fn print_error(e: &Error) {
     }
 
     writeln!(output, "{}", e.backtrace()).unwrap();
-    print!("{}", output);
+    eprint!("{}", output);
 }
 
 pub fn format_duration(duration: i64) -> String {
