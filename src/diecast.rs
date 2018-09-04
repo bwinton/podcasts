@@ -26,6 +26,7 @@ pub fn matches(url: &str) -> bool {
 
 pub fn get_info(url: &str, document: &Document) -> Result<Item> {
     let this_document = Url::parse(url)?;
+    let http_document = Url::parse(&url.replace("https://www.shamusyoung.com", "http://shamusyoung.com"))?;
 
     let title = document
         .find(Class("entry-title"))
@@ -37,7 +38,7 @@ pub fn get_info(url: &str, document: &Document) -> Result<Item> {
         .next()
         .map_or(Some("images/splash_diecast2.jpg"), |x| x.attr("src"))
         .ok_or_else(|| format_err!("missing splash in {}", url))?;
-    let splash = this_document.join(splash)?.to_string();
+    let splash = http_document.join(splash)?.to_string();
 
     let mut pub_date = document
         .find(Class("subhead-box"))
