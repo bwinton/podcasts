@@ -21,7 +21,7 @@ use select::predicate::Predicate;
 use url::Url;
 
 pub fn matches(url: &str) -> bool {
-    url.starts_with("http://shamusyoung.com")
+    url.starts_with("http://shamusyoung.com") || url.starts_with("https://www.shamusyoung.com")
 }
 
 pub fn get_info(url: &str, document: &Document) -> Result<Item> {
