@@ -89,7 +89,7 @@ pub fn get_info(url: &str, document: &Document) -> Result<Item> {
         .next()
         .and_then(|x| x.attr("src"))
         .ok_or_else(|| format_err!("missing mp3 link in {}", url))?;
-    let mp3 = this_document.join(mp3)?;
+    let mp3 = http_document.join(mp3)?;
     let mut response = reqwest::get(mp3.as_str())?;
     let length = response
         .headers()
