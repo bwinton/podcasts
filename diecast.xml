@@ -53,8 +53,7 @@ Galad_t</p></blockquote>
       </itunes:image>
       <itunes:duration>1:01:45</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		Lots of complaining about personal problems in this episode. I don’t want to pin the blame on anyone in particular, but I will say that Paul never made any effort to stop me.
+      <itunes:summary>Lots of complaining about personal problems in this episode. I don’t want to pin the blame on anyone in particular, but I will say that Paul never made any effort to stop me.
 
 For those of you who have been complaining the the podcast RSS doesn’t work, can you give this one a try and see if it works for you? It’s maintained by a listener, and hopefully isn’t afflicted by whatever curse plagues the RSS that WordPress is generating.
 
@@ -86,8 +85,7 @@ A point I wanted to make on the show before I got distracted: It’s really hard
 Here is the Super Mario 64 challenge I mentioned, where someone tries to play Mario 64 without using the jump button.
 
 
-    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-	</itunes:summary>
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
