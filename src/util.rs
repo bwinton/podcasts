@@ -15,7 +15,7 @@ pub type Result<T> = ::std::result::Result<T, Error>;
 pub fn print_error(e: &Error) {
     let mut output = String::new();
     writeln!(output, "Error: {}", e).unwrap();
-    for cause in e.causes().skip(1) {
+    for cause in e.iter_causes() {
         writeln!(output, "  caused by: {}", cause).unwrap();
     }
 

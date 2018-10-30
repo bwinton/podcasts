@@ -5,7 +5,7 @@ use chrono::TimeZone;
 use chrono::Utc;
 use mp3_duration;
 use reqwest;
-use reqwest::header::ContentLength;
+use reqwest::header::CONTENT_LENGTH;
 use rss::EnclosureBuilder;
 use rss::extension::dublincore::DublinCoreExtensionBuilder;
 use rss::extension::itunes::ITunesItemExtensionBuilder;
@@ -91,19 +91,20 @@ pub fn get_info(url: &str, document: &Document) -> Result<Item> {
         .ok_or_else(|| format_err!("missing mp3 link in {}", url))?;
     let mp3 = http_document.join(mp3)?;
     let mut response = reqwest::get(mp3.as_str())?;
-    let length = response
-        .headers()
-        .get::<ContentLength>()
-        .map(|ct_len| **ct_len)
-        .ok_or_else(|| format_err!("missing mp3 length for {}", mp3))?
-        .to_string();
+
     let temp = mp3_duration::from_read(&mut response)?;
     let duration = Duration::from_std(temp)?;
     let duration = format_duration(duration.num_seconds());
 
+    let length = &response
+        .headers()
+        .get(CONTENT_LENGTH)
+        .ok_or_else(|| format_err!("missing mp3 length for {}", mp3))?
+        .to_str()?;
+
     let enclosure = EnclosureBuilder::default()
         .url(mp3.as_str())
-        .length(length)
+        .length(*length)
         .mime_type("audio/mpeg".to_string())
         .build().map_err(|desc| format_err!("{}", desc))?;
 
