@@ -19,6 +19,85 @@
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
     <item>
+      <title>Diecast #241: Open Source Games, Rimworld, Universe Sandbox</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=45572</link>
+      <description>
+        <![CDATA[
+		<p>As always, if you’ve got questions for the show, the email is in the header image of this post. If you’ve got multiple questions, don’t be afraid to send multiple emails. One short email with a clear question has a better chance of being used than a long email of several unrelated questions.</p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="http://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="http://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<p></p>
+<p>Show notes:<br>
+<span id="more-45572"></span><strong>00:00 The terrible imagined obligation of Steam trading cards.</strong></p>
+<p>Please tell me I’m not the only one who suffers from this.</p>
+<p><strong>15:01 Quake II Raytraced</strong></p>
+<p>I wrote about this <a href="https://www.shamusyoung.com/twentysidedtale/?p=45564">yesterday</a>.</p>
+<p></p><p></p>
+<p><strong>22:47 Releasing the source for commercial games.</strong></p>
+<p>The point of the exercise is to come up with an argument to persuade the typical suit to release the source code for games once they’re done selling. I did my best, but I’m curious what other people can come up with.</p>
+<p>I acknowledge that the exercise is essentially impossible. It’s also probably pointless. Modern games are often linked to complex middleware and tool chains that the bedroom programmers won’t have access to. Essentially, even if you did devise a magical argument to convince an executive to give something away for free, the result would be the release of an enormous code base that nobody can compile. </p>
+<p>Still, those old source releases yielded useful and educational things. I understand why the practice ended, but I’m sorry it’s over.</p>
+<p><strong>34:10 Rimworld</strong></p>
+<p>Paul beat the game. Sort of. It was a mechanical victory, not a moral one.</p>
+<p><strong>47:18 Universe Sandbox 2</strong></p>
+<p>Here is the video that convinced me to buy the game:</p>
+<p></p><p></p>
+<p>Fly safe!</p>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast241.mp3" length="60465835" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=45572</guid>
+      <pubDate>Mon, 21 Jan 2019 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast2018.jpg">
+      </itunes:image>
+      <itunes:duration>1:02:59</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		As always, if you’ve got questions for the show, the email is in the header image of this post. If you’ve got multiple questions, don’t be afraid to send multiple emails. One short email with a clear question has a better chance of being used than a long email of several unrelated questions.
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+
+Show notes:
+00:00 The terrible imagined obligation of Steam trading cards.
+
+Please tell me I’m not the only one who suffers from this.
+
+15:01 Quake II Raytraced
+
+I wrote about this yesterday.
+
+
+
+
+22:47 Releasing the source for commercial games.
+
+The point of the exercise is to come up with an argument to persuade the typical suit to release the source code for games once they’re done selling. I did my best, but I’m curious what other people can come up with.
+
+I acknowledge that the exercise is essentially impossible. It’s also probably pointless. Modern games are often linked to complex middleware and tool chains that the bedroom programmers won’t have access to. Essentially, even if you did devise a magical argument to convince an executive to give something away for free, the result would be the release of an enormous code base that nobody can compile. 
+
+Still, those old source releases yielded useful and educational things. I understand why the practice ended, but I’m sorry it’s over.
+
+34:10 Rimworld
+
+Paul beat the game. Sort of. It was a mechanical victory, not a moral one.
+
+47:18 Universe Sandbox 2
+
+Here is the video that convinced me to buy the game:
+
+
+
+
+Fly safe!
+
+
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
+	</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
+    <item>
       <title>Diecast #240: AGDQ, Elite Dangerous, Road Redemption, Procgen Cities</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=45363</link>
       <description>
@@ -66,8 +145,7 @@ Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="http://www.s
       </itunes:image>
       <itunes:duration>1:13:27</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		In this latest episode of our innovative and groundbreaking podcast, two guys talk about some videogames. But unlike those other podcasts, we don’t waste time talking about popular games that are relevant to your experience. Instead we focus on obscure indies or older titles. You’re welcome.
+      <itunes:summary>In this latest episode of our innovative and groundbreaking podcast, two guys talk about some videogames. But unlike those other podcasts, we don’t waste time talking about popular games that are relevant to your experience. Instead we focus on obscure indies or older titles. You’re welcome.
 
 
 Hosts: Paul, Shamus. Episode edited by Issac.
