@@ -19,6 +19,96 @@
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
     <item>
+      <title>Diecast #245: Warframe, Anthem, Technical Debt</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=46022</link>
+      <description>
+        <![CDATA[
+		<p>I hope you’re a looter-shooter fan, because that’s what the first 40 minutes of this show is about. If not, we also answer some mailbag questions.</p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="http://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="http://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<p></p>
+<p>Show notes: <span id="more-46022"></span><br>
+<strong>00:00 Shamus stopped playing Warframe</strong></p>
+<p>I tried. I checked the wiki. I looked on Youtube. I searched the forums. I didn’t find anything that would let me clear the Pluto junction without having to do the dumb spy mission. Maybe I’ll get the itch to play through that at some point, but I’m shelving the game for now. I’ll probably come back when the <a href="https://warframe.fandom.com/wiki/Wisp_(PH)">Wisp</a> Warframe is released.</p>
+<p><strong>19:59 Anthem is Officially out!</strong></p>
+<p>I’m having a good time with it for now, but the whole thing is pretty watered down. If the splash screen logo didn’t tell me this was a BioWare game, I never would have guessed it.</p>
+<p>I looked on YouTube and I couldn’t find the particular trailer Paul was talking about. (There are a lot of trailers!) The closest thing I could find was <a href="https://www.youtube.com/watch?v=wka5RovFEo8">this thing</a> from Hollywood director Neill Blomkamp (District 9) which is indeed pretty cool, but had absolutely nothing to do with anything that happens or is talked about in the game.</p>
+<p><strong>40:22 Mailbag: Technical debt and the case for software sustainers</strong>  </p>
+<blockquote><p>Dear Diecast,</p>
+<p>While browsing LinkedIn I happened across <a href="https://www.linkedin.com/pulse/renewed-case-software-sustaining-bj-black/">a series of articles which I thought you might find interesting</a>.</p>
+<p>The author presents a notion that throughout the development cycle, software is created, sustained for a while, and eventually destroyed and replaced, and that the creation phase leads to the accumulation of what he calls technical debt (e.g. the costs of maintaining the code, fixing bugs, providing customer support etc.).</p>
+<p>He then points out that the tech industry tends to put creators (developers) on the pedestal while marginalizing the work done by sustainers and destroyers (QA, DevOps, support etc.), often to the detriment of the final product, as the technical debt becomes overwhelming.</p>
+<p>The series has immediately reminded me of Shamus’s writing style, so I’m sending it over on a hunch, in case you guys had any experiences that would go in line with or against the notions presented in the articles, or simply find the subject matter worth discussing.</p>
+<p>Lots of love,<br>
+Pawe?</p></blockquote>
+<p><strong>50:13 Mailbag: Nintendo with a more common console?</strong>  </p>
+<blockquote><p>Dear Diecast</p>
+<p>Nintendo is a very large and very successful company and they are currently doing very well with Switch.  However do you think that if Nintendo had been more conventional, more open to risks and new ideas they could be even more successful than they are today?  </p>
+<p>(By conventional I mean less of a gimmicky approach to hardware, better third party support, more first party games in popular genres, more adult orientated games, less draconian views on streaming, etc.)</p>
+<p>Regards </p>
+<p>Eric</p></blockquote>
+<p><strong>1:01:49 Mailbag: Andromeda setting.</strong>  </p>
+<blockquote><p>Hi!</p>
+<p>3 out of 10 question</p>
+<p>I’ve started ME Andromeda (can’t just read your series), and while I agree with your assessment of writing, I actually have another gripe with it. Not sure, how legitimate is it, and don’t think I saw anyone bringing it up. May be I’m wrong and just imagined all this? I think the premise of you being a pathfinder, exploring new worlds for colonization in another galaxy, is wrong for the Mass Effect setting. If anything, that promise of finding new planets and exploring them more suited for the Milky Way (which was shown in Mass Effect 1), with mostly closed mass relays.</p>
+<p>Andromeda didn’t suffer Reaper cycles (I hope), her civilizations had millennia to advance. Arcs should’ve arrived and find themselves in active gala-political (?) scape, with major powers having tech at least rivaling the Reapers, and minor ones, being lower than Milky Way species. It could’ve been unstable Cold War-like situation, which would become even more unstable with guests from Milky Way.</p>
+<p>I know its a fanfic level of writing I’ve just displayed, but it bothers me to no end, that writers didn’t capitalize on main in-setting difference between galaxies. On the other hand, considering the level of writing in Andromeda, may be its for the best, that they decided to take way less ambitious route with the premise.</p>
+<p>Best regards, DeadlyDark</p></blockquote>
+<p>In this section I mentioned my Andromeda retrospective and talked about “last week’s entry”. Looking at the blog, I now see that the post I was referring to is the one that will go up <strong>tomorrow</strong>. Sorry, this gets confusing for me. For me there’s the post that you’re commenting on, the posts that are about to go live, and the future posts I’m currently writing / proofing. Sometime I lose track of what’s made it to the front page. </p>
+<p>Barring any major re-writes, the final Andromeda entry will appear on April 9. After that, I’m thinking about doing a series on programming languages.</p>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast245.mp3" length="70766431" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=46022</guid>
+      <pubDate>Mon, 25 Feb 2019 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast2018.jpg">
+      </itunes:image>
+      <itunes:duration>1:13:42</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		I hope you’re a looter-shooter fan, because that’s what the first 40 minutes of this show is about. If not, we also answer some mailbag questions.
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+
+Show notes: 
+00:00 Shamus stopped playing Warframe
+
+I tried. I checked the wiki. I looked on Youtube. I searched the forums. I didn’t find anything that would let me clear the Pluto junction without having to do the dumb spy mission. Maybe I’ll get the itch to play through that at some point, but I’m shelving the game for now. I’ll probably come back when the Wisp Warframe is released.
+
+19:59 Anthem is Officially out!
+
+I’m having a good time with it for now, but the whole thing is pretty watered down. If the splash screen logo didn’t tell me this was a BioWare game, I never would have guessed it.
+
+I looked on YouTube and I couldn’t find the particular trailer Paul was talking about. (There are a lot of trailers!) The closest thing I could find was this thing from Hollywood director Neill Blomkamp (District 9) which is indeed pretty cool, but had absolutely nothing to do with anything that happens or is talked about in the game.
+
+40:22 Mailbag: Technical debt and the case for software sustainers  
+
+Dear Diecast,
+While browsing LinkedIn I happened across a series of articles which I thought you might find interesting.
+The author presents a notion that throughout the development cycle, software is created, sustained for a while, and eventually destroyed and replaced, and that the creation phase leads to the accumulation of what he calls technical debt (e.g. the costs of maintaining the code, fixing bugs, providing customer support etc.).
+He then points out that the tech industry tends to put creators (developers) on the pedestal while marginalizing the work done by sustainers and destroyers (QA, DevOps, support etc.), often to the detriment of the final product, as the technical debt becomes overwhelming.
+The series has immediately reminded me of Shamus’s writing style, so I’m sending it over on a hunch, in case you guys had any experiences that would go in line with or against the notions presented in the articles, or simply find the subject matter worth discussing.
+Lots of love,
+Pawe?
+50:13 Mailbag: Nintendo with a more common console?  
+
+Dear Diecast
+Nintendo is a very large and very successful company and they are currently doing very well with Switch.  However do you think that if Nintendo had been more conventional, more open to risks and new ideas they could be even more successful than they are today?  
+(By conventional I mean less of a gimmicky approach to hardware, better third party support, more first party games in popular genres, more adult orientated games, less draconian views on streaming, etc.)
+Regards 
+Eric
+1:01:49 Mailbag: Andromeda setting.  
+
+Hi!
+3 out of 10 question
+I’ve started ME Andromeda (can’t just read your series), and while I agree with your assessment of writing, I actually have another gripe with it. Not sure, how legitimate is it, and don’t think I saw anyone bringing it up. May be I’m wrong and just imagined all this? I think the premise of you being a pathfinder, exploring new worlds for colonization in another galaxy, is wrong for the Mass Effect setting. If anything, that promise of finding new planets and exploring them more suited for the Milky Way (which was shown in Mass Effect 1), with mostly closed mass relays.
+Andromeda didn’t suffer Reaper cycles (I hope), her civilizations had millennia to advance. Arcs should’ve arrived and find themselves in active gala-political (?) scape, with major powers having tech at least rivaling the Reapers, and minor ones, being lower than Milky Way species. It could’ve been unstable Cold War-like situation, which would become even more unstable with guests from Milky Way.
+I know its a fanfic level of writing I’ve just displayed, but it bothers me to no end, that writers didn’t capitalize on main in-setting difference between galaxies. On the other h…</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
+    <item>
       <title>Diecast #244: Anthem, Warframe, Mailbag</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=45765</link>
       <description>
@@ -63,8 +153,7 @@ Ross</p></blockquote>
       </itunes:image>
       <itunes:duration>1:09:24</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		Thanks to the folks who sent in questions. We still have a few in the queue, but as always the email is in the header image.
+      <itunes:summary>Thanks to the folks who sent in questions. We still have a few in the queue, but as always the email is in the header image.
 
 
 Hosts: Paul, Shamus. Episode edited by Issac.
@@ -109,8 +198,7 @@ I guess I just want to hear someone talk about this as it’s a real shame for �
 Regards,
 Ross
 
-    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-	</itunes:summary>
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
