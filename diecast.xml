@@ -19,6 +19,101 @@
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
     <item>
+      <title>Diecast #246: Handhelds, Programming, Simulations</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=46111</link>
+      <description>
+        <![CDATA[
+		<p>Yes, we do spend a little time talking Anthem and Warframe. I know this is the third week in a row and this website isn’t really the core audience for looter-shooters. Hopefully you can put up with one more week of this. On the upside, we also talk some programming. </p>
+<p>Like I said on the show, the mailbag is empty. The email address is in the header image. You know what to do.</p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="http://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="http://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<p></p>
+<p>Show notes:<span id="more-46111"></span><br>
+<strong>00:00 Suddenly done with Anthem</strong></p>
+<p>During this segment, Paul references this talk: <a href="https://www.youtube.com/watch?v=Fy0aCDmgnxg">Juice it or lose it – a talk by Martin Jonasson &amp; Petri Purho</a>. Here is the same idea conveyed with better audio and production values:</p>
+<p></p><p></p>
+<p><strong>14:45 Still Playing Warframe</strong></p>
+<p>As promised on the show, here is the build I’m using in Warframe:</p>
+<p></p><p></p>
+<p>For those that don’t play: The two rows of stuff that begin with “Stretch” and “Streamline” are slots where you equip various cards that boost your stats. Redirection boosts my shields by 360%. Fast deflection boosts my shield recharge rate by 90%. Vitality gives me 400% more health. Steel Fiber gives me +80% armor. While the game never explains what armor does, players have told me it’s really important. I assume it reduces damage to hitpoints by some amount. How much? I dunno. <a href="https://warframe.fandom.com/wiki/Armor">Go read the wiki</a>, because the game itself won’t tell you.</p>
+<p>You can see there are little glowing blue pips on the cards. You can upgrade the cards. The cost to do so goes up exponentially while the bonus scales linearly. So maybe every level of upgrade will add an additional 20% to (some value) but the cost to do so doubles every time.</p>
+<p>This is it. This is the best I’ve been able to do in terms of survivability. I’m as durable as I can get. Yes, I can maybe squeeze another level out of a couple of these cards. The cost to raise even one of these cards would be staggering. Literally days of grinding for the endo resource, which is what is used to upgrade these cards. Even if I did that, it’s not like these last couple of upgrades would be all that game-changing. Increasing my shield boost from +360% to +380% isn’t going to change the result all that much.</p>
+<p>Like I said on the show, this boss<span class="snote" title="1">The junction guardian going from Pluto to Sedna.</span> killed me instantly, with a single shot, the moment the fight began, using a hitscan weapon. I hit the button to open the door and then fell over dead before I even saw the bad guy move. The boss pulled this trick several times before I scraped by using blind luck and cheese. </p>
+<p>There’s no way to tell how much the boss was OVER killing me. I’ll admit that Mag (the warframe I’m using) isn’t the most durable in the game, but she’s not <strong>that</strong> far behind the others in terms of survivability. I could spend a week grinding for more endo to upgrade my cards and find he was still one-shotting me. At the very best, doing the full round of upgrades might allow me to survive a single shot. Maybe switching to the most durable frame I have might let me take two shots. That’s still ridiculous in terms of a fight against an AI with a hitscan weapon in an open arena.</p>
+<p>I don’t know. Maybe this is what the designer intended. Maybe I’m not supposed to be going after this content just yet. Maybe there’s some secret mystery card out there that will vastly improve my survivability. The difficulty of this game is all over the place. Nothing in any of the previous missions indicated I was getting in over my head.</p>
+<p>This is such a stubbornly obtuse game. </p>
+<p>On the other hand, Warframe isn’t boring. Not like that other game. The one that just came out. What was it called again? Anaheim or something?</p>
+<p><strong>22:12 Mailbag: Sony’s Handheld Misadventures</strong></p>
+<blockquote><p>Dear Diecast</p>
+<p>With rumours of the Xbox Gamepass coming to the Nintendo Switch should Sony consider re-entering the handheld market?  Is it worth the risk for Sony to build a successor to the PS Vita or consider making the PS5 a hybrid console?  Or would it be better for them to leave the market to Nintendo and Microsoft? </p>
+<p>Regards </p>
+<p>Eric</p></blockquote>
+<p><strong>33:26 Paul’s Peculiar Python Programming Project</strong></p>
+<p>Here are <a href="http://peripheralarbor.com/gallery/v/CG+Art/scripts/crystal/">some renders of the crystal structures Paul made</a>.</p>
+<p><strong>48:33 Mailbag: Simulationist approach to game design.  </strong></p>
+<blockquote><p>Hi!</p>
+<p>2/10 stars question.</p>
+<p>I got an itch to replay old and very niche games (Brigade E5 and 7.62mm), since there were nothing like them to this day (even close). They are very simulationist hardcore tactical strategies (think X-Com and Jagged Alliance 2 but with real-time with smart pause) that placed realism of all interactions above all else (a small example, getting a clip from a pocket is 2.35 seconds faster than getting a same clip from a backpack; all these rules applies to enemies as well). Of course, it means that these games aren’t really friendly, like recent XCOM games, and it would take a lot of time, patience and quickloads to finish them. So my question is – is there a merit in going against getting fun/balanced/polished gameplay all the way to a practically complete 1-to-1 realism (to expand to other games, think ArmA, SWAT4, Richard Burns Rally, etc)? What would be gained from this, in your eyes, and what would be lost?</p>
+<p>Best regards, DeadlyDark</p></blockquote>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast246.mp3" length="65027141" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=46111</guid>
+      <pubDate>Mon, 4 Mar 2019 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast2018.jpg">
+      </itunes:image>
+      <itunes:duration>1:07:44</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		Yes, we do spend a little time talking Anthem and Warframe. I know this is the third week in a row and this website isn’t really the core audience for looter-shooters. Hopefully you can put up with one more week of this. On the upside, we also talk some programming. 
+
+Like I said on the show, the mailbag is empty. The email address is in the header image. You know what to do.
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+
+Show notes:
+00:00 Suddenly done with Anthem
+
+During this segment, Paul references this talk: Juice it or lose it – a talk by Martin Jonasson &amp; Petri Purho. Here is the same idea conveyed with better audio and production values:
+
+
+
+
+14:45 Still Playing Warframe
+
+As promised on the show, here is the build I’m using in Warframe:
+
+
+
+
+For those that don’t play: The two rows of stuff that begin with “Stretch” and “Streamline” are slots where you equip various cards that boost your stats. Redirection boosts my shields by 360%. Fast deflection boosts my shield recharge rate by 90%. Vitality gives me 400% more health. Steel Fiber gives me +80% armor. While the game never explains what armor does, players have told me it’s really important. I assume it reduces damage to hitpoints by some amount. How much? I dunno. Go read the wiki, because the game itself won’t tell you.
+
+You can see there are little glowing blue pips on the cards. You can upgrade the cards. The cost to do so goes up exponentially while the bonus scales linearly. So maybe every level of upgrade will add an additional 20% to (some value) but the cost to do so doubles every time.
+
+This is it. This is the best I’ve been able to do in terms of survivability. I’m as durable as I can get. Yes, I can maybe squeeze another level out of a couple of these cards. The cost to raise even one of these cards would be staggering. Literally days of grinding for the endo resource, which is what is used to upgrade these cards. Even if I did that, it’s not like these last couple of upgrades would be all that game-changing. Increasing my shield boost from +360% to +380% isn’t going to change the result all that much.
+
+Like I said on the show, this bossThe junction guardian going from Pluto to Sedna. killed me instantly, with a single shot, the moment the fight began, using a hitscan weapon. I hit the button to open the door and then fell over dead before I even saw the bad guy move. The boss pulled this trick several times before I scraped by using blind luck and cheese. 
+
+There’s no way to tell how much the boss was OVER killing me. I’ll admit that Mag (the warframe I’m using) isn’t the most durable in the game, but she’s not that far behind the others in terms of survivability. I could spend a week grinding for more endo to upgrade my cards and find he was still one-shotting me. At the very best, doing the full round of upgrades might allow me to survive a single shot. Maybe switching to the most durable frame I have might let me take two shots. That’s still ridiculous in terms of a fight against an AI with a hitscan weapon in an open arena.
+
+I don’t know. Maybe this is what the designer intended. Maybe I’m not supposed to be going after this content just yet. Maybe there’s some secret mystery card out there that will vastly improve my survivability. The difficulty of this game is all over the place. Nothing in any of the previous missions indicated I was getting in over my head.
+
+This is such a stubbornly obtuse game. 
+
+On the other hand, Warframe isn’t boring. Not like that other game. The one that just came out. What was it called again? Anaheim or something?
+
+22:12 Mailbag: Sony’s Handheld Misadventures
+
+Dear Diecast
+With rumours of the Xbox Gamepass coming to the Nintendo Switch should Sony consider re-entering the handheld market?  Is it worth the risk for Sony to build a successor to the PS Vita or consider making the PS5 a hybrid console?  Or would it be better for them to leave the market to Nintendo and Microsoft? 
+Regards 
+Eric
+33:26 Paul’s Pecu…</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
+    <item>
       <title>Diecast #245: Warframe, Anthem, Technical Debt</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=46022</link>
       <description>
@@ -66,8 +161,7 @@ Pawe?</p></blockquote>
       </itunes:image>
       <itunes:duration>1:13:42</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		I hope you’re a looter-shooter fan, because that’s what the first 40 minutes of this show is about. If not, we also answer some mailbag questions.
+      <itunes:summary>I hope you’re a looter-shooter fan, because that’s what the first 40 minutes of this show is about. If not, we also answer some mailbag questions.
 
 
 Hosts: Paul, Shamus. Episode edited by Issac.
