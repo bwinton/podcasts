@@ -19,6 +19,117 @@
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
     <item>
+      <title>Diecast #249: Mysterious Email, Satisfactory, Outcast</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=46355</link>
+      <description>
+        <![CDATA[
+		<p>In this episode, my email works when it shouldn’t, Satisfactory works better than it should, and my computer stops working right on time. </p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="http://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="http://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<p></p>
+<p>Show notes: <span id="more-46355"></span><br>
+<strong>01:55 Shamus’ Computer Died</strong></p>
+<p>Like I said on the show, this was the best possible version of the worst possible PC failure. </p>
+<p><strong>09:25 Email Mystery</strong></p>
+<p>I left <a href="https://www.shamusyoung.com/twentysidedtale/?p=41629">1&amp;1 Hosting</a> and got a <a href="https://www.shamusyoung.com/twentysidedtale/?p=43338">new host</a> last summer. The Diecast mail server was still located at something like <code>gibberish.mail.1and1.com</code>. I don’t understand how sending something <code>@shamusyoung.com</code> would end up with it winding up on the 1and1 server. What should have happened was that the mail system should have looked up my domain, found it at A2Hosting, attempted to deliver it, and then failed because the <a href="https://www.shamusyoung.com/cdn-cgi/l/email-protection" class="__cf_email__" >[email&nbsp;protected]</a> address wasn’t set up at the new host. </p>
+<p>Instead email went to the new host, even though routing shouldn’t put it there. The emails were stored, even though the account is long closed. Gmail was able to retrieve them, even though that login should no longer work.</p>
+<p>Gmail was actually telling me that it was having trouble checking the email, but then I’d get email from the Diecast mailbox. I just… I can’t explain it. </p>
+<p>I’m sure there’s a logical explanation to all of this, but I’m too lazy to think about it. As soon as I start pondering the insanity of 1&amp;1, my brain wants to do literally anything else.</p>
+<p><strong>13:32 Godot Engine</strong></p>
+<p>Here’s the video showing off what the engine can do. It’s a bit ramble-y and light on details, so it’s probably best you just spool through it. </p>
+<p></p><p></p>
+<p><strong>21:57 Satisfactory</strong></p>
+<p></p><p></p>
+<p><strong>34:06 Mailbag: Phoenix Point Controversy</strong></p>
+<blockquote><p>Dear Diecast,<br>
+There is currently quite a bit of drama surrounding Phoenix Point, an upcoming kickstarter founded XCom-like. As it turns out Epic paid them a handsome sum (I heard 2 million dollars) for a one year exclusivity deal on the Epic Store. A LOT of the backers don’t want to have anything to do with the Epic Launcher which they consider shady, and are furious about it and ask for refunds. Unlike for Metro the Phoenix Point people don’t have steam/gog keys at all to give.<br>
+What do you fellas think about it, are they overreacting, are this a form of bait&amp;switch, am I just using reddit drama to get a cool Overload key?<br>
+Much regards,<br>
+Gargamel Le Noir</p></blockquote>
+<p><strong>53:26 Mailbag: Mass Effect and Planning Ahead</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>I recently replayed Mass Effect 1 and could not help but notice how vague the conversation with Sovereign was — more “I am the vanguard of your destruction” and less “You are creating too much dark energy, so we are going to off ya”.</p>
+<p>What is your opinion on my uninformed speculation that the writers might have not planned out the series as well as they should have in the beginning? Perhaps Mass Effect 2 and 3 were just a result of writers’ shortsightedness, what do you think?</p>
+<p>In case you want more questions, here’s another — Recently, I read the story that was originally intended for Destiny. Basically, it was a deconstruction/subversion of the fantasy trope of light equals good, dark equals bad and protagonist equals hero. Of course, almost none of it made it into the final game but it did made me think: have you heard of any other stories that got canned because they were too “weird” or “out there”?</p>
+<p>Thanks,</p>
+<p>Vanguard of Construction</p></blockquote>
+<p><strong>1:01:00 Forgotten Games from the 90s./ Outcast</strong></p>
+<p>During this segment I said Outcast 1.1 is graphics accelerated. Watching the trailer now, it looks like that’s not the case. It’s still doing its weird-ass CPU rendering, except now it can make use of modern multi-threaded processors.</p>
+<p></p><p></p>
+<p>I’ve got a key to give away, so if you’d like to try it yourself just send us a question for the show. The email is in the header image.</p>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast249.mp3" length="74425223" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=46355</guid>
+      <pubDate>Mon, 25 Mar 2019 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast2018.jpg">
+      </itunes:image>
+      <itunes:duration>1:17:31</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		In this episode, my email works when it shouldn’t, Satisfactory works better than it should, and my computer stops working right on time. 
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+
+Show notes: 
+01:55 Shamus’ Computer Died
+
+Like I said on the show, this was the best possible version of the worst possible PC failure. 
+
+09:25 Email Mystery
+
+I left 1&amp;1 Hosting and got a new host last summer. The Diecast mail server was still located at something like gibberish.mail.1and1.com. I don’t understand how sending something @shamusyoung.com would end up with it winding up on the 1and1 server. What should have happened was that the mail system should have looked up my domain, found it at A2Hosting, attempted to deliver it, and then failed because the [email protected] address wasn’t set up at the new host. 
+
+Instead email went to the new host, even though routing shouldn’t put it there. The emails were stored, even though the account is long closed. Gmail was able to retrieve them, even though that login should no longer work.
+
+Gmail was actually telling me that it was having trouble checking the email, but then I’d get email from the Diecast mailbox. I just… I can’t explain it. 
+
+I’m sure there’s a logical explanation to all of this, but I’m too lazy to think about it. As soon as I start pondering the insanity of 1&amp;1, my brain wants to do literally anything else.
+
+13:32 Godot Engine
+
+Here’s the video showing off what the engine can do. It’s a bit ramble-y and light on details, so it’s probably best you just spool through it. 
+
+
+
+
+21:57 Satisfactory
+
+
+
+
+34:06 Mailbag: Phoenix Point Controversy
+
+Dear Diecast,
+There is currently quite a bit of drama surrounding Phoenix Point, an upcoming kickstarter founded XCom-like. As it turns out Epic paid them a handsome sum (I heard 2 million dollars) for a one year exclusivity deal on the Epic Store. A LOT of the backers don’t want to have anything to do with the Epic Launcher which they consider shady, and are furious about it and ask for refunds. Unlike for Metro the Phoenix Point people don’t have steam/gog keys at all to give.
+What do you fellas think about it, are they overreacting, are this a form of bait&amp;switch, am I just using reddit drama to get a cool Overload key?
+Much regards,
+Gargamel Le Noir
+53:26 Mailbag: Mass Effect and Planning Ahead
+
+Dear Diecast,
+I recently replayed Mass Effect 1 and could not help but notice how vague the conversation with Sovereign was — more “I am the vanguard of your destruction” and less “You are creating too much dark energy, so we are going to off ya”.
+What is your opinion on my uninformed speculation that the writers might have not planned out the series as well as they should have in the beginning? Perhaps Mass Effect 2 and 3 were just a result of writers’ shortsightedness, what do you think?
+In case you want more questions, here’s another — Recently, I read the story that was originally intended for Destiny. Basically, it was a deconstruction/subversion of the fantasy trope of light equals good, dark equals bad and protagonist equals hero. Of course, almost none of it made it into the final game but it did made me think: have you heard of any other stories that got canned because they were too “weird” or “out there”?
+Thanks,
+Vanguard of Construction
+1:01:00 Forgotten Games from the 90s./ Outcast
+
+During this segment I said Outcast 1.1 is graphics accelerated. Watching the trailer now, it looks like that’s not the case. It’s still doing its weird-ass CPU rendering, except now it can make use of modern multi-threaded processors.
+
+
+
+
+I’ve got a key to give away, so if you’d like to try it yourself just send us a question for the show. The email is in the header image.
+
+
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
+	</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
+    <item>
       <title>Diecast #248: Car Talk, No Man’s Sky, Warframe</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=46269</link>
       <description>
@@ -72,8 +183,7 @@ Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="http://www.s
       </itunes:image>
       <itunes:duration>1:07:17</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		It’s a bit of a weird one this week, I’m afraid. Paul and I both bought vehicles and the resulting conversation ate a third of the show. On the other hand, we’re giving away a free copy of a game, so maybe that makes up for all the car talk. Details at the end of the show / show notes.
+      <itunes:summary>It’s a bit of a weird one this week, I’m afraid. Paul and I both bought vehicles and the resulting conversation ate a third of the show. On the other hand, we’re giving away a free copy of a game, so maybe that makes up for all the car talk. Details at the end of the show / show notes.
 
 
 Hosts: Paul, Shamus. Episode edited by Issac.
