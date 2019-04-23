@@ -12,9 +12,9 @@ extern crate rss;
 extern crate select;
 extern crate url;
 
-mod util;
 mod diecast;
 mod spodcast;
+mod util;
 
 use util::*;
 
@@ -23,20 +23,21 @@ use rayon::prelude::*;
 use rss::Channel;
 use rss::Item;
 use select::document::Document;
+use std::borrow::ToOwned;
 use std::convert::From;
 use std::fs::File;
-use std::io::BufReader;
 use std::io::prelude::*;
-
+use std::io::BufReader;
 
 fn get_urls(podcast: &str) -> Result<Vec<String>> {
     let urls = File::open(format!("{}.urls", podcast))
         .context(format_err!("Error opening {}.urls", podcast))?;
     let mut buf_reader = BufReader::new(urls);
     let mut contents = String::new();
-    buf_reader.read_to_string(&mut contents)
+    buf_reader
+        .read_to_string(&mut contents)
         .context(format_err!("Error reading {}.urls", podcast))?;
-    Ok(contents.lines().map(|x| x.to_owned()).collect())
+    Ok(contents.lines().map(ToOwned::to_owned).collect())
 }
 
 fn get_rss(podcast: &str) -> Result<Channel> {
@@ -70,20 +71,21 @@ pub fn handle(podcast: &str) {
         Err(ref e) => {
             print_error(e);
             return;
-        },
-        Ok(urls) => urls
+        }
+        Ok(urls) => urls,
     };
 
     let mut rss_data = match get_rss(podcast) {
         Err(ref e) => {
             print_error(e);
             return;
-        },
-        Ok(rss_data) => rss_data
+        }
+        Ok(rss_data) => rss_data,
     };
 
     println!("{}: {}/{}", podcast, rss_data.items().len(), urls.len());
-    let items: Vec<_> = urls.par_iter()
+    let items: Vec<_> = urls
+        .par_iter()
         .map(|url| {
             if url.starts_with('#') {
                 None

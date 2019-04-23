@@ -6,13 +6,14 @@ use chrono::Utc;
 use mp3_duration;
 use reqwest;
 use reqwest::header::CONTENT_LENGTH;
-use rss::EnclosureBuilder;
 use rss::extension::dublincore::DublinCoreExtensionBuilder;
 use rss::extension::itunes::ITunesItemExtensionBuilder;
+use rss::EnclosureBuilder;
 use rss::GuidBuilder;
 use rss::Item;
 use rss::ItemBuilder;
 use select::document::Document;
+use select::node::Node;
 use select::predicate::Attr;
 use select::predicate::Class;
 use select::predicate::Name;
@@ -26,12 +27,10 @@ pub fn matches(url: &str) -> bool {
 
 pub fn get_info(url: &str, document: &Document) -> Result<Item> {
     let this_document = Url::parse(url)?;
-    let http_document = Url::parse(&url.replace("https://www.shamusyoung.com", "http://shamusyoung.com"))?;
+    let http_document =
+        Url::parse(&url.replace("https://www.shamusyoung.com", "http://shamusyoung.com"))?;
 
-    let title = document
-        .find(Class("entry-title"))
-        .next()
-        .map(|x| x.text());
+    let title = document.find(Class("entry-title")).next().map(|x| x.text());
 
     let splash = document
         .find(Or(Class("splash-image"), Class("insetimage")))
@@ -55,24 +54,28 @@ pub fn get_info(url: &str, document: &Document) -> Result<Item> {
 
     let dc = DublinCoreExtensionBuilder::default()
         .creators(vec!["Shamus Young".to_string()])
-        .build().map_err(|desc| format_err!("{}", desc))?;
+        .build()
+        .map_err(|desc| format_err!("{}", desc))?;
 
     let guid = GuidBuilder::default()
         .permalink(false)
         .value(url.to_owned())
-        .build().map_err(|desc| format_err!("{}", desc))?;
+        .build()
+        .map_err(|desc| format_err!("{}", desc))?;
 
     let mut description = Vec::new();
     let mut summary = Vec::new();
     if let Some(temp) = document.find(Class("entry-text")).next() {
-        let children: Vec<_> = temp.children()
+        let children: Vec<_> = temp
+            .children()
             .filter(|node| {
-                node.name() != Some("div") && node.find(Name("iframe")).next() == None
+                node.name() != Some("div")
+                    && node.find(Name("iframe")).next() == None
                     && node.find(Name("script")).next() == None
                     && node.find(Name("audio")).next() == None
             })
             .collect();
-        description.extend(children.iter().map(|node| node.html()));
+        description.extend(children.iter().map(Node::html));
         summary.extend(children.iter().map(|node| {
             let mut rv = node.text();
             if node.name() == Some("p") {
@@ -106,7 +109,8 @@ pub fn get_info(url: &str, document: &Document) -> Result<Item> {
         .url(mp3.as_str())
         .length(*length)
         .mime_type("audio/mpeg".to_string())
-        .build().map_err(|desc| format_err!("{}", desc))?;
+        .build()
+        .map_err(|desc| format_err!("{}", desc))?;
 
     let itunes = ITunesItemExtensionBuilder::default()
         .author(Some("The Diecast".to_string()))
@@ -114,7 +118,8 @@ pub fn get_info(url: &str, document: &Document) -> Result<Item> {
         .explicit(Some("No".to_string()))
         .duration(duration)
         .image(splash)
-        .build().map_err(|desc| format_err!("{}", desc))?;
+        .build()
+        .map_err(|desc| format_err!("{}", desc))?;
 
     ItemBuilder::default()
         .title(title)

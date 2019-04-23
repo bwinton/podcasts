@@ -1,5 +1,5 @@
-extern crate rayon;
 extern crate podcasts;
+extern crate rayon;
 
 use rayon::prelude::*;
 

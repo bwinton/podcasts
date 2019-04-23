@@ -42,9 +42,9 @@ pub fn format_duration(duration: i64) -> String {
 
 pub fn format_description(description: &[String], base: &Url) -> String {
     lazy_static! {
-      static ref HREF_RE: Regex = Regex::new("(src|href)=\"([^\"]*)\"").unwrap();
-      static ref LANG_RE: Regex = Regex::new("(srcset|download|data-[^=]*)=\"[^\"]*\"").unwrap();
-      static ref GARBAGE_RE: Regex = Regex::new("(Â®| â€.| ðŸ¦)").unwrap();
+        static ref HREF_RE: Regex = Regex::new("(src|href)=\"([^\"]*)\"").unwrap();
+        static ref LANG_RE: Regex = Regex::new("(srcset|download|data-[^=]*)=\"[^\"]*\"").unwrap();
+        static ref GARBAGE_RE: Regex = Regex::new("(Â®| â€.| ðŸ¦)").unwrap();
     }
 
     let mut rv = HREF_RE
@@ -59,7 +59,7 @@ pub fn format_description(description: &[String], base: &Url) -> String {
 
 pub fn format_summary(summary: &[String]) -> String {
     lazy_static! {
-      static ref GARBAGE_RE: Regex = Regex::new("(Â®| â€.| ðŸ¦)").unwrap();
+        static ref GARBAGE_RE: Regex = Regex::new("(Â®| â€.| ðŸ¦)").unwrap();
     }
 
     let mut rv = summary.join("");
