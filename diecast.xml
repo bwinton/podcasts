@@ -19,6 +19,129 @@
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
     <item>
+      <title>Diecast #256: Framerate, Satisfactory, Metro Exodus</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=47072</link>
+      <description>
+        <![CDATA[
+		<p>Welcome to Diecast #2<sup>8</sup>. Honestly, it seems like a waste to keep going after hitting such a sweet landmark. </p>
+<p><a href="https://www.shamusyoung.com/twentysidedtale/?p=18831">The first episode of the Diecast</a> was posted on February 14, 2013. Most episodes run just slightly over an hour, but occasionally they run to 1.5 hours and very rarely they approach 2. If we assume the average length is an hour and 20 minutes, then there are 341 hours of Diecast. That’s almost exactly two solid weeks of talking about videogames. I don’t know why you’re not sick of me by now, but I’m glad this is working.</p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="http://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="http://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<p></p>
+<p>Show notes:<span id="more-47072"></span></p>
+<p><strong>00:33 Shamus recants regarding framerate.</strong>  </p>
+<p>If you want to test for yourself, you can view <a href="https://www.testufo.com/framerates-marquee#count=3&amp;pps=1200">this page</a>, which should show you images moving at various framerates. I know this isn’t quite the same as viewing a whole-frame 3D image, but it’s enough to illustrate what I’m talking about.</p>
+<p>Anyway, I’m never going back. </p>
+<p>I remember going through the same thing when we made the jump from 16 bit color to 32 bit color. At the start I thought 16 was fine and 32 was a needless luxury for obsessive people. Then after getting used to 32 bit I used a machine that was still using a late-90s 16 bit card and I thought it looked <strong>awful</strong>. The difference looks something like this:</p>
+<p></p><p></p>
+<p>If you’re storing the color values in just 16 bits, then you’ve got 4 bits for red, 4 bits for green, 4 for blue, and 4 for alpha. There were other packing schemes that took some of the bits from the alpha channel or gave extra bits to green where we’re most sensitive to color changes, but the basic problem of color banding remains. Of course, the problem is exacerbated by this photo-realistic image. Then again, the problem is slightly mitigated by the high resolution of the image. The banding would look a lot more severe if this image was 800×600 or even 640×480. </p>
+<p>The point is, color depth was one of those things that seemed extravagant until I had it, and then it became a necessity. It seems like high framerates is a similar deal.</p>
+<p>I promise I’ll try to avoid turning into a full-on framerate snob in the future.</p>
+<p><strong>06:01 SatisFactory is the worst corridor shooter.</strong></p>
+<p>BUT CAN YOU ROCKET JUMP?</p>
+<p><strong>12:50 Issac Broke Risk of Rain</strong> </p>
+<p>Issac began taking screenshots as soon at the problem began to manifest. Below is the first shot, before things got really out of control. In the lower right is a box with the number 16 in it, which is how many seconds until the ability fires again and summons four more drones. On the left is a vertical list saying “Strike Drone” over and over again (mixed in with some other random minions he had) to show how many have been summoned so far. In the middle of the screen you can see a bunch of floating yellow triangles. Each triangle marks the location of a drone. All the debris is from the mass of monsters that drones just wiped out.</p>
+<p></p><p></p>
+<p>Thirty seconds later, things had gotten out of control. You can see the drone list is overwhelmed. In the lower corner, notice that the cooldown says it’s now -1308 seconds until the ability fires again. This means the ability was probably firing every frame or every game tick, depending on how things are set up.</p>
+<p></p><p></p>
+<p>From here, it just got worse. You can see the cooldown is now negative eleven thousand. Also, I’m pretty sure the screen is pure white because there are so many overlapping particle effects that they saturated the entire scene.</p>
+<p></p><p></p>
+<p>Looking at this now, I see the timestamp (upper right corner) in the above shot is a few seconds before the previous shot. Sorry. It’s hard to make sense of the screenshots and the exact timing of everything. Issac was attempting to flee the area while running at 1 frame a second, so most of the screenshots are just random chaos like you see above. Anyway, you get the idea.</p>
+<p><strong>19:00 Metro Exodus</strong>  </p>
+<p>I was going to get some screenshots of this in action, but I didn’t think to get out my phone and take pictures of my keyboard to go with them.</p>
+<p>I’m curious if everyone else has the same impression I do. Didn’t it seem like this game came and went really quickly? Do you think that’s do to it being an Epic Store exclusive, or because the game itself just didn’t connect with people?</p>
+<p><strong>25:32 Issac is using Hammer Editor.</strong></p>
+<p>Issac has informed me that the slowdown only happens when the level is <a href="https://developer.valvesoftware.com/wiki/Leak">properly sealed</a>, and doesn’t seem related to the lighting. (Also, putting it on fast compile shortens the wait to a few seconds.) I still have many questions. Issac’s level is geometrically simple – it’s just a series of box rooms connected by corridors. I was building those kinds of levels on a 166Mhz PC back in the 1990s, and that same BSP operation for a level of the same complexity was under half a minute.</p>
+<p>So what is Hammer<span class="snote" title="1">Actually, the BSP process is handled by a command-line program (WHAT YEAR IS IT?) invoked by Hammer called VBSP.</span> doing with 15 minutes of modern-day computing power?!?</p>
+<p><strong>33:55 Mailbag: Engine Building Games</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>Your discussion on Risk of Rain prompted me to finally play the copy I’ve had for a shameful amount of time. I’ve realised that what it really feels like is an engine building game. Different genre – ish, but I put Slay the Spire in the same box.</p>
+<p>Engine builders tend to be board games where victory comes from setting up an ‘engine’ with interacting cards or resources and running it. The interactions may make other interactions stronger, or deal with their negative effects, or allow them to trigger more frequently – much like in RoR how your son finds game breaking combos,  or infinite damage loops in Spite. Usually, games like Scythe, London and some ways of playing Magic fell into this category.</p>
+<p>Have you found any other similar engine building experiences on PC? My current damage exploding Borderlands 2 Psycho feels a bit that way,  as well as more commonly in tycoon games. Occasionally,  Michael Brough’s games too. </p>
+<p>With great affection, </p>
+<p>Lachlan</p></blockquote>
+<p><strong>39:10 Mailbag: New Dwarf Fortress</strong>  </p>
+<blockquote><p>Dear Diecast,</p>
+<p>Hi! I recently saw that <a href="https://www.rockpapershotgun.com/2019/03/13/dwarf-fortress-premium-version/">a new version Dwarf Fortress</a> is coming to Steam and itch.io. The game will also have graphics, and support Steam Workshop upgrades. My question is: do any of you plan on playing it (I know Paul’s had some experience with it), and do you think it can supplant its competition in the face of Rimworld, Factorio, Satisfactory and the like? Also, how appealing would it be to someone who’s never played it?</p>
+<p>Keep being Awesome,<br>
+Lino</p></blockquote>
+<p><strong>44:20 Mailbag: Re-playing games vs. New Games</strong>  </p>
+<blockquote><p>Hey Shamus and Paul,</p>
+<p>Do you ever find yourself returning to older games that you have played<br>
+many times before, even if they’re not great, instead of playing new games that you would most likely enjoy?</p>
+<p>I’ve been re-reading your Mass Effect retrospective, and it really makes me want to go back and play the through the trilogy again for the 3rd time, even though I have a huge backlog of games that I own and have never played, including some that I’m sure I would like if I ever played them.</p>
+<p>I think there’s a level of comfort involved with playing an older game. You know exactly what to expect, with regards to both the mechanics and the story. I feel like I sometimes suffer from “new game fatigue” where I want to play a new game, but as soon as I start it, I realize that I have to learn a new system and mechanics, and I just don’t feel like putting in the effort. It feels like with most games these days, especially RPGs and strategy games, there’s a huge learning curve just to get to the point where you feel like you feel like you know what you are doing. It’s easier to just load up a game you’ve played before and not have to work too hard. Maybe it’s part of being older as well and having less time to dedicate toward playing games. Just wanted to get your thoughts on the subject.</p>
+<p>Jason</p></blockquote>
+<p><strong>48:54 Cities Skylines Boring Start</strong></p>
+<p>This was an unplanned aside. Actually, I think it deserves an entire article. The early game has so many of these frustrating obligations that force you to build a stupid broken city that you’ll have to tear apart and fix later. You can fix this by using a mod to unlock all the stuff you need up front, but then you start the game with the entire city demanding all these different services at once, when you don’t have enough money to meet those needs. You can fix this with more mods, but after a while it feels like the <a href="https://en.wikipedia.org/wiki/The_Elder_Scrolls_IV:_Oblivion">Oblivion</a> problem where you’re trying to re-balance an entire game by stringing together disparate mods.</p>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast256.mp3" length="54171535" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=47072</guid>
+      <pubDate>Mon, 13 May 2019 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast2018.jpg">
+      </itunes:image>
+      <itunes:duration>58:07</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		Welcome to Diecast #28. Honestly, it seems like a waste to keep going after hitting such a sweet landmark. 
+
+The first episode of the Diecast was posted on February 14, 2013. Most episodes run just slightly over an hour, but occasionally they run to 1.5 hours and very rarely they approach 2. If we assume the average length is an hour and 20 minutes, then there are 341 hours of Diecast. That’s almost exactly two solid weeks of talking about videogames. I don’t know why you’re not sick of me by now, but I’m glad this is working.
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+
+Show notes:
+
+00:33 Shamus recants regarding framerate.  
+
+If you want to test for yourself, you can view this page, which should show you images moving at various framerates. I know this isn’t quite the same as viewing a whole-frame 3D image, but it’s enough to illustrate what I’m talking about.
+
+Anyway, I’m never going back. 
+
+I remember going through the same thing when we made the jump from 16 bit color to 32 bit color. At the start I thought 16 was fine and 32 was a needless luxury for obsessive people. Then after getting used to 32 bit I used a machine that was still using a late-90s 16 bit card and I thought it looked awful. The difference looks something like this:
+
+
+
+
+If you’re storing the color values in just 16 bits, then you’ve got 4 bits for red, 4 bits for green, 4 for blue, and 4 for alpha. There were other packing schemes that took some of the bits from the alpha channel or gave extra bits to green where we’re most sensitive to color changes, but the basic problem of color banding remains. Of course, the problem is exacerbated by this photo-realistic image. Then again, the problem is slightly mitigated by the high resolution of the image. The banding would look a lot more severe if this image was 800×600 or even 640×480. 
+
+The point is, color depth was one of those things that seemed extravagant until I had it, and then it became a necessity. It seems like high framerates is a similar deal.
+
+I promise I’ll try to avoid turning into a full-on framerate snob in the future.
+
+06:01 SatisFactory is the worst corridor shooter.
+
+BUT CAN YOU ROCKET JUMP?
+
+12:50 Issac Broke Risk of Rain 
+
+Issac began taking screenshots as soon at the problem began to manifest. Below is the first shot, before things got really out of control. In the lower right is a box with the number 16 in it, which is how many seconds until the ability fires again and summons four more drones. On the left is a vertical list saying “Strike Drone” over and over again (mixed in with some other random minions he had) to show how many have been summoned so far. In the middle of the screen you can see a bunch of floating yellow triangles. Each triangle marks the location of a drone. All the debris is from the mass of monsters that drones just wiped out.
+
+
+
+
+Thirty seconds later, things had gotten out of control. You can see the drone list is overwhelmed. In the lower corner, notice that the cooldown says it’s now -1308 seconds until the ability fires again. This means the ability was probably firing every frame or every game tick, depending on how things are set up.
+
+
+
+
+From here, it just got worse. You can see the cooldown is now negative eleven thousand. Also, I’m pretty sure the screen is pure white because there are so many overlapping particle effects that they saturated the entire scene.
+
+
+
+
+Looking at this now, I see the timestamp (upper right corner) in the above shot is a few seconds before the previous shot. Sorry. It’s hard to make sense of the screenshots and the exact timing of everything. Issac was attempting to flee the area while running at 1 frame a second, so most of the screenshots are just random chaos like you see above. Anyway, you get the idea.
+
+19:00 Metro Exodus  
+
+I was going to get some screenshots of this in action, but I didn’t think to get out my phone and take pictures of my keyboard to go with them.
+
+I’m curious if everyone else has the same i…</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
+    <item>
       <title>Diecast #255: New PC, Endgame, Borderlands 3</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=46895</link>
       <description>
@@ -60,8 +183,7 @@ Thanks,<br>
       </itunes:image>
       <itunes:duration>1:05:32</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		Welcome to Diecast #28-1! Just a heads up: This episode is basically me talking frantically for an hour while Paul does his best to squeeze in the occasional sentence fragment. If you’re here for me, then this should be fun. If you’re here for a conversation, then I have failed you.
+      <itunes:summary>Welcome to Diecast #28-1! Just a heads up: This episode is basically me talking frantically for an hour while Paul does his best to squeeze in the occasional sentence fragment. If you’re here for me, then this should be fun. If you’re here for a conversation, then I have failed you.
 
 I wasn’t sure what to do about Avengers: Endgame spoilers. The whole movie is a barrage of surprises and fanservice, so trying to talk about Endgame without spoilers is like trying to talk about Tombstone without mentioning cowboys. You can do it, but in the end it’s a lot of trouble for a very dubious benefit. I did my best to avoid giving away the big surprises, but you should probably just go see the movie if you’re spoiler-shy. You know how the internet is when people get excited. You’re bound to blunder into a spoiler pretty soon.
 
@@ -111,8 +233,7 @@ As I’ve been wrapping up my second tabletop campaign set in the Starcraft univ
 Thanks,
 -Commodore
 
-    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-	</itunes:summary>
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
