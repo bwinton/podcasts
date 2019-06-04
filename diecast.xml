@@ -19,6 +19,101 @@
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
     <item>
+      <title>Diecast #259: The Witness, Outer Wilds, Survival Games</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=47174</link>
+      <description>
+        <![CDATA[
+		<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="http://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="http://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast259.mp3"></a><p></p>
+<p>Show notes:<span id="more-47174"></span></p>
+<p><strong>00:00 The annoying Diecast feed problem.</strong></p>
+<p>Maybe it’s fixed again. For now.</p>
+<p>Mostly this is a rant about their constant attempts to idiot-proof WordPress over the years. To a certain extent, this is understandable. The vast majority of WordPress users are not tech-savvy coders, they’re writers and whatnot. Giving those people a way to easily put content on the internet is the entire point of the platform. But in automating things for the people looking for turnkey solutions, they keep making it more and more difficult for power users with custom scripts.</p>
+<p>Yes, you can fork WordPress if you like and make it behave however you want. But then you’re either stuck on that old version<span class="snote" title="1">Not really viable, since just about every new release has a few fixes for security vulnerabilities.</span>, or you’re doomed to re-apply those changes to every new version of WordPress. That’s a lot of hassle. Since the whole point of my extensions is to avoid hassle, it’s not really a winning solution for me.</p>
+<p><strong>10:41 Returning to the Witness </strong></p>
+<p>One thing I forgot to mention: I fixed the slow walking problem by turning the FOV up to 110. Even though you still move at the same speed, a large FOV will make your walking <strong>feel</strong> faster. It’s a silly trick, but it let me walk around the island without getting restless and impatient.</p>
+<p><strong>27:08 Standardized Testing</strong></p>
+<p>Bit of a digression here. </p>
+<p><strong>32:37 Outer Wilds</strong></p>
+<p>I feel bad for dumping on this game. Everyone else seems so charmed by it, but it doesn’t work for me. </p>
+<p></p><p></p>
+<p><strong>41:55 Quake 2 PT</strong></p>
+<p>Looking at my screenshots more closely, I can see I was wrong. The game isn’t using the textures to create some sort of ad-hoc bump mapping.</p>
+<p></p><p></p>
+<p>In the screenshot above, you’ll see a green shine on the floor from the overhead light source. That obviously wasn’t part of the original Quake 2 back in 1997. For some reason those shiny bits made me think some sort of bump mapping going on, but in the screenshot you can see the floor is clearly smooth. If there was bump-mapping, then those reflections would be impacted by the shape of the floor. For example, the rivets in the floor would be catching individual highlights. Without bumps, this advanced lighting kind of shatters the illusion that textures are supposed to create. Instead of looking like a coarse surface of industrial metal, it looks like a perfectly smooth floor with really ugly wallpaper. </p>
+<p>Now I’m wondering what it <strong>would</strong> look like with auto-generated bump maps. I’ve done that effect a lot over the years in various experiments. It’s never great, but it might really help in a weird edge case like this one where you’re trying to do complex lighting on very low-res textures from the 90s.</p>
+<p><strong>50:04 Mailbag: Survival Meters</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>A common criticism of recent open world survival games, like We Happy Few and Pathologic 2, is that managing all the various meters (hunger, thirst, etc) is tedious busywork that distracts from exploring the interesting world. Do you think it is possible to make juggling meters fun? Or did Minecraft made a mistake when it first came up with the idea?</p>
+<p>Your sincerity,</p>
+<p>Pierre</p>
+<p>P.S. Can you please tell me where I can find the Diecast theme?</p></blockquote>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast259.mp3" length="65234643" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=47174</guid>
+      <pubDate>Mon, 3 Jun 2019 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast2018.jpg">
+      </itunes:image>
+      <itunes:duration>1:08:52</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		
+Hosts: Paul, Shamus. Episode edited by Issac.
+
+
+Show notes:
+
+00:00 The annoying Diecast feed problem.
+
+Maybe it’s fixed again. For now.
+
+Mostly this is a rant about their constant attempts to idiot-proof WordPress over the years. To a certain extent, this is understandable. The vast majority of WordPress users are not tech-savvy coders, they’re writers and whatnot. Giving those people a way to easily put content on the internet is the entire point of the platform. But in automating things for the people looking for turnkey solutions, they keep making it more and more difficult for power users with custom scripts.
+
+Yes, you can fork WordPress if you like and make it behave however you want. But then you’re either stuck on that old versionNot really viable, since just about every new release has a few fixes for security vulnerabilities., or you’re doomed to re-apply those changes to every new version of WordPress. That’s a lot of hassle. Since the whole point of my extensions is to avoid hassle, it’s not really a winning solution for me.
+
+10:41 Returning to the Witness 
+
+One thing I forgot to mention: I fixed the slow walking problem by turning the FOV up to 110. Even though you still move at the same speed, a large FOV will make your walking feel faster. It’s a silly trick, but it let me walk around the island without getting restless and impatient.
+
+27:08 Standardized Testing
+
+Bit of a digression here. 
+
+32:37 Outer Wilds
+
+I feel bad for dumping on this game. Everyone else seems so charmed by it, but it doesn’t work for me. 
+
+
+
+
+41:55 Quake 2 PT
+
+Looking at my screenshots more closely, I can see I was wrong. The game isn’t using the textures to create some sort of ad-hoc bump mapping.
+
+
+
+
+In the screenshot above, you’ll see a green shine on the floor from the overhead light source. That obviously wasn’t part of the original Quake 2 back in 1997. For some reason those shiny bits made me think some sort of bump mapping going on, but in the screenshot you can see the floor is clearly smooth. If there was bump-mapping, then those reflections would be impacted by the shape of the floor. For example, the rivets in the floor would be catching individual highlights. Without bumps, this advanced lighting kind of shatters the illusion that textures are supposed to create. Instead of looking like a coarse surface of industrial metal, it looks like a perfectly smooth floor with really ugly wallpaper. 
+
+Now I’m wondering what it would look like with auto-generated bump maps. I’ve done that effect a lot over the years in various experiments. It’s never great, but it might really help in a weird edge case like this one where you’re trying to do complex lighting on very low-res textures from the 90s.
+
+50:04 Mailbag: Survival Meters
+
+Dear Diecast,
+A common criticism of recent open world survival games, like We Happy Few and Pathologic 2, is that managing all the various meters (hunger, thirst, etc) is tedious busywork that distracts from exploring the interesting world. Do you think it is possible to make juggling meters fun? Or did Minecraft made a mistake when it first came up with the idea?
+Your sincerity,
+Pierre
+P.S. Can you please tell me where I can find the Diecast theme?
+
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
+	</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
+    <item>
       <title>Diecast #258: Netflix, YouTube, Phantom Menace</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=47137</link>
       <description>
@@ -64,9 +159,7 @@ Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="http://www.s
       </itunes:image>
       <itunes:duration>1:12:31</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		
-Hosts: Paul, Shamus. Episode edited by Issac.
+      <itunes:summary>Hosts: Paul, Shamus. Episode edited by Issac.
 
 Show notes:
 00:00 Poll Results
@@ -123,8 +216,7 @@ Also, I’m pretty sure Paul was thinking of Machete Order.
 1:05:02 What? The show is over! Why are you still listening?
 
 
-    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-	</itunes:summary>
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
