@@ -19,6 +19,128 @@
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
     <item>
+      <title>Diecast #260: Islanders, E3 2019, Kingdom: New Lands</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=47212</link>
+      <description>
+        <![CDATA[
+		<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="http://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="http://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<p></p>
+<p>Show notes:<span id="more-47212"></span><br>
+<strong>00:00 Linux Gaming</strong></p>
+<p>Some good news for a change.</p>
+<p><strong>03:20 Observation</strong></p>
+<p>Heads up: I’m not really going to talk about Observation. I’m sort of using this as an excuse to throw away a game design that’s been rattling around in my head for a few years.</p>
+<p></p><p></p>
+<p><strong>11:18 Islanders</strong></p>
+<p>I wasn’t kidding about the spreadsheet. You can <a href="https://docs.google.com/spreadsheets/d/1zwWLTL-PIINiW-R5TP1cXZ8cRqiIUoAL6t2MJQ74YKI">see it for yourself</a>.</p>
+<p><strong>18:09 E3 2019</strong></p>
+<p>Here is a rapid-fire list of the games we discussed. Some of these previews will be out by the time this episode drops.</p>
+<ul>
+<li>Cyberpunk 2077</li>
+<li>Final Fantasy 7</li>
+<li>Marvel’s Avengers</li>
+<li>Jedi Fallen Order</li>
+<li>Watch_Dogs Legion</li>
+<li>Vampire Bloodlines 2</li>
+<li>Obsidian: Outer Worlds</li>
+<li>Dying Light 2</li>
+<li>Doom Eternal</li>
+<li>Borderlands 3</li>
+<li>Anthem? Really?</li>
+</ul>
+<p><strong>40:40 Satisfactory</strong></p>
+<p></p><p></p>
+<p><strong>46:08 “Kingdom: New Lands”</strong></p>
+<p></p><p></p>
+<p><strong>51:16 Quake 2 Raytracing for real this time.</strong></p>
+<p>I’ll probably write more about this later.</p>
+<p></p><p></p>
+<p>In the show I mused about what it would look like to play this game at the original 640×480. I tried it after the show. As it turns out, it looks <strong>terrible</strong>. Doing full raytrace bouncing on every pixel is still too dang expensive to do realtime, even on this cutting-edge hardware. The NVIDIA technology behind this effect involves cheating by taking a small number<span class="snote" title="1">It’s actually a huge number, but it’s small compared to what it WOULD be if they were brute-forcing it.</span> of samples over a large area and filling in the gaps. It might also do some carrying over between frames. The effect falls apart if it doesn’t have enough resolution to work with.</p>
+<p><strong>1:02:30 320×200</strong></p>
+<p>As the show was ending, Paul posted this image into the show notes to demonstrate how tiny 320×200 is:</p>
+<p><img src="https://www.shamusyoung.com/twentysidedtale/images/320x200.png"></p>
+<p>Not sure why it was showing Diecast #258 as the episode number. Guess I forgot to update that. Two weeks in a row. In any case, that’s not a lot of pixels.</p>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast260.mp3" length="62275053" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=47212</guid>
+      <pubDate>Mon, 10 Jun 2019 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast2018.jpg">
+      </itunes:image>
+      <itunes:duration>1:05:48</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		
+Hosts: Paul, Shamus. Episode edited by Issac.
+
+Show notes:
+00:00 Linux Gaming
+
+Some good news for a change.
+
+03:20 Observation
+
+Heads up: I’m not really going to talk about Observation. I’m sort of using this as an excuse to throw away a game design that’s been rattling around in my head for a few years.
+
+
+
+
+11:18 Islanders
+
+I wasn’t kidding about the spreadsheet. You can see it for yourself.
+
+18:09 E3 2019
+
+Here is a rapid-fire list of the games we discussed. Some of these previews will be out by the time this episode drops.
+
+
+Cyberpunk 2077
+Final Fantasy 7
+Marvel’s Avengers
+Jedi Fallen Order
+Watch_Dogs Legion
+Vampire Bloodlines 2
+Obsidian: Outer Worlds
+Dying Light 2
+Doom Eternal
+Borderlands 3
+Anthem? Really?
+
+40:40 Satisfactory
+
+
+
+
+46:08 “Kingdom: New Lands”
+
+
+
+
+51:16 Quake 2 Raytracing for real this time.
+
+I’ll probably write more about this later.
+
+
+
+
+In the show I mused about what it would look like to play this game at the original 640×480. I tried it after the show. As it turns out, it looks terrible. Doing full raytrace bouncing on every pixel is still too dang expensive to do realtime, even on this cutting-edge hardware. The NVIDIA technology behind this effect involves cheating by taking a small numberIt’s actually a huge number, but it’s small compared to what it WOULD be if they were brute-forcing it. of samples over a large area and filling in the gaps. It might also do some carrying over between frames. The effect falls apart if it doesn’t have enough resolution to work with.
+
+1:02:30 320×200
+
+As the show was ending, Paul posted this image into the show notes to demonstrate how tiny 320×200 is:
+
+
+
+Not sure why it was showing Diecast #258 as the episode number. Guess I forgot to update that. Two weeks in a row. In any case, that’s not a lot of pixels.
+
+
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
+	</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
+    <item>
       <title>Diecast #259: The Witness, Outer Wilds, Survival Games</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=47174</link>
       <description>
@@ -60,9 +182,7 @@ Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="http://www.s
       </itunes:image>
       <itunes:duration>1:08:52</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		
-Hosts: Paul, Shamus. Episode edited by Issac.
+      <itunes:summary>Hosts: Paul, Shamus. Episode edited by Issac.
 
 
 Show notes:
@@ -109,8 +229,7 @@ Your sincerity,
 Pierre
 P.S. Can you please tell me where I can find the Diecast theme?
 
-    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-	</itunes:summary>
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
