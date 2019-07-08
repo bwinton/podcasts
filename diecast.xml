@@ -19,6 +19,134 @@
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
     <item>
+      <title>Diecast #264: Sethian, Satisfactory, Mailbag</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=47493</link>
+      <description>
+        <![CDATA[
+		<p>Another wrinkle in the adventure to get the RSS feed working: As I’ve said before, the only way to get the podcast RSS to do its job is to place a link to the show somewhere in the post. I normally generate the boilerplate stuff (like the media player you see below) using shortcode and it creates the links for me. But the RSS generator doesn’t see these auto-generated links, so it doesn’t know this is a podcast. To get around this, I must manually put a fully qualified link using raw HTML in the post body. That’s annoying and will cause chaos if the URL of this site ever changes, but fine.</p>
+<p>But I also don’t want 2 identical links to the same audio file. (The auto-generated one, and the manual one I’m forced to add.) That would be confusing for the end user. To get around this, I make the manual link invisible by making it a single empty space. This means it isn’t visible to the user, which is fine since it only exists for the benefit of the dumbass RSS generator.</p>
+<p>BUT!</p>
+<p>The newer versions of WordPress have made the editor “smarter”. Now it sees an empty invisible link, concludes that’s a mistake, and then <strong>silently deletes it from the post</strong>. I feel like I’m actively fighting the system all the time like this, where I have to come up with workarounds to protect my other workarounds because the system is trying to do my thinking for me.</p>
+<p>Sigh. I don’t know. Maybe the RSS feed will work this week. Maybe it won’t. I did what I could.</p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="http://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="http://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<p></p>
+<p><a href="https://www.shamusyoung.com/diecast/diecast258.mp3">This link exists only so the stupid RSS generator will do its job.</a></p>
+<p>Show notes:<span id="more-47493"></span><br>
+<strong>00:00 EA Lacks Self-Awareness</strong></p>
+<p><a href="https://www.gamesindustry.biz/articles/2019-07-02-ea-i-struggle-with-the-perception-that-were-just-a-bunch-of-bad-guys">It’s not hard, guys</a>. Just read <a href="https://www.escapistmagazine.com/v2/2019/03/12/eas-problem-isnt-greed/">literally anything people are writing about you</a> and the problems should become clear.</p>
+<p><strong>08:47 Sethian</strong></p>
+<p></p><p></p>
+<p><strong>14:07 DOTA Underlords</strong></p>
+<p></p><p></p>
+<p>On the show I joked that this idea of mixing collectible card game with DOTA sounded like money, but in truth I kinda suspect the market is already saturated. CCG’s suffer from a really intense version of the <a href="https://en.wikipedia.org/wiki/Network_effect">network effect</a>, meaning we end up with a winner-take-all system that favors the entrenched over the innovative. Considering how hard <a href="https://en.wikipedia.org/wiki/Artifact_(video_game)">Artifact</a> flopped earlier this year, I’m having a hard time seeing how any new CCG can carve out a piece of the market for themselves. And that’s ignoring the looming threat of loot box laws.</p>
+<p>In short, this is a great idea for a game 4 years ago.</p>
+<p><strong>18:40 Satisfactory</strong></p>
+<p></p><p></p>
+<p><strong>22:03 Minecraft again!</strong></p>
+<p>Minecraft is an incredible game, but vanilla Minecraft is <strong>so</strong> vanilla.</p>
+<p><strong>31:09 EVE Online Drifters</strong></p>
+<p><strong>37:22 Mailbag: Challenge Runs</strong></p>
+<blockquote><p>Salue consuls Shamus et Paul,</p>
+<p>which kind of challenge runs other than speedruns (if any) are you guys interested in? Pacifist runs, Genocide runs, Low level/initial equipment, Literally blindfolded runs, the (in)famous FFX NSGNSNCNONENNENBB challenge?</p>
+<p>Hoping this e-mail doesn’t get weird formatting and looking forward to your answer.</p>
+<p>Vale,</p>
+<p>-Tim</p></blockquote>
+<p><strong>41:58 Mailbag: Favorite Women Game Developers</strong></p>
+<blockquote><p>Dear Diecastians,</p>
+<p>As much as I enjoy Paul and his affable sense of humor, I really miss Soldierhawke and hope you will have her back on the show soon.</p>
+<p>With this in mind… Who are some of your favorite women programmers, game designers or writers?</p>
+<p>Freundliche grüße aus Berlin,<br>
+Leslee</p></blockquote>
+<p><strong>54:13 Mailbag: You never really own anything anymore.</strong></p>
+<blockquote><p>Dear lumpy sphere throwers,</p>
+<p>You never really own anything anymore. I know that’s been a theme in the writing at 20-sided, and I’m sure this isn’t the first example. But it may be <a href="https://gizmodo.com/ebooks-purchased-from-microsoft-will-be-deleted-this-mo-1836005672">one of the largest mass-deletions so far in our new digital landscape</a>.</p>
+<p>And while I’m writing in, is the private gaming site dying out? Have Steam community pages and wikis taken the place of personal fan sites as storehouses of obscure lore and other esoterica?</p>
+<p>Keep those dice a rollin’,</p>
+<p>Will</p></blockquote>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast264.mp3" length="60144553" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=47493</guid>
+      <pubDate>Mon, 8 Jul 2019 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast2018.jpg">
+      </itunes:image>
+      <itunes:duration>1:03:52</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		Another wrinkle in the adventure to get the RSS feed working: As I’ve said before, the only way to get the podcast RSS to do its job is to place a link to the show somewhere in the post. I normally generate the boilerplate stuff (like the media player you see below) using shortcode and it creates the links for me. But the RSS generator doesn’t see these auto-generated links, so it doesn’t know this is a podcast. To get around this, I must manually put a fully qualified link using raw HTML in the post body. That’s annoying and will cause chaos if the URL of this site ever changes, but fine.
+
+But I also don’t want 2 identical links to the same audio file. (The auto-generated one, and the manual one I’m forced to add.) That would be confusing for the end user. To get around this, I make the manual link invisible by making it a single empty space. This means it isn’t visible to the user, which is fine since it only exists for the benefit of the dumbass RSS generator.
+
+BUT!
+
+The newer versions of WordPress have made the editor “smarter”. Now it sees an empty invisible link, concludes that’s a mistake, and then silently deletes it from the post. I feel like I’m actively fighting the system all the time like this, where I have to come up with workarounds to protect my other workarounds because the system is trying to do my thinking for me.
+
+Sigh. I don’t know. Maybe the RSS feed will work this week. Maybe it won’t. I did what I could.
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+
+This link exists only so the stupid RSS generator will do its job.
+
+Show notes:
+00:00 EA Lacks Self-Awareness
+
+It’s not hard, guys. Just read literally anything people are writing about you and the problems should become clear.
+
+08:47 Sethian
+
+
+
+
+14:07 DOTA Underlords
+
+
+
+
+On the show I joked that this idea of mixing collectible card game with DOTA sounded like money, but in truth I kinda suspect the market is already saturated. CCG’s suffer from a really intense version of the network effect, meaning we end up with a winner-take-all system that favors the entrenched over the innovative. Considering how hard Artifact flopped earlier this year, I’m having a hard time seeing how any new CCG can carve out a piece of the market for themselves. And that’s ignoring the looming threat of loot box laws.
+
+In short, this is a great idea for a game 4 years ago.
+
+18:40 Satisfactory
+
+
+
+
+22:03 Minecraft again!
+
+Minecraft is an incredible game, but vanilla Minecraft is so vanilla.
+
+31:09 EVE Online Drifters
+
+37:22 Mailbag: Challenge Runs
+
+Salue consuls Shamus et Paul,
+which kind of challenge runs other than speedruns (if any) are you guys interested in? Pacifist runs, Genocide runs, Low level/initial equipment, Literally blindfolded runs, the (in)famous FFX NSGNSNCNONENNENBB challenge?
+Hoping this e-mail doesn’t get weird formatting and looking forward to your answer.
+Vale,
+-Tim
+41:58 Mailbag: Favorite Women Game Developers
+
+Dear Diecastians,
+As much as I enjoy Paul and his affable sense of humor, I really miss Soldierhawke and hope you will have her back on the show soon.
+With this in mind… Who are some of your favorite women programmers, game designers or writers?
+Freundliche grüße aus Berlin,
+Leslee
+54:13 Mailbag: You never really own anything anymore.
+
+Dear lumpy sphere throwers,
+You never really own anything anymore. I know that’s been a theme in the writing at 20-sided, and I’m sure this isn’t the first example. But it may be one of the largest mass-deletions so far in our new digital landscape.
+And while I’m writing in, is the private gaming site dying out? Have Steam community pages and wikis taken the place of personal fan sites as storehouses of obscure lore and other esoterica?
+Keep those dice a rollin’,
+Will
+
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
+	</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
+    <item>
       <title>Diecast #263: Satisfactory, RPG Mechanics Everywhere</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=47448</link>
       <description>
@@ -60,8 +188,7 @@ Gresman</p></blockquote>
       </itunes:image>
       <itunes:duration>1:06:04</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		I was pretty out of it this week, and as a result you’re getting a meandering, unfocused, slightly off-topic Diecast. That’s fine. I know some of you enjoy a good meander.
+      <itunes:summary>I was pretty out of it this week, and as a result you’re getting a meandering, unfocused, slightly off-topic Diecast. That’s fine. I know some of you enjoy a good meander.
 
 
 Hosts: Paul, Shamus. Episode edited by Issac.
@@ -105,8 +232,7 @@ Gresman
 56:03 Device Size
 
 
-    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-	</itunes:summary>
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
