@@ -19,6 +19,88 @@
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
     <item>
+      <title>Diecast #266: Psychological Manipulation in Mobile Games, Picard, Cloud Storage</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=47579</link>
+      <description>
+        <![CDATA[
+		<p>Here is an hour of two people talking about various things. I’m led to believe these sorts of recordings are popular and useful.</p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="http://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="http://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast266.mp3"> </a><p></p>
+<p>Show notes:<span id="more-47579"></span><br>
+<strong>00:00 Good Robot DRM test.</strong></p>
+<p>This test is also open to those of you who don’t listen to the show. All you need is two computers: One with Steam installed, and one without. Just email the show (address is in the header image) and put “Good Robot DRM Test” in the subject line. I’ll send you a key for <a href="https://store.steampowered.com/app/358830/Good_Robot/">Good Robot</a>. Install the game using Steam, then copy the files to the Steam-free PC and try to run it.</p>
+<p>Email me the results. Did it work? If not, what was the error message? Also, please include the country where you’ll be doing the test.</p>
+<p>Thanks!</p>
+<p><strong>06:18 Let’s go Whaling!</strong>  </p>
+<p>This is <a href="https://www.youtube.com/watch?v=xNjI03CGkb4">a completely fascinating video</a>:</p>
+<p></p><p></p>
+<p><strong>26:40 Star Trek Picard</strong></p>
+<p></p><p></p>
+<p>Like I said in the show, I haven’t watched Discovery. My understanding of the show is based entirely on what folks have said in the comments, and on <a href="https://www.youtube.com/watch?v=5SHhySoXDcA">this RLM video</a>.</p>
+<p><strong>38:04 Cloud storage platforms don’t understand storage.</strong></p>
+<p>I can understand why a company would make it expensive. That’s business. But why does it have to be so dumb and counter-intuitive? </p>
+<p><strong>48:22 The worst cooking channel is the most popular.</strong></p>
+<p></p><p></p>
+<p><strong>1:01:21 Proc-gen Boundaries</strong></p>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast266.mp3" length="75264769" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=47579</guid>
+      <pubDate>Mon, 22 Jul 2019 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast2018.jpg">
+      </itunes:image>
+      <itunes:duration>1:18:59</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		Here is an hour of two people talking about various things. I’m led to believe these sorts of recordings are popular and useful.
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+ 
+
+Show notes:
+00:00 Good Robot DRM test.
+
+This test is also open to those of you who don’t listen to the show. All you need is two computers: One with Steam installed, and one without. Just email the show (address is in the header image) and put “Good Robot DRM Test” in the subject line. I’ll send you a key for Good Robot. Install the game using Steam, then copy the files to the Steam-free PC and try to run it.
+
+Email me the results. Did it work? If not, what was the error message? Also, please include the country where you’ll be doing the test.
+
+Thanks!
+
+06:18 Let’s go Whaling!  
+
+This is a completely fascinating video:
+
+
+
+
+26:40 Star Trek Picard
+
+
+
+
+Like I said in the show, I haven’t watched Discovery. My understanding of the show is based entirely on what folks have said in the comments, and on this RLM video.
+
+38:04 Cloud storage platforms don’t understand storage.
+
+I can understand why a company would make it expensive. That’s business. But why does it have to be so dumb and counter-intuitive? 
+
+48:22 The worst cooking channel is the most popular.
+
+
+
+
+1:01:21 Proc-gen Boundaries
+
+
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
+	</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
+    <item>
       <title>Diecast #265: Clickbait, Speedruns, Emergent Stories</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=47547</link>
       <description>
@@ -66,8 +148,7 @@ Also, here is the video I mentioned during this segment:</p>
       </itunes:image>
       <itunes:duration>58:55</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		Paul is on the road this week, so his audio might be a little tinny. But if we pull together as a community, I’m sure we can find the strength to endure this hardship.
+      <itunes:summary>Paul is on the road this week, so his audio might be a little tinny. But if we pull together as a community, I’m sure we can find the strength to endure this hardship.
 
 
 Hosts: Paul, Shamus. Episode edited by Issac.
@@ -125,8 +206,7 @@ I think when you *find* story, in events produced by a system, a whole different
 I’m criticizing Ubisoft for not making “political” statements when I have a firm no politics rule on my site. Maybe that seems hypocritical. But my problem isn’t with their lack of making a statement, it’s the way they go out of their way to grab onto a controversial subject, supercharge it with violence, and then not say anything about it. As someone who reflexively analyzes stories, this is maddening. It’s like a field of visual noise that’s been deliberately designed to look like one of those magic eye pictures. You keep looking for the hidden image, but there isn’t one!
 
 
-    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-	</itunes:summary>
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
