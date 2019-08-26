@@ -19,6 +19,123 @@
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
     <item>
+      <title>Diecast #271: EGS Hypocrisy, Broken Games, WoW Classic</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=47839</link>
+      <description>
+        <![CDATA[
+		<p>I’ve been playing Rage 2 this week. Did the world forget that game exists? I haven’t heard anyone mention it in months. I guess <a href="https://www.youtube.com/watch?v=15tqE-I8L4U">Campster covered it last month</a>, so that counts as a bit of relevance. Still, this game came and went so fast. </p>
+<p>It’s so forgettable I forgot to talk about it on my own podcast, even though I’m in the middle of a playthrough!</p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast271.mp3"></a><p></p>
+<p>Show notes:<span id="more-47839"></span><br>
+<strong>01:30 Epic Doesn’t want non-exclusives?</strong></p>
+<p></p><p></p>
+<p>We could blame a lot of the failings for the Epic Games Store on the company’s inexperience and hubris. But this is a pretty clear expression of company values and it leaves Epic absolutely no room for them to claim any sort of moral high ground. </p>
+<p>This company doesn’t want to depose the tyrant to end tyranny, it wants to replace the tyrant. Given the company’s behavior, it would be a far worse tyrant than Valve ever was.</p>
+<p><strong>04:18 Shamus Critiques Your Dream</strong>  </p>
+<p><a href="https://www.shamusyoung.com/twentysidedtale/?p=47786#comment-1225289">Here is the comment in question.</a></p>
+<p><strong>07:20 Mercurial Support Ends in Bitbucket</strong> </p>
+<p><a href="https://bitbucket.org/blog/sunsetting-mercurial-support-in-bitbucket">Here is the announcement</a>, which I’m pretty sure just affects just me.</p>
+<p>The Good Robot source is still in Mercurial. I wonder if there’s a non-horrible way to migrate that to Git. Also, I’m open to suggestions for a lightweight Git front end GUI.</p>
+<p><strong>16:33 The New Blender 2.8, Everything old and irritating is New Again  </strong></p>
+<p>I don’t know if we have many Blender users in the audience. If so, I’d love to hear what you think of the new version, or if you’re avoiding the upgrade.</p>
+<p><strong>35:14 Wolfenstein: Still Broken</strong></p>
+<p>For those that missed it, here is the post describing the problems I had with the game: <a href="https://www.shamusyoung.com/twentysidedtale/?p=41583">Wolfenstein II Part 2: Broken Technology</a>. The fact that it’s still broken on my <a href="https://www.shamusyoung.com/twentysidedtale/?p=47616">new machine</a> is just ridiculous. And the unskippable splash screens are salt in the wound.</p>
+<p><strong>39:19 Rage II is Also a Hot Mess</strong> </p>
+<p>It’s not nearly as bad as Wolfie’s 2017 outing, </p>
+<p>Also, I kinda dumped on Id Software in the segment, and that’s not really fair. Wolfenstein was made by Machine games and Rage 2 was from Avalanche. They’re using Id Tech, but they’re not made by Id. </p>
+<p><strong>43:24 Spider-Man Custody Battle</strong> </p>
+<p>It’s a sad, silly story.</p>
+<p><strong>53:06 Mailbag: Forums</strong>  </p>
+<blockquote><p>Dear Diecast,<br>
+Any idea when the forum might be coming back?</p>
+<p>_Anon</p></blockquote>
+<p><strong>54:43 Mailbag: WoW Classic</strong>  </p>
+<blockquote><p>Dear diecast,</p>
+<p>With WoW classic nearing release, I wonder how you guys feel about it. I initially thought it of it being people who cannot let go of the past, but the success of the lvl 15 preview, the popularity of the lvl 1-40 beta, servers filling up with name reservations 2 months for release (and people willing to shell out 15 bucks just to get their name), them having to get extra servers just to handle the amount of people coming in, and the constant hype buzzing around (youtube trying to hype me up even though I dont click the videos) I start to feel like this could be more than a month long distraction. And a significant playerbase will remain.</p>
+<p>Also what do you think is WoW’s “X-factor” that MMOs that came after it all missed.</p>
+<p>with kind regards<br>
+chris</p></blockquote>
+<p>Mentioned in this segment: <a href="http://peripheralarbor.com/exploring/index.html">Paul’s WoW exploration journal</a> and <a href="https://youtu.be/Et-lGqK_egE?t=1715">Creeper world tiling fixer</a>.</p>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast271.mp3" length="72372245" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=47839</guid>
+      <pubDate>Mon, 26 Aug 2019 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast2018.jpg">
+      </itunes:image>
+      <itunes:duration>1:15:52</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		I’ve been playing Rage 2 this week. Did the world forget that game exists? I haven’t heard anyone mention it in months. I guess Campster covered it last month, so that counts as a bit of relevance. Still, this game came and went so fast. 
+
+It’s so forgettable I forgot to talk about it on my own podcast, even though I’m in the middle of a playthrough!
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+
+
+Show notes:
+01:30 Epic Doesn’t want non-exclusives?
+
+
+
+
+We could blame a lot of the failings for the Epic Games Store on the company’s inexperience and hubris. But this is a pretty clear expression of company values and it leaves Epic absolutely no room for them to claim any sort of moral high ground. 
+
+This company doesn’t want to depose the tyrant to end tyranny, it wants to replace the tyrant. Given the company’s behavior, it would be a far worse tyrant than Valve ever was.
+
+04:18 Shamus Critiques Your Dream  
+
+Here is the comment in question.
+
+07:20 Mercurial Support Ends in Bitbucket 
+
+Here is the announcement, which I’m pretty sure just affects just me.
+
+The Good Robot source is still in Mercurial. I wonder if there’s a non-horrible way to migrate that to Git. Also, I’m open to suggestions for a lightweight Git front end GUI.
+
+16:33 The New Blender 2.8, Everything old and irritating is New Again  
+
+I don’t know if we have many Blender users in the audience. If so, I’d love to hear what you think of the new version, or if you’re avoiding the upgrade.
+
+35:14 Wolfenstein: Still Broken
+
+For those that missed it, here is the post describing the problems I had with the game: Wolfenstein II Part 2: Broken Technology. The fact that it’s still broken on my new machine is just ridiculous. And the unskippable splash screens are salt in the wound.
+
+39:19 Rage II is Also a Hot Mess 
+
+It’s not nearly as bad as Wolfie’s 2017 outing, 
+
+Also, I kinda dumped on Id Software in the segment, and that’s not really fair. Wolfenstein was made by Machine games and Rage 2 was from Avalanche. They’re using Id Tech, but they’re not made by Id. 
+
+43:24 Spider-Man Custody Battle 
+
+It’s a sad, silly story.
+
+53:06 Mailbag: Forums  
+
+Dear Diecast,
+Any idea when the forum might be coming back?
+_Anon
+54:43 Mailbag: WoW Classic  
+
+Dear diecast,
+With WoW classic nearing release, I wonder how you guys feel about it. I initially thought it of it being people who cannot let go of the past, but the success of the lvl 15 preview, the popularity of the lvl 1-40 beta, servers filling up with name reservations 2 months for release (and people willing to shell out 15 bucks just to get their name), them having to get extra servers just to handle the amount of people coming in, and the constant hype buzzing around (youtube trying to hype me up even though I dont click the videos) I start to feel like this could be more than a month long distraction. And a significant playerbase will remain.
+Also what do you think is WoW’s “X-factor” that MMOs that came after it all missed.
+with kind regards
+chris
+Mentioned in this segment: Paul’s WoW exploration journal and Creeper world tiling fixer.
+
+
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
+	</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
+    <item>
       <title>Diecast #270: The Great Mailbag Deluge</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=47767</link>
       <description>
@@ -107,8 +224,7 @@ Gresman</p></blockquote>
       </itunes:image>
       <itunes:duration>1:00:06</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		I don’t know how the mailbag got so out of control, but Paul and I did our best to put a dent in it. Here we answer 10 questions in one show.
+      <itunes:summary>I don’t know how the mailbag got so out of control, but Paul and I did our best to put a dent in it. Here we answer 10 questions in one show.
 
 
 Hosts: Paul, Shamus. Episode edited by Issac. Also featuring Local Forecast by Kevin MacLeod.
