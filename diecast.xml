@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -18,6 +18,109 @@
     <itunes:subtitle>Like Twenty-Sided, but with less video.</itunes:subtitle>
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
+    <item>
+      <title>Diecast #277: Halloween, Starbound, Manifold Garden</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=48448</link>
+      <description>
+        <![CDATA[
+		<p>This weekend was our twice-yearly ceremony of <a href="https://www.youtube.com/watch?v=84aWtseb2-4">pointlessly messing with the clocks</a>. I just realized I didn’t rant about it this year. Sorry about that. I’m not giving up, I’ve just got other things on my mind lately. Feel free to revisit <a href="https://www.shamusyoung.com/twentysidedtale/?p=44693">my rant from exactly one year ago</a> if you’re missing my usual tirade against this petty annoyance.</p>
+<p>Also: The mailbag is now empty, so if you have a question you’ve been sitting on then now is your chance. The email is in the header image.</p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast277.mp3">Diecast277</a><p></p>
+<p>Show notes:<span id="more-48448"></span></p>
+<p><strong>00:00 Halloween</strong></p>
+<p>This section also covers death, funerals, burial customs, and a bunch of other stuff.</p>
+<p><strong>16:50 Starbound</strong></p>
+<p></p><p></p>
+<p><strong>20:46 Manifold Garden</strong></p>
+<p><strong>21:45 Outer Worlds &amp; The Chicken Factory  </strong></p>
+<p><strong>31:33 Music Class</strong></p>
+<p>I’ll talk more about this tomorrow.</p>
+<p><strong>36:30 Mailbag: Gameplay in games with mature subject matter.  </strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>You mentioned recently that you received too much letters and because of that don’t have enough time to talk about anything else on your show. So I decided to write you a letter.</p>
+<p>My question concerns the possibilities of telling stories in a videogames primarily through the use of that games’ mechanics. I noticed that many games that are considered to have “mature”* story either:</p>
+<p>a) have very minimalist, or almost non-existential gameplay (which isn’t a bad thing, there is no need to create robust mechanic if the game doesn’t need one). Something like Limbo or TellTale’s games;</p>
+<p>b) have more robust mechanics, but they are completely separate from the story (like The Last of Us or Bioshock Infinite**, though you tastes may vary; I’m thinking about games in which the story is consider to be good despite the gameplay, not because of it);</p>
+<p>However, it’s difficult to find games that are being praised for their “maturity” specifically because of their gameplay. At best, game’s mechanics are not an obstacle.</p>
+<p>But I think that gameplay is the “primary language” of games (so to speak) when it comes to communication with players. Expensive cutscenes, sublime soundtrack and so on are great and all, but the core of a game lies in it’s structure of it’s mechanics. Therefore, that should be the main focus when it comes to making a “mature” game – gameplay. Gameplay should enhance the idea of game’s story by creating appropriate impressions through the use of right tools. For example, if the story of a particular game is about the danger of possessing an excessive amount of freedom, then the gameplay itself should allow players to experience that. When the game takes more linear approach, it’s all fall flat, because I don’t feel the story.</p>
+<p>So, gameplay should enhance the story. But that’s not what I want to ask you about. I wonder, if it is possible to create a “mature” game that tell it’s story mainly through it’s mechanics (obviously, it would still have some sort of graphic and sonic presentation, but they would enhance the mechanics, not the other way around). Can story be told through gameplay? Could that game achieved world-wide popularity? Or maybe it would be like trying to make a movie by beating yourself in the head with a film projector? Would such thing be a masterpiece or a glorified Excel sheet?</p>
+<p>Basically, dose the strength of a videogames’ stories lies in their capability of containing multiple sources of different media or do they have something unique?</p>
+<p>Thanks,</p>
+<p>Darek</p>
+<p>* By “mature games” I mean those that are considered to deal with difficult and (usually) socially important subjects by providing intricate solutions – or by providing the lack of such solutions. You know, something that people describe as… deep.</p>
+<p>** I actually consider the stories of this games to be rather mediocre, but that’s beside the point</p></blockquote>
+<p><strong>53:45 Mailbag: AI Generated stories  </strong></p>
+<blockquote><p>Dear Diecast,<br>
+I don’t know if you guys have ever heard of procedural generation /joking.</p>
+<p>Considering there have been a lot of advances made in the fields of NLP (Natural Language Processing) and ML (machine learning), do you think it would be possible to train an AI to generate interesting plots in video games?</p>
+<p>I imagine if something like that were possible it would probably be rather generic plot beats overall, i.e. </p>
+<p>You’re playing a Knight who is trying to defeat an Evil Wizard to save the Heir to the Throne, and if you happen to lose the AI generates an event to handle your loss. For example Rangerman McArcher, an NPC you met elsewhere, shoots an arrow at EW, who takes off with HttT.<br>
+Or do you think it would be too hard to have such a system generate content that’s interesting enough to keep players engaged?<br>
+Vale,<br>
+-Tim</p></blockquote>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast277.mp3" length="62417075" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=48448</guid>
+      <pubDate>Mon, 04 Nov 2019 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast2018.jpg">
+      </itunes:image>
+      <itunes:duration>1:06:16</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		This weekend was our twice-yearly ceremony of pointlessly messing with the clocks. I just realized I didn’t rant about it this year. Sorry about that. I’m not giving up, I’ve just got other things on my mind lately. Feel free to revisit my rant from exactly one year ago if you’re missing my usual tirade against this petty annoyance.
+
+Also: The mailbag is now empty, so if you have a question you’ve been sitting on then now is your chance. The email is in the header image.
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+Diecast277
+
+Show notes:
+
+00:00 Halloween
+
+This section also covers death, funerals, burial customs, and a bunch of other stuff.
+
+16:50 Starbound
+
+
+
+
+20:46 Manifold Garden
+
+21:45 Outer Worlds &amp; The Chicken Factory  
+
+31:33 Music Class
+
+I’ll talk more about this tomorrow.
+
+36:30 Mailbag: Gameplay in games with mature subject matter.  
+
+Dear Diecast,
+You mentioned recently that you received too much letters and because of that don’t have enough time to talk about anything else on your show. So I decided to write you a letter.
+My question concerns the possibilities of telling stories in a videogames primarily through the use of that games’ mechanics. I noticed that many games that are considered to have “mature”* story either:
+a) have very minimalist, or almost non-existential gameplay (which isn’t a bad thing, there is no need to create robust mechanic if the game doesn’t need one). Something like Limbo or TellTale’s games;
+b) have more robust mechanics, but they are completely separate from the story (like The Last of Us or Bioshock Infinite**, though you tastes may vary; I’m thinking about games in which the story is consider to be good despite the gameplay, not because of it);
+However, it’s difficult to find games that are being praised for their “maturity” specifically because of their gameplay. At best, game’s mechanics are not an obstacle.
+But I think that gameplay is the “primary language” of games (so to speak) when it comes to communication with players. Expensive cutscenes, sublime soundtrack and so on are great and all, but the core of a game lies in it’s structure of it’s mechanics. Therefore, that should be the main focus when it comes to making a “mature” game – gameplay. Gameplay should enhance the idea of game’s story by creating appropriate impressions through the use of right tools. For example, if the story of a particular game is about the danger of possessing an excessive amount of freedom, then the gameplay itself should allow players to experience that. When the game takes more linear approach, it’s all fall flat, because I don’t feel the story.
+So, gameplay should enhance the story. But that’s not what I want to ask you about. I wonder, if it is possible to create a “mature” game that tell it’s story mainly through it’s mechanics (obviously, it would still have some sort of graphic and sonic presentation, but they would enhance the mechanics, not the other way around). Can story be told through gameplay? Could that game achieved world-wide popularity? Or maybe it would be like trying to make a movie by beating yourself in the head with a film projector? Would such thing be a masterpiece or a glorified Excel sheet?
+Basically, dose the strength of a videogames’ stories lies in their capability of containing multiple sources of different media or do they have something unique?
+Thanks,
+Darek
+* By “mature games” I mean those that are considered to deal with difficult and (usually) socially important subjects by providing intricate solutions – or by providing the lack of such solutions. You know, something that people describe as… deep.
+** I actually consider the stories of this games to be rather mediocre, but that’s beside the point
+53:45 Mailbag: AI Generated stories  
+
+Dear Diecast,
+I don’t know if you guys have ever heard of procedural generation /joking.
+Considering there have been a lot of advances made in the fields of NLP (Natural Language Processing) and ML (machine learning)…</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
     <item>
       <title>Diecast #276: Apologies, Manifold Garden, Mailbag</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=48377</link>
@@ -78,9 +181,7 @@ Lack</p></blockquote>
       </itunes:image>
       <itunes:duration>1:05:15</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		
-Hosts: Paul, Shamus. Episode edited by Issac.
+      <itunes:summary>Hosts: Paul, Shamus. Episode edited by Issac.
 Diecast276
 
 Show notes:
