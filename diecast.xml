@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -18,6 +18,101 @@
     <itunes:subtitle>Like Twenty-Sided, but with less video.</itunes:subtitle>
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
+    <item>
+      <title>Diecast #278: New Steam, Spreadsheet Games, Pretentious Games</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=48482</link>
+      <description>
+        <![CDATA[
+		<p>I notice some people would rather ask us questions in the comments rather than use the email in the header image. That’s fine and I don’t blame you for taking the path of least resistance. However, your laziness is compounded by <strong>my</strong> laziness. I usually gather up questions just before we record the show, and I rarely remember the questions that were asked in the comments a week earlier. You’re free to ask questions however you like, but I’m old and forgetful. If the question is really important to you, then you should probably email it.</p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast278.mp3">Diecast278</a><p></p>
+<p>Show notes:<span id="more-48482"></span></p>
+<p><strong>00:00 Church Cultures and Funeral Traditions</strong></p>
+<p>Hopefully I got through this without offending anyone.</p>
+<p>There was one small point that I wanted to make before I got sidetracked talking about impressive buildings, and that’s how movies tend to create the perception of a monoculture. They want to shoot their scenes in the most impressive churches and foreboding graveyards, which means you never get to see the other stuff. I never cared about this because most of the movies I watch are set in my country and I don’t care that they leave out the small churches and modest graveyards. I already know that stuff exists. But now I’m wondering what I’m missing in all those <strong>other</strong> countries. When a movie shows me yet another example of building X in country Y, what sort of details am I missing? How does Hollywood skew our perception of <strong>your</strong> country / region?</p>
+<p>Sorry. The funerals I’ve attended lately have made me curious about this sort of thing.</p>
+<p>Another fun detail I wanted to put on the show:</p>
+<p>Coming home from the funeral parlor, my wife and I were talking about the practice of embalming corpses, placing them in ornate boxes, and burying them in a spot of prime real estate. I told my wife I didn’t care what happened to my body, but I was worried about my website. I told her, “Just have the cheapest funeral you can and take what you would normally spend on the burial and instead renew my domain and web hosting for as long as you can.”</p>
+<p>This website is my favorite thing that I’ve ever made, and it would break my heart<span class="snote" title="1">Except not really, because I’d be dead.</span> if it were to lapse to domain squatters a year after I passed.</p>
+<p>Anyway. This morbid fit should pass soon and I’ll hopefully get back to normal.</p>
+<p><strong>14:51 New Steam Interface</strong></p>
+<p>If we rate Steam on a scale of 1-10, with 1 being where it’s been for the last few years and 10 being what I want it to be, then I give the new interface a solid 2. It’s an improvement, but still short of what I’m looking for.</p>
+<p><strong>21:30 Spreadsheet Games</strong></p>
+<p>Here is the Extra Credits video I mentioned on the show where they talk about “incomparables”.</p>
+<p></p><p></p>
+<p>That’s a really good video. I think it’s more relevant now than it was when it was published in 2012.</p>
+<p><strong>37:55 Pretentious Games</strong></p>
+<p><strong>55:55 Mailbag: aRPG games and magic users.</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>This may not be your bag but, with the recent reveal of Diablo 4, one of my recurring gaming gripes has reared its ugly head again. Why can’t designers make magic users fun to play? There’s a long history of aRPGs having exciting animations and visual feedback for the players (don’t mention the word “visceral”) when playing more physically-focussed classes but then only really focussing on the particle effects of the spells.</p>
+<p>I was watching a lot of the first hand youtube coverage (Game Informer, specifically) and I kept hearing how people found the barbarian and druid classes fun to play but the sorceress was just boring… and, quite frankly, I agree with them. However, it’s only because I can see that a lot of care and effort has gone into making the normal attacks, movement and special animations of those classes really fun and visually interesting – they feel weighty. The sorceress just raises her hands and/or staff and something happens on-screen. This isn’t the first game doing this – it’s basically all of them!</p>
+<p>Magic has always required theatrics to make it look interesting – both in stage shows and in cinema/TV series. Gandalf didn’t just wave his hands and say, “You shall not pass!” Doctor strange didn’t just point a finger and stop the water in End Game… Why is this being missed?</p>
+<p>Okay, that got a bit long, let me give a tl;dr summary to make it snappy for the podcast:</p>
+<p>“With the recent reveal of Diablo 4, one of my recurring gaming gripes has reared its ugly head again. Why can’t designers make magic users fun to play? They spend a lot of time on physical classes and their animations and player feedbacks but then ignore those of the magic users. There’s no theatrics to any of the animations of spellcasters and, moreso than physical-based classes, the magic users need theatrics to sell the effort. Is this something you’ve noticed? Are there types of games where you can see designers are constantly missing something other media excel at and fail to apply those tropes?”</p>
+<p>All the best,<br>
+Duoae</p></blockquote>
+<p>I need to add a nitpick shield: In this section I complained that magic was massively underpowered in Morrrowind, Oblivion, and Skyrim. I should note that those first two had spell <strong>crafting</strong>, which would let you break the game by making overpowered spells. That was fun, but it doesn’t solve the central problem that the mechanics didn’t support proper magic-based combat. You could play as intended and tickle people to death with your ineffectual fireballs, or you could craft a broken spell and turn the combat into a joke. You couldn’t just have magic work on the same level as swords / bows.</p>
+<p>&nbsp;</p>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast278.mp3" length="68134335" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=48482</guid>
+      <pubDate>Mon, 11 Nov 2019 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast2018.jpg">
+      </itunes:image>
+      <itunes:duration>1:11:25</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		I notice some people would rather ask us questions in the comments rather than use the email in the header image. That’s fine and I don’t blame you for taking the path of least resistance. However, your laziness is compounded by my laziness. I usually gather up questions just before we record the show, and I rarely remember the questions that were asked in the comments a week earlier. You’re free to ask questions however you like, but I’m old and forgetful. If the question is really important to you, then you should probably email it.
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+Diecast278
+
+Show notes:
+
+00:00 Church Cultures and Funeral Traditions
+
+Hopefully I got through this without offending anyone.
+
+There was one small point that I wanted to make before I got sidetracked talking about impressive buildings, and that’s how movies tend to create the perception of a monoculture. They want to shoot their scenes in the most impressive churches and foreboding graveyards, which means you never get to see the other stuff. I never cared about this because most of the movies I watch are set in my country and I don’t care that they leave out the small churches and modest graveyards. I already know that stuff exists. But now I’m wondering what I’m missing in all those other countries. When a movie shows me yet another example of building X in country Y, what sort of details am I missing? How does Hollywood skew our perception of your country / region?
+
+Sorry. The funerals I’ve attended lately have made me curious about this sort of thing.
+
+Another fun detail I wanted to put on the show:
+
+Coming home from the funeral parlor, my wife and I were talking about the practice of embalming corpses, placing them in ornate boxes, and burying them in a spot of prime real estate. I told my wife I didn’t care what happened to my body, but I was worried about my website. I told her, “Just have the cheapest funeral you can and take what you would normally spend on the burial and instead renew my domain and web hosting for as long as you can.”
+
+This website is my favorite thing that I’ve ever made, and it would break my heartExcept not really, because I’d be dead. if it were to lapse to domain squatters a year after I passed.
+
+Anyway. This morbid fit should pass soon and I’ll hopefully get back to normal.
+
+14:51 New Steam Interface
+
+If we rate Steam on a scale of 1-10, with 1 being where it’s been for the last few years and 10 being what I want it to be, then I give the new interface a solid 2. It’s an improvement, but still short of what I’m looking for.
+
+21:30 Spreadsheet Games
+
+Here is the Extra Credits video I mentioned on the show where they talk about “incomparables”.
+
+
+
+
+That’s a really good video. I think it’s more relevant now than it was when it was published in 2012.
+
+37:55 Pretentious Games
+
+55:55 Mailbag: aRPG games and magic users.
+
+Dear Diecast,
+This may not be your bag but, with the recent reveal of Diablo 4, one of my recurring gaming gripes has reared its ugly head again. Why can’t designers make magic users fun to play? There’s a long history of aRPGs having exciting animations and visual feedback for the players (don’t mention the word “visceral”) when playing more physically-focussed classes but then only really focussing on the particle effects of the spells.
+I was watching a lot of the first hand youtube coverage (Game Informer, specifically) and I kept hearing how people found the barbarian and druid classes fun to play but the sorceress was just boring… and, quite frankly, I agree with them. However, it’s only because I can see that a lot of care and effort has gone into making the normal attacks, movement and special animations of those classes really fun and visually interesting – they feel weighty. The sorceress just raises her hands and/or staff and something happens on-screen. This isn’t the first game doing this – it’s basically all of them!
+Magic has always required theatrics to make it look interesting …</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
     <item>
       <title>Diecast #277: Halloween, Starbound, Manifold Garden</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=48448</link>
@@ -71,8 +166,7 @@ Vale,<br>
       </itunes:image>
       <itunes:duration>1:06:16</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		This weekend was our twice-yearly ceremony of pointlessly messing with the clocks. I just realized I didn’t rant about it this year. Sorry about that. I’m not giving up, I’ve just got other things on my mind lately. Feel free to revisit my rant from exactly one year ago if you’re missing my usual tirade against this petty annoyance.
+      <itunes:summary>This weekend was our twice-yearly ceremony of pointlessly messing with the clocks. I just realized I didn’t rant about it this year. Sorry about that. I’m not giving up, I’ve just got other things on my mind lately. Feel free to revisit my rant from exactly one year ago if you’re missing my usual tirade against this petty annoyance.
 
 Also: The mailbag is now empty, so if you have a question you’ve been sitting on then now is your chance. The email is in the header image.
 
