@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -18,6 +18,142 @@
     <itunes:subtitle>Like Twenty-Sided, but with less video.</itunes:subtitle>
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
+    <item>
+      <title>Diecast #281: PC Building, Fallen Order, Mailbag</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=48650</link>
+      <description>
+        <![CDATA[
+		<p>We are very quickly running out of year! I need to spend the next couple of weeks in a mad panic, trying to make some kind of sense of the whole thing so I can write my end-of-year thoughts.</p>
+<p>In a fit of uncharacteristic productivity, we managed to clear out the mailbag this week. As always, if you’ve questions for the show, the email is in the header.</p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast281.mp3">Diecast281</a><p></p>
+<p>Show notes:<span id="more-48650"></span></p>
+<p><strong>00:00 Building a sub $300 “Gaming” PC</strong></p>
+<p></p><br>
+<p></p>
+<p><strong>05:13 Star Wars Jedi: Fallen Order</strong></p>
+<p>Just finished my second playthrough. Short review: Combat is fantastic. Getting around and general level flow is horrendous and frustrating. (The constant one-way gates mixed with the sparse save points and lack of fast travel really make the whole “collection and exploration” part of the game a chore.)</p>
+<p><strong>14:56 RIP Steam Controller, General controller discussion</strong></p>
+<p><strong>26:54 Unlock the King</strong></p>
+<p><a href="https://store.steampowered.com/app/1172510/Unlock_The_King/">What an interesting idea for a game</a>, although the first 50 puzzles are a bit toothless. It’s nice, gentle fun.</p>
+<p><strong>29:18 Running Cat 6 Through the Attic</strong></p>
+<p>It always seems like it should be straightforward. It never is.</p>
+<p><strong>33:24 Mailbag: Toxicity of Internet Discourse</strong></p>
+<blockquote><p>Shamus –<br>
+  You’ve said before that the a problem with internet arguments is that civil discussions can easily get derailed by a tiny minority of vocal, rude participants that poison the conversation by changing the tone. Is that a fair summary of your opinion?</p>
+<p>I read in the news a while ago that agents of a foreign government had made a coordinated effort to do exactly that. They posed as normal Americans online and they injected hostility and extremism into the discourse. Do you see a connection between this news and your personal observations?</p>
+<p>I think I remember reading about this in several different places but, for reference, here’s one example of the news I’m talking about: https://medium.com/s/story/the-trolls-within-how-russian-information-operations-infiltrated-online-communities-691fb969b9e4<br>
+  – DTor</p></blockquote>
+<p><strong>35:52 Mailbag: Mailing Lists</strong></p>
+<blockquote><p>Hi Shamus and Paul,</p>
+<p>I’ve been following videos on YT channel, and noticed that while you suggest subscribing (way ahead of you!:), you also actually explained reasoning behind it (algorithm hacking).</p>
+<p>Lately several other youtube creators I follow suggested something different: subscribing to their mailing list.</p>
+<p>Most notable example with explaination is <a href="https://www.youtube.com/watch?v=DIssymQvrbU">CGP Grey</a> (which I know you follow too): </p>
+<p>And I find it interesting that subscribing in that fashion at some expense of doing it via youtube system (surely some people won’t want to get notification twice) seem to conflict with algo-gaming rationale.</p>
+<p>I’ve been following youtube via notification emails exclusively for years, and can attest that it’s not great at delivering these, as I’m<br>
+sure you know too (pretty sure it happened a few times for me with Bob Case’s already rare-gem videos). So wonder about what you guys think on the topic?</p>
+<p>Cheers, Mike.</p></blockquote>
+<p><strong>11:54 Mailbag: Procgen Stealth</strong></p>
+<blockquote><p>Dear Shamus and Paul:</p>
+<p>Please can you wang on about the procedurally generated stealth game Shadows of Doubt:</p>
+<p>https://store.steampowered.com/app/986130/Shadows_of_Doubt/<br>
+https://colepowered.com/</p>
+<p>(I’m not involved in this game, I’d just like to hear your thoughts)</p>
+<p>Ross</p></blockquote>
+<p></p><p></p>
+<p><strong>47:07 Mailbag: Single-Save games</strong></p>
+<blockquote><p>Hi!</p>
+<p>A couple of loosely related questions</p>
+<p>1. No idea if you ever played or will play- Vampyr or not, but I hope the question will make sense nonetheless. In short, it’s an RPG (a RPG?) where you play as a british doctor in post-WW1 London who recently became a vampire (a vampyr?) and trying to survive.</p>
+<p>So, one of the ideas of this game, is that doesn’t allow you to have multiple saves during the playthrough. And you can’t manually save — it’s all autosaves. Just like Alpha Protocol, just without time restriction on dialogue choices. Another idea — one of the ways to gain additional XP is to drink an NPC’s blood (and killing them in the process), if you desire. To make person’s blood more… potent (I assume) you have to unlock «facts» about the person by either talking to this person, talking to other people about this person or doing quests involving this person. Each NPC has a set number facts, that you can look in the menu (this guy has, so far, 3 locked facts, this lady has 2 unlocked facts and 2 locked ones, etc). Now…</p>
+<p>I’ve played a couple evenings a couple weeks ago, enjoyed the start of the game a lot. I met a claustrophobic guy and in one of the dialogs you must guess the reason for his condition. I chose poorly and the menu showed that this fact is lost and no longer unclockable. And because of the save system, I can’t reload a save now. I’m almost sure, that the game didn’t tell me beforehand, that I can prevent myself from unlocking facts. I’m planning to play as a pacifist, so missing XP isn’t the issue here, but missing parts of the content is bothering me and prevents me of continuing with the game. I’m almost wanting to restart the game anew.</p>
+<p>So… The question for you is this. We all want experiments with the gameplay, to keep things fresh. And I respect the choice of devs to make this save system and see the intent here. But… I don’t think the experiment is a successful one, to be honest. What do you think about this save system, and which save systems you find most interesting yourself?</p>
+</blockquote>
+<p>This email continues in the next section…</p>
+<p><strong>54:14 Mailbag: Standardized Controls</strong></p>
+<blockquote><p>2. In a recent diecast, in the question about game classics, you noted, that games that you can name have bad controls. Or rather non-standardized controls. But is it a bad thing per se? Two years ago I played enchanced edition of System Shock, the one that had mouse look. And yeah, having a mouse look is cool. And the game is great (probably one of the best games I played in recent years). But the most satisfying part of the game for me was the weapon’s reload process. You disengage the mouse look quickly move the mouse cursor to the bottom left corner, switch tabs, select your ammo, move it to the weapon icon, engage the mouse look. Yes its clunky, but in the heat of the moment you feel like you reloaded the weapon yourself (despite it not being done with VR). Now its mostly press R (or X, or square). Or press a button in the exact moment to make it instant if the game fees fancy.</p>
+<p>Do you think, that more games should strive to go away from standardized control scheme to enchance the experience in some way? E.g., do old-school Resident Evil’s tank controls, if you feel that it works for your game. Or may be it’s for the better that games are more or less unified with their control scheme? I honestly don’t know.</p>
+<p>Best regards, DeadlyDark</p></blockquote>
+<p><strong>1:03:06 Mailbag: Taking Things Apart</strong></p>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast281.mp3" length="73022637" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=48650</guid>
+      <pubDate>Mon, 02 Dec 2019 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast2018.jpg">
+      </itunes:image>
+      <itunes:duration>1:16:44</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		We are very quickly running out of year! I need to spend the next couple of weeks in a mad panic, trying to make some kind of sense of the whole thing so I can write my end-of-year thoughts.
+
+In a fit of uncharacteristic productivity, we managed to clear out the mailbag this week. As always, if you’ve questions for the show, the email is in the header.
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+Diecast281
+
+Show notes:
+
+00:00 Building a sub $300 “Gaming” PC
+
+
+
+
+
+05:13 Star Wars Jedi: Fallen Order
+
+Just finished my second playthrough. Short review: Combat is fantastic. Getting around and general level flow is horrendous and frustrating. (The constant one-way gates mixed with the sparse save points and lack of fast travel really make the whole “collection and exploration” part of the game a chore.)
+
+14:56 RIP Steam Controller, General controller discussion
+
+26:54 Unlock the King
+
+What an interesting idea for a game, although the first 50 puzzles are a bit toothless. It’s nice, gentle fun.
+
+29:18 Running Cat 6 Through the Attic
+
+It always seems like it should be straightforward. It never is.
+
+33:24 Mailbag: Toxicity of Internet Discourse
+
+Shamus –
+  You’ve said before that the a problem with internet arguments is that civil discussions can easily get derailed by a tiny minority of vocal, rude participants that poison the conversation by changing the tone. Is that a fair summary of your opinion?
+I read in the news a while ago that agents of a foreign government had made a coordinated effort to do exactly that. They posed as normal Americans online and they injected hostility and extremism into the discourse. Do you see a connection between this news and your personal observations?
+I think I remember reading about this in several different places but, for reference, here’s one example of the news I’m talking about: https://medium.com/s/story/the-trolls-within-how-russian-information-operations-infiltrated-online-communities-691fb969b9e4
+  – DTor
+35:52 Mailbag: Mailing Lists
+
+Hi Shamus and Paul,
+I’ve been following videos on YT channel, and noticed that while you suggest subscribing (way ahead of you!:), you also actually explained reasoning behind it (algorithm hacking).
+Lately several other youtube creators I follow suggested something different: subscribing to their mailing list.
+Most notable example with explaination is CGP Grey (which I know you follow too): 
+And I find it interesting that subscribing in that fashion at some expense of doing it via youtube system (surely some people won’t want to get notification twice) seem to conflict with algo-gaming rationale.
+I’ve been following youtube via notification emails exclusively for years, and can attest that it’s not great at delivering these, as I’m
+sure you know too (pretty sure it happened a few times for me with Bob Case’s already rare-gem videos). So wonder about what you guys think on the topic?
+Cheers, Mike.
+11:54 Mailbag: Procgen Stealth
+
+Dear Shamus and Paul:
+Please can you wang on about the procedurally generated stealth game Shadows of Doubt:
+https://store.steampowered.com/app/986130/Shadows_of_Doubt/
+https://colepowered.com/
+(I’m not involved in this game, I’d just like to hear your thoughts)
+Ross
+
+
+
+47:07 Mailbag: Single-Save games
+
+Hi!
+A couple of loosely related questions
+1. No idea if you ever played or will play- Vampyr or not, but I hope the question will make sense nonetheless. In short, it’s an RPG (a RPG?) where you play as a british doctor in post-WW1 London who recently became a vampire (a vampyr?) and trying to survive.
+So, one of the ideas of this game, is that doesn’t allow you to have multiple saves during the playthrough. And you can’t manually save — it’s all autosaves. Just like Alpha Protocol, just without time restriction on dialogue choices. Another idea — one of the ways to gain additional XP is to drink an NPC’s blood (and killing them in the process), if you desire. To make person’s blood more… potent (I assume) you have to un…</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
     <item>
       <title>Diecast #280: Stadia, Jedi Fallen Order, Half-Life Alyx</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=48578</link>
@@ -81,8 +217,7 @@ Duoae</p></blockquote>
       </itunes:image>
       <itunes:duration>1:02:46</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		If you want a podcast that’s an actual discussion and not me thoughtlessly talking over Paul for an hour, then don’t miss the Eh! Steve! Podcast this week, where I discuss Control with the hosts.
+      <itunes:summary>If you want a podcast that’s an actual discussion and not me thoughtlessly talking over Paul for an hour, then don’t miss the Eh! Steve! Podcast this week, where I discuss Control with the hosts.
 
 
 Hosts: Paul, Shamus. Episode edited by Issac.
