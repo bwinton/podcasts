@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -18,6 +18,127 @@
     <itunes:subtitle>Like Twenty-Sided, but with less video.</itunes:subtitle>
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
+    <item>
+      <title>Diecast #283: The Game Awards, System Shock Demo</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=48743</link>
+      <description>
+        <![CDATA[
+		<p>Next week will be the last Diecast of 2019. We’re taking off Dec 30<sup>th</sup>, and we’ll be back on January 6<sup>th</sup>. So if you have any 2019-specific questions, then now is the time. Also! <a href="https://www.youtube.com/user/SoldierHawke">SoldierHawke</a> will be visiting in mid-January, so don’t forget to send in your questions for her. The email is in the header image.</p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast283.mp3">Diecast283</a><p></p>
+<p>Show notes:<br>
+<span id="more-48743"></span><strong>00:00 The Game Awards</strong></p>
+<p>Here is the archived livestream, if you like watching pre-recorded award shows.</p>
+<p></p><p></p>
+<p><strong>18:08 Hacking YouTube</strong></p>
+<p>I used a bad hypothetical example in this section. I talked about someone making a 30 minute documentary on Duke Nukem, but using 5 seconds of a copyrighted song as a punchline / gag. So then the record label copyright claims the video and gets 100% of the revenue because they own 0.27% of the audio.</p>
+<p>Looking back, I think this is a bad example because using copyrighted stuff for a joke might not be covered under fair use. Granted, the MORAL thing is that the record label gets nothing because this “infringement” did them no harm and did nothing to weaken their IP. But according to the law, the label might have a case.</p>
+<p>At any rate, a much cleaner example would be:</p>
+<p>As part of a <a href="https://www.youtube.com/watch?v=nryFmUjtwEY">musical instruction video</a>, I play 10 seconds of a popular song. I use my own performance on a single instrument. I only reproduce a section of the song and not the whole thing. This usage is entirely for educational purposes.</p>
+<p>In this case, I would be 100% in the right. This usage is absolutely covered under fair use. In fact, <strong>this example is why fair use exists.</strong> This use is both legal and moral. And yet YouTube’s disgusting system would automatically rob me of my few dollars of income and hand it off to a giant corporation who did nothing to produce the work in question.</p>
+<p>Like I said on the show: This is a fundamentally immoral and corrupt system. It’s a system of automated <strong>theft</strong>, where the rich and powerful take from the small and powerless. YouTube is complicit in <a href="https://www.youtube.com/watch?v=z4AeoAWGJBw">this crime</a>.</p>
+<p>So yeah. Screw this sick Kafkaesque system.</p>
+<p></p><p></p>
+<p><strong>24:35 System Shock Demo</strong></p>
+<p><a href="https://www.reddit.com/r/systemshock/comments/ea30wf/reloading_the_magnum_in_the_demo/">I couldn’t figure out how to put the bullets in the gun</a>, which is a hilarious problem to have in a shooter.</p>
+<p><strong>36:10 Mailbag: Replay ONE game for the first time?</strong></p>
+<blockquote><p>Dear dī-kast</p>
+<p>Whether it’s a linear narrative that would be repetitive to replay, a puzzle game that wouldn’t be satisfying now that you remember all the solutions, or a survival game where most of the progression is about learning the game’s systems, some games are only satisfying to play once. if you could take a magic pill that would erase all your memory of one videogame so that you could play it again completely fresh, which game would you choose and why?</p>
+<p>Ninety-Three</p></blockquote>
+<p><strong>40:41 Mailbag: Big Cities</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>I was looking through my old folders of random assorted games and whatnot and stumbled upon a directory of games from the BigTown contest, where people were challenged to make a game set in as big a city as possible. This made me think of big cities in various games and it struck me that most cities and towns tend to be very small.</p>
+<p>What are your favourite big(-ish) cities and towns in games, if any?</p>
+<p>Vale,</p>
+<p>-Tim</p></blockquote>
+<p></p><p></p>
+<p><strong>45:14 Mailbag: The End of Windows 7</strong></p>
+<blockquote><p>Dear Diecast</p>
+<p>Since the release of Windows 10, I have stayed happily faithful to my trusty Windows 7, never seeing a legitimate need to change. It has proven stable, streamlined and capable of running all the programmes I need, including my extensive library of video games, old an new. By contrast, the forced updates, data harvesting, lack of user control and general operating-system-as-service ethos of Windows 10 is unsettlingly Orwellian. However, the looming End of Life deadline for Windows 7 in 2020 has me thinking that it might finally be time to install a new OS. If it is indeed so dangerous to remain with the unsupported Windows 7, what is your opinion of Windows 10 as a successor? Given my reservations about Windows 10, is the more open-source and democratic Linux a viable alternative, particularly for gaming?</p>
+<p>Sincerely<br>
+Luka, a long-time reader from South Africa</p></blockquote>
+<p><strong>1:01:25 Mailbag: EGS Revisited.</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>Now that some of the most controversial Epic exclusives have been released for the Dirty-Commie-Mutant-Traitors who use that platform, specifically Mechwarrior 5 and Phoenix Point (As well as a Paranoia game, thus the epithets), have the arguments about the platform changed at all?</p>
+<p>As a fellow Filthy-Traitorous-Mutated-Commie myself (Don’t tell Friend Computer, had to have Satisfactory while it was one sale, grabbed P-Point at the same time), my personal experience has been somewhat mixed. Satisfactory hasn’t had any issues, but the lack of news-feed has proven detrimental to Phoenix Point. I noticed an issue after it had said it had updated, and I realized there wasn’t any way that I could find to see the patch-notes in the Epic Launcher/Store. (Satisfactory solves this by having them in-game)</p>
+<p>There was also some issues with the save-system, with the epic cloud saves constantly asking which save you wanted to use, as well as causing some save files to be stored in the wrong place or just losing them, because Ironman mode wasn’t hard enough, you need to play in a single sitting or not at all.</p>
+<p>On the plus side, when looking on the unofficial forum that explained where to find where epic had hidden the saves, I noticed a thread which mentioned that people have already started modding the game, so the lack of steam workshop isn’t completely killing the mod scene, as many had feared it might.</p>
+<p>TLDR: Have your thoughts on the EGS changed at all, now that it’s not just the Satisfactory launcher?</p>
+<p>Busily saving the world again because the save got lost, Shas’Ui</p></blockquote>
+<p>On the show I promised to link to the Jon Blow talk where he discusses how slow and clunky our software is getting. The talk in question is <a href="https://www.youtube.com/watch?v=De0Am_QcZiQ">Reboot Develop 2017 – Jonathan Blow, Thekla Inc. / Making Game Programming Less Terrible</a>. The part I reference can be found at <a href="https://www.youtube.com/watch?v=De0Am_QcZiQ&amp;t=2m35s">2m:35s</a>.</p>
+<p><strong>1:11:03 Paul’s reading of Fall From the Sky</strong></p>
+<p>Here is <a href="http://peripheralarbor.com/FFTS/FFTSGoodPartsReading.ogg">the audiobook excerpt</a> that Paul created. I really envy his smooth, non-croaking voice.</p>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast283.mp3" length="69411561" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=48743</guid>
+      <pubDate>Mon, 16 Dec 2019 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast2018.jpg">
+      </itunes:image>
+      <itunes:duration>1:13:10</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		Next week will be the last Diecast of 2019. We’re taking off Dec 30th, and we’ll be back on January 6th. So if you have any 2019-specific questions, then now is the time. Also! SoldierHawke will be visiting in mid-January, so don’t forget to send in your questions for her. The email is in the header image.
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+Diecast283
+
+Show notes:
+00:00 The Game Awards
+
+Here is the archived livestream, if you like watching pre-recorded award shows.
+
+
+
+
+18:08 Hacking YouTube
+
+I used a bad hypothetical example in this section. I talked about someone making a 30 minute documentary on Duke Nukem, but using 5 seconds of a copyrighted song as a punchline / gag. So then the record label copyright claims the video and gets 100% of the revenue because they own 0.27% of the audio.
+
+Looking back, I think this is a bad example because using copyrighted stuff for a joke might not be covered under fair use. Granted, the MORAL thing is that the record label gets nothing because this “infringement” did them no harm and did nothing to weaken their IP. But according to the law, the label might have a case.
+
+At any rate, a much cleaner example would be:
+
+As part of a musical instruction video, I play 10 seconds of a popular song. I use my own performance on a single instrument. I only reproduce a section of the song and not the whole thing. This usage is entirely for educational purposes.
+
+In this case, I would be 100% in the right. This usage is absolutely covered under fair use. In fact, this example is why fair use exists. This use is both legal and moral. And yet YouTube’s disgusting system would automatically rob me of my few dollars of income and hand it off to a giant corporation who did nothing to produce the work in question.
+
+Like I said on the show: This is a fundamentally immoral and corrupt system. It’s a system of automated theft, where the rich and powerful take from the small and powerless. YouTube is complicit in this crime.
+
+So yeah. Screw this sick Kafkaesque system.
+
+
+
+
+24:35 System Shock Demo
+
+I couldn’t figure out how to put the bullets in the gun, which is a hilarious problem to have in a shooter.
+
+36:10 Mailbag: Replay ONE game for the first time?
+
+Dear dī-kast
+Whether it’s a linear narrative that would be repetitive to replay, a puzzle game that wouldn’t be satisfying now that you remember all the solutions, or a survival game where most of the progression is about learning the game’s systems, some games are only satisfying to play once. if you could take a magic pill that would erase all your memory of one videogame so that you could play it again completely fresh, which game would you choose and why?
+Ninety-Three
+40:41 Mailbag: Big Cities
+
+Dear Diecast,
+I was looking through my old folders of random assorted games and whatnot and stumbled upon a directory of games from the BigTown contest, where people were challenged to make a game set in as big a city as possible. This made me think of big cities in various games and it struck me that most cities and towns tend to be very small.
+What are your favourite big(-ish) cities and towns in games, if any?
+Vale,
+-Tim
+
+
+
+45:14 Mailbag: The End of Windows 7
+
+Dear Diecast
+Since the release of Windows 10, I have stayed happily faithful to my trusty Windows 7, never seeing a legitimate need to change. It has proven stable, streamlined and capable of running all the programmes I need, including my extensive library of video games, old an new. By contrast, the forced updates, data harvesting, lack of user control and general operating-system-as-service ethos of Windows 10 is unsettlingly Orwellian. However, the looming End of Life deadline for Windows 7 in 2020 has me thinking that it might finally be time to install a new OS. If it is indeed so dangerous to remain with the unsupported Windows 7, what is your opinion of Windows 10 as a successor? Given my reservations about Windows 10, is the more open-source and democratic Linux a viable al…</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
     <item>
       <title>Diecast #282: Christmas Lights, Streaming Services</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=48716</link>
@@ -57,8 +178,7 @@ Kaden</p></blockquote>
       </itunes:image>
       <itunes:duration>1:06:39</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		As I said at the end of the show: SoldierHawke is coming to town. It’s been a year since her last visit. The plans aren’t finalized, but it looks like Monday January 13 2020 is going to be her show. If you have any questions for her, the show email is in the header image. Be sure to say that the question is for the SoldierHawke episode so it doesn’t wind up in the standard queue for Paul and I.
+      <itunes:summary>As I said at the end of the show: SoldierHawke is coming to town. It’s been a year since her last visit. The plans aren’t finalized, but it looks like Monday January 13 2020 is going to be her show. If you have any questions for her, the show email is in the header image. Be sure to say that the question is for the SoldierHawke episode so it doesn’t wind up in the standard queue for Paul and I.
 
 
 
@@ -97,8 +217,7 @@ How would you go about crafting a more convincing Lara Croft/Jason Brody (Far Cr
 Thanks you,
 Kaden
 
-    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-	</itunes:summary>
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
