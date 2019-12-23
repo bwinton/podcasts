@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -18,6 +18,131 @@
     <itunes:subtitle>Like Twenty-Sided, but with less video.</itunes:subtitle>
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
+    <item>
+      <title>Diecast #284: The Last Mailbag of 2019</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=48829</link>
+      <description>
+        <![CDATA[
+		<p>Merry Christmas, Happy Holidays, or whatever is appropriate in your culture. If you’re not celebrating anything right now, then have a great Monday! </p>
+<p>Also, say goodbye to the familiar header image. We’re getting a new one for the new year. In fact, I planned on having a new image every year, but I forgot in 2019 and so the 2018 header lingered for an extra year.</p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast284.mp3">Diecast284</a><p></p>
+<p>Show notes:<span id="more-48829"></span></p>
+<p><strong>01:14 The Witcher Netflix Series</strong></p>
+<p>On the podcast I mentioned that the show had several distracting anachronisms. I mentioned the “Off the grid” line. The other major one is Jaskier’s music, which are incredibly, inescapably modern in their construction. They’re essentially pop songs played on old instruments.</p>
+<p>Now, this is a fictional world and there’s no reason their music theory couldn’t be a little more complex than the music theory we had in medieval times. This isn’t a plot hole. It’s just distracting. It’s having someone say “Chill out, dude.” There’s no reason that couldn’t be a phrase in their world, but it still sounds off to a modern viewer.</p>
+<p>Still, there’s no escaping the fact that this anachronism makes the songs more fun to listen to, and sticking to period-appropriate music would make the songs tedious to most people. </p>
+<p>It’s a perfectly understandable creative decision, but it still launches me out of the experience whenever Jaskier starts singing. </p>
+<p>Also: I guess this is the Dandelion character from the game? I like him better here. </p>
+<p><strong>18:31 Mailbag: Website Peeves</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>If I had to list them, my number three worst peeves of modern(?) websites are:<br>
+1. Websites that continually resize/resort/whatever so the links can jump around causing you to misclick.<br>
+2. Websites that allow you to start an action (such as replying to a post or placing an order), but then require you to login to complete that action, but then don’t return you to where you were after you login.<br>
+3. Websites that autoplay video with sound.</p>
+<p>As people who have their own websites, what are your peeves?</p>
+<p>Joshua</p></blockquote>
+<p>In this segment I said, “If you’re too stupid to realize that leaving a comment requires cookies…”. </p>
+<p>This makes it sound like I’m looking down at people who aren’t tech savvy. That’s a terrible way of stating things because that’s <strong>not</strong> what I was trying to say! I was trying to aim contempt at people who don’t understand how technology works, but who <strong>get offended anyway</strong>. Like, this website uses cookies so you can edit your comments. Without cookies, you’re a new person every time you reload the page and the website has no way of confirming that you’re the person who left a comment ten seconds ago. My problem is with people who get angry at a site using cookies who also don’t understand what cookies are for and how they work. Yes, cookies have been used to do all sorts of sketchy privacy-invading crap, but they also have perfectly legitimate uses. I just get annoyed at busybodies who don’t know the difference and think that sites shouldn’t ever be <strong>allowed</strong> to use cookies. </p>
+<p>I’m not totally sure how cookies work on my site because I’m using WordPress with a handful of third-party plugins, and those systems were made by other people. I do know that it doesn’t create any long-term data on anyone. (You can’t create an account.) And I don’t ever share anything with anyone. (Not like anyone would offer me money for a list of IP addresses and unconfirmed emails, but even if they did I’d refuse, because ick.) But then we have YouTube embeds on this site, and who knows what those things collect on behalf of Google.</p>
+<p><strong>23:08 Mailbag: Paying for Basic Features</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>News from this last week came to my eyes indicating that the latest Call of Duty game (published by Activision) doesn’t include a kill/death ratio in the in-game (match) interface. However, they have now released a $20 cosmetic accessories pack that includes a watch which shows kills and deaths.</p>
+<p>Yeah, this is Activision and we know they’re scummy and this is a particularly scummy move but I wondered: If Activision paid you retirement money for the Good Robot franchise and you sold it to them, What feature would they put behind a paywall? (The obvious one would be the hats but I was thinking about something more obscure… like seeing which level you’re on.)</p>
+<p>https://kotaku.com/modern-warfare-will-show-you-your-kill-death-ratio-for-1840416982</p>
+<p>All the best,<br>
+Duoae</p></blockquote>
+<p><strong>25:57 Mailbag: Pseudoku Update?</strong></p>
+<blockquote><p>Dear Shamus,</p>
+<p>I remember you working on your game Pseudoku quite a while ago, but it was stalled due to bureaucratic reasons. I think there was maybe one or two small mentions since then, but it’s been pretty quiet.</p>
+<p>Anyways a lot has happened since, with different projects and learning unity and such. What is the current state of the game? It looked really interesting. I remember enjoying the demo a whole bunch, especially the music. Is it still on the back-burner, or has it gone the way of the HL3?</p>
+<p>– Zach</p></blockquote>
+<p>If you’re curious, Paul has <a href="http://peripheralarbor.com/pseudoku052.zip">a mirror of the original Pseudoku demo</a>.</p>
+<p><strong>27:41 Mailbag: Good Mechanics in Unpopular Games?</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>Do you ever look back at a game you liked/loved and which everyone else hated and then see many of the same mechanics ported to games which have gone on to be liked/loved by everyone else?</p>
+<p>I remember when Prince of Persia (2008) was released – many people derided it for its simplistic platforming (for which they felt they provided no input), the ease of the game (since you never “died” you just respawned at the last safe solid ground/platform) and terrible combat. </p>
+<p>Now, I can’t fault them for hating the combat, it really was a chore and a very weird system. However, the platforming had as much control as that provided by Jedi: Fallen Order and the “fall off of platform and immediate save” mechanic was used in multiple games since then (Bioshock: Infinite and Fallen Order come to mind mostly). </p>
+<p>IMO, 2008 came closest to repeating the magical interation between the story/characters and the player of The Sands of Time. I really wish a sequel had been made. I fear that the series is basically dead at this point since it can’t be turned into a collectathon open world like Assassin’s Creed or Watch Dogs by Ubisoft…. (dear god, please don’t let Ubisoft do that!)</p>
+<p>Do you have any games that you really enjoyed whose mechanics were disliked at the time but then had games which were popular reuse them without issue?</p>
+<p>All the best (and Merry Christmas – if this is on that show :) ),<br>
+Duoae</p></blockquote>
+<p><strong>35:04 Mailbag: Halo</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>Given your love of Sci-Fi, are you aware of Halo’s story, and if so what do you think of it? </p>
+<p>It’s deeper than you’d expect from Halo’s shooter reputation.</p>
+<p>Sincerely,<br>
+Thomas</p></blockquote>
+<p><strong>42:38 Mailbag: Ruins as a setting </strong></p>
+<blockquote><p>Dear spatial translators of semi-regular hand-held polyhedral solids with numerically-encoded facets:</p>
+<p>A few months back, I ran across a post discussing the often-overlooked fact that the very structure of Dungeons &amp; Dragons implies a fallen world, one in which civilization has collapsed and the survivors are attempting to re-build among the wreckage. It’s even explicit, in that successive rule-sets advance the narrative of the world you’re dropped into, along a societal curve one might expect given the remnants of the populous slowly reclaiming the world around them — an endless wilderness with monsters in one edition gives way to villages and outposts in the next, and cities after that.</p>
+<p>http://www.brainleakage.com/home/the-implied-apocalypse-of-dungeons-dragons </p>
+<p>But this tendency is everywhere in storytelling, not merely D&amp;D (think of Rey, in The Force Awakens, scavenging in what remains of the Empire’s ships), and I’ve seen it suggested that perhaps this is a remnant of medieval thinking, with the dominant storytelling tropes originating from societies that had developed among the ruins of ancient Rome.</p>
+<p>I was wondering what your thoughts were on how this same tendency has guided the ideas we expect from games, too, and what the implications of that are for story and worldbuilding. I can’t imagine Skyrim, for example, without the Dwemer ruins, while Half-Life 2 has us playing through the events of the collapse itself. This sort of deep history seems almost critical to establishing a detailed setting that feels old and lived-in, and yet the emphasis on collapse and rebuild feels constraining as well.</p>
+<p>Yours in nerdiness,<br>
+Ryan</p></blockquote>
+<p><strong>56:33 Mailbag: Youtube 60fps</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>Shamus Youtube vids are 1080p but not 60fps.  Explain?</p>
+<p>Thank you,</p>
+<p>KuneDog</p></blockquote>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast284.mp3" length="67602371" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=48829</guid>
+      <pubDate>Mon, 23 Dec 2019 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast2018.jpg">
+      </itunes:image>
+      <itunes:duration>1:11:20</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		Merry Christmas, Happy Holidays, or whatever is appropriate in your culture. If you’re not celebrating anything right now, then have a great Monday! 
+
+Also, say goodbye to the familiar header image. We’re getting a new one for the new year. In fact, I planned on having a new image every year, but I forgot in 2019 and so the 2018 header lingered for an extra year.
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+Diecast284
+
+Show notes:
+
+01:14 The Witcher Netflix Series
+
+On the podcast I mentioned that the show had several distracting anachronisms. I mentioned the “Off the grid” line. The other major one is Jaskier’s music, which are incredibly, inescapably modern in their construction. They’re essentially pop songs played on old instruments.
+
+Now, this is a fictional world and there’s no reason their music theory couldn’t be a little more complex than the music theory we had in medieval times. This isn’t a plot hole. It’s just distracting. It’s having someone say “Chill out, dude.” There’s no reason that couldn’t be a phrase in their world, but it still sounds off to a modern viewer.
+
+Still, there’s no escaping the fact that this anachronism makes the songs more fun to listen to, and sticking to period-appropriate music would make the songs tedious to most people. 
+
+It’s a perfectly understandable creative decision, but it still launches me out of the experience whenever Jaskier starts singing. 
+
+Also: I guess this is the Dandelion character from the game? I like him better here. 
+
+18:31 Mailbag: Website Peeves
+
+Dear Diecast,
+If I had to list them, my number three worst peeves of modern(?) websites are:
+1. Websites that continually resize/resort/whatever so the links can jump around causing you to misclick.
+2. Websites that allow you to start an action (such as replying to a post or placing an order), but then require you to login to complete that action, but then don’t return you to where you were after you login.
+3. Websites that autoplay video with sound.
+As people who have their own websites, what are your peeves?
+Joshua
+In this segment I said, “If you’re too stupid to realize that leaving a comment requires cookies…”. 
+
+This makes it sound like I’m looking down at people who aren’t tech savvy. That’s a terrible way of stating things because that’s not what I was trying to say! I was trying to aim contempt at people who don’t understand how technology works, but who get offended anyway. Like, this website uses cookies so you can edit your comments. Without cookies, you’re a new person every time you reload the page and the website has no way of confirming that you’re the person who left a comment ten seconds ago. My problem is with people who get angry at a site using cookies who also don’t understand what cookies are for and how they work. Yes, cookies have been used to do all sorts of sketchy privacy-invading crap, but they also have perfectly legitimate uses. I just get annoyed at busybodies who don’t know the difference and think that sites shouldn’t ever be allowed to use cookies. 
+
+I’m not totally sure how cookies work on my site because I’m using WordPress with a handful of third-party plugins, and those systems were made by other people. I do know that it doesn’t create any long-term data on anyone. (You can’t create an account.) And I don’t ever share anything with anyone. (Not like anyone would offer me money for a list of IP addresses and unconfirmed emails, but even if they did I’d refuse, because ick.) But then we have YouTube embeds on this site, and who knows what those things collect on behalf of Google.
+
+23:08 Mailbag: Paying for Basic Features
+
+Dear Diecast,
+News from this last week came to my eyes indicating that the latest Call of Duty game (published by Activision) doesn’t include a kill/death ratio in the in-game (match) interface. However, they have now released a $20 cosmetic accessories pack that includes a watch which shows kills and deaths.
+Yeah, this is Activision and we know they’re …</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
     <item>
       <title>Diecast #283: The Game Awards, System Shock Demo</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=48743</link>
@@ -80,8 +205,7 @@ Luka, a long-time reader from South Africa</p></blockquote>
       </itunes:image>
       <itunes:duration>1:13:10</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		Next week will be the last Diecast of 2019. We’re taking off Dec 30th, and we’ll be back on January 6th. So if you have any 2019-specific questions, then now is the time. Also! SoldierHawke will be visiting in mid-January, so don’t forget to send in your questions for her. The email is in the header image.
+      <itunes:summary>Next week will be the last Diecast of 2019. We’re taking off Dec 30th, and we’ll be back on January 6th. So if you have any 2019-specific questions, then now is the time. Also! SoldierHawke will be visiting in mid-January, so don’t forget to send in your questions for her. The email is in the header image.
 
 
 Hosts: Paul, Shamus. Episode edited by Issac.
