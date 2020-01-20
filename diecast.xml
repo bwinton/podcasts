@@ -19,6 +19,139 @@
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
     <item>
+      <title>Diecast #287: Endings, AI, and Mailbag</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=49059</link>
+      <description>
+        <![CDATA[
+		<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast287.mp3">Diecast287</a><p></p>
+<p>Show notes:<span id="more-49059"></span><br>
+<strong>00:00 Game of Thrones, Marvel, and Star Wars all Ended Last Year</strong></p>
+<p>The other thing that changed after <em>Avengers Endgame</em> is I sorta lost interest in the theater. It’s expensive, I have to plan my day around showtimes, I can’t pause, the only food is terrible and massively overpriced. The audio is usually way too high and massively bass boosted so that explosions are painful and dialog can be hard to parse. I can’t turn on subtitles if a character mumbles too much. I can’t rewind if I miss a line of dialog. The seats aren’t as nice as the one I have at home, I’m in a room full of strangers, and sometimes I end up with my view obscured by tall people. </p>
+<p>The “big screen experience” is nice, but I don’t think it’s nice enough to offset all those other downsides. I went to the theater for Marvel movies because I couldn’t wait to see them and I didn’t want to spend six months dodging conversations to avoid spoilers. But now I just don’t care that much. </p>
+<p>This is the kind of shift you’d expect to happen over time, but for me it was like someone flipped a switch as I exited the theater after Endgame. I can’t imagine anything that would make me go back.</p>
+<p><strong>02:21 Ideas for Survive the Hunt</strong></p>
+<p>I <a href="https://www.shamusyoung.com/twentysidedtale/?p=48987">wrote about this in detail last week</a>. Here’s <a href="https://www.youtube.com/watch?time_continue=1359&amp;v=85iMfmhH1Ek&amp;feature=emb_logo">a sample episode</a>.</p>
+<p><strong>16:03 “The Age of A.I.”</strong></p>
+<p>Here’s the first episode:</p>
+<p></p><p></p>
+<p>It turns out I was mistaken. I claimed that <a href="https://www.youtube.com/watch?v=i42HGtt5fao">this DeepFake of Dirty Harry where Clint Eastwood was replaced with Schwarzenegger</a> also used machine learning to replace the voice. But looking at the credits, I see it was just a human impressionist. Still, faking voices is a thing! Here’s a link to <a href="https://www.youtube.com/watch?v=0sR1rU3gLzQ">a demonstration</a>. </p>
+<p><strong>38:44 Mailbag: GDELB</strong></p>
+<blockquote><p>Dear Shamus and Paul,</p>
+<p>what are your opinions on Game Developers Essentials Lessons Book, or GDELB for short? If you’re not aware, GDELB is a series (well, it’s 2 videos at the moment, but the creator has confirmed a third one is in the works) that playfully pokes fun at certain mannerisms and habits exhibited by video game essayists such as Joseph Anderson, Mark Brown, and Downward Thrust. They’re crammed full of references, so they can be hard to follow, but it’s amazing to watch if you’re familiar with the source material.</p>
+<p>Vale,</p>
+<p>-Tim</p></blockquote>
+<p>Here is <a href="https://www.youtube.com/watch?v=ZUmIzYv031k">the first episode of GDELB</a>.</p>
+<p>Also, the channel I was trying to remember is <a href="https://www.youtube.com/watch?v=ADrBo7u3tR4">zefrank</a>.</p>
+<p><strong>44:30 Shake Hands with Beef</strong></p>
+<blockquote><p>Hi Diecast,</p>
+<p>I just learned about beef, a new <a href="https://www.beeflang.org/docs/foreward/">gamedev-oriented language developed by one of the co-founders of PopCap games</a>. (<a href="https://news.ycombinator.com/item?id=21991382">HackerNews discussion thread</a>)</p>
+<p>I don’t do much programming anymore, but I was wondering what you think about how this compares to Jai?</p>
+<p>Keep up the ranting,<br>
+Dennis</p></blockquote>
+<p><strong>53:50 Mailbag: Best run of AGDQ?</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>Shamus always mentions watching GamesDoneQuick each time it’s on. Usually I don’t have time to really get invested in the events due to time differences and schedule. This year is different and I’ve been trying to watch the speedruns that really interest me like the Fallout Anthology run, Ocarina of Time (NoSource) Manifold Garden and GTA:San Andreas.</p>
+<p>So, the $1,000,000 question: What has been your favourite run this ADGQ?</p>
+<p>All the best and Happy New Year,<br>
+Duoaeae-eio</p></blockquote>
+<p><a href="https://www.youtube.com/watch?v=oIC4tHc9_pc">This</a> was my favorite, but I’d like to hear everyone else’s.</p>
+<p><strong>56:23 Mailbag: Tie-in Games</strong></p>
+<blockquote><p>Dear diecasters,<br>
+It occurred to me that the amount of (horrible) tie-in games being released sank quite a bit in the last years.<br>
+Any idea why that is the  case?<br>
+Furthermore do you know of any tie-in games, which were okay or fun?</p>
+<p>For clarification: I would define a tie-in game as a game that was created and released to coincide with the release of a movie or somesuch. This does not include games which are part of a universe but are their own thing.</p>
+<p>Greetings from Austria,<br>
+Gresman</p></blockquote>
+<p><strong>1:02:52 Mailbag: What is this Genre?</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>Do you happen to know what the genre of games that includes Sid Meier’s Pirates! and Mount &amp; Blade is called?  I’m talking about games where the player is turned loose in a world full of competing factions and left to make his way as best he can by fighting or trading.  I don’t know what to call them and it’s bothering me.  Is there a commonly agreed upon name for the genre?  I need to know how to tag them in my games library.  I’m calling them “Other” at the moment it looks a little pathetic.  (See attached screenshot.)  Help!</p>
+<p>Thanks,</p>
+<p>–John</p></blockquote>
+<p><strong>1:06:41 Mailbag: CP2077 Delay</strong></p>
+<blockquote><p>Hi!</p>
+<p>You’ve probably already heard about another CP2077 delay (is it a fourth delay? Not sure). Do either of you have a bad feeling about the game or you’re confident that CD Projekt Red will prevail with the style? After reading about GlassDoor leaks from former members, and pondering on the long development cycle (from 2012 no less) with three or so restarts, I can’t help but expect Frankenstein of a game, not unlike Thi4f. And that’s a very painful comparison for me. And I can’t really find examples of games with 8 years of development, that turned out good and/or playable (Duke Nukem Forever, STALKER, Mass Effect Andromeda and such).</p>
+<p>Best regards, DeadlyDark</p></blockquote>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast287.mp3" length="72061381" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=49059</guid>
+      <pubDate>Mon, 20 Jan 2020 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast2020.jpg">
+      </itunes:image>
+      <itunes:duration>1:14:53</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>Hosts: Paul, Shamus. Episode edited by Issac.
+Diecast287
+
+Show notes:
+00:00 Game of Thrones, Marvel, and Star Wars all Ended Last Year
+
+The other thing that changed after Avengers Endgame is I sorta lost interest in the theater. It’s expensive, I have to plan my day around showtimes, I can’t pause, the only food is terrible and massively overpriced. The audio is usually way too high and massively bass boosted so that explosions are painful and dialog can be hard to parse. I can’t turn on subtitles if a character mumbles too much. I can’t rewind if I miss a line of dialog. The seats aren’t as nice as the one I have at home, I’m in a room full of strangers, and sometimes I end up with my view obscured by tall people. 
+
+The “big screen experience” is nice, but I don’t think it’s nice enough to offset all those other downsides. I went to the theater for Marvel movies because I couldn’t wait to see them and I didn’t want to spend six months dodging conversations to avoid spoilers. But now I just don’t care that much. 
+
+This is the kind of shift you’d expect to happen over time, but for me it was like someone flipped a switch as I exited the theater after Endgame. I can’t imagine anything that would make me go back.
+
+02:21 Ideas for Survive the Hunt
+
+I wrote about this in detail last week. Here’s a sample episode.
+
+16:03 “The Age of A.I.”
+
+Here’s the first episode:
+
+
+
+
+It turns out I was mistaken. I claimed that this DeepFake of Dirty Harry where Clint Eastwood was replaced with Schwarzenegger also used machine learning to replace the voice. But looking at the credits, I see it was just a human impressionist. Still, faking voices is a thing! Here’s a link to a demonstration. 
+
+38:44 Mailbag: GDELB
+
+Dear Shamus and Paul,
+what are your opinions on Game Developers Essentials Lessons Book, or GDELB for short? If you’re not aware, GDELB is a series (well, it’s 2 videos at the moment, but the creator has confirmed a third one is in the works) that playfully pokes fun at certain mannerisms and habits exhibited by video game essayists such as Joseph Anderson, Mark Brown, and Downward Thrust. They’re crammed full of references, so they can be hard to follow, but it’s amazing to watch if you’re familiar with the source material.
+Vale,
+-Tim
+Here is the first episode of GDELB.
+
+Also, the channel I was trying to remember is zefrank.
+
+44:30 Shake Hands with Beef
+
+Hi Diecast,
+I just learned about beef, a new gamedev-oriented language developed by one of the co-founders of PopCap games. (HackerNews discussion thread)
+I don’t do much programming anymore, but I was wondering what you think about how this compares to Jai?
+Keep up the ranting,
+Dennis
+53:50 Mailbag: Best run of AGDQ?
+
+Dear Diecast,
+Shamus always mentions watching GamesDoneQuick each time it’s on. Usually I don’t have time to really get invested in the events due to time differences and schedule. This year is different and I’ve been trying to watch the speedruns that really interest me like the Fallout Anthology run, Ocarina of Time (NoSource) Manifold Garden and GTA:San Andreas.
+So, the $1,000,000 question: What has been your favourite run this ADGQ?
+All the best and Happy New Year,
+Duoaeae-eio
+This was my favorite, but I’d like to hear everyone else’s.
+
+56:23 Mailbag: Tie-in Games
+
+Dear diecasters,
+It occurred to me that the amount of (horrible) tie-in games being released sank quite a bit in the last years.
+Any idea why that is the  case?
+Furthermore do you know of any tie-in games, which were okay or fun?
+For clarification: I would define a tie-in game as a game that was created and released to coincide with the release of a movie or somesuch. This does not include games which are part of a universe but are their own thing.
+Greetings from Austria,
+Gresman
+1:02:52 Mailbag: What is this Genre?
+
+Dear Diecast,
+Do you happen to know what the genre of games that includes Sid Meier’s Pirates! and Mount &amp; Blade is called?  I’m talking about games where the player is turned loos…</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
+    <item>
       <title>Diecast #286: Half-Life, Fallen Order, Mailbag</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=49013</link>
       <description>
@@ -70,8 +203,7 @@ chris</p></blockquote>
       </itunes:image>
       <itunes:duration>58:54</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		SoldierHawke is back, and so we spend a lot of the show talking about Valve games. Thanks to everyone who sent in questions. Paul will be back next week for more of… whatever it is we do here.
+      <itunes:summary>SoldierHawke is back, and so we spend a lot of the show talking about Valve games. Thanks to everyone who sent in questions. Paul will be back next week for more of… whatever it is we do here.
 
 
 Hosts: SoldierHawke, Shamus. Episode edited by Issac.
