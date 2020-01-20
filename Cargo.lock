@@ -862,7 +862,6 @@ dependencies = [
  "reqwest 0.9.24 (registry+https://github.com/rust-lang/crates.io-index)",
  "rss 1.8.0 (registry+https://github.com/rust-lang/crates.io-index)",
  "select 0.4.3 (registry+https://github.com/rust-lang/crates.io-index)",
- "time 0.1.42 (registry+https://github.com/rust-lang/crates.io-index)",
  "url 2.1.1 (registry+https://github.com/rust-lang/crates.io-index)",
 ]
 

@@ -1,7 +1,6 @@
 extern crate chrono;
 extern crate regex;
 extern crate reqwest;
-extern crate time;
 extern crate url;
 
 use std::fmt::Write;

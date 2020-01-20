@@ -15,5 +15,4 @@ reqwest = "0.9.22"
 rss = "1.8.0"
 # rss = { path = "../rss" }
 select = "0.4.3"
-time = "0.1.42"
 url = "2.1.1"
