@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -18,6 +18,111 @@
     <itunes:subtitle>Like Twenty-Sided, but with less video.</itunes:subtitle>
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
+    <item>
+      <title>Diecast #288: Mindustry, Warcraft Reforged, Journey to the Savage Planet</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=49158</link>
+      <description>
+        <![CDATA[
+		<p>Welcome! Please enjoy this hour and twelve minutes of two guys talking about a series of topics that are often tangentally related to video games. Thank you.</p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast288.mp3">Diecast288</a><br>
+<span id="more-49158"></span><p></p>
+<p><strong>01:15 “Bethesda NEVER Understood Fallout”</strong></p>
+<p><a href="https://www.shamusyoung.com/twentysidedtale/?p=49123">My most recent video</a> is (or was) doing amazingly well. In the hour and a half it took us to record this podcast, the video accumulated an additional 6k views, taking it over 100k. That means in that 1.5 hours, this video got more views than any of the previous videos did in the weeks and months since they were uploaded.</p>
+<p>Fun fact: When the views hit 125k, I turned on ads, just to see how YouTube would react. The views <strong>immediately</strong> stopped growing. Like, the counter barely moved. Let’s speculate on what that could mean:</p>
+<ol>
+<li>Curious: Ads are severely detrimental to views, to the point where a majority of people will hit the back button rather than sit through an ad.
+</li><li>Weird coincidence: I just happened to activate ads at the same time the video fizzled out.
+</li><li>Unsupported conspiracy theory: The video continued to accumulate views as before, but there’s a massive hidden conspiracy inside of YouTube and they don’t count all the views so they can keep more of the ad revenue for themselves. (Extremely unlikely, since such a system would require a lot of code, and that code would be visible to hundreds of people within the company due to the way Google shares code internally. Not only would it be impossible to keep this a secret for long, but it would be massively illegal and actionable in court.)
+</li><li>The views continued to happen, but now that money is on the line the system is much slower about counting them, since it needs to detect and weed out bots and such. The views are still happening, but they’ll only add to the counter in batches every few hours, once the system is confident the views are legit.
+</li></ol>
+<p>I’m betting on #1, with a side of #2. Still. It’s an interesting experiment. I’ll do it again if another video takes off.</p>
+<p><strong>13:03 Mindustry</strong></p>
+<p>I bought this game during the show, and I still haven’t launched it. As soon as this post is done, I think.</p>
+<p><strong>20:46 Warcraft Reforged</strong></p>
+<p><a href="https://www.forbes.com/sites/paultassi/2020/01/31/warcraft-3-reforged-has-a-record-low-08-score-on-metacritic-as-fans-are-furious/#12e62f6576fc">Here is a brief run-down of the problems from Forbes</a>. If you want to see the chaotic version, just check r/Blizzard on Reddit. It’s the equivalent of an angry mob hurling bricks through the windows at Blizzard. I’m used to seeing the occasional apologist in situations like this, but here the community seems to be united in their disapproval.</p>
+<p><strong>34:33 Paul wrote a novella-length book review:</strong></p>
+<p>Here is the <a href="https://www.youtube.com/watch?v=nPsvJqCR93M&amp;feature=youtu.be">video intro</a>, and here is <a href="http://blog.hawkbats.com/2019/12/31/chronicles-of-everfall-shadow-of-the-conqueror-review-and-feedback/">the full 19k word analysis</a>.</p>
+<p><strong>43:12 Journey to the Savage Planet</strong></p>
+<p></p><p></p>
+<p>It looks charming and the production values are top-notch, but… I’m just not feeling it. The gameplay is serviceable and the humor isn’t doing it for me. None of it is bad, but playing a comedy game that never makes you smile is a weird and vaguely disappointing experience.</p>
+<p><strong>52:12 Mailbag: Raise sales by uploading to pirate bay?</strong></p>
+<blockquote><p>Have you read <a href="https://www.pcgamer.com/indie-game-dev-sees-big-boost-in-sales-after-he-uploads-it-to-the-pirate-bay/?utm_content=buffere66c9&amp;utm_medium=social&amp;utm_source=facebook&amp;utm_campaign=buffer_pcgamerfb&amp;fbclid=IwAR303RqRfJQwddDA9AtqG6pWBurrC33E3vKnXnAMe0621B-7dHPKn9kmozM">this piece</a>?</p>
+<p>You’ve been saying for decades that people who pirate are not potential costumers who wouldn’t buy the game anyway, but it seems like they actually are. You’re still right on the front that fighting piracy is a self-defeating move, though. This indie uploaded his game on piratebay DRM-free and saw a considerable uptick on his actual sales, 400%.</p>
+<p>Do you have any thoughts on this phenomenon? You could use it as a talking point on your next DieCast.</p>
+<p>Cheers from your Brazilian Fan, RCN, AKA, OlamTheBard.</p></blockquote>
+<p><strong>1:00:17 Mailbag: Why don’t you write a game [Shamus]?</strong></p>
+<blockquote><p>So Shamus, have you considered writing an application letter to one of your favourite game studio’s? You bring unique qualities to the table.</p>
+<p>1. You are a good writer.<br>
+2. You have created assets when you worked at activeworlds, you have released Good Robot on steam, you have created some proc-gen demos. In short, you understand how much work it is too realize a gameworld and how your choices as a writer will affect the work the modelers, the animators etc. have to do.</p>
+<p>I think you might be one of the few people in the world with that unique combination. A must-hire for any studio!</p>
+<p>pseudonym</p></blockquote>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast288.mp3" length="68522063" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=49158</guid>
+      <pubDate>Mon, 03 Feb 2020 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast2020.jpg">
+      </itunes:image>
+      <itunes:duration>1:12:12</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		Welcome! Please enjoy this hour and twelve minutes of two guys talking about a series of topics that are often tangentally related to video games. Thank you.
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+Diecast288
+
+
+01:15 “Bethesda NEVER Understood Fallout”
+
+My most recent video is (or was) doing amazingly well. In the hour and a half it took us to record this podcast, the video accumulated an additional 6k views, taking it over 100k. That means in that 1.5 hours, this video got more views than any of the previous videos did in the weeks and months since they were uploaded.
+
+Fun fact: When the views hit 125k, I turned on ads, just to see how YouTube would react. The views immediately stopped growing. Like, the counter barely moved. Let’s speculate on what that could mean:
+
+
+Curious: Ads are severely detrimental to views, to the point where a majority of people will hit the back button rather than sit through an ad.
+Weird coincidence: I just happened to activate ads at the same time the video fizzled out.
+Unsupported conspiracy theory: The video continued to accumulate views as before, but there’s a massive hidden conspiracy inside of YouTube and they don’t count all the views so they can keep more of the ad revenue for themselves. (Extremely unlikely, since such a system would require a lot of code, and that code would be visible to hundreds of people within the company due to the way Google shares code internally. Not only would it be impossible to keep this a secret for long, but it would be massively illegal and actionable in court.)
+The views continued to happen, but now that money is on the line the system is much slower about counting them, since it needs to detect and weed out bots and such. The views are still happening, but they’ll only add to the counter in batches every few hours, once the system is confident the views are legit.
+
+I’m betting on #1, with a side of #2. Still. It’s an interesting experiment. I’ll do it again if another video takes off.
+
+13:03 Mindustry
+
+I bought this game during the show, and I still haven’t launched it. As soon as this post is done, I think.
+
+20:46 Warcraft Reforged
+
+Here is a brief run-down of the problems from Forbes. If you want to see the chaotic version, just check r/Blizzard on Reddit. It’s the equivalent of an angry mob hurling bricks through the windows at Blizzard. I’m used to seeing the occasional apologist in situations like this, but here the community seems to be united in their disapproval.
+
+34:33 Paul wrote a novella-length book review:
+
+Here is the video intro, and here is the full 19k word analysis.
+
+43:12 Journey to the Savage Planet
+
+
+
+
+It looks charming and the production values are top-notch, but… I’m just not feeling it. The gameplay is serviceable and the humor isn’t doing it for me. None of it is bad, but playing a comedy game that never makes you smile is a weird and vaguely disappointing experience.
+
+52:12 Mailbag: Raise sales by uploading to pirate bay?
+
+Have you read this piece?
+You’ve been saying for decades that people who pirate are not potential costumers who wouldn’t buy the game anyway, but it seems like they actually are. You’re still right on the front that fighting piracy is a self-defeating move, though. This indie uploaded his game on piratebay DRM-free and saw a considerable uptick on his actual sales, 400%.
+Do you have any thoughts on this phenomenon? You could use it as a talking point on your next DieCast.
+Cheers from your Brazilian Fan, RCN, AKA, OlamTheBard.
+1:00:17 Mailbag: Why don’t you write a game [Shamus]?
+
+So Shamus, have you considered writing an application letter to one of your favourite game studio’s? You bring unique qualities to the table.
+1. You are a good writer.
+2. You have created assets when you worked at activeworlds, you have released Good Robot on steam, you have created some proc-gen demos. In short, you understand how much work it is too realize a gameworld and how your choices as a writer will affect …</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
     <item>
       <title>Diecast #287: Endings, AI, and Mailbag</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=49059</link>
