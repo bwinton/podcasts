@@ -58,7 +58,7 @@ fn process_document(url: &str, document: &Document) -> Result<Item> {
 
 fn get_item(url: &str) -> Result<Item> {
     // Get the html and build an Item.
-    let mut response = reqwest::get(url)?;
+    let response = reqwest::blocking::get(url)?;
     let body = response.text()?;
     let document = Document::from(body.as_str());
 

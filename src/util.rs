@@ -36,7 +36,7 @@ pub fn format_duration(duration: i64) -> String {
     }
     duration -= duration / 60 * 60;
     rv.push(format!("{:02}", duration));
-    rv.join(":").to_string()
+    rv.join(":")
 }
 
 pub fn format_description(description: &[String], base: &Url) -> String {

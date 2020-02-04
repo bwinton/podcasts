@@ -1,10 +1,8 @@
-use util::*;
+use crate::util::*;
 
 use chrono::Duration;
 use chrono::TimeZone;
 use chrono::Utc;
-use mp3_duration;
-use reqwest;
 use reqwest::header::CONTENT_LENGTH;
 use rss::extension::dublincore::DublinCoreExtensionBuilder;
 use rss::extension::itunes::ITunesItemExtensionBuilder;
@@ -69,7 +67,7 @@ pub fn get_info(url: &str, document: &Document) -> Result<Item> {
         .next()
         .and_then(|x| x.attr("src"))
         .ok_or_else(|| format_err!("missing mp3 link in {}", url))?;
-    let mut response = reqwest::get(mp3)?;
+    let mut response = reqwest::blocking::get(mp3)?;
     let duration = Duration::from_std(mp3_duration::from_read(&mut response)?)?;
     let duration_string = format_duration(duration.num_seconds());
 
