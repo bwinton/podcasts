@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -18,6 +18,140 @@
     <itunes:subtitle>Like Twenty-Sided, but with less video.</itunes:subtitle>
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
+    <item>
+      <title>Diecast #289: Streaming and Game Design, Mailbag</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=49245</link>
+      <description>
+        <![CDATA[
+		<p>As always: If you’ve got questions for the show, the email is in the header image. </p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast289.mp3">Diecast289</a><p></p>
+<p>Show notes:<span id="more-49245"></span><br>
+<strong>00:00 Mindustry again?</strong></p>
+<p>I know we were kinda negative on it, but honestly <a href="https://store.steampowered.com/app/1127400/Mindustry/">it’s an interesting game for very little money</a>. I’d still suggest giving it a try if the pitch of “Factorio + Tower Defense” sounds fun to you. </p>
+<p>Also, if you’ve tried the multiplayer then please let me know in the comments.</p>
+<p><strong>09:38 Is streaming making games dumber?</strong></p>
+<p>Or: Is making streaming-friendly games wind up giving us games that are too shallow if you’re not streaming?</p>
+<p>I don’t know, but I wouldn’t be surprised if the presence of streaming was changing the way people design games. </p>
+<p><strong>16:50 Latest video: Comments vs. Likes</strong></p>
+<p><strong>27:00 Shamus goes on a long digression on old comic books.</strong></p>
+<p><strong>31:16 Brilliant but Obscure?</strong></p>
+<p>The <a href="http://www.wolfire.com/">same developer</a> made Overgrowth and Receiver? </p>
+<p>Here’s his 2014 GDC talk on animation:</p>
+<p></p><p></p>
+<p><strong>40:56 Mailbag: Preventing the Collapse of Civilization</strong></p>
+<blockquote><p>Dear Twenty Sided Die That’s Been Cast,</p>
+<p>I’ve come across a conference talk by Jon Blow where he discusses the impact of modern day programming languages and high level tools on software quality, and what it means for our society as a whole. It’s an hour long talk, so here’s the keynotes version:</p>
+<p>Today, software is ubiquitous in everyday life. At the same time, the convenience of modern day coding tools has made the need for low level software engineers go down. According to Jon Blow, this makes for a potentially dangerous situation where the number of people who really know how software works underneath the hood is decreasing, while our dependence on software is increasing. He compares this dynamic to how ancient civilizations used to rely on inventions and technology too few people understood, eventually leading to unsustainability and collapse.</p>
+<p>The talk is actually titled “Preventing the collapse of civilization”. Here’s the link: https://www.youtube.com/watch?v=pW-SOdj4Kkk</p>
+<p>I know I’ve left a ton of stuff out, but I’d still love to hear your thoughts on this.</p>
+<p>All the best and stay awesome,<br>
+Pawe?</p></blockquote>
+<p>Here is the video in question:</p>
+<p></p><p></p>
+<p>I don’t agree with all of his conclusions / dire predictions, but it’s a fantastic talk. And even though I’m not as pessimistic as Blow, he makes a lot of good points.</p>
+<p><strong>57:37 Mailbag: JFO vs. Mass Effect</strong></p>
+<blockquote><p>Dear Artists Currently Known as The Diecast,</p>
+<p>I was very happy to hear Shamus had enjoyed Jedi: Fallen Order. I’ve watched Joseph Anderson stream the game, and I couldn’t help but notice the plot similarities it had to the original Mass Effect. Ancient ruins of a long-extinct alien civilization? Check. Chasing down a macguffin across numerous planets? Check. A cool ship with a galaxy map and crew members you can get to know? Check! An encounter with a vision/hologram of a member of the aforementioned ancient species towards the end? Check-a-roo!</p>
+<p>And it’s not just story structure stuff like that, either. The way the Zepho are presented, what their ruins look like, I thought it all emanated very distinct ME1/Prothean vibes. I’d love to know if you had similar observations, and whether or not it could have influenced your overall impression of the game.</p>
+<p>Best,<br>
+Mako</p></blockquote>
+<p><strong>1:03:41 Mailbag: Script Book</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>Hey, did you guys know that you can now buy a script book for Insomniac’s Sony’s Marvel’s Spider-Man?  I’m not sure what it contains beyond the script for the cutscenes, but there is allegedly at least some content related to the process of writing for a AAA video game.</p>
+<p>Interview with Vice Games (Waypoint):</p>
+<p>https://www.vice.com/en_us/article/akwk9z/spider-man-developers-want-more-people-to-know-how-games-are-written</p>
+<p>Amazon listing:</p>
+<p>https://www.amazon.com/Marvels-Spider-Man-Script-Insomniac-Games/dp/1302921363</p>
+<p>–John</p></blockquote>
+<p>I can’t believe this happened just as I completed an article speculating on changes in the script. (I finished the script yesterday, and the book officially releases tomorrow.) I suppose someone will buy it and we’ll find out if I was completely prescient / misguided.</p>
+<p><strong>1:08:31 Mailbag: Trying different builds.</strong></p>
+<blockquote><p>Hey, Young Spooner,<br>
+have you ever run into that problem where you start playing a RPG, maybe get through the tutorial and a few early battles, decide your character/build isn’t interesting, go back and repeat the previous steps a few times, and when you finally have an interesting character, you’re tired and sick of the game, so you turn it off and never touch it again?</p>
+<p>If you were a game developer, what could you add to/change about your game to avoid this sort of “reroll burnout”?</p>
+<p>Cheers,<br>
+Mikko</p></blockquote>
+<p>This is the first question in a long time that has me stumped.</p>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast289.mp3" length="75226187" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=49245</guid>
+      <pubDate>Mon, 10 Feb 2020 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast2020.jpg">
+      </itunes:image>
+      <itunes:duration>1:18:34</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		As always: If you’ve got questions for the show, the email is in the header image. 
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+Diecast289
+
+Show notes:
+00:00 Mindustry again?
+
+I know we were kinda negative on it, but honestly it’s an interesting game for very little money. I’d still suggest giving it a try if the pitch of “Factorio + Tower Defense” sounds fun to you. 
+
+Also, if you’ve tried the multiplayer then please let me know in the comments.
+
+09:38 Is streaming making games dumber?
+
+Or: Is making streaming-friendly games wind up giving us games that are too shallow if you’re not streaming?
+
+I don’t know, but I wouldn’t be surprised if the presence of streaming was changing the way people design games. 
+
+16:50 Latest video: Comments vs. Likes
+
+27:00 Shamus goes on a long digression on old comic books.
+
+31:16 Brilliant but Obscure?
+
+The same developer made Overgrowth and Receiver? 
+
+Here’s his 2014 GDC talk on animation:
+
+
+
+
+40:56 Mailbag: Preventing the Collapse of Civilization
+
+Dear Twenty Sided Die That’s Been Cast,
+I’ve come across a conference talk by Jon Blow where he discusses the impact of modern day programming languages and high level tools on software quality, and what it means for our society as a whole. It’s an hour long talk, so here’s the keynotes version:
+Today, software is ubiquitous in everyday life. At the same time, the convenience of modern day coding tools has made the need for low level software engineers go down. According to Jon Blow, this makes for a potentially dangerous situation where the number of people who really know how software works underneath the hood is decreasing, while our dependence on software is increasing. He compares this dynamic to how ancient civilizations used to rely on inventions and technology too few people understood, eventually leading to unsustainability and collapse.
+The talk is actually titled “Preventing the collapse of civilization”. Here’s the link: https://www.youtube.com/watch?v=pW-SOdj4Kkk
+I know I’ve left a ton of stuff out, but I’d still love to hear your thoughts on this.
+All the best and stay awesome,
+Pawe?
+Here is the video in question:
+
+
+
+
+I don’t agree with all of his conclusions / dire predictions, but it’s a fantastic talk. And even though I’m not as pessimistic as Blow, he makes a lot of good points.
+
+57:37 Mailbag: JFO vs. Mass Effect
+
+Dear Artists Currently Known as The Diecast,
+I was very happy to hear Shamus had enjoyed Jedi: Fallen Order. I’ve watched Joseph Anderson stream the game, and I couldn’t help but notice the plot similarities it had to the original Mass Effect. Ancient ruins of a long-extinct alien civilization? Check. Chasing down a macguffin across numerous planets? Check. A cool ship with a galaxy map and crew members you can get to know? Check! An encounter with a vision/hologram of a member of the aforementioned ancient species towards the end? Check-a-roo!
+And it’s not just story structure stuff like that, either. The way the Zepho are presented, what their ruins look like, I thought it all emanated very distinct ME1/Prothean vibes. I’d love to know if you had similar observations, and whether or not it could have influenced your overall impression of the game.
+Best,
+Mako
+1:03:41 Mailbag: Script Book
+
+Dear Diecast,
+Hey, did you guys know that you can now buy a script book for Insomniac’s Sony’s Marvel’s Spider-Man?  I’m not sure what it contains beyond the script for the cutscenes, but there is allegedly at least some content related to the process of writing for a AAA video game.
+Interview with Vice Games (Waypoint):
+https://www.vice.com/en_us/article/akwk9z/spider-man-developers-want-more-people-to-know-how-games-are-written
+Amazon listing:
+https://www.amazon.com/Marvels-Spider-Man-Script-Insomniac-Games/dp/1302921363
+–John
+I can’t believe this happened just as I completed an article speculating on changes in the script. (I finished the script yesterday, and the book officially releases tomorrow.) I suppose someo…</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
     <item>
       <title>Diecast #288: Mindustry, Warcraft Reforged, Journey to the Savage Planet</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=49158</link>
