@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -18,6 +18,144 @@
     <itunes:subtitle>Like Twenty-Sided, but with less video.</itunes:subtitle>
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
+    <item>
+      <title>Diecast #290: Mega Mailbag</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=49293</link>
+      <description>
+        <![CDATA[
+		<p>We got so many questions this week that we had to dedicate the entire episode to them. Well, we spent a few minutes of the latest Satisfactory update. But other than that, this episode is all mailbag. I hope you’re happy, The Internet. </p>
+<p>Also, this <a href="https://www.youtube.com/watch?v=bLiPn73MdiE">episode is also available on YouTube</a>, if that’s your jam. </p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast290.mp3">Diecast290</a><p></p>
+<p></p><p></p>
+<p>Show notes:<span id="more-49293"></span><br>
+<strong>00:00 This show might be on YouTube?</strong></p>
+<p><strong>01:33 Satisfactory Update 3</strong></p>
+<p></p><p></p>
+<p><strong>11:49 Mailbag: Tomb Raider</strong></p>
+<blockquote><p>Dear diecast (although its mostly for Shamus, sorry Paul)</p>
+<p>Since you’ve been hurting for mailbag questions, I’ll try to give you some. I recently sank my teeth in the tomb raider rereboot (2013, rise and shadow of the tomb raider). I remember Shamus being really positive about tomb raider 2013 but less so about rise of the tomb raider, and disliking shadow (if i interpreted his blog correctly). My question is: does Shamus dislike the changes the of the latest TR games, or did the rebooted TR series not sit well over time? What i mean is, would Shamus still be blown away by TR 2013 if it came out today, or was it just impressive in 2013. Should Shamus still enjoy enjoy replaying TR 2013 now?</p>
+<p>With kind regards,<br>
+Chiris</p></blockquote>
+<p><strong>17:36 Mailbag: Overpowered in a Good Way</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>You recently praised Risk of Rain 2 for the fact that it allows the player to stack up bonuses without limit and become totally overpowered in a way most games don’t permit. Usually becoming overpowered is boring for the same reason that turning on god mode is boring, but every now and then I find a game like Noita or Slay The Spire where becoming way more powerful than the enemies somehow makes it fun instead of tedious to spend fifteen minutes effortlessly stomping everything. What do you think is the magic spark that makes this difference?</p>
+<p>Ninety-Three</p></blockquote>
+<p><strong>25:51 Mailbag: The Forums</strong></p>
+<blockquote><p>Dear Diecast Shamus, (sorry Paul!)</p>
+<p>Any update on whether the forums are coming back? If they aren’t coming back, is there any chance of making a data dump of the archives available? I’ve had times where I’ve wanted to refer back to some previous forum discussions since they’ve been down.</p>
+<p>—</p>
+<p>Relatedly, are there any changes that could be make to the blog to facilitate longer-term discussion? It seems blog discussions currently have a very short shelf-life: once a post is no longer the top post discussion mostly dies.</p>
+<p>And when revisiting a comment section, it’s hard to find the new comments posted since I last visited; and to see if anyone has replied to anything I’ve said.</p>
+<p>I know this probably means a terrible trip to the wonderful world of WordPress plugins, but if any of these could be addressed – email notifications, or a quick way of seeing new comments – I think it’d help the blog as a platform for discussion.</p>
+<p>– Retsam</p></blockquote>
+<p><strong>26:50 Mailbag: Geforce Now</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>I’ve been watching release of Geforce Now with interest but it seems that the service is faltering somwhat… given that publishers are removing or withholding their games from the service. However, I’m a bit confused as to why this is an issue or why there are even “compatible” games for this service.</p>
+<p>Geforce Now appears to effectively be a virtualised OS instance. I’ve checked several EULAs from various publishers and none of them prohibit the use of games on a virtual machine. They prohibit third party software that alters the game experience (mods/hacks/bots), reselling the software, etc. So, on what basis is this “removal” even taking place under? Why does NVidia even need to obtain permission from the publishers to run the games?</p>
+<p>Maybe you have some insight into this or maybe it’ll spark a debate in the comments.</p>
+<p>All the best,<br>
+D<span style="text-decoration: line-through;">uoae</span></p></blockquote>
+<p><strong>33:56 Mailbag: Heresy!</strong></p>
+<blockquote><p>Dear Diecast,<br>
+Not too long ago, I encountered <a href="https://www.youtube.com/watch?v=mpCv12q6fFI">this video</a>. It makes the argument that Half-Life 2 is a bad sequel (though not necessarily a bad game). Now I’ve never properly played any of the Half-Life games (my attempt to play the series began and ended with 1, where my awful sense of direction served me very poorly), so I can’t make a properly informed assessment of the argument, but something struck me about it.</p>
+<p>One of the points he makes is that HL2 throws away most of the interesting and unique story elements of 1, in favor of a safer and more cliched story. In particular, the game discards the original’s sequel hooks by introducing a new antagonist faction which comes out of nowhere, takes over the world, and is suddenly the most important thing ever. This sounds very familiar.<br>
+So I wanted to see what you’d think of it. Given your fondness for the game, what’s your reaction to seeing someone make criticisms of it so similar to the ones you leveled at Mass Effect 2? Do you think they’re reasonable arguments, or do you think his analysis of the material is faulty?</p>
+<p>– Kestrellius</p>
+<p>P.S.: I don’t know if you’ll like the first video I linked by that guy, but you’ll definitely like <a href="https://www.youtube.com/watch?v=yjM8woqBOX8">this one</a>.</p></blockquote>
+<p><strong>40:03 Mailbag: Fake Rivers in Cities: Skylines</strong></p>
+<blockquote><p>sup Diecastermans:</p>
+<p>I was recently disappointed by Cities: Skylines.  Well, maybe by one of their level designers.  I love the game, and I recently started my yearly-ish city building project, selecting a map that had a lovely canyon in which I hoped to build a hydroelectric dam.  This dam wasn’t going to win any awards for highest dam in the game, but it was good enough.  I built up my population, saved my… sky-moleons?… and built the dam.  It wasn’t the best dam, but it was ours.</p></blockquote>
+<p></p><p></p>
+<blockquote><p>That, and it was going to double my electricity production.</p>
+<p>But it was all a lie.</p>
+<p>Turns out, the lovely canyon was just a sculpture.  The riverbed at its bottom was nothing but a carved sluice.  As soon as the river broke its bank, filling stopped for good.  I even tried to augment the flow of the river by diverting my (mostly-filtered) sewage into it.</p></blockquote>
+<p></p><p></p>
+<blockquote><p>No good.  In fact, the flow arrows showed (and you can see from the… smear…) that the fluid I was pumping into the basin was actually flowing up river, presumably draining off the edge of the map after the Fog claims our vision.</p>
+<p>I’ve always enjoyed the way Cities: Skylines simulates “realistic” water flow and lets you build dams based on “actual” hydrostatic pressure, but the map design on this one foiled the system and left me sad.  I wound up blowing up the dam and retiring the city shortly thereafter.  What games or circumstances have left you similarly disappointed?</p>
+<p>Kind regards,<br>
+toadicus
+</p></blockquote>
+<p><strong>47:14 Mailbag: Bioware’s fate</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>There was a recent interview with (now) ex-bioware writer Drew Karpyshyn where he lamented that the studio became more corporate as it got larger, which affected the game design. </p>
+<p>How does this fit into your thoughts on their games and acquisition by EA? </p>
+<p>All the best,<br>
+Duoae</p></blockquote>
+<p><strong>57:47 Mailbag: Machine Learning and Game Install Sizes</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>In the past both of you have spoken about ballooning game install sizes and procedurally generated content. Now it seems like there’s more tech on the horizon for reducing not only install size but also development work. </p>
+<p>On the one hand, a team at microsoft are working with using machine learning to up-res textures on-the-fly. On the other, Dreams (from Media Molecule) uses some sort of real-time renderer that utilises the async compute abilities of the APU in the playstations. Both of these techniques mean small install sizes and interesting optimisations, and could be an interesting addition to procedural generation. </p>
+<p>Further to this we already have the nascent ray-tracing technology…. i think the next few years will be really interesting. </p>
+<p>What do you think? </p>
+<p>All the best,<br>
+Duoae</p></blockquote>
+<p></p><p></p>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast290.mp3" length="65713459" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=49293</guid>
+      <pubDate>Mon, 17 Feb 2020 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast2020.jpg">
+      </itunes:image>
+      <itunes:duration>1:09:00</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>We got so many questions this week that we had to dedicate the entire episode to them. Well, we spent a few minutes of the latest Satisfactory update. But other than that, this episode is all mailbag. I hope you’re happy, The Internet. 
+
+Also, this episode is also available on YouTube, if that’s your jam. 
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+Diecast290
+
+
+
+
+Show notes:
+00:00 This show might be on YouTube?
+
+01:33 Satisfactory Update 3
+
+
+
+
+11:49 Mailbag: Tomb Raider
+
+Dear diecast (although its mostly for Shamus, sorry Paul)
+Since you’ve been hurting for mailbag questions, I’ll try to give you some. I recently sank my teeth in the tomb raider rereboot (2013, rise and shadow of the tomb raider). I remember Shamus being really positive about tomb raider 2013 but less so about rise of the tomb raider, and disliking shadow (if i interpreted his blog correctly). My question is: does Shamus dislike the changes the of the latest TR games, or did the rebooted TR series not sit well over time? What i mean is, would Shamus still be blown away by TR 2013 if it came out today, or was it just impressive in 2013. Should Shamus still enjoy enjoy replaying TR 2013 now?
+With kind regards,
+Chiris
+17:36 Mailbag: Overpowered in a Good Way
+
+Dear Diecast,
+You recently praised Risk of Rain 2 for the fact that it allows the player to stack up bonuses without limit and become totally overpowered in a way most games don’t permit. Usually becoming overpowered is boring for the same reason that turning on god mode is boring, but every now and then I find a game like Noita or Slay The Spire where becoming way more powerful than the enemies somehow makes it fun instead of tedious to spend fifteen minutes effortlessly stomping everything. What do you think is the magic spark that makes this difference?
+Ninety-Three
+25:51 Mailbag: The Forums
+
+Dear Diecast Shamus, (sorry Paul!)
+Any update on whether the forums are coming back? If they aren’t coming back, is there any chance of making a data dump of the archives available? I’ve had times where I’ve wanted to refer back to some previous forum discussions since they’ve been down.
+—
+Relatedly, are there any changes that could be make to the blog to facilitate longer-term discussion? It seems blog discussions currently have a very short shelf-life: once a post is no longer the top post discussion mostly dies.
+And when revisiting a comment section, it’s hard to find the new comments posted since I last visited; and to see if anyone has replied to anything I’ve said.
+I know this probably means a terrible trip to the wonderful world of WordPress plugins, but if any of these could be addressed – email notifications, or a quick way of seeing new comments – I think it’d help the blog as a platform for discussion.
+– Retsam
+26:50 Mailbag: Geforce Now
+
+Dear Diecast,
+I’ve been watching release of Geforce Now with interest but it seems that the service is faltering somwhat… given that publishers are removing or withholding their games from the service. However, I’m a bit confused as to why this is an issue or why there are even “compatible” games for this service.
+Geforce Now appears to effectively be a virtualised OS instance. I’ve checked several EULAs from various publishers and none of them prohibit the use of games on a virtual machine. They prohibit third party software that alters the game experience (mods/hacks/bots), reselling the software, etc. So, on what basis is this “removal” even taking place under? Why does NVidia even need to obtain permission from the publishers to run the games?
+Maybe you have some insight into this or maybe it’ll spark a debate in the comments.
+All the best,
+Duoae
+33:56 Mailbag: Heresy!
+
+Dear Diecast,
+Not too long ago, I encountered this video. It makes the argument that Half-Life 2 is a bad sequel (though not necessarily a bad game). Now I’ve never properly played any of the Half-Life games (my attempt to play the series began and ended with 1, where my awful sense o…</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
     <item>
       <title>Diecast #289: Streaming and Game Design, Mailbag</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=49245</link>
@@ -84,8 +222,7 @@ Mikko</p></blockquote>
       </itunes:image>
       <itunes:duration>1:18:34</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		As always: If you’ve got questions for the show, the email is in the header image. 
+      <itunes:summary>As always: If you’ve got questions for the show, the email is in the header image. 
 
 
 Hosts: Paul, Shamus. Episode edited by Issac.
