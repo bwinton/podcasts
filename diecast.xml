@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -18,6 +18,130 @@
     <itunes:subtitle>Like Twenty-Sided, but with less video.</itunes:subtitle>
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
+    <item>
+      <title>Diecast #292: Geforce NOW, Wolfenstein Revisited, Mailbag</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=49457</link>
+      <description>
+        <![CDATA[
+		<p>I hope you remembered to set your clocks ahead on Saturday night. Unless you’re in the southern hemisphere, in which case you need to move them back. Or maybe you’re in one of the countries that won’t move for a few more weeks. Or maybe you’re in a country that did it a few weeks ago. Or maybe you’re from a sane country that doesn’t feel the need to fiddle with the clocks twice a year.</p>
+<p>Oh well. Have fun coordinating your remote meetings / raid / Skype call / project updates with people around the world! Remember, this chaos and loss of sleep is all for the public good in ways that can’t be proven or measured.</p>
+<p>Enjoy!</p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast292.mp3">Diecast292</a><p></p>
+<p></p><p></p>
+<p>Show notes:<span id="more-49457"></span></p>
+<p><strong>00:00 Daylight Savings</strong></p>
+<p>As I’ve whined in the past: This is a dumb, disruptive hardship that causes lots of confusion and features some <a href="https://www.youtube.com/watch?v=84aWtseb2-4">dubious and difficult-to-measure benefits</a>. I hate it and I wish we could collectively stop doing this to ourselves.</p>
+<p>Also, as someone with sleep pattern troubles, this sort of nonsense is the <strong>last thing</strong> I need. (Although it’s less miserable these days since I set my own hours.)</p>
+<p><strong>00:06 No Merch</strong></p>
+<p><a href="https://www.shamusyoung.com/twentysidedtale/?p=49415">Based on your feedback</a>, I’m going to give the Patreon reward merch a miss. I’m not in a hurry to mess with merchandise. It doesn’t sound like there’s a lot of demand and there’s probably better ways to spend my time. Having said that, if I get a brilliant idea or if the mood takes me, then I might set up some small merch on one of the print-on-demand services at some point in the future.</p>
+<p>This means we have once again returned to status quo. That’s my favorite kind of quo.</p>
+<p><strong>06:34 GeForce NOW</strong></p>
+<p>Here’s <a href="https://www.polygon.com/2020/3/2/21161372/nvidia-geforce-now-the-long-dark-removed">an overview of the story</a>.</p>
+<p><strong>13:52 WordPress</strong></p>
+<p><strong>20:37 The Wolfenstein II: The New Colossus Sucks</strong></p>
+<p>Two years ago, I said the game <a href="https://www.shamusyoung.com/twentysidedtale/?p=41551">wasn’t a lot of fun</a>. At the time, I assumed the game felt terrible to play because I was playing on a potato computer. But revisiting the game here in 2020, I can see I was being far too generous. I have a really strong PC now and I can play the game in its full 60FPS, <em>everything-set-to-ultra</em> glory. And now I can say definitively that this game is a mess. The shooting feels floaty. The level flow is atrocious. The kinaesthetics are worse. The animations are boring. The stealth makes no sense and feels like it was designed by someone who has never played a stealth game before. The environments are generic and repetitive.</p>
+<p>It’s just bad. Shockingly bad.</p>
+<p><strong>25:36 The Death of E3?</strong></p>
+<p>Most of the key individuals and companies have pulled out. Nobody wants to go due to COVID-19 outbreak fears. If the big companies all skip E3 and discover they saved millions of dollars with no downside, then they’re probably going to wonder why they should come back next year.</p>
+<p><strong>30:45 PAX East</strong></p>
+<p>I keep telling myself: I’m going to go back one of these years. We’ll see.</p>
+<p><strong>35:23 Mailbag: Ending Endless Games</strong></p>
+<blockquote><p>With linear games, you beat the campaign, maybe get all the collectibles, and you know you’ve finished. There’s no clear stopping point in games designed for endless replayability. I keep finding a game I love, playing it until I get bored, and walking away vaguely dissatisfied because even though I had a hundred hours of enjoyment, the most memorable part is that I quit on hour 101 when I wasn’t having any more fun.</p>
+<p>How do you decide when to stop playing a game you could play forever, and how do you evaluate it when the game doesn’t change over time but your experience of it does?</p>
+<p>Ninety-Three</p></blockquote>
+<p><strong>41:02 Mailbag: Gaming as a new Parent</strong></p>
+<blockquote><p>Dear Diecast;</p>
+<p>My wife and I brought home our first baby last month, and I’m curious to hear your experience with balancing a growing family and also relaxing to a videogame.</p>
+<p>How did you balance gaming with watching a newborn, work out when one parent would watch the kids so the other could rest, and are there any good “up late with the baby” gaming activities you used? (For reference, several friends became Netflix fiends because they could watch Netflix while rocking -anything similar for gamers?)</p>
+<p>Sabrdance</p></blockquote>
+<p><strong>47:41 Mailbag: What Have You Been Playing?</strong></p>
+<blockquote><p>Dear Twenty Sided</p>
+<p>I enjoyed the “What have you been playing?” thread that went up a few weeks ago. If you don’t get around to setting up forums/Discord/whatever, can we have more of those threads as a semi-regular feature of the blog?</p>
+<p>Ninety-Three</p></blockquote>
+<p><strong>50:43 Mailbag: Rust Language and OOP</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>I was watching a talk by Catherine West (aka Kyren from Chucklefish) where she was talking about how various programming paradigms work (and break) when developing video games. I’ll put the link in the postscript. When Shamus was writing his series on Jai he also discussed the topic, so I thought it would be of interest to you.</p>
+<p>In question form: do you think Object Oriented Programming is a bad fit for video game development?</p>
+<p>Vale,</p>
+<p>-Tim</p></blockquote>
+<p>Here is the talk in question:</p>
+<p></p><p></p>
+<p>Here here is Jon Blow’s counter-argument:</p>
+<p></p><p></p>
+<p>Like I said on the show, I don’t really know enough about Rust to get involved in this discussion.</p>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast292.mp3" length="64541557" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=49457</guid>
+      <pubDate>Mon, 09 Mar 2020 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast2020.jpg">
+      </itunes:image>
+      <itunes:duration>1:07:19</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		I hope you remembered to set your clocks ahead on Saturday night. Unless you’re in the southern hemisphere, in which case you need to move them back. Or maybe you’re in one of the countries that won’t move for a few more weeks. Or maybe you’re in a country that did it a few weeks ago. Or maybe you’re from a sane country that doesn’t feel the need to fiddle with the clocks twice a year.
+
+Oh well. Have fun coordinating your remote meetings / raid / Skype call / project updates with people around the world! Remember, this chaos and loss of sleep is all for the public good in ways that can’t be proven or measured.
+
+Enjoy!
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+Diecast292
+
+
+
+
+Show notes:
+
+00:00 Daylight Savings
+
+As I’ve whined in the past: This is a dumb, disruptive hardship that causes lots of confusion and features some dubious and difficult-to-measure benefits. I hate it and I wish we could collectively stop doing this to ourselves.
+
+Also, as someone with sleep pattern troubles, this sort of nonsense is the last thing I need. (Although it’s less miserable these days since I set my own hours.)
+
+00:06 No Merch
+
+Based on your feedback, I’m going to give the Patreon reward merch a miss. I’m not in a hurry to mess with merchandise. It doesn’t sound like there’s a lot of demand and there’s probably better ways to spend my time. Having said that, if I get a brilliant idea or if the mood takes me, then I might set up some small merch on one of the print-on-demand services at some point in the future.
+
+This means we have once again returned to status quo. That’s my favorite kind of quo.
+
+06:34 GeForce NOW
+
+Here’s an overview of the story.
+
+13:52 WordPress
+
+20:37 The Wolfenstein II: The New Colossus Sucks
+
+Two years ago, I said the game wasn’t a lot of fun. At the time, I assumed the game felt terrible to play because I was playing on a potato computer. But revisiting the game here in 2020, I can see I was being far too generous. I have a really strong PC now and I can play the game in its full 60FPS, everything-set-to-ultra glory. And now I can say definitively that this game is a mess. The shooting feels floaty. The level flow is atrocious. The kinaesthetics are worse. The animations are boring. The stealth makes no sense and feels like it was designed by someone who has never played a stealth game before. The environments are generic and repetitive.
+
+It’s just bad. Shockingly bad.
+
+25:36 The Death of E3?
+
+Most of the key individuals and companies have pulled out. Nobody wants to go due to COVID-19 outbreak fears. If the big companies all skip E3 and discover they saved millions of dollars with no downside, then they’re probably going to wonder why they should come back next year.
+
+30:45 PAX East
+
+I keep telling myself: I’m going to go back one of these years. We’ll see.
+
+35:23 Mailbag: Ending Endless Games
+
+With linear games, you beat the campaign, maybe get all the collectibles, and you know you’ve finished. There’s no clear stopping point in games designed for endless replayability. I keep finding a game I love, playing it until I get bored, and walking away vaguely dissatisfied because even though I had a hundred hours of enjoyment, the most memorable part is that I quit on hour 101 when I wasn’t having any more fun.
+How do you decide when to stop playing a game you could play forever, and how do you evaluate it when the game doesn’t change over time but your experience of it does?
+Ninety-Three
+41:02 Mailbag: Gaming as a new Parent
+
+Dear Diecast;
+My wife and I brought home our first baby last month, and I’m curious to hear your experience with balancing a growing family and also relaxing to a videogame.
+How did you balance gaming with watching a newborn, work out when one parent would watch the kids so the other could rest, and are there any good “up late with the baby” gaming activities you used? (For reference, several friends became Netflix fiends because they could watch Netflix while rocking -anything simi…</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
     <item>
       <title>Diecast #291: Satisfactory, Teardown, New World</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=49392</link>
@@ -81,8 +205,7 @@ Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.
       </itunes:image>
       <itunes:duration>1:04:08</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		Wow. Diecast number 291. This brings us very close to 300, which is a number of no special significance whatsoever. Still, we’ve made a lot of these dang things, haven’t we? 
+      <itunes:summary>Wow. Diecast number 291. This brings us very close to 300, which is a number of no special significance whatsoever. Still, we’ve made a lot of these dang things, haven’t we? 
 
 
 Hosts: Paul, Shamus. Episode edited by Issac.
@@ -2841,6 +2964,106 @@ with kind regards
 chris
 
     Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
+    <item>
+      <title>Diecast #267: RoboRosewater, The Boys, Mailbag</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=47604</link>
+      <description>
+        <![CDATA[
+		<p>During the show, I talk about the Amazon comic book adaptation of <em>The Boys</em>, which just released. I talk about the ending and a twist I saw coming, but I want to make it clear that I didn’t spoil the real ending. The example I gave is a placeholder / red herring. </p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast267.mp3"></a><p></p>
+<p>Show notes:<span id="more-47604"></span></p>
+<p><strong>00:00 DRM Test Results</strong></p>
+<p>I have good news, and bad news…</p>
+<p><strong>09:32 LRR MTG RRWCD</strong></p>
+<p>This is <a href="https://twitter.com/RoboRosewater">the RoboRosewater Twitter</a>.</p>
+<blockquote class="twitter-tweet" >
+<p lang="de" dir="ltr">Oemlus Galet <a href="https://t.co/dfqxEwjRJt">pic.twitter.com/dfqxEwjRJt</a></p>
+<p>— RoboRosewater (@RoboRosewater) <a href="https://twitter.com/RoboRosewater/status/1074758379657138179?ref_src=twsrc%5Etfw">December 17, 2018</a></p></blockquote>
+
+<p>And here is the draft:</p>
+
+<p><strong>17:34 Procgen Slot Machine Reskin</strong></p>
+<p></p><p></p>
+<p><strong>22:10 The Boys</strong></p>
+<p></p><p></p>
+<p><strong>34:43 EA has ANOTHER bad idea. First it was multiplayer. Then lootboxes. And now…</strong></p>
+<p>Finally, EA is giving in to our constant demands for more <a href="https://gamedaily.biz/article/969/exclusive-a-candid-conversation-with-eas-andrew-wilson-at-e3-2019">social media integration!</a> </p>
+<p><strong>48:00 Mailbag: Niche Games</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>What’s the weirdest niche game that has scratched a particular itch that you’ve played, despite that game lacking widestream appeal?</p>
+<p>I think of ShenzhenIO – a programming/electronics engineering game which lets you stick chips and hardware together to make things, complete with data sheets (including one in Japanese). My former Electronics Engineer manager described it as ‘Work’.</p>
+<p>With great affection,</p>
+<p>Lachlan</p></blockquote>
+<p><strong>54:47 Mailbag: Spider-Man Homecoming / Far From Home</strong></p>
+<blockquote><p>After doing all of these Spider-Man game reviews, any thoughts on the most recent Spider-Man film, and/or Homecoming?</p>
+<p>Joshua</p></blockquote>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast267.mp3" length="59011625" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=47604</guid>
+      <pubDate>Mon, 29 Jul 2019 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast2018.jpg">
+      </itunes:image>
+      <itunes:duration>1:01:33</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		During the show, I talk about the Amazon comic book adaptation of The Boys, which just released. I talk about the ending and a twist I saw coming, but I want to make it clear that I didn’t spoil the real ending. The example I gave is a placeholder / red herring. 
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+
+
+Show notes:
+
+00:00 DRM Test Results
+
+I have good news, and bad news…
+
+09:32 LRR MTG RRWCD
+
+This is the RoboRosewater Twitter.
+
+
+Oemlus Galet pic.twitter.com/dfqxEwjRJt
+— RoboRosewater (@RoboRosewater) December 17, 2018
+
+And here is the draft:
+
+
+17:34 Procgen Slot Machine Reskin
+
+
+
+
+22:10 The Boys
+
+
+
+
+34:43 EA has ANOTHER bad idea. First it was multiplayer. Then lootboxes. And now…
+
+Finally, EA is giving in to our constant demands for more social media integration! 
+
+48:00 Mailbag: Niche Games
+
+Dear Diecast,
+What’s the weirdest niche game that has scratched a particular itch that you’ve played, despite that game lacking widestream appeal?
+I think of ShenzhenIO – a programming/electronics engineering game which lets you stick chips and hardware together to make things, complete with data sheets (including one in Japanese). My former Electronics Engineer manager described it as ‘Work’.
+With great affection,
+Lachlan
+54:47 Mailbag: Spider-Man Homecoming / Far From Home
+
+After doing all of these Spider-Man game reviews, any thoughts on the most recent Spider-Man film, and/or Homecoming?
+Joshua
+
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
+	</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -14962,6 +15185,74 @@ Tagged:Everybody’s Gone to the Rapture, Invisible Inc, Shadow of the Colossus<
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
+      <title>Rutskarn’s RPG Tales: Paranoia (Full Session Recording)</title>
+      <link>http://shamusyoung.com/twentysidedtale/?p=28177</link>
+      <description>
+        <![CDATA[<p></p>
+<p>Hey, everyone, it’s Rutskarn. I don’t know if you’ve been keeping up with your farmer’s almanac, but the Time of Terror and Blood was recently upon us, and the Great Beast you know as Josh was briefly trapped inside the Southern California ley line. I took advantage of his psychic imprisonment to schedule an ad hoc game of <em><a href="https://en.wikipedia.org/wiki/Paranoia_(role-playing_game)">Paranoia</a>.</em> Unfortunately for you, I recorded it.</p>
+<p>Also starring: Josh’s brother Glitch, Glitch’s fiancee Madison.</p>
+<p>Keep in mind that this session was planned, run, recorded, and in some capacity edited on the fly. I didn’t even know we’d be playing <em>Paranoia</em> when I arrived (I brought a suitcase and flash drive that contained about fifteen separate systems and let them decide). Despite that, we had a lot of fun, and hopefully you will too. I’ve cleaned the audio as best as I could and trimmed a few breaks, but I’ll warn you up front–it’s far from perfect. The Hellish winds that follow Josh like ashen cherubs have that effect on a recording suite.</p>
+<p>(Note also that anyone who illustrates anything that happened in this session will earn my undying love.)</p>
+<p>And below the fold, all notes and secret information that passed this session:</p>
+<p><span id="more-28177"></span><br>
+<strong>Josh </strong>had the mutant power to phase through solid objects when he gave a signal. He was part of a secret society that wanted to gain as much information as possible about the plant. They planted a camera for him in a can of Bouncy Bubble Beverage. <strong>Glitch </strong>had the mutant power to turn invisible. He was part of a secret society that suspected someone was trying to sabotage the plant. He’d know who the saboteur was because they were acting suspicious, wandering into restricted areas, and recovering classified information. <strong>Madison </strong>had the mutant power to read notes passed. She was part of a secret society that wanted her to become as irradiated as possible without actually dying. How irradiated is that? Left to her discretion.</p>
+<p>And now, the notes. Highlight to declassify:</p>
+<p>NOTE 1: <span style="color: #ffffff;">MADISON, YOU ARE FIELD-PROMOTED TO LOYALTY OFFICER. KEEP AN EYE OUT FOR MUTANTS AND TRAITORS.</span></p>
+<p>NOTE 2: <span style="color: #ffffff;">JOSH, YOU FOUND YOUR CAMERA</span></p>
+<p>NOTE 3:<span style="color: #ffffff;"> FROM JOSH TO RUTSKARN: I AM USING THE CAMERA CONSPICUOUSLY</span></p>
+<p>NOTE 4: <span style="color: #ffffff;">GLITCH, YOU HAVE TURNED INVISIBLE</span></p>
+<p>NOTE 5:<span style="color: #ffffff;"> JOSH, YOU HAVE PHASED INTO THE BASEMENT.</span></p>
+<p>NOTE 6: <span style="color: #ffffff;">JOSH, YOU SEE A CONSOLE. YOU THINK YOU CAN SHUT DOWN THE MELTDOWN FROM HERE.</span></p>
+<p>NOTE 7: <span style="color: #ffffff;">FROM JOSH TO RUTSKARN: I TAKE PICTURES OF THE CONSOLE, THEN LEAVE.</span></p>
+<p>NOTE 8: <span style="color: #ffffff;">THEY ARE ABSOLUTELY MUTANTS.</span></p>
+<p>NOTE ???<span style="color: #ffffff;"> YOU ARE NOT AUTHORIZED TO READ THIS NOTE, CITIZEN. PLEASE REPORT TO NEAREST CONFESSION BOOTH TO PROVIDE A DETAILED ACCOUNT OF WHY YOU THOUGHT THIS INFORMATION WAS MISSION-CRITICAL BE PREPARED TO PROVIDE PROOF OF ULTRAVIOLET CLEARANCE (REQUIRED TO HIGHLIGHT WHITE TEXT).</span></p>
+<br><p class="byline"><i><img alt="" src="http://2.gravatar.com/avatar/51785b2599ffb7a094457f6a0d26e4d2?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="http://www.patreon.com/rutskarn"> Rutskarn</a> is a writer, author, wordsmith, text producer, article deviser, prose architect, and accredited language-talker. If you enjoy his contributions to this site you could always back <a href="http://www.patreon.com/rutskarn">his Patreon</a>.</i></p>]]>
+      </description>
+      <enclosure url="http://www.shamusyoung.com/diecast/paranoiafull.mp3" length="64496952" type="audio/mpeg"/>
+      <guid isPermaLink="false">http://shamusyoung.com/twentysidedtale/?p=28177</guid>
+      <pubDate>Sun, 16 Aug 2015 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/ruts_banner.jpg">
+      </itunes:image>
+      <itunes:duration>1:07:11</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>Hey, everyone, it’s Rutskarn. I don’t know if you’ve been keeping up with your farmer’s almanac, but the Time of Terror and Blood was recently upon us, and the Great Beast you know as Josh was briefly trapped inside the Southern California ley line. I took advantage of his psychic imprisonment to schedule an ad hoc game of Paranoia. Unfortunately for you, I recorded it.
+
+Also starring: Josh’s brother Glitch, Glitch’s fiancee Madison.
+
+Keep in mind that this session was planned, run, recorded, and in some capacity edited on the fly. I didn’t even know we’d be playing Paranoia when I arrived (I brought a suitcase and flash drive that contained about fifteen separate systems and let them decide). Despite that, we had a lot of fun, and hopefully you will too. I’ve cleaned the audio as best as I could and trimmed a few breaks, but I’ll warn you up front–it’s far from perfect. The Hellish winds that follow Josh like ashen cherubs have that effect on a recording suite.
+
+(Note also that anyone who illustrates anything that happened in this session will earn my undying love.)
+
+And below the fold, all notes and secret information that passed this session:
+
+
+Josh had the mutant power to phase through solid objects when he gave a signal. He was part of a secret society that wanted to gain as much information as possible about the plant. They planted a camera for him in a can of Bouncy Bubble Beverage. Glitch had the mutant power to turn invisible. He was part of a secret society that suspected someone was trying to sabotage the plant. He’d know who the saboteur was because they were acting suspicious, wandering into restricted areas, and recovering classified information. Madison had the mutant power to read notes passed. She was part of a secret society that wanted her to become as irradiated as possible without actually dying. How irradiated is that? Left to her discretion.
+
+And now, the notes. Highlight to declassify:
+
+NOTE 1: MADISON, YOU ARE FIELD-PROMOTED TO LOYALTY OFFICER. KEEP AN EYE OUT FOR MUTANTS AND TRAITORS.
+
+NOTE 2: JOSH, YOU FOUND YOUR CAMERA
+
+NOTE 3: FROM JOSH TO RUTSKARN: I AM USING THE CAMERA CONSPICUOUSLY
+
+NOTE 4: GLITCH, YOU HAVE TURNED INVISIBLE
+
+NOTE 5: JOSH, YOU HAVE PHASED INTO THE BASEMENT.
+
+NOTE 6: JOSH, YOU SEE A CONSOLE. YOU THINK YOU CAN SHUT DOWN THE MELTDOWN FROM HERE.
+
+NOTE 7: FROM JOSH TO RUTSKARN: I TAKE PICTURES OF THE CONSOLE, THEN LEAVE.
+
+NOTE 8: THEY ARE ABSOLUTELY MUTANTS.
+
+NOTE ??? YOU ARE NOT AUTHORIZED TO READ THIS NOTE, CITIZEN. PLEASE REPORT TO NEAREST CONFESSION BOOTH TO PROVIDE A DETAILED ACCOUNT OF WHY YOU THOUGHT THIS INFORMATION WAS MISSION-CRITICAL BE PREPARED TO PROVIDE PROOF OF ULTRAVIOLET CLEARANCE (REQUIRED TO HIGHLIGHT WHITE TEXT).
+
+ Rutskarn is a writer, author, wordsmith, text producer, article deviser, prose architect, and accredited language-talker. If you enjoy his contributions to this site you could always back his Patreon.</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
+    <item>
       <title>Diecast #117: Mailbag, Text Plays, Licensed Games</title>
       <link>http://shamusyoung.com/twentysidedtale/?p=28172</link>
       <description>
@@ -15060,74 +15351,6 @@ Matthias
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
 Tagged:xcom</itunes:summary>
-      <dc:creator>Shamus Young</dc:creator>
-    </item>
-    <item>
-      <title>Rutskarn’s RPG Tales: Paranoia (Full Session Recording)</title>
-      <link>http://shamusyoung.com/twentysidedtale/?p=28177</link>
-      <description>
-        <![CDATA[<p></p>
-<p>Hey, everyone, it’s Rutskarn. I don’t know if you’ve been keeping up with your farmer’s almanac, but the Time of Terror and Blood was recently upon us, and the Great Beast you know as Josh was briefly trapped inside the Southern California ley line. I took advantage of his psychic imprisonment to schedule an ad hoc game of <em><a href="https://en.wikipedia.org/wiki/Paranoia_(role-playing_game)">Paranoia</a>.</em> Unfortunately for you, I recorded it.</p>
-<p>Also starring: Josh’s brother Glitch, Glitch’s fiancee Madison.</p>
-<p>Keep in mind that this session was planned, run, recorded, and in some capacity edited on the fly. I didn’t even know we’d be playing <em>Paranoia</em> when I arrived (I brought a suitcase and flash drive that contained about fifteen separate systems and let them decide). Despite that, we had a lot of fun, and hopefully you will too. I’ve cleaned the audio as best as I could and trimmed a few breaks, but I’ll warn you up front–it’s far from perfect. The Hellish winds that follow Josh like ashen cherubs have that effect on a recording suite.</p>
-<p>(Note also that anyone who illustrates anything that happened in this session will earn my undying love.)</p>
-<p>And below the fold, all notes and secret information that passed this session:</p>
-<p><span id="more-28177"></span><br>
-<strong>Josh </strong>had the mutant power to phase through solid objects when he gave a signal. He was part of a secret society that wanted to gain as much information as possible about the plant. They planted a camera for him in a can of Bouncy Bubble Beverage. <strong>Glitch </strong>had the mutant power to turn invisible. He was part of a secret society that suspected someone was trying to sabotage the plant. He’d know who the saboteur was because they were acting suspicious, wandering into restricted areas, and recovering classified information. <strong>Madison </strong>had the mutant power to read notes passed. She was part of a secret society that wanted her to become as irradiated as possible without actually dying. How irradiated is that? Left to her discretion.</p>
-<p>And now, the notes. Highlight to declassify:</p>
-<p>NOTE 1: <span style="color: #ffffff;">MADISON, YOU ARE FIELD-PROMOTED TO LOYALTY OFFICER. KEEP AN EYE OUT FOR MUTANTS AND TRAITORS.</span></p>
-<p>NOTE 2: <span style="color: #ffffff;">JOSH, YOU FOUND YOUR CAMERA</span></p>
-<p>NOTE 3:<span style="color: #ffffff;"> FROM JOSH TO RUTSKARN: I AM USING THE CAMERA CONSPICUOUSLY</span></p>
-<p>NOTE 4: <span style="color: #ffffff;">GLITCH, YOU HAVE TURNED INVISIBLE</span></p>
-<p>NOTE 5:<span style="color: #ffffff;"> JOSH, YOU HAVE PHASED INTO THE BASEMENT.</span></p>
-<p>NOTE 6: <span style="color: #ffffff;">JOSH, YOU SEE A CONSOLE. YOU THINK YOU CAN SHUT DOWN THE MELTDOWN FROM HERE.</span></p>
-<p>NOTE 7: <span style="color: #ffffff;">FROM JOSH TO RUTSKARN: I TAKE PICTURES OF THE CONSOLE, THEN LEAVE.</span></p>
-<p>NOTE 8: <span style="color: #ffffff;">THEY ARE ABSOLUTELY MUTANTS.</span></p>
-<p>NOTE ???<span style="color: #ffffff;"> YOU ARE NOT AUTHORIZED TO READ THIS NOTE, CITIZEN. PLEASE REPORT TO NEAREST CONFESSION BOOTH TO PROVIDE A DETAILED ACCOUNT OF WHY YOU THOUGHT THIS INFORMATION WAS MISSION-CRITICAL BE PREPARED TO PROVIDE PROOF OF ULTRAVIOLET CLEARANCE (REQUIRED TO HIGHLIGHT WHITE TEXT).</span></p>
-<br><p class="byline"><i><img alt="" src="http://2.gravatar.com/avatar/51785b2599ffb7a094457f6a0d26e4d2?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="http://www.patreon.com/rutskarn"> Rutskarn</a> is a writer, author, wordsmith, text producer, article deviser, prose architect, and accredited language-talker. If you enjoy his contributions to this site you could always back <a href="http://www.patreon.com/rutskarn">his Patreon</a>.</i></p>]]>
-      </description>
-      <enclosure url="http://www.shamusyoung.com/diecast/paranoiafull.mp3" length="64496952" type="audio/mpeg"/>
-      <guid isPermaLink="false">http://shamusyoung.com/twentysidedtale/?p=28177</guid>
-      <pubDate>Sun, 16 Aug 2015 03:55:20 +0000</pubDate>
-      <itunes:author>The Diecast</itunes:author>
-      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/ruts_banner.jpg">
-      </itunes:image>
-      <itunes:duration>1:07:11</itunes:duration>
-      <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>Hey, everyone, it’s Rutskarn. I don’t know if you’ve been keeping up with your farmer’s almanac, but the Time of Terror and Blood was recently upon us, and the Great Beast you know as Josh was briefly trapped inside the Southern California ley line. I took advantage of his psychic imprisonment to schedule an ad hoc game of Paranoia. Unfortunately for you, I recorded it.
-
-Also starring: Josh’s brother Glitch, Glitch’s fiancee Madison.
-
-Keep in mind that this session was planned, run, recorded, and in some capacity edited on the fly. I didn’t even know we’d be playing Paranoia when I arrived (I brought a suitcase and flash drive that contained about fifteen separate systems and let them decide). Despite that, we had a lot of fun, and hopefully you will too. I’ve cleaned the audio as best as I could and trimmed a few breaks, but I’ll warn you up front–it’s far from perfect. The Hellish winds that follow Josh like ashen cherubs have that effect on a recording suite.
-
-(Note also that anyone who illustrates anything that happened in this session will earn my undying love.)
-
-And below the fold, all notes and secret information that passed this session:
-
-
-Josh had the mutant power to phase through solid objects when he gave a signal. He was part of a secret society that wanted to gain as much information as possible about the plant. They planted a camera for him in a can of Bouncy Bubble Beverage. Glitch had the mutant power to turn invisible. He was part of a secret society that suspected someone was trying to sabotage the plant. He’d know who the saboteur was because they were acting suspicious, wandering into restricted areas, and recovering classified information. Madison had the mutant power to read notes passed. She was part of a secret society that wanted her to become as irradiated as possible without actually dying. How irradiated is that? Left to her discretion.
-
-And now, the notes. Highlight to declassify:
-
-NOTE 1: MADISON, YOU ARE FIELD-PROMOTED TO LOYALTY OFFICER. KEEP AN EYE OUT FOR MUTANTS AND TRAITORS.
-
-NOTE 2: JOSH, YOU FOUND YOUR CAMERA
-
-NOTE 3: FROM JOSH TO RUTSKARN: I AM USING THE CAMERA CONSPICUOUSLY
-
-NOTE 4: GLITCH, YOU HAVE TURNED INVISIBLE
-
-NOTE 5: JOSH, YOU HAVE PHASED INTO THE BASEMENT.
-
-NOTE 6: JOSH, YOU SEE A CONSOLE. YOU THINK YOU CAN SHUT DOWN THE MELTDOWN FROM HERE.
-
-NOTE 7: FROM JOSH TO RUTSKARN: I TAKE PICTURES OF THE CONSOLE, THEN LEAVE.
-
-NOTE 8: THEY ARE ABSOLUTELY MUTANTS.
-
-NOTE ??? YOU ARE NOT AUTHORIZED TO READ THIS NOTE, CITIZEN. PLEASE REPORT TO NEAREST CONFESSION BOOTH TO PROVIDE A DETAILED ACCOUNT OF WHY YOU THOUGHT THIS INFORMATION WAS MISSION-CRITICAL BE PREPARED TO PROVIDE PROOF OF ULTRAVIOLET CLEARANCE (REQUIRED TO HIGHLIGHT WHITE TEXT).
-
- Rutskarn is a writer, author, wordsmith, text producer, article deviser, prose architect, and accredited language-talker. If you enjoy his contributions to this site you could always back his Patreon.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
