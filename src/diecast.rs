@@ -4,6 +4,7 @@ use chrono::Duration;
 use chrono::TimeZone;
 use chrono::Utc;
 use reqwest::header::CONTENT_LENGTH;
+use rss::Channel;
 use rss::extension::dublincore::DublinCoreExtensionBuilder;
 use rss::extension::itunes::ITunesItemExtensionBuilder;
 use rss::EnclosureBuilder;
@@ -21,6 +22,23 @@ use url::Url;
 
 pub fn matches(url: &str) -> bool {
     url.starts_with("http://shamusyoung.com") || url.starts_with("https://www.shamusyoung.com")
+}
+
+pub fn get_urls(urls: &Vec<String>) -> Result<Vec<String>> {
+    // Get the urls from https://www.shamusyoung.com/twentysidedtale/?cat=287&feed=rss2 !!!
+    let response = reqwest::blocking::get("https://www.shamusyoung.com/twentysidedtale/?cat=287&feed=rss2")?;
+    let body = response.text()?;
+    let channel = Channel::read_from(body.as_bytes())?;
+    let mut rv = vec![];
+    for item in channel.items() {
+        if let Some(link) = item.link() {
+            let link = link.to_owned();
+            if !urls.contains(&link) {
+                rv.push(link);
+            }
+        }
+    }
+    Ok(rv)
 }
 
 pub fn get_info(url: &str, document: &Document) -> Result<Item> {

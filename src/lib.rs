@@ -26,18 +26,37 @@ use select::document::Document;
 use std::borrow::ToOwned;
 use std::convert::From;
 use std::fs::File;
+use std::fs::OpenOptions;
 use std::io::prelude::*;
 use std::io::BufReader;
 
 fn get_urls(podcast: &str) -> Result<Vec<String>> {
+
     let urls = File::open(format!("{}.urls", podcast))
-        .context(format_err!("Error opening {}.urls", podcast))?;
+        .context(format_err!("Error opening {}.urls for reading", podcast))?;
     let mut buf_reader = BufReader::new(urls);
     let mut contents = String::new();
     buf_reader
         .read_to_string(&mut contents)
         .context(format_err!("Error reading {}.urls", podcast))?;
-    Ok(contents.lines().map(ToOwned::to_owned).collect())
+
+    let mut result: Vec<String> = contents.lines().map(ToOwned::to_owned).collect();
+    let mut new_urls = match podcast {
+        "diecast" => diecast::get_urls(&result)?,
+        _ => vec![],
+    };
+
+    if !new_urls.is_empty() {
+        // Add the new urls to the results and write it out.
+        result.append(&mut new_urls);
+        result.sort();
+        result.reverse();
+
+        let mut urls = OpenOptions::new().write(true).truncate(true).open(format!("{}.urls", podcast))
+        .context(format_err!("Error opening {}.urls for writing", podcast))?;
+        urls.write_all(&result.join("\n").as_bytes())?;
+    }
+    Ok(result)
 }
 
 fn get_rss(podcast: &str) -> Result<Channel> {
