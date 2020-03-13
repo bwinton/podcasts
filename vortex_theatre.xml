@@ -1,0 +1,94 @@
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Vortex Theater</title>
+    <link>https://spiritlive.ca/vortex-theatre-2/</link>
+    <description>A podcast about robots, fae, mysterious clockwork, lost teeth (please return), found teeth (finders keepers!), terrible job interviews, tiny elevators embedded in the walls of your home, and snails.</description>
+    <language>en-US</language>
+    <itunes:author>Paisley Sears and Shiann Nias</itunes:author>
+    <itunes:category text="Leisure">
+      <itunes:category text="Games">
+      </itunes:category>
+    </itunes:category>
+    <itunes:image href="https://spiritlive.ca/wp-content/uploads/Vortex-Theatre-Logo-W2020.png"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Paisley Sears and Shiann Nias</itunes:name>
+      <itunes:email>Spiritlive@ryerson.ca</itunes:email>
+    </itunes:owner>
+    <itunes:subtitle>A podcast about robots, fae, mysterious clockwork, lost teeth (please return), found teeth (finders keepers!), terrible job interviews, tiny elevators embedded in the walls of your home, and snails.</itunes:subtitle>
+    <itunes:summary>Do you enjoy strange worlds and unusual story-telling? Are you a fan of speculative-fiction or fantasy? Do you moonlight as some sort of mythic being? (A librarian, perhaps.) Do you lie awake at night, plagued by dreams in which your teeth… oh god, your teeth… they keep falling out. Why do you have so many teeth? Why?
+
+If you answered “Yes”, “No”, or “…What?” to any of the above questions we’ve got the podcast for you! Paisley Sears and Shiann Nias bring you Vortex Theatre: a podcast about robots, fae, mysterious clockwork, lost teeth (please return), found teeth (finders keepers!), terrible job interviews, tiny elevators embedded in the walls of your home, and snails.
+
+Every episode of Vortex Theatre features a partially improvised story, in which Paisley builds a world and a conflict, and Shiann reacts to it. The stories are surreal and fantasy based, with occasional horror and sci-fi elements.</itunes:summary>
+    <itunes:keywords>games,dnd</itunes:keywords>
+    <item>
+      <title>Vortex Theatre - Schism! (Part 1)</title>
+      <link>http://spiritlive.ca/wp-content/uploads/VortexTheatre_Schism-Part-1_4.m4a</link>
+      <description>
+        <![CDATA[Vortex Theatre - Schism! (Part 1)]]>
+      </description>
+      <enclosure url="http://spiritlive.ca/wp-content/uploads/VortexTheatre_Schism-Part-1_4.m4a" length="199" type="audio/mpeg"/>
+      <guid isPermaLink="false">http://spiritlive.ca/wp-content/uploads/VortexTheatre_Schism-Part-1_4.m4a</guid>
+      <pubDate>Fri, 6 Mar 2020 15:34:08 +0000</pubDate>
+      <itunes:author>Paisley Sears and Shiann Nias</itunes:author>
+      <itunes:image href="https://spiritlive.ca/wp-content/uploads/VORTEX-THEATRE-Logo-300x300.png">
+      </itunes:image>
+      <itunes:duration>59:57</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>Vortex Theatre - Schism! (Part 1)</itunes:summary>
+      <dc:creator>Paisley Sears and Shiann Nias</dc:creator>
+    </item>
+    <item>
+      <title>Vortex Theatre - Faerie Circle</title>
+      <link>http://spiritlive.ca/wp-content/uploads/Vortex-Theater_Faerie-Circle.m4a</link>
+      <description>
+        <![CDATA[Vortex Theatre - Faerie Circle]]>
+      </description>
+      <enclosure url="http://spiritlive.ca/wp-content/uploads/Vortex-Theater_Faerie-Circle.m4a" length="199" type="audio/mpeg"/>
+      <guid isPermaLink="false">http://spiritlive.ca/wp-content/uploads/Vortex-Theater_Faerie-Circle.m4a</guid>
+      <pubDate>Fri, 28 Feb 2020 15:34:07 +0000</pubDate>
+      <itunes:author>Paisley Sears and Shiann Nias</itunes:author>
+      <itunes:image href="https://spiritlive.ca/wp-content/uploads/VORTEX-THEATRE-Logo-300x300.png">
+      </itunes:image>
+      <itunes:duration>1:19:20</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>Vortex Theatre - Faerie Circle</itunes:summary>
+      <dc:creator>Paisley Sears and Shiann Nias</dc:creator>
+    </item>
+    <item>
+      <title>Vortex Theatre - The Kingdoms of Darkness and Light (Part 2)</title>
+      <link>http://spiritlive.ca/wp-content/uploads/Vortex-Theatre-_The-Kingdoms-of-Darkness-and-Light-Part-2-.m4a</link>
+      <description>
+        <![CDATA[Vortex Theatre - The Kingdoms of Darkness and Light (Part 2)]]>
+      </description>
+      <enclosure url="http://spiritlive.ca/wp-content/uploads/Vortex-Theatre-_The-Kingdoms-of-Darkness-and-Light-Part-2-.m4a" length="199" type="audio/mpeg"/>
+      <guid isPermaLink="false">http://spiritlive.ca/wp-content/uploads/Vortex-Theatre-_The-Kingdoms-of-Darkness-and-Light-Part-2-.m4a</guid>
+      <pubDate>Fri, 21 Feb 2020 15:34:07 +0000</pubDate>
+      <itunes:author>Paisley Sears and Shiann Nias</itunes:author>
+      <itunes:image href="https://spiritlive.ca/wp-content/uploads/VORTEX-THEATRE-Logo-300x300.png">
+      </itunes:image>
+      <itunes:duration>1:09:55</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>Vortex Theatre - The Kingdoms of Darkness and Light (Part 2)</itunes:summary>
+      <dc:creator>Paisley Sears and Shiann Nias</dc:creator>
+    </item>
+    <item>
+      <title>Vortex Theatre - The Kingdoms of Darkness and Light (Part 1)</title>
+      <link>http://spiritlive.ca/wp-content/uploads/Vortex-Theatre-_-The-Kingdoms-of-Darkness-and-Light-Part-1.m4a</link>
+      <description>
+        <![CDATA[Vortex Theatre - The Kingdoms of Darkness and Light (Part 1)]]>
+      </description>
+      <enclosure url="http://spiritlive.ca/wp-content/uploads/Vortex-Theatre-_-The-Kingdoms-of-Darkness-and-Light-Part-1.m4a" length="199" type="audio/mpeg"/>
+      <guid isPermaLink="false">http://spiritlive.ca/wp-content/uploads/Vortex-Theatre-_-The-Kingdoms-of-Darkness-and-Light-Part-1.m4a</guid>
+      <pubDate>Fri, 14 Feb 2020 15:34:07 +0000</pubDate>
+      <itunes:author>Paisley Sears and Shiann Nias</itunes:author>
+      <itunes:image href="https://spiritlive.ca/wp-content/uploads/VORTEX-THEATRE-Logo-300x300.png">
+      </itunes:image>
+      <itunes:duration>49:41</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>Vortex Theatre - The Kingdoms of Darkness and Light (Part 1)</itunes:summary>
+      <dc:creator>Paisley Sears and Shiann Nias</dc:creator>
+    </item>
+  </channel>
+</rss>

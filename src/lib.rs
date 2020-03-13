@@ -15,6 +15,7 @@ extern crate url;
 mod diecast;
 mod spodcast;
 mod util;
+mod vortex_theatre;
 
 use std::collections::HashMap;
 
@@ -42,15 +43,16 @@ fn get_urls(podcast: &str) -> Result<HashMap<String, Option<Item>>> {
         .read_to_string(&mut contents)
         .context(format_err!("Error reading {}.urls", podcast))?;
 
-    let mut result: HashMap<String, Option<Item>> = contents.lines().map(|x| (x.to_owned(), None)).collect();
+    let mut result: HashMap<String, Option<Item>> =
+        contents.lines().map(|x| (x.to_owned(), None)).collect();
     let new_urls = match podcast {
         "diecast" => diecast::get_urls(&result)?,
+        "vortex_theatre" => vortex_theatre::get_urls(&result)?,
         _ => HashMap::new(),
     };
 
     if !new_urls.is_empty() {
         for (url, item) in new_urls {
-            println!("{}: {:?}", url, item);
             result.insert(url, item);
         }
         // Add the new urls to the results and write it out.
@@ -80,6 +82,7 @@ fn process_document(url: &str, document: &Document) -> Result<Item> {
     match url {
         x if spodcast::matches(x) => spodcast::get_item(url, document),
         x if diecast::matches(x) => diecast::get_item(url, document),
+        x if vortex_theatre::matches(x) => vortex_theatre::get_item(url, document),
         _ => Err(format_err!("Unknown podcast: {}", url)),
     }
 }
@@ -129,8 +132,9 @@ pub fn handle(podcast: &str) {
             } else {
                 // Find any missing urls.
                 // println!("Missing {}", url);
-                println!("{}: {:?}", url, urls.get(url));
-                let item = get_item(url);
+                let item = urls[url].clone().ok_or(|| ()).or_else(|_| get_item(url));
+                // println!("{}: {:?}, {:?}", url, urls[url], item);
+
                 if let Err(ref e) = item {
                     // println!("Error in {}", url);
                     print_error(e);
