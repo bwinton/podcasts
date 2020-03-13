@@ -20,7 +20,7 @@ pub fn matches(url: &str) -> bool {
     url.starts_with("http://spoilerwarning.net")
 }
 
-pub fn get_info(url: &str, document: &Document) -> Result<Item> {
+pub fn get_item(url: &str, document: &Document) -> Result<Item> {
     // Starts with http://spoilerwarning.net
     let title = document
         .find(Class("title").and(Class("single-title")))

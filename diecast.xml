@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -82,8 +82,7 @@ Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.
       </itunes:image>
       <itunes:duration>1:07:19</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		I hope you remembered to set your clocks ahead on Saturday night. Unless you’re in the southern hemisphere, in which case you need to move them back. Or maybe you’re in one of the countries that won’t move for a few more weeks. Or maybe you’re in a country that did it a few weeks ago. Or maybe you’re from a sane country that doesn’t feel the need to fiddle with the clocks twice a year.
+      <itunes:summary>I hope you remembered to set your clocks ahead on Saturday night. Unless you’re in the southern hemisphere, in which case you need to move them back. Or maybe you’re in one of the countries that won’t move for a few more weeks. Or maybe you’re in a country that did it a few weeks ago. Or maybe you’re from a sane country that doesn’t feel the need to fiddle with the clocks twice a year.
 
 Oh well. Have fun coordinating your remote meetings / raid / Skype call / project updates with people around the world! Remember, this chaos and loss of sleep is all for the public good in ways that can’t be proven or measured.
 
@@ -3012,8 +3011,7 @@ Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.
       </itunes:image>
       <itunes:duration>1:01:33</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		During the show, I talk about the Amazon comic book adaptation of The Boys, which just released. I talk about the ending and a twist I saw coming, but I want to make it clear that I didn’t spoil the real ending. The example I gave is a placeholder / red herring. 
+      <itunes:summary>During the show, I talk about the Amazon comic book adaptation of The Boys, which just released. I talk about the ending and a twist I saw coming, but I want to make it clear that I didn’t spoil the real ending. The example I gave is a placeholder / red herring. 
 
 
 Hosts: Paul, Shamus. Episode edited by Issac.
@@ -3062,8 +3060,7 @@ Lachlan
 After doing all of these Spider-Man game reviews, any thoughts on the most recent Spider-Man film, and/or Homecoming?
 Joshua
 
-    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-	</itunes:summary>
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -15185,74 +15182,6 @@ Tagged:Everybody’s Gone to the Rapture, Invisible Inc, Shadow of the Colossus<
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
-      <title>Rutskarn’s RPG Tales: Paranoia (Full Session Recording)</title>
-      <link>http://shamusyoung.com/twentysidedtale/?p=28177</link>
-      <description>
-        <![CDATA[<p></p>
-<p>Hey, everyone, it’s Rutskarn. I don’t know if you’ve been keeping up with your farmer’s almanac, but the Time of Terror and Blood was recently upon us, and the Great Beast you know as Josh was briefly trapped inside the Southern California ley line. I took advantage of his psychic imprisonment to schedule an ad hoc game of <em><a href="https://en.wikipedia.org/wiki/Paranoia_(role-playing_game)">Paranoia</a>.</em> Unfortunately for you, I recorded it.</p>
-<p>Also starring: Josh’s brother Glitch, Glitch’s fiancee Madison.</p>
-<p>Keep in mind that this session was planned, run, recorded, and in some capacity edited on the fly. I didn’t even know we’d be playing <em>Paranoia</em> when I arrived (I brought a suitcase and flash drive that contained about fifteen separate systems and let them decide). Despite that, we had a lot of fun, and hopefully you will too. I’ve cleaned the audio as best as I could and trimmed a few breaks, but I’ll warn you up front–it’s far from perfect. The Hellish winds that follow Josh like ashen cherubs have that effect on a recording suite.</p>
-<p>(Note also that anyone who illustrates anything that happened in this session will earn my undying love.)</p>
-<p>And below the fold, all notes and secret information that passed this session:</p>
-<p><span id="more-28177"></span><br>
-<strong>Josh </strong>had the mutant power to phase through solid objects when he gave a signal. He was part of a secret society that wanted to gain as much information as possible about the plant. They planted a camera for him in a can of Bouncy Bubble Beverage. <strong>Glitch </strong>had the mutant power to turn invisible. He was part of a secret society that suspected someone was trying to sabotage the plant. He’d know who the saboteur was because they were acting suspicious, wandering into restricted areas, and recovering classified information. <strong>Madison </strong>had the mutant power to read notes passed. She was part of a secret society that wanted her to become as irradiated as possible without actually dying. How irradiated is that? Left to her discretion.</p>
-<p>And now, the notes. Highlight to declassify:</p>
-<p>NOTE 1: <span style="color: #ffffff;">MADISON, YOU ARE FIELD-PROMOTED TO LOYALTY OFFICER. KEEP AN EYE OUT FOR MUTANTS AND TRAITORS.</span></p>
-<p>NOTE 2: <span style="color: #ffffff;">JOSH, YOU FOUND YOUR CAMERA</span></p>
-<p>NOTE 3:<span style="color: #ffffff;"> FROM JOSH TO RUTSKARN: I AM USING THE CAMERA CONSPICUOUSLY</span></p>
-<p>NOTE 4: <span style="color: #ffffff;">GLITCH, YOU HAVE TURNED INVISIBLE</span></p>
-<p>NOTE 5:<span style="color: #ffffff;"> JOSH, YOU HAVE PHASED INTO THE BASEMENT.</span></p>
-<p>NOTE 6: <span style="color: #ffffff;">JOSH, YOU SEE A CONSOLE. YOU THINK YOU CAN SHUT DOWN THE MELTDOWN FROM HERE.</span></p>
-<p>NOTE 7: <span style="color: #ffffff;">FROM JOSH TO RUTSKARN: I TAKE PICTURES OF THE CONSOLE, THEN LEAVE.</span></p>
-<p>NOTE 8: <span style="color: #ffffff;">THEY ARE ABSOLUTELY MUTANTS.</span></p>
-<p>NOTE ???<span style="color: #ffffff;"> YOU ARE NOT AUTHORIZED TO READ THIS NOTE, CITIZEN. PLEASE REPORT TO NEAREST CONFESSION BOOTH TO PROVIDE A DETAILED ACCOUNT OF WHY YOU THOUGHT THIS INFORMATION WAS MISSION-CRITICAL BE PREPARED TO PROVIDE PROOF OF ULTRAVIOLET CLEARANCE (REQUIRED TO HIGHLIGHT WHITE TEXT).</span></p>
-<br><p class="byline"><i><img alt="" src="http://2.gravatar.com/avatar/51785b2599ffb7a094457f6a0d26e4d2?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="http://www.patreon.com/rutskarn"> Rutskarn</a> is a writer, author, wordsmith, text producer, article deviser, prose architect, and accredited language-talker. If you enjoy his contributions to this site you could always back <a href="http://www.patreon.com/rutskarn">his Patreon</a>.</i></p>]]>
-      </description>
-      <enclosure url="http://www.shamusyoung.com/diecast/paranoiafull.mp3" length="64496952" type="audio/mpeg"/>
-      <guid isPermaLink="false">http://shamusyoung.com/twentysidedtale/?p=28177</guid>
-      <pubDate>Sun, 16 Aug 2015 03:55:20 +0000</pubDate>
-      <itunes:author>The Diecast</itunes:author>
-      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/ruts_banner.jpg">
-      </itunes:image>
-      <itunes:duration>1:07:11</itunes:duration>
-      <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>Hey, everyone, it’s Rutskarn. I don’t know if you’ve been keeping up with your farmer’s almanac, but the Time of Terror and Blood was recently upon us, and the Great Beast you know as Josh was briefly trapped inside the Southern California ley line. I took advantage of his psychic imprisonment to schedule an ad hoc game of Paranoia. Unfortunately for you, I recorded it.
-
-Also starring: Josh’s brother Glitch, Glitch’s fiancee Madison.
-
-Keep in mind that this session was planned, run, recorded, and in some capacity edited on the fly. I didn’t even know we’d be playing Paranoia when I arrived (I brought a suitcase and flash drive that contained about fifteen separate systems and let them decide). Despite that, we had a lot of fun, and hopefully you will too. I’ve cleaned the audio as best as I could and trimmed a few breaks, but I’ll warn you up front–it’s far from perfect. The Hellish winds that follow Josh like ashen cherubs have that effect on a recording suite.
-
-(Note also that anyone who illustrates anything that happened in this session will earn my undying love.)
-
-And below the fold, all notes and secret information that passed this session:
-
-
-Josh had the mutant power to phase through solid objects when he gave a signal. He was part of a secret society that wanted to gain as much information as possible about the plant. They planted a camera for him in a can of Bouncy Bubble Beverage. Glitch had the mutant power to turn invisible. He was part of a secret society that suspected someone was trying to sabotage the plant. He’d know who the saboteur was because they were acting suspicious, wandering into restricted areas, and recovering classified information. Madison had the mutant power to read notes passed. She was part of a secret society that wanted her to become as irradiated as possible without actually dying. How irradiated is that? Left to her discretion.
-
-And now, the notes. Highlight to declassify:
-
-NOTE 1: MADISON, YOU ARE FIELD-PROMOTED TO LOYALTY OFFICER. KEEP AN EYE OUT FOR MUTANTS AND TRAITORS.
-
-NOTE 2: JOSH, YOU FOUND YOUR CAMERA
-
-NOTE 3: FROM JOSH TO RUTSKARN: I AM USING THE CAMERA CONSPICUOUSLY
-
-NOTE 4: GLITCH, YOU HAVE TURNED INVISIBLE
-
-NOTE 5: JOSH, YOU HAVE PHASED INTO THE BASEMENT.
-
-NOTE 6: JOSH, YOU SEE A CONSOLE. YOU THINK YOU CAN SHUT DOWN THE MELTDOWN FROM HERE.
-
-NOTE 7: FROM JOSH TO RUTSKARN: I TAKE PICTURES OF THE CONSOLE, THEN LEAVE.
-
-NOTE 8: THEY ARE ABSOLUTELY MUTANTS.
-
-NOTE ??? YOU ARE NOT AUTHORIZED TO READ THIS NOTE, CITIZEN. PLEASE REPORT TO NEAREST CONFESSION BOOTH TO PROVIDE A DETAILED ACCOUNT OF WHY YOU THOUGHT THIS INFORMATION WAS MISSION-CRITICAL BE PREPARED TO PROVIDE PROOF OF ULTRAVIOLET CLEARANCE (REQUIRED TO HIGHLIGHT WHITE TEXT).
-
- Rutskarn is a writer, author, wordsmith, text producer, article deviser, prose architect, and accredited language-talker. If you enjoy his contributions to this site you could always back his Patreon.</itunes:summary>
-      <dc:creator>Shamus Young</dc:creator>
-    </item>
-    <item>
       <title>Diecast #117: Mailbag, Text Plays, Licensed Games</title>
       <link>http://shamusyoung.com/twentysidedtale/?p=28172</link>
       <description>
@@ -15351,6 +15280,74 @@ Matthias
 
 Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
 Tagged:xcom</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
+    <item>
+      <title>Rutskarn’s RPG Tales: Paranoia (Full Session Recording)</title>
+      <link>http://shamusyoung.com/twentysidedtale/?p=28177</link>
+      <description>
+        <![CDATA[<p></p>
+<p>Hey, everyone, it’s Rutskarn. I don’t know if you’ve been keeping up with your farmer’s almanac, but the Time of Terror and Blood was recently upon us, and the Great Beast you know as Josh was briefly trapped inside the Southern California ley line. I took advantage of his psychic imprisonment to schedule an ad hoc game of <em><a href="https://en.wikipedia.org/wiki/Paranoia_(role-playing_game)">Paranoia</a>.</em> Unfortunately for you, I recorded it.</p>
+<p>Also starring: Josh’s brother Glitch, Glitch’s fiancee Madison.</p>
+<p>Keep in mind that this session was planned, run, recorded, and in some capacity edited on the fly. I didn’t even know we’d be playing <em>Paranoia</em> when I arrived (I brought a suitcase and flash drive that contained about fifteen separate systems and let them decide). Despite that, we had a lot of fun, and hopefully you will too. I’ve cleaned the audio as best as I could and trimmed a few breaks, but I’ll warn you up front–it’s far from perfect. The Hellish winds that follow Josh like ashen cherubs have that effect on a recording suite.</p>
+<p>(Note also that anyone who illustrates anything that happened in this session will earn my undying love.)</p>
+<p>And below the fold, all notes and secret information that passed this session:</p>
+<p><span id="more-28177"></span><br>
+<strong>Josh </strong>had the mutant power to phase through solid objects when he gave a signal. He was part of a secret society that wanted to gain as much information as possible about the plant. They planted a camera for him in a can of Bouncy Bubble Beverage. <strong>Glitch </strong>had the mutant power to turn invisible. He was part of a secret society that suspected someone was trying to sabotage the plant. He’d know who the saboteur was because they were acting suspicious, wandering into restricted areas, and recovering classified information. <strong>Madison </strong>had the mutant power to read notes passed. She was part of a secret society that wanted her to become as irradiated as possible without actually dying. How irradiated is that? Left to her discretion.</p>
+<p>And now, the notes. Highlight to declassify:</p>
+<p>NOTE 1: <span style="color: #ffffff;">MADISON, YOU ARE FIELD-PROMOTED TO LOYALTY OFFICER. KEEP AN EYE OUT FOR MUTANTS AND TRAITORS.</span></p>
+<p>NOTE 2: <span style="color: #ffffff;">JOSH, YOU FOUND YOUR CAMERA</span></p>
+<p>NOTE 3:<span style="color: #ffffff;"> FROM JOSH TO RUTSKARN: I AM USING THE CAMERA CONSPICUOUSLY</span></p>
+<p>NOTE 4: <span style="color: #ffffff;">GLITCH, YOU HAVE TURNED INVISIBLE</span></p>
+<p>NOTE 5:<span style="color: #ffffff;"> JOSH, YOU HAVE PHASED INTO THE BASEMENT.</span></p>
+<p>NOTE 6: <span style="color: #ffffff;">JOSH, YOU SEE A CONSOLE. YOU THINK YOU CAN SHUT DOWN THE MELTDOWN FROM HERE.</span></p>
+<p>NOTE 7: <span style="color: #ffffff;">FROM JOSH TO RUTSKARN: I TAKE PICTURES OF THE CONSOLE, THEN LEAVE.</span></p>
+<p>NOTE 8: <span style="color: #ffffff;">THEY ARE ABSOLUTELY MUTANTS.</span></p>
+<p>NOTE ???<span style="color: #ffffff;"> YOU ARE NOT AUTHORIZED TO READ THIS NOTE, CITIZEN. PLEASE REPORT TO NEAREST CONFESSION BOOTH TO PROVIDE A DETAILED ACCOUNT OF WHY YOU THOUGHT THIS INFORMATION WAS MISSION-CRITICAL BE PREPARED TO PROVIDE PROOF OF ULTRAVIOLET CLEARANCE (REQUIRED TO HIGHLIGHT WHITE TEXT).</span></p>
+<br><p class="byline"><i><img alt="" src="http://2.gravatar.com/avatar/51785b2599ffb7a094457f6a0d26e4d2?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="http://www.patreon.com/rutskarn"> Rutskarn</a> is a writer, author, wordsmith, text producer, article deviser, prose architect, and accredited language-talker. If you enjoy his contributions to this site you could always back <a href="http://www.patreon.com/rutskarn">his Patreon</a>.</i></p>]]>
+      </description>
+      <enclosure url="http://www.shamusyoung.com/diecast/paranoiafull.mp3" length="64496952" type="audio/mpeg"/>
+      <guid isPermaLink="false">http://shamusyoung.com/twentysidedtale/?p=28177</guid>
+      <pubDate>Sun, 16 Aug 2015 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/ruts_banner.jpg">
+      </itunes:image>
+      <itunes:duration>1:07:11</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>Hey, everyone, it’s Rutskarn. I don’t know if you’ve been keeping up with your farmer’s almanac, but the Time of Terror and Blood was recently upon us, and the Great Beast you know as Josh was briefly trapped inside the Southern California ley line. I took advantage of his psychic imprisonment to schedule an ad hoc game of Paranoia. Unfortunately for you, I recorded it.
+
+Also starring: Josh’s brother Glitch, Glitch’s fiancee Madison.
+
+Keep in mind that this session was planned, run, recorded, and in some capacity edited on the fly. I didn’t even know we’d be playing Paranoia when I arrived (I brought a suitcase and flash drive that contained about fifteen separate systems and let them decide). Despite that, we had a lot of fun, and hopefully you will too. I’ve cleaned the audio as best as I could and trimmed a few breaks, but I’ll warn you up front–it’s far from perfect. The Hellish winds that follow Josh like ashen cherubs have that effect on a recording suite.
+
+(Note also that anyone who illustrates anything that happened in this session will earn my undying love.)
+
+And below the fold, all notes and secret information that passed this session:
+
+
+Josh had the mutant power to phase through solid objects when he gave a signal. He was part of a secret society that wanted to gain as much information as possible about the plant. They planted a camera for him in a can of Bouncy Bubble Beverage. Glitch had the mutant power to turn invisible. He was part of a secret society that suspected someone was trying to sabotage the plant. He’d know who the saboteur was because they were acting suspicious, wandering into restricted areas, and recovering classified information. Madison had the mutant power to read notes passed. She was part of a secret society that wanted her to become as irradiated as possible without actually dying. How irradiated is that? Left to her discretion.
+
+And now, the notes. Highlight to declassify:
+
+NOTE 1: MADISON, YOU ARE FIELD-PROMOTED TO LOYALTY OFFICER. KEEP AN EYE OUT FOR MUTANTS AND TRAITORS.
+
+NOTE 2: JOSH, YOU FOUND YOUR CAMERA
+
+NOTE 3: FROM JOSH TO RUTSKARN: I AM USING THE CAMERA CONSPICUOUSLY
+
+NOTE 4: GLITCH, YOU HAVE TURNED INVISIBLE
+
+NOTE 5: JOSH, YOU HAVE PHASED INTO THE BASEMENT.
+
+NOTE 6: JOSH, YOU SEE A CONSOLE. YOU THINK YOU CAN SHUT DOWN THE MELTDOWN FROM HERE.
+
+NOTE 7: FROM JOSH TO RUTSKARN: I TAKE PICTURES OF THE CONSOLE, THEN LEAVE.
+
+NOTE 8: THEY ARE ABSOLUTELY MUTANTS.
+
+NOTE ??? YOU ARE NOT AUTHORIZED TO READ THIS NOTE, CITIZEN. PLEASE REPORT TO NEAREST CONFESSION BOOTH TO PROVIDE A DETAILED ACCOUNT OF WHY YOU THOUGHT THIS INFORMATION WAS MISSION-CRITICAL BE PREPARED TO PROVIDE PROOF OF ULTRAVIOLET CLEARANCE (REQUIRED TO HIGHLIGHT WHITE TEXT).
+
+ Rutskarn is a writer, author, wordsmith, text producer, article deviser, prose architect, and accredited language-talker. If you enjoy his contributions to this site you could always back his Patreon.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>

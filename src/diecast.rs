@@ -1,12 +1,14 @@
 use crate::util::*;
 
+use std::collections::HashMap;
+
 use chrono::Duration;
 use chrono::TimeZone;
 use chrono::Utc;
 use reqwest::header::CONTENT_LENGTH;
-use rss::Channel;
 use rss::extension::dublincore::DublinCoreExtensionBuilder;
 use rss::extension::itunes::ITunesItemExtensionBuilder;
+use rss::Channel;
 use rss::EnclosureBuilder;
 use rss::GuidBuilder;
 use rss::Item;
@@ -24,24 +26,25 @@ pub fn matches(url: &str) -> bool {
     url.starts_with("http://shamusyoung.com") || url.starts_with("https://www.shamusyoung.com")
 }
 
-pub fn get_urls(urls: &Vec<String>) -> Result<Vec<String>> {
+pub fn get_urls(urls: &HashMap<String, Option<Item>>) -> Result<HashMap<String, Option<Item>>> {
     // Get the urls from https://www.shamusyoung.com/twentysidedtale/?cat=287&feed=rss2 !!!
-    let response = reqwest::blocking::get("https://www.shamusyoung.com/twentysidedtale/?cat=287&feed=rss2")?;
+    let response =
+        reqwest::blocking::get("https://www.shamusyoung.com/twentysidedtale/?cat=287&feed=rss2")?;
     let body = response.text()?;
     let channel = Channel::read_from(body.as_bytes())?;
-    let mut rv = vec![];
+    let mut rv = HashMap::new();
     for item in channel.items() {
         if let Some(link) = item.link() {
             let link = link.to_owned();
-            if !urls.contains(&link) {
-                rv.push(link);
+            if !urls.contains_key(&link) {
+                rv.insert(link, None);
             }
         }
     }
     Ok(rv)
 }
 
-pub fn get_info(url: &str, document: &Document) -> Result<Item> {
+pub fn get_item(url: &str, document: &Document) -> Result<Item> {
     let this_document = Url::parse(url)?;
     let http_document =
         Url::parse(&url.replace("https://www.shamusyoung.com", "http://shamusyoung.com"))?;

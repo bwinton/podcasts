@@ -16,8 +16,11 @@ mod diecast;
 mod spodcast;
 mod util;
 
+use std::collections::HashMap;
+
 use util::*;
 
+use chrono::DateTime;
 use failure::ResultExt;
 use rayon::prelude::*;
 use rss::Channel;
@@ -30,8 +33,7 @@ use std::fs::OpenOptions;
 use std::io::prelude::*;
 use std::io::BufReader;
 
-fn get_urls(podcast: &str) -> Result<Vec<String>> {
-
+fn get_urls(podcast: &str) -> Result<HashMap<String, Option<Item>>> {
     let urls = File::open(format!("{}.urls", podcast))
         .context(format_err!("Error opening {}.urls for reading", podcast))?;
     let mut buf_reader = BufReader::new(urls);
@@ -40,21 +42,28 @@ fn get_urls(podcast: &str) -> Result<Vec<String>> {
         .read_to_string(&mut contents)
         .context(format_err!("Error reading {}.urls", podcast))?;
 
-    let mut result: Vec<String> = contents.lines().map(ToOwned::to_owned).collect();
-    let mut new_urls = match podcast {
+    let mut result: HashMap<String, Option<Item>> = contents.lines().map(|x| (x.to_owned(), None)).collect();
+    let new_urls = match podcast {
         "diecast" => diecast::get_urls(&result)?,
-        _ => vec![],
+        _ => HashMap::new(),
     };
 
     if !new_urls.is_empty() {
+        for (url, item) in new_urls {
+            println!("{}: {:?}", url, item);
+            result.insert(url, item);
+        }
         // Add the new urls to the results and write it out.
-        result.append(&mut new_urls);
-        result.sort();
-        result.reverse();
+        let mut keys: Vec<String> = result.keys().map(|x| x.clone()).collect();
+        keys.sort();
+        keys.reverse();
 
-        let mut urls = OpenOptions::new().write(true).truncate(true).open(format!("{}.urls", podcast))
-        .context(format_err!("Error opening {}.urls for writing", podcast))?;
-        urls.write_all(&result.join("\n").as_bytes())?;
+        let mut urls = OpenOptions::new()
+            .write(true)
+            .truncate(true)
+            .open(format!("{}.urls", podcast))
+            .context(format_err!("Error opening {}.urls for writing", podcast))?;
+        urls.write_all(&keys.join("\n").as_bytes())?;
     }
     Ok(result)
 }
@@ -69,8 +78,8 @@ fn get_rss(podcast: &str) -> Result<Channel> {
 
 fn process_document(url: &str, document: &Document) -> Result<Item> {
     match url {
-        x if spodcast::matches(x) => spodcast::get_info(url, document),
-        x if diecast::matches(x) => diecast::get_info(url, document),
+        x if spodcast::matches(x) => spodcast::get_item(url, document),
+        x if diecast::matches(x) => diecast::get_item(url, document),
         _ => Err(format_err!("Unknown podcast: {}", url)),
     }
 }
@@ -103,7 +112,10 @@ pub fn handle(podcast: &str) {
     };
 
     println!("{}: {}/{}", podcast, rss_data.items().len(), urls.len());
-    let items: Vec<_> = urls
+    let mut keys: Vec<String> = urls.keys().map(|x| x.clone()).collect();
+    keys.sort();
+    keys.reverse();
+    let mut items: Vec<_> = keys
         .par_iter()
         .map(|url| {
             if url.starts_with('#') {
@@ -117,6 +129,7 @@ pub fn handle(podcast: &str) {
             } else {
                 // Find any missing urls.
                 // println!("Missing {}", url);
+                println!("{}: {:?}", url, urls.get(url));
                 let item = get_item(url);
                 if let Err(ref e) = item {
                     // println!("Error in {}", url);
@@ -128,6 +141,12 @@ pub fn handle(podcast: &str) {
         .filter_map(|x| x)
         .collect();
     // Write out the new podcast.xml
+    items.sort_by(|a, b| {
+        let a_date = DateTime::parse_from_rfc2822(a.pub_date().unwrap()).unwrap();
+        let b_date = DateTime::parse_from_rfc2822(b.pub_date().unwrap()).unwrap();
+        a_date.partial_cmp(&b_date).unwrap()
+    });
+    items.reverse();
     rss_data.set_items(items);
     let output = File::create(format!("{}.xml", podcast)).unwrap();
     rss_data.pretty_write_to(output, b' ', 2).unwrap();
