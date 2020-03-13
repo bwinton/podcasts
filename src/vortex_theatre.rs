@@ -17,6 +17,7 @@ use select::predicate::Name;
 use serde_json::Value;
 
 static APP_USER_AGENT: &str = concat!(env!("CARGO_PKG_NAME"), "/", env!("CARGO_PKG_VERSION"),);
+static BASE_URL: &str = "https://spiritlive.ca/vortex-theatre-2/";
 
 pub fn matches(url: &str) -> bool {
     url.starts_with("http://spiritlive.ca/")
@@ -28,7 +29,7 @@ pub fn get_urls(_: &HashMap<String, Option<Item>>) -> Result<HashMap<String, Opt
         .user_agent(APP_USER_AGENT)
         .build()?;
     let response = client
-        .get("https://spiritlive.ca/vortex-theatre-2/")
+        .get(BASE_URL)
         .send()?;
     let body = response.text()?;
     let document = Document::from(body.as_str());
@@ -36,7 +37,7 @@ pub fn get_urls(_: &HashMap<String, Option<Item>>) -> Result<HashMap<String, Opt
         .find(And(Name("script"), Class("cue-playlist-data")))
         .next()
         .map(|x| x.text())
-        .ok_or_else(|| format_err!("missing script in https://spiritlive.ca/vortex-theatre-2/"))?;
+        .ok_or_else(|| format_err!("missing script in {}", BASE_URL))?;
     let data: Value = serde_json::from_str(&script)?;
     let mut rv: HashMap<String, Option<Item>> = HashMap::new();
     for audio in data["tracks"].as_array().unwrap() {
@@ -87,7 +88,7 @@ pub fn get_urls(_: &HashMap<String, Option<Item>>) -> Result<HashMap<String, Opt
             .title(Some(title))
             .dublin_core_ext(dc)
             .pub_date(pub_date.to_rfc2822().replace("  ", " "))
-            .link(Some(url.to_owned()))
+            .link(Some(BASE_URL.to_owned()))
             .guid(guid)
             .description(Some(description))
             .itunes_ext(itunes)
