@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -18,6 +18,112 @@
     <itunes:subtitle>Like Twenty-Sided, but with less video.</itunes:subtitle>
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
+    <item>
+      <title>Diecast #293: Crunch Time, Indie Case Study, Mailbag</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=49522</link>
+      <description>
+        <![CDATA[
+		<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast293.mp3">Diecast293</a><p></p>
+<p></p><p></p>
+<p><span id="more-49522"></span><strong>00:00 Michael Goodfellow</strong></p>
+<p><a href="http://www.sea-of-memes.com/">Here is the Sea of Memes site</a>, if you’re curious.</p>
+<p><strong>01:57 Corona</strong></p>
+<p>I just closed Reddit, because I was SO sick of the constant Corona / toilet paper memes. Then I remembered we talked about it on the show. This wasn’t even a planned topic. We were talking about it just before starting the show, and then made a snap decision to add it to the agenda. </p>
+<p>Sorry for adding to the pointless media deluge. I realize you probably come here to get <strong>away</strong> from this sort of thing. </p>
+<p><strong>10:50 Naughty Dog Is Crunching</strong></p>
+<p><a href="https://kotaku.com/as-naughty-dog-crunches-on-the-last-of-us-ii-developer-1842289962">Jason Schreier’s latest expose</a> is… not a surprise, but a sad read nonetheless. </p>
+<p>During this segment, I commented that it wasn’t clear if the publisher was even AWARE that this was a problem. The story made it sound like employees were imposing crunch on themselves and the publisher wasn’t paying attention. But there’s a bit of the discussion that I overlooked, which is that one of the developers was <a href="https://www.youtube.com/watch?v=P6N7FrFY-IA">threatened to keep quiet about the company’s crunch practices</a>. That sounds bad, but from context it sounds like this guy was threatened by the developer <strong>Naughty Dog</strong>, not publisher Sony. </p>
+<p>In either case, you have management doing bad things, but I’d really love to know which management we should focus on. Consider the possibilities:</p>
+<ol>
+<li>Sony is deliberately creating unhealthy conditions because they want to ship the next game at any cost.
+</li><li>One of the higher-ups at Naughty Dog is trying to advance his career by making it look like he’s a miracle worker, and to that end he’s squeezing his people really hard.
+</li></ol>
+<p>These are both bad, of course. But for whatever reason I personally find #2 to be more angering. It’s one thing to harm people on the other side of the world through negligence and apathy, but for me that’s not nearly as bad as harming the people you see every day due to callousness and personal ambition. </p>
+<p>But I don’t know. As always, we’re peering through the cracks in the wall and trying to make guesses about what we’re seeing. Regardless of who is at fault, this is very bad for Naughty Dog. They lost 70% of their creative leads. That’s the same thing that killed BioWare. If you lose your key people, you lose your identity as a developer. </p>
+<p>I’m very curious to see if all of this chaos will impact the final quality of <em>Last of Us II</em>. </p>
+<p><strong>24:40 Steam sales case study: ‘Academia: School Simulator’</strong></p>
+<p>The article, which is worth a read: <a href="https://www.gamasutra.com/blogs/SimonCarless/20200226/358784/Steam_sales_case_study_Academia_School_Simulator.php">Steam sales case study: ‘Academia: School Simulator</a>‘</p>
+<p><strong>36:21 Mailbag: Director Games in the West</strong></p>
+<blockquote><p>Dear Diecast</p>
+<p>Do you think that videos games in the west should adopt the Director role that they have in Japan the try to keep a consistent vision and them for the game? When western games have someone who seems to be the one making the decisions or has a mostly-clear vision of what the game should be, like Ken Levine with the Bioshock games, they seem be a more consistent whole. But they seem the be the rarity, at least publicly.</p>
+<p>There are even a few games that seem to have no one of any kind in a leadership role and those games came out very much a mess, like Mass Effect: Andromeda.</p>
+<p>Would having someone who is in a more supervisory position to organize teams and team-efforts into a unified direction be an over all benefit? Or would it lead to having too many people being promoted into those positions because of tone-from-the-top and have an unhealthy culture of favoritism and nepotism?</p>
+<p>Has there been any past games that you can think of had a director-like role in development, for good or bad?</p>
+<p>Horatio J. HooDoo</p></blockquote>
+<p><strong>41:21 Mailbag: Risking Minimum Specs</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>What do you do when you aren’t sure whether or not a game will be playable on your computer?  Give up on it?  Buy it anyway?  (Hope springs eternal!)  Ask the internet for help?  I always end up comparing the minimum and recommended processors and GPUs to my processor and GPU on benchmarking sites.  I’m hoping you know a better way.</p>
+<p>–John</p></blockquote>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast293.mp3" length="53852333" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=49522</guid>
+      <pubDate>Mon, 16 Mar 2020 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast2020.jpg">
+      </itunes:image>
+      <itunes:duration>55:45</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		
+Hosts: Paul, Shamus. Episode edited by Issac.
+Diecast293
+
+
+
+
+00:00 Michael Goodfellow
+
+Here is the Sea of Memes site, if you’re curious.
+
+01:57 Corona
+
+I just closed Reddit, because I was SO sick of the constant Corona / toilet paper memes. Then I remembered we talked about it on the show. This wasn’t even a planned topic. We were talking about it just before starting the show, and then made a snap decision to add it to the agenda. 
+
+Sorry for adding to the pointless media deluge. I realize you probably come here to get away from this sort of thing. 
+
+10:50 Naughty Dog Is Crunching
+
+Jason Schreier’s latest expose is… not a surprise, but a sad read nonetheless. 
+
+During this segment, I commented that it wasn’t clear if the publisher was even AWARE that this was a problem. The story made it sound like employees were imposing crunch on themselves and the publisher wasn’t paying attention. But there’s a bit of the discussion that I overlooked, which is that one of the developers was threatened to keep quiet about the company’s crunch practices. That sounds bad, but from context it sounds like this guy was threatened by the developer Naughty Dog, not publisher Sony. 
+
+In either case, you have management doing bad things, but I’d really love to know which management we should focus on. Consider the possibilities:
+
+
+Sony is deliberately creating unhealthy conditions because they want to ship the next game at any cost.
+One of the higher-ups at Naughty Dog is trying to advance his career by making it look like he’s a miracle worker, and to that end he’s squeezing his people really hard.
+
+These are both bad, of course. But for whatever reason I personally find #2 to be more angering. It’s one thing to harm people on the other side of the world through negligence and apathy, but for me that’s not nearly as bad as harming the people you see every day due to callousness and personal ambition. 
+
+But I don’t know. As always, we’re peering through the cracks in the wall and trying to make guesses about what we’re seeing. Regardless of who is at fault, this is very bad for Naughty Dog. They lost 70% of their creative leads. That’s the same thing that killed BioWare. If you lose your key people, you lose your identity as a developer. 
+
+I’m very curious to see if all of this chaos will impact the final quality of Last of Us II. 
+
+24:40 Steam sales case study: ‘Academia: School Simulator’
+
+The article, which is worth a read: Steam sales case study: ‘Academia: School Simulator‘
+
+36:21 Mailbag: Director Games in the West
+
+Dear Diecast
+Do you think that videos games in the west should adopt the Director role that they have in Japan the try to keep a consistent vision and them for the game? When western games have someone who seems to be the one making the decisions or has a mostly-clear vision of what the game should be, like Ken Levine with the Bioshock games, they seem be a more consistent whole. But they seem the be the rarity, at least publicly.
+There are even a few games that seem to have no one of any kind in a leadership role and those games came out very much a mess, like Mass Effect: Andromeda.
+Would having someone who is in a more supervisory position to organize teams and team-efforts into a unified direction be an over all benefit? Or would it lead to having too many people being promoted into those positions because of tone-from-the-top and have an unhealthy culture of favoritism and nepotism?
+Has there been any past games that you can think of had a director-like role in development, for good or bad?
+Horatio J. HooDoo
+41:21 Mailbag: Risking Minimum Specs
+
+Dear Diecast,
+What do you do when you aren’t sure whether or not a game will be playable on your computer?  Give up on it?  Buy it anyway?  (Hope springs eternal!)  Ask the internet for help?  I always end up comparing the minimum and recommended processors and GPUs to my processor and GPU on benchmarking sites.  I’m hoping you know a better way.
+–John
+
+    Shamus Young …</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
     <item>
       <title>Diecast #292: Geforce NOW, Wolfenstein Revisited, Mailbag</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=49457</link>
