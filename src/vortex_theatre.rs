@@ -88,7 +88,7 @@ pub fn get_urls(_: &HashMap<String, Option<Item>>) -> Result<HashMap<String, Opt
             .title(Some(title))
             .dublin_core_ext(dc)
             .pub_date(pub_date.to_rfc2822().replace("  ", " "))
-            .link(Some(BASE_URL.to_owned()))
+            .link(Some(url.to_owned()))
             .guid(guid)
             .description(Some(description))
             .itunes_ext(itunes)
