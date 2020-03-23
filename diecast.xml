@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -18,6 +18,96 @@
     <itunes:subtitle>Like Twenty-Sided, but with less video.</itunes:subtitle>
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
+    <item>
+      <title>Diecast #294: DOOM Eternal, A Short Hike, Gorogoa, Gamestop</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=49590</link>
+      <description>
+        <![CDATA[
+		<p>Once again, I tried to make a show that wasn’t going to mention The Plague. But right now all the news is about The Plague, and it’s impacting everything, so leaving it out means talking around it. That’s awkward, so instead we get this.</p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast294.mp3">Diecast294</a><p></p>
+<p>Show notes:<span id="more-49590"></span></p>
+<p></p><p></p>
+<p><strong>00:00 DOOM Eternal</strong></p>
+<p>I was pretty negative on the show, but things are a little smoother now that I’ve figured a few things out. I still maintain that the bigger foes have WAY too much health. It’s possible to expend your entire stock of shotgun ammo on a Baron and STILL not kill him<span class="snote" title="1">Depending on how you allocate upgrades, I suppose. You can invest in ammo, health, or armor.</span>. On normal difficulty. That feels wrong.</p>
+<p><strong>08:23 Bethesda’s Denuvo Folly</strong></p>
+<p>Read it for yourself: <a href="https://arstechnica.com/gaming/2020/03/bethesda-apparently-broke-its-own-denuvo-protection-for-doom-eternal/">Bethesda apparently broke its own Denuvo protection for Doom Eternal</a>. Fun fact: <a href="https://www.kitguru.net/gaming/matthew-wilson/bethesda-managed-to-make-rage-2s-denuvo-drm-pointless/">This isn’t the first time this happened</a>.</p>
+<p><strong>15:32 A Short Hike</strong></p>
+<p></p><p></p>
+<p><strong>18:47 Gorogoa</strong></p>
+<p></p><p></p>
+<p><strong>23:56 Youtube is using Covid-19 as an excuse to do less human checks.</strong></p>
+<p><a href="https://youtube-creators.googleblog.com/2020/03/protecting-our-extended-workforce-and.html"></a></p><p></p>
+<p><strong>27:41 Gamestop thinks it’s an “essential service”.</strong></p>
+<p>(Gamestop is wrong.)</p>
+<p>Gamestop <a href="https://kotaku.com/gamestop-we-can-stay-open-during-lockdowns-because-wer-1842415962">refused to close</a>, then <a href="https://kotaku.com/gamestop-shuts-down-stores-in-california-1842428841">changed its mind</a>.</p>
+<p><strong>41:08 Mailbag: Standing Stone Games</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>You probably know by now that I’m a big fan of Dungeons and Dragons Online, and Standing Stone Games did something really cool, I think: they made all of the adventure content in BOTH of their MMO’s (Dungeons and Dragons Online and Lord of the Rings Online) available FREE until April 30th. https://www.ddo.com/en/friends</p>
+<p>I thought this was really cool, and I’m wondering if you or the other Diecast folks might stop by at some point? It doesn’t seem to be a marketing ploy, but just something they wanted to do so people going through tough times could have access to a fun game.</p>
+<p>Jennifer Snow</p></blockquote>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast294.mp3" length="52599009" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=49590</guid>
+      <pubDate>Mon, 23 Mar 2020 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast2020.jpg">
+      </itunes:image>
+      <itunes:duration>54:49</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>Once again, I tried to make a show that wasn’t going to mention The Plague. But right now all the news is about The Plague, and it’s impacting everything, so leaving it out means talking around it. That’s awkward, so instead we get this.
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+Diecast294
+
+Show notes:
+
+
+
+
+00:00 DOOM Eternal
+
+I was pretty negative on the show, but things are a little smoother now that I’ve figured a few things out. I still maintain that the bigger foes have WAY too much health. It’s possible to expend your entire stock of shotgun ammo on a Baron and STILL not kill himDepending on how you allocate upgrades, I suppose. You can invest in ammo, health, or armor.. On normal difficulty. That feels wrong.
+
+08:23 Bethesda’s Denuvo Folly
+
+Read it for yourself: Bethesda apparently broke its own Denuvo protection for Doom Eternal. Fun fact: This isn’t the first time this happened.
+
+15:32 A Short Hike
+
+
+
+
+18:47 Gorogoa
+
+
+
+
+23:56 Youtube is using Covid-19 as an excuse to do less human checks.
+
+
+
+
+27:41 Gamestop thinks it’s an “essential service”.
+
+(Gamestop is wrong.)
+
+Gamestop refused to close, then changed its mind.
+
+41:08 Mailbag: Standing Stone Games
+
+Dear Diecast,
+You probably know by now that I’m a big fan of Dungeons and Dragons Online, and Standing Stone Games did something really cool, I think: they made all of the adventure content in BOTH of their MMO’s (Dungeons and Dragons Online and Lord of the Rings Online) available FREE until April 30th. https://www.ddo.com/en/friends
+I thought this was really cool, and I’m wondering if you or the other Diecast folks might stop by at some point? It doesn’t seem to be a marketing ploy, but just something they wanted to do so people going through tough times could have access to a fun game.
+Jennifer Snow
+
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
     <item>
       <title>Diecast #293: Crunch Time, Indie Case Study, Mailbag</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=49522</link>
@@ -67,9 +157,7 @@ Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.
       </itunes:image>
       <itunes:duration>55:45</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		
-Hosts: Paul, Shamus. Episode edited by Issac.
+      <itunes:summary>Hosts: Paul, Shamus. Episode edited by Issac.
 Diecast293
 
 
