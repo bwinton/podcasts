@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -18,6 +18,139 @@
     <itunes:subtitle>Like Twenty-Sided, but with less video.</itunes:subtitle>
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
+    <item>
+      <title>Diecast #296: Everything is Fine</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=49705</link>
+      <description>
+        <![CDATA[
+		<p>I hope everyone is safe and healthy this week. Here’s an hour or so of us whistling in the dark and waiting for the quarantine to lift. Enjoy!</p>
+<p></p>
+<p>Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.</p>
+<p><a href="https://www.shamusyoung.com/diecast/diecast296.mp3">Diecast296</a></p>
+<p></p><p></p>
+<p>Show notes:<span id="more-49705"></span></p>
+<p><strong>00:00 COVID-19 is also hard on introverts?</strong></p>
+<p>I keep hoping this quarantine will start paying off, but according to <a href="https://www.worldometers.info/coronavirus/country/us/">this chart</a>, the number of cases in my region<span class="snote" title="1">Pennsylvania.</span> isn’t just climbing, but <strong>accelerating</strong> upwards. I was really hoping that after 2 solid weeks of closed businesses and empty streets we’d see the growth curve start to even out a little. </p>
+<p>Our hospital hasn’t maxed out yet, but they’re starting to feel the pressure. They actually solicited masks from the general public. My wife has been sewing new masks for the last couple of days. Obviously homemade masks aren’t going to have the same filtering capabilities as ones made from medical-grade material, which means the nurses must be down to the point where their choices are homemade, or nothing. </p>
+<p>She’s got a good sewing machine and a good pattern to work from. The hard part of making masks right now is getting materials when all the shops are closed. </p>
+<p><strong>09:29 Figment</strong></p>
+<p></p><p></p>
+<p><strong>19:42 Hob</strong></p>
+<p>Obviously the most practical way to learn more about Hob is to watch a Joseph Anderson video about it:</p>
+<p></p> <p></p>
+<p><strong>29:20 A new YouTube griefer / troll strategy?</strong></p>
+<p>On further reflection, it’s possible this person is just another eager creative trying to raise their profile, and I’m just a cynical grouch that’s been burned one too many times by Google’s takedown bots. Here is the redacted email so you can judge for yourself: </p>
+<blockquote><p>Hello!</p>
+<p>My name is **** *****, and I make a lot of music under the names ***** and “********” (formerly “*********”).</p>
+<p>I watch a lot of YouTube in my free time, and I stumbled across your channel! I’m really into video essays, and I’ve always found the gaming industry fascinating. So the Youtube algorithm sent me your channel, and I really enjoy your videos!</p>
+<p>I was wondering if you were looking for music to add to your videos? I make some Chill / Lofi Hip Hop (********):</p>
+<p>Soundcloud Example: https://soundcloud.com/************</p>
+<p>Spotify Example: https://open.spotify.com/track/***********************</p>
+<p>I also make a lot of happy, energetic Future Funk and Vaporwave (************):</p>
+<p>Soundcloud Example: https://soundcloud.com/***************</p>
+<p>Spotify Example: https://open.spotify.com/track/********************</p>
+<p>My music is allow listed for Youtube, so it should be good to go, and you shouldn’t have to worry about Copyright stuff. In fact, some of these tracks are already being used on Youtube (for like more general music channels). And feel free to look around my profile! All of my stuff released in 2019, 2020 should be good for Youtube! All I’d ask is just add a link in the description back to my Spotify profile. :)</p>
+<p>Let me know what you think! Looking forward to hearing from you!</p></blockquote>
+<p>The other thing to note is that all of their content seems to be about a month old, as if this person uploaded multiple albums in multiple genres to different sites all at the same time. Maybe this is a new hustle on a platform rife with hucksters, or maybe it’s exactly what it says on the tin.</p>
+<p>I honestly don’t know. I’m looking forward to what people have to say in the comments.</p>
+<p><strong>38:36 Stadia Pro: 3 months for “free”</strong></p>
+<p>Paul forgot to say so during the show, but the third thing wrong with Stadia is that even if he had the correct hardware, and the correct controller, <strong>Mobile play is disabled right now</strong>.</p>
+<p>Also, here’s the LTT video I mentioned on the show:</p>
+<p></p><p></p>
+<p>That’s not good.</p>
+<p><strong>53:05 Mailbag: Old Fallouts</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>I am a huge fan of Fallout: New Vegas, however, everything grows a bit stale over time. I am considering purchasing Fallout and Fallout 2, but I am hesitant because they are really old and while I love Fallout: New Vegas, I can’t stand Fallout 3 or 4. Furthermore, Shamus has said some of the problems started with Fallout 2, but I have never heard anyone talk about Fallout 2 unless they were rightfully moaning about what Bethesda did to Jet. What were some of the major issues that started with Fallout 2?  Should I deep dive into the original games or mod the everloving hell out of Fallout: New Vegas? If the latter, do you have any recommended mods?</p>
+<p>Sincerely, Ty</p></blockquote>
+<p><strong>1:01:23 Mailbag: Sound Setup</strong></p>
+<blockquote><p>Hi!</p>
+<p>I suppose, it’s more applicable to Shamus, but may be Paul would be happy to add his take as well?</p>
+<p>We often talk about graphics in games, but rarely about sound (except music). I myself started to care about it, only when I bought a good headset few years ago and learned the usefulness of 3d positioning (plus, noticed small details in songs, I missed before).</p>
+<p>So, I actually want to ask you two related questions:<br>
+a) Which audio setup do you use? Audio card, headset/loudspeakers/etc?<br>
+b) Were there any games, which audio/sounds you place in very high regard?</p>
+<p>Best regards, DeadlyDark</p></blockquote>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast296.mp3" length="69486219" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=49705</guid>
+      <pubDate>Mon, 06 Apr 2020 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast2020.jpg">
+      </itunes:image>
+      <itunes:duration>1:11:43</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		I hope everyone is safe and healthy this week. Here’s an hour or so of us whistling in the dark and waiting for the quarantine to lift. Enjoy!
+
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+
+Diecast296
+
+
+
+
+Show notes:
+
+00:00 COVID-19 is also hard on introverts?
+
+I keep hoping this quarantine will start paying off, but according to this chart, the number of cases in my regionPennsylvania. isn’t just climbing, but accelerating upwards. I was really hoping that after 2 solid weeks of closed businesses and empty streets we’d see the growth curve start to even out a little. 
+
+Our hospital hasn’t maxed out yet, but they’re starting to feel the pressure. They actually solicited masks from the general public. My wife has been sewing new masks for the last couple of days. Obviously homemade masks aren’t going to have the same filtering capabilities as ones made from medical-grade material, which means the nurses must be down to the point where their choices are homemade, or nothing. 
+
+She’s got a good sewing machine and a good pattern to work from. The hard part of making masks right now is getting materials when all the shops are closed. 
+
+09:29 Figment
+
+
+
+
+19:42 Hob
+
+Obviously the most practical way to learn more about Hob is to watch a Joseph Anderson video about it:
+
+
+ 
+
+29:20 A new YouTube griefer / troll strategy?
+
+On further reflection, it’s possible this person is just another eager creative trying to raise their profile, and I’m just a cynical grouch that’s been burned one too many times by Google’s takedown bots. Here is the redacted email so you can judge for yourself: 
+
+Hello!
+My name is **** *****, and I make a lot of music under the names ***** and “********” (formerly “*********”).
+I watch a lot of YouTube in my free time, and I stumbled across your channel! I’m really into video essays, and I’ve always found the gaming industry fascinating. So the Youtube algorithm sent me your channel, and I really enjoy your videos!
+I was wondering if you were looking for music to add to your videos? I make some Chill / Lofi Hip Hop (********):
+Soundcloud Example: https://soundcloud.com/************
+Spotify Example: https://open.spotify.com/track/***********************
+I also make a lot of happy, energetic Future Funk and Vaporwave (************):
+Soundcloud Example: https://soundcloud.com/***************
+Spotify Example: https://open.spotify.com/track/********************
+My music is allow listed for Youtube, so it should be good to go, and you shouldn’t have to worry about Copyright stuff. In fact, some of these tracks are already being used on Youtube (for like more general music channels). And feel free to look around my profile! All of my stuff released in 2019, 2020 should be good for Youtube! All I’d ask is just add a link in the description back to my Spotify profile. :)
+Let me know what you think! Looking forward to hearing from you!
+The other thing to note is that all of their content seems to be about a month old, as if this person uploaded multiple albums in multiple genres to different sites all at the same time. Maybe this is a new hustle on a platform rife with hucksters, or maybe it’s exactly what it says on the tin.
+
+I honestly don’t know. I’m looking forward to what people have to say in the comments.
+
+38:36 Stadia Pro: 3 months for “free”
+
+Paul forgot to say so during the show, but the third thing wrong with Stadia is that even if he had the correct hardware, and the correct controller, Mobile play is disabled right now.
+
+Also, here’s the LTT video I mentioned on the show:
+
+
+
+
+That’s not good.
+
+53:05 Mailbag: Old Fallouts
+
+Dear Diecast,
+I am a huge fan of Fallout: New Vegas, however, everything grows a bit stale over time. I am considering purchasing Fallout and Fallout 2, but I am hesitant because they are really old and while I love Fallout: New Vegas, I can’t stand Fallout 3 or 4. Furthermore, Shamus has said some of the problems started with Fallout 2, but I have never heard anyone talk about Fal…</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
     <item>
       <title>Diecast #295:  Haunted Router, Doom Eternal, Graveyard Keeper</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=49658</link>
@@ -70,8 +203,7 @@ Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.
       </itunes:image>
       <itunes:duration>1:04:48</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		These are strange times indeed. The news changes by the hour, it rarely agrees with itself, and everyone has a different story. We’re either getting to the end, or it’s only just begun. 
+      <itunes:summary>These are strange times indeed. The news changes by the hour, it rarely agrees with itself, and everyone has a different story. We’re either getting to the end, or it’s only just begun. 
 
 I have no idea what’s going on, but I’m just keeping my head down and writing. Hope you’re all safe out there.
 
@@ -134,8 +266,7 @@ Shamus &amp; Paul,
 Now that the first season is complete, I’m really curious to hear your thoughts on Star Trek: Picard.
 From Sam
 
-    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-	</itunes:summary>
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
