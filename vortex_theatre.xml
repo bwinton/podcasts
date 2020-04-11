@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vortex Theater</title>
     <link>https://spiritlive.ca/vortex-theatre-2/</link>
@@ -22,6 +22,23 @@ If you answered “Yes”, “No”, or “…What?” to any of the above quest
 
 Every episode of Vortex Theatre features a partially improvised story, in which Paisley builds a world and a conflict, and Shiann reacts to it. The stories are surreal and fantasy based, with occasional horror and sci-fi elements.</itunes:summary>
     <itunes:keywords>games,dnd</itunes:keywords>
+    <item>
+      <title>Vortex Theatre - The Perils Of Chain Mail</title>
+      <link>http://spiritlive.ca/wp-content/uploads/VortexTheatre_ThePerilsOfChainMail_Episode6.m4a</link>
+      <description>
+        <![CDATA[Vortex Theatre - The Perils Of Chain Mail]]>
+      </description>
+      <enclosure url="http://spiritlive.ca/wp-content/uploads/VortexTheatre_ThePerilsOfChainMail_Episode6.m4a" length="199" type="audio/mpeg"/>
+      <guid isPermaLink="false">http://spiritlive.ca/wp-content/uploads/VortexTheatre_ThePerilsOfChainMail_Episode6.m4a</guid>
+      <pubDate>Sat, 11 Apr 2020 04:14:45 +0000</pubDate>
+      <itunes:author>Paisley Sears and Shiann Nias</itunes:author>
+      <itunes:image href="https://spiritlive.ca/wp-content/uploads/VORTEX-THEATRE-Logo-300x300.png">
+      </itunes:image>
+      <itunes:duration>1:25:44</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>Vortex Theatre - The Perils Of Chain Mail</itunes:summary>
+      <dc:creator>Paisley Sears and Shiann Nias</dc:creator>
+    </item>
     <item>
       <title>Vortex Theatre - Schism! (Part 2)</title>
       <link>http://spiritlive.ca/wp-content/uploads/Vortex-Theatre_Schism-Part-2_5.m4a</link>
