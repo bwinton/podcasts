@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -18,6 +18,130 @@
     <itunes:subtitle>Like Twenty-Sided, but with less video.</itunes:subtitle>
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
+    <item>
+      <title>Diecast #297: Pandemic Mailbag!</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=49732</link>
+      <description>
+        <![CDATA[
+		<p>It’s the end of the world as we know it, and I feel like doing a podcast. </p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast297.mp3">Diecast297</a><p></p>
+<p></p><p></p>
+<p>Show notes:<span id="more-49732"></span><br>
+<strong>00:00 Apocalypse Update</strong></p>
+<p>How is everyone? Okay? Remember, stay indoors. If you encounter one of the infected, don’t let them bite you. If you have to go out for supplies, make sure you’re wearing a mask and that you’re properly armed. Also, ignore all the crazy conspiracy theories that this was caused by the Umbrella Corporation. I follow Wesker on Twitter and he’s a super-nice guy. There’s no way he’d unleash a doomsday virus just to prove that he can make a doomsday virus so that he can sell doomsday virus. </p>
+<p><strong>00:49 Unplanned Cities Skylines Rant</strong></p>
+<p>Old Man yells at simulated clouds.</p>
+<p><strong>12:15 Mailbag: Lying to players</strong></p>
+<blockquote><p>Deeeeaaar Diecast,</p>
+<p>I found <a href="https://askagamedev.tumblr.com/post/612309635577397248/i-just-watched-a-war-story-from-a-developer-of">an interesting blog post</a> about games lying to players to improve the experience: https://askagamedev.tumblr.com/post/612309635577397248/i-just-watched-a-war-story-from-a-developer-of</p>
+<p>A few examples from the post:<br>
+  * Amnesia contains a tip that monsters can find you easier when you have low sanity which is not true.<br>
+  * In the Batman: Arkham trilogy, mooks spend most of their time posturing and position themselves so that you can keep your combo going.<br>
+  * Fire Emblem displays wrong to-hit chances, player characters actually get to roll twice with the displayed chance. (So 90% is actually 99%.)</p>
+<p>What are your opinions on stuff like this?</p>
+<p>Personally, I wouldn’t even classify the second thing as a lie, it’s pretty obvious that Batman mooks follow some fight scene choreography protocol. The hit-chance thing is something that really bugs me, though. If a game shows me a probability, I don’t want it to be fudged according to some ad-hoc theory about how “normal people” interpret probability. Why not make it green/yellow/red if you just want to convey some intuitive idea?</p>
+<p>I knew the Fire Emblem thing, but one of the reblogs points out that the XCOM remake invisibly adjusts hit chances except when playing on hard, so you might bump up the difficulty and notice that you hit less often than you’re used to without knowing why. That seems even worse.</p>
+<p>Happy Easter,<br>
+RFS-81</p></blockquote>
+<p><strong>21:33 Mailbag: Guilty Pleasure Games</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>I like Final Fantasy VIII (or 8 for short). However, I will readily admit the game has severe issues and is just not as good as, say Final Fantasy VI (aka Final Fantasy III). I’d call it one of my “guilty pleasures”, a game I like better than it actually is.</p>
+<p>Do you guys have games like that, where you like it despite knowing it’s not very good? Or does a game having obvious flaws just ruin the entire experience for you?</p>
+<p>Vale,</p>
+<p>-Tim</p></blockquote>
+<p><strong>26:04 Mailbag: Doom Guy Speaks</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>I’ve been playing through Doom eternal and have been loving it, but I wanted to ask your opinion specifically on “that” cut scene. (Spoilers) You know the one where Doom slayer is confirmed to be Doomguy and speaks for the for the first time. I’ve heard a few people call this sequence “cringe,” say it ruins his mystique from 2016 Doom among other things. I personally find it inoffensive and kind of cute in a way, like it was solely crafted to make fans laugh and smile. That’s my opinion, but I’d like to hear yours.</p>
+<p>Happy ripping and tearing,</p>
+<p>-Kaden</p></blockquote>
+<p><strong>35:07 Mailbag: Scorn</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>Have you heard of a game called Scorn? It’s not been released, but there’s a trailer and a bit of information out. The game is essentially ‘explore H.R. Giger nightmare world as a weird biomechanical guy, fighting weird biomechanical horror monsters with weird biomechanical guns’. I was pretty fascinated by it as soon as I came across it.</p>
+<p>Unfortunately…the game was originally meant to be released in two parts, with the first arriving in October 2018. Then the developers announced that they were going to push the date back and release it all together. We basically haven’t heard anything in the two years since that announcement.</p>
+<p>So — have you heard about the game? What do you think of it, based on the information available? Do you think it’s just taking a long time because game development is hard, or do you think it’s vaporware?</p>
+<p>Regards,</p>
+<p>Kestrellius</p>
+<p>(No, that’s Kaecilius.)</p></blockquote>
+<p></p><p></p>
+<p><strong>41:30 Mailbag: DOOM</strong></p>
+<blockquote><p>Dear DIECAST,</p>
+<p>I enjoyed  hearing you talk about the new DOOM game (DOOM V?). I have had a lot of fun with DOOM II, but have never played DOOM. Is it worth checking out or would you miss the super shotgun too much?</p>
+<p>Also, I would love to hear your thoughts on the 2D Duke Nukem games.</p>
+<p>Sincerely, BadIdeas</p>
+<p>PS Happy Easter<br>
+oh wait that was cancelled – wasn’t it</p></blockquote>
+<p><strong>44:29 Mailbag: Games that Run Out</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>Do you ever find yourself putting a game down before finishing it, not because it’s bad, but rather due to feeling like you’ve gotten everything you can out of it and not seeing a reason to continue?</p>
+<p>My personal examples would be: DUSK (after the first episode), the original Flashback (after winning the ticket back to Earth in the ‘Running Man’-esque level). I enjoyed both, but stopped playing each with a sense of: “Okay, that’s what it is, cool, I get it – let’s play something else now”.</p>
+<p>Best,<br>
+Mako</p></blockquote>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast297.mp3" length="50902037" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=49732</guid>
+      <pubDate>Mon, 13 Apr 2020 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast2020.jpg">
+      </itunes:image>
+      <itunes:duration>52:45</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		It’s the end of the world as we know it, and I feel like doing a podcast. 
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+Diecast297
+
+
+
+
+Show notes:
+00:00 Apocalypse Update
+
+How is everyone? Okay? Remember, stay indoors. If you encounter one of the infected, don’t let them bite you. If you have to go out for supplies, make sure you’re wearing a mask and that you’re properly armed. Also, ignore all the crazy conspiracy theories that this was caused by the Umbrella Corporation. I follow Wesker on Twitter and he’s a super-nice guy. There’s no way he’d unleash a doomsday virus just to prove that he can make a doomsday virus so that he can sell doomsday virus. 
+
+00:49 Unplanned Cities Skylines Rant
+
+Old Man yells at simulated clouds.
+
+12:15 Mailbag: Lying to players
+
+Deeeeaaar Diecast,
+I found an interesting blog post about games lying to players to improve the experience: https://askagamedev.tumblr.com/post/612309635577397248/i-just-watched-a-war-story-from-a-developer-of
+A few examples from the post:
+  * Amnesia contains a tip that monsters can find you easier when you have low sanity which is not true.
+  * In the Batman: Arkham trilogy, mooks spend most of their time posturing and position themselves so that you can keep your combo going.
+  * Fire Emblem displays wrong to-hit chances, player characters actually get to roll twice with the displayed chance. (So 90% is actually 99%.)
+What are your opinions on stuff like this?
+Personally, I wouldn’t even classify the second thing as a lie, it’s pretty obvious that Batman mooks follow some fight scene choreography protocol. The hit-chance thing is something that really bugs me, though. If a game shows me a probability, I don’t want it to be fudged according to some ad-hoc theory about how “normal people” interpret probability. Why not make it green/yellow/red if you just want to convey some intuitive idea?
+I knew the Fire Emblem thing, but one of the reblogs points out that the XCOM remake invisibly adjusts hit chances except when playing on hard, so you might bump up the difficulty and notice that you hit less often than you’re used to without knowing why. That seems even worse.
+Happy Easter,
+RFS-81
+21:33 Mailbag: Guilty Pleasure Games
+
+Dear Diecast,
+I like Final Fantasy VIII (or 8 for short). However, I will readily admit the game has severe issues and is just not as good as, say Final Fantasy VI (aka Final Fantasy III). I’d call it one of my “guilty pleasures”, a game I like better than it actually is.
+Do you guys have games like that, where you like it despite knowing it’s not very good? Or does a game having obvious flaws just ruin the entire experience for you?
+Vale,
+-Tim
+26:04 Mailbag: Doom Guy Speaks
+
+Dear Diecast,
+I’ve been playing through Doom eternal and have been loving it, but I wanted to ask your opinion specifically on “that” cut scene. (Spoilers) You know the one where Doom slayer is confirmed to be Doomguy and speaks for the for the first time. I’ve heard a few people call this sequence “cringe,” say it ruins his mystique from 2016 Doom among other things. I personally find it inoffensive and kind of cute in a way, like it was solely crafted to make fans laugh and smile. That’s my opinion, but I’d like to hear yours.
+Happy ripping and tearing,
+-Kaden
+35:07 Mailbag: Scorn
+
+Dear Diecast,
+Have you heard of a game called Scorn? It’s not been released, but there’s a trailer and a bit of information out. The game is essentially ‘explore H.R. Giger nightmare world as a weird biomechanical guy, fighting weird biomechanical horror monsters with weird biomechanical guns’. I was pretty fascinated by it as soon as I came across it.
+Unfortunately…the game was originally meant to be released in two parts, with the first arriving in October 2018. Then the developers announced that they were going to push the date back and release it all together. We basically haven’t heard anything in the two years since that announcement.
+So — have you heard about the game? What do y…</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
     <item>
       <title>Diecast #296: Everything is Fine</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=49705</link>
