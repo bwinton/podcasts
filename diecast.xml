@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -18,6 +18,150 @@
     <itunes:subtitle>Like Twenty-Sided, but with less video.</itunes:subtitle>
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
+    <item>
+      <title>Diecast #298: More of the Same</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=49780</link>
+      <description>
+        <![CDATA[
+		<p>Even if you don’t listen to our podcast, if you listen to <strong>any</strong> podcast then I’ve got a question for you in the show notes below. I’m just curious how people consume these things.</p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast298.mp3">Diecast298</a><p></p>
+<p></p><p></p>
+<p>Show notes:<span id="more-49780"></span></p>
+<p><strong>00:00 Pandemic Update</strong>  </p>
+<p>We’re okay. Keeping busy. Hope the same is true for you.</p>
+<p><strong>03:09 Podcast listening habits</strong></p>
+<p>I’ll repeat the question here: What’s your typical podcast habit? Do you binge? Listen once and then never again? Revisit favorite from time to time? Do you listen on a commute? During long periods of No Internet? When travelling?</p>
+<p>I don’t just mean this show, I’m talking about podcasts in general.</p>
+<p><strong>08:50 Receiver 2</strong></p>
+<p></p><p></p>
+<p>I don’t know what the voice-over guy is on about, but this seems like a <em>terrible</em> cult. Can’t I just join one where they take all your money and you live in a smelly commune while enduring constant gaslighting by the leadership? That seems like it would be way more fun than this.</p>
+<p><strong>14:57 Paul fixed his mic</strong></p>
+<p>Hardware problems confuse me, but Paul evidently knows what he’s doing.</p>
+<p><strong>22:26 More Cities: Skylines</strong></p>
+<p></p><p></p>
+<p><strong>31:01 Kids play The Stanley Parable</strong></p>
+<p> Don’t get me started on kids these days and their inability to parse meta humor based on established storytelling tropes in the context of modern-day narrative design. </p>
+<p><strong>38:52 Fun with Shaders</strong></p>
+<p>Here is the post on <a href="https://www.shamusyoung.com/twentysidedtale/?p=13324">Art and the Computer</a> that I mentioned during this segment.</p>
+<p></p><p></p>
+<p><strong>52:05 Mailbag: Dragon Quest Builders</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>as you guys like Minecraft I was wondering what your opinion (if any) is on the Dragon Quest Builders games.</p>
+<p>While the first game didn’t allow quite as much building as the second one, it was still possible to build some impressive stuff.</p>
+<p>Vale,</p>
+<p>-Tim</p></blockquote>
+<p></p><p></p>
+<p><strong>54:57 Mailbag: Industries of Titan</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>There’s a cyberpunk city building game called Industries of Titan now<br>
+out in early access. I don’t know much about it yet, but I thought it’s<br>
+something that may be up your alley! (Or “Your respective alleys”? How<br>
+do you say that when you talk to multiple people?)</p>
+<p><a href="https://braceyourselfgames.com/industries-of-titan/">Website</a><br>
+<a href="https://www.youtube.com/watch?v=2Nb3rgHLhz0">Let’s play that I’m currently watching</a></p>
+<p>Regards,<br>
+RFS-81</p></blockquote>
+<p><strong>57:52 Mailbag: Overseas</strong></p>
+<blockquote><p>Dear Diecast. . .</p>
+<p>Hi Shamus and Paul, have either of you ever travelled overseas? or abroad? I’m not sure what they call travelling to other countries in America. </p>
+<p>Also, completely unrelated question, what is your favourite bounded region in 3-dimensional space?</p>
+<p>Thanks for making such a wonderful podcast and hoping you two keep up the good work.<br>
+Hoping your all well, Henry Chadban.</p></blockquote>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast298.mp3" length="63154491" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=49780</guid>
+      <pubDate>Mon, 20 Apr 2020 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast2020.jpg">
+      </itunes:image>
+      <itunes:duration>1:06:01</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		Even if you don’t listen to our podcast, if you listen to any podcast then I’ve got a question for you in the show notes below. I’m just curious how people consume these things.
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+Diecast298
+
+
+
+
+Show notes:
+
+00:00 Pandemic Update  
+
+We’re okay. Keeping busy. Hope the same is true for you.
+
+03:09 Podcast listening habits
+
+I’ll repeat the question here: What’s your typical podcast habit? Do you binge? Listen once and then never again? Revisit favorite from time to time? Do you listen on a commute? During long periods of No Internet? When travelling?
+
+I don’t just mean this show, I’m talking about podcasts in general.
+
+08:50 Receiver 2
+
+
+
+
+I don’t know what the voice-over guy is on about, but this seems like a terrible cult. Can’t I just join one where they take all your money and you live in a smelly commune while enduring constant gaslighting by the leadership? That seems like it would be way more fun than this.
+
+14:57 Paul fixed his mic
+
+Hardware problems confuse me, but Paul evidently knows what he’s doing.
+
+22:26 More Cities: Skylines
+
+
+
+
+31:01 Kids play The Stanley Parable
+
+ Don’t get me started on kids these days and their inability to parse meta humor based on established storytelling tropes in the context of modern-day narrative design. 
+
+38:52 Fun with Shaders
+
+Here is the post on Art and the Computer that I mentioned during this segment.
+
+
+
+
+52:05 Mailbag: Dragon Quest Builders
+
+Dear Diecast,
+as you guys like Minecraft I was wondering what your opinion (if any) is on the Dragon Quest Builders games.
+While the first game didn’t allow quite as much building as the second one, it was still possible to build some impressive stuff.
+Vale,
+-Tim
+
+
+
+54:57 Mailbag: Industries of Titan
+
+Dear Diecast,
+There’s a cyberpunk city building game called Industries of Titan now
+out in early access. I don’t know much about it yet, but I thought it’s
+something that may be up your alley! (Or “Your respective alleys”? How
+do you say that when you talk to multiple people?)
+Website
+Let’s play that I’m currently watching
+Regards,
+RFS-81
+57:52 Mailbag: Overseas
+
+Dear Diecast. . .
+Hi Shamus and Paul, have either of you ever travelled overseas? or abroad? I’m not sure what they call travelling to other countries in America. 
+Also, completely unrelated question, what is your favourite bounded region in 3-dimensional space?
+Thanks for making such a wonderful podcast and hoping you two keep up the good work.
+Hoping your all well, Henry Chadban.
+
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
+	</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
     <item>
       <title>Diecast #297: Pandemic Mailbag!</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=49732</link>
@@ -89,8 +233,7 @@ Mako</p></blockquote>
       </itunes:image>
       <itunes:duration>52:45</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		It’s the end of the world as we know it, and I feel like doing a podcast. 
+      <itunes:summary>It’s the end of the world as we know it, and I feel like doing a podcast. 
 
 
 Hosts: Paul, Shamus. Episode edited by Issac.
