@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -18,6 +18,122 @@
     <itunes:subtitle>Like Twenty-Sided, but with less video.</itunes:subtitle>
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
+    <item>
+      <title>Diecast #301: Moved Permanently</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=49954</link>
+      <description>
+        <![CDATA[
+		<p>This week we end the show on a slightly controversial subject: Raising kids and how to manage their relationship to games / screens. Neither of us had any idea what the other was going to say before we began the discussion. And YOU WON’T BELIEVE WHAT HAPPENS NEXT!</p>
+<p>Or I guess you probably will. You folks know us pretty well by now.</p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast301.mp3">Diecast301</a><p></p>
+<p></p><br>
+Show notes:<span id="more-49954"></span><p></p>
+<p><strong>00:00 Paul is Working on a short Film</strong></p>
+<p><a href="https://www.facebook.com/Shadow-of-the-Conqueror-108651960814881/">You can check out the project here.</a></p>
+<p><strong>02:50 What is a game… to a game developer?</strong></p>
+<p>I got the details of this talk a little wrong. I said it was from 2011. I think I confused it with another talk I’d been watching. The one I discussed on the show was <a href="https://www.youtube.com/watch?v=C5FUtrmO7gI">Truth In Game Design</a>, which was uploaded in 2017. So it’s not that old at all. The slide I’m talking about is at 19:46, and looks roughly like this:</p>
+
+
+
+<p><strong>12:12 Learning to Type</strong></p>
+<p>Here’s the LGR video I mentioned in the show:</p>
+<p></p><p></p>
+<p><strong>31:10 Myst</strong></p>
+<p>I think the series lost its way, but it was great while it lasted. I’m still hopeful for <a href="https://fulfillment.fangamer.com/kindling/firmament">Firmament</a>, the next project from this studio.</p>
+<p>Also, the video we alluded to during this segment is from <a href="https://www.youtube.com/watch?v=8FpigqfcvlM">Egoraptor</a>, talking about how early Mega Man games didn’t NEED condescending, flow-breaking tutorial popups unlike <a href="https://www.shamusyoung.com/twentysidedtale/?p=45529">some modern games I could mention</a>.</p>
+<p><strong>47:01 Mailbag: Open Source Projects</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>in episode 300 Shamus talked about how he would like to work on a game without having to worry about money, possibly even open in up for contribution by anyone.</p>
+<p>Have you considered looking at existing free software (what non-GNU people call open source) projects? Something like Xonotic, Battle for Wesnoth, Endless Sky, Wyrmsun, or VegaStrike* may be just the thing where you can add small features you want without having to start the entire project from scratch.</p>
+<p>Vale,</p>
+<p>-Tim</p></blockquote>
+<p><strong>53:26 Mailbag: Parenthood and Screen Time</strong></p>
+<blockquote><p>Deeeeeeaaaaar Diecast,</p>
+<p>My wife and I have recently been discussing the possibility of becoming parents.</p>
+<p>Both Shamus and Paul have been down this particular path several times before. And as far as I can tell (from the various snippets of twenty-sided lore that I have gleaned from the site over the years) you both seem to have been highly successful in raising your children to be capable, well-adjusted, and comfortable within themselves and their family units.</p>
+<p>You are also both technology-literate and both avid gamers, which I believe makes your opinions especially relevant for the question that I pose to you:</p>
+<p>Do you have any opinions or advice as to how to raise children in the modern era of ubiquitous technology?</p>
+<p>Some elaboration (if needed):</p>
+<p>On one end of the spectrum we seem to have parents who try to limit their child’s “corrupting” exposure to “screen time” at all costs, whilst on the other end we have parents that let their young children watch YouTube unsupervised, and then blame YouTube – an open and largely unregulated platform for creative expression – for not having exclusively family friendly content, when their child views something that they really shouldn’t. Where is the appropriate middle ground for you gentlemen, with regards to a child’s use of internet, smart phones, videogames (including age-appropriate content ratings) and technology in general?</p>
+<p>Thank you sincerely for all of your collective works and the enjoyment that they bring.</p>
+<p>Kind regards,</p>
+<p>Nick</p>
+<p>(A note to the comments section: I never contribute to the comments, but I often read them. So if anybody else would like to weigh in on my question, you can be sure that I will read your comment also. Thank you everyone).</p></blockquote>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast301.mp3" length="74285193" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=49954</guid>
+      <pubDate>Mon, 11 May 2020 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast2020.jpg">
+      </itunes:image>
+      <itunes:duration>1:18:18</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		This week we end the show on a slightly controversial subject: Raising kids and how to manage their relationship to games / screens. Neither of us had any idea what the other was going to say before we began the discussion. And YOU WON’T BELIEVE WHAT HAPPENS NEXT!
+
+Or I guess you probably will. You folks know us pretty well by now.
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+Diecast301
+
+
+
+Show notes:
+
+00:00 Paul is Working on a short Film
+
+You can check out the project here.
+
+02:50 What is a game… to a game developer?
+
+I got the details of this talk a little wrong. I said it was from 2011. I think I confused it with another talk I’d been watching. The one I discussed on the show was Truth In Game Design, which was uploaded in 2017. So it’s not that old at all. The slide I’m talking about is at 19:46, and looks roughly like this:
+
+
+
+
+12:12 Learning to Type
+
+Here’s the LGR video I mentioned in the show:
+
+
+
+
+31:10 Myst
+
+I think the series lost its way, but it was great while it lasted. I’m still hopeful for Firmament, the next project from this studio.
+
+Also, the video we alluded to during this segment is from Egoraptor, talking about how early Mega Man games didn’t NEED condescending, flow-breaking tutorial popups unlike some modern games I could mention.
+
+47:01 Mailbag: Open Source Projects
+
+Dear Diecast,
+in episode 300 Shamus talked about how he would like to work on a game without having to worry about money, possibly even open in up for contribution by anyone.
+Have you considered looking at existing free software (what non-GNU people call open source) projects? Something like Xonotic, Battle for Wesnoth, Endless Sky, Wyrmsun, or VegaStrike* may be just the thing where you can add small features you want without having to start the entire project from scratch.
+Vale,
+-Tim
+53:26 Mailbag: Parenthood and Screen Time
+
+Deeeeeeaaaaar Diecast,
+My wife and I have recently been discussing the possibility of becoming parents.
+Both Shamus and Paul have been down this particular path several times before. And as far as I can tell (from the various snippets of twenty-sided lore that I have gleaned from the site over the years) you both seem to have been highly successful in raising your children to be capable, well-adjusted, and comfortable within themselves and their family units.
+You are also both technology-literate and both avid gamers, which I believe makes your opinions especially relevant for the question that I pose to you:
+Do you have any opinions or advice as to how to raise children in the modern era of ubiquitous technology?
+Some elaboration (if needed):
+On one end of the spectrum we seem to have parents who try to limit their child’s “corrupting” exposure to “screen time” at all costs, whilst on the other end we have parents that let their young children watch YouTube unsupervised, and then blame YouTube – an open and largely unregulated platform for creative expression – for not having exclusively family friendly content, when their child views something that they really shouldn’t. Where is the appropriate middle ground for you gentlemen, with regards to a child’s use of internet, smart phones, videogames (including age-appropriate content ratings) and technology in general?
+Thank you sincerely for all of your collective works and the enjoyment that they bring.
+Kind regards,
+Nick
+(A note to the comments section: I never contribute to the comments, but I often read them. So if anybody else would like to weigh in on my question, you can be sure that I will read your comment also. Thank you everyone).
+
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
+	</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
     <item>
       <title>Diecast #300: Three Hundred!</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=49894</link>
