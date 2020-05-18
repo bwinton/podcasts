@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -18,6 +18,113 @@
     <itunes:subtitle>Like Twenty-Sided, but with less video.</itunes:subtitle>
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
+    <item>
+      <title>Diecast #302: Barely Edited</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=49998</link>
+      <description>
+        <![CDATA[
+		<p>In  this episode, I asked how old <em>Civilization VI</em> is. Eighteen months? Two years? Something like that, right? Nope! I looked it up after the recording and discovered it came out in 2016. That makes no dang sense. Where does the time go<span class="snote" title="1"> Despite <a href="https://www.youtube.com/watch?v=6zT4Y-QNdto">what the Steve Miller Band claims</a>, I’m pretty sure it goes into the past.</span>?</p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast302.mp3">Diecast302</a><p></p>
+<p></p><p></p>
+<p>Show notes:<span id="more-49998"></span></p>
+<p><strong>00:54 Repairing a Piano</strong></p>
+<p>I don’t usually think of physical objects being easier to maintain than code, but Paul makes a pretty good case for it here.</p>
+<p><strong>06:01 CIV 6</strong></p>
+<p>I was going to revise some of my thoughts on this game now that I’ve played a little more, but it looks like that’s going to get its own post.</p>
+<p><strong>21:28 Paul beat Quern.</strong></p>
+<p></p><p></p>
+<p><strong>39:53 Mailbag: Unpopular games we like.</strong></p>
+<blockquote><p>Hello Shamus, Hello Paul and Hello Isaac</p>
+<p>You are famous for nitpicking on games “everyone else” loves (The New Collosus, ME2), but are there any examples the other way around. Are there games (video/board/cards) you love/like which everyone else hates?<br>
+My example would be Dragon Age 2. I read admiration for Origins everywhere and hate for the second series entry. It’s pretty much the opposite for me.</p>
+<p>Paul, you mentioned playing video games with your kids last week. Did you ever get to play the good old rage infusing hot seat modus of Worms?</p>
+<p>Regards</p>
+<p>Lars</p></blockquote>
+<p>During this segment, I said I could remember saying something like, “This game was changed to suit me, a more casual fan. I like it, but it looks like they alienated their core fans.” At the time, I couldn’t remember what game I’d said that about.</p>
+<p>I just realized that the game in question was <em>Civilization V</em>. Kind of odd that I couldn’t think of it, seeing as how I’d just been ranting on <em>Civ VI</em>.</p>
+<p><strong>49:57 Mailbag: Blender for extending games.</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>recently (link in the postscript) Egosoft (creators of the X universe series) talked about their switching to using Blender and how it makes it easier for modders to create new things for their games.</p>
+<p>Do you guys think we will reach a point where games using prolific tools like Blender will be malleable enough that instead of buying new games players who want to play something new will just install different mods, like Bethesda games taken to the extreme?</p>
+<p>Vale,</p>
+<p>-Tim</p>
+<p>P.S. <a href="https://www.gamingonlinux.com/articles/egosoft-developer-of-x4-foundations-talks-up-moving-to-blender-and-appreciating-open-source.16630">https://www.gamingonlinux.com/articles/egosoft-developer-of-x4-foundations-talks-up-moving-to-blender-and-appreciating-open-source.16630</a></p></blockquote>
+<p><strong>55:46 Mailbag: What makes Paul angry?</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>How’s it going, fellas?</p>
+<p>Cheers,<br>
+Darek</p>
+<p>PS: Actually, I have another question – for Paul. Shamus mentioned recently that games like Dark Souls can make him really, really angry. So, I wonder – what is your berserk button, Paul? And how do you deal with anger management if the game is really driving you nuts, but, at the same time, you really want to finish it? Or maybe you never get angry at all?</p></blockquote>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast302.mp3" length="63621237" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=49998</guid>
+      <pubDate>Mon, 18 May 2020 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast2020.jpg">
+      </itunes:image>
+      <itunes:duration>1:06:28</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		In  this episode, I asked how old Civilization VI is. Eighteen months? Two years? Something like that, right? Nope! I looked it up after the recording and discovered it came out in 2016. That makes no dang sense. Where does the time go Despite what the Steve Miller Band claims, I’m pretty sure it goes into the past.?
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+Diecast302
+
+
+
+
+Show notes:
+
+00:54 Repairing a Piano
+
+I don’t usually think of physical objects being easier to maintain than code, but Paul makes a pretty good case for it here.
+
+06:01 CIV 6
+
+I was going to revise some of my thoughts on this game now that I’ve played a little more, but it looks like that’s going to get its own post.
+
+21:28 Paul beat Quern.
+
+
+
+
+39:53 Mailbag: Unpopular games we like.
+
+Hello Shamus, Hello Paul and Hello Isaac
+You are famous for nitpicking on games “everyone else” loves (The New Collosus, ME2), but are there any examples the other way around. Are there games (video/board/cards) you love/like which everyone else hates?
+My example would be Dragon Age 2. I read admiration for Origins everywhere and hate for the second series entry. It’s pretty much the opposite for me.
+Paul, you mentioned playing video games with your kids last week. Did you ever get to play the good old rage infusing hot seat modus of Worms?
+Regards
+Lars
+During this segment, I said I could remember saying something like, “This game was changed to suit me, a more casual fan. I like it, but it looks like they alienated their core fans.” At the time, I couldn’t remember what game I’d said that about.
+
+I just realized that the game in question was Civilization V. Kind of odd that I couldn’t think of it, seeing as how I’d just been ranting on Civ VI.
+
+49:57 Mailbag: Blender for extending games.
+
+Dear Diecast,
+recently (link in the postscript) Egosoft (creators of the X universe series) talked about their switching to using Blender and how it makes it easier for modders to create new things for their games.
+Do you guys think we will reach a point where games using prolific tools like Blender will be malleable enough that instead of buying new games players who want to play something new will just install different mods, like Bethesda games taken to the extreme?
+Vale,
+-Tim
+P.S. https://www.gamingonlinux.com/articles/egosoft-developer-of-x4-foundations-talks-up-moving-to-blender-and-appreciating-open-source.16630
+55:46 Mailbag: What makes Paul angry?
+
+Dear Diecast,
+How’s it going, fellas?
+Cheers,
+Darek
+PS: Actually, I have another question – for Paul. Shamus mentioned recently that games like Dark Souls can make him really, really angry. So, I wonder – what is your berserk button, Paul? And how do you deal with anger management if the game is really driving you nuts, but, at the same time, you really want to finish it? Or maybe you never get angry at all?
+
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
+	</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
     <item>
       <title>Diecast #301: Moved Permanently</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=49954</link>
@@ -72,8 +179,7 @@ Show notes:<span id="more-49954"></span><p></p>
       </itunes:image>
       <itunes:duration>1:18:18</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		This week we end the show on a slightly controversial subject: Raising kids and how to manage their relationship to games / screens. Neither of us had any idea what the other was going to say before we began the discussion. And YOU WON’T BELIEVE WHAT HAPPENS NEXT!
+      <itunes:summary>This week we end the show on a slightly controversial subject: Raising kids and how to manage their relationship to games / screens. Neither of us had any idea what the other was going to say before we began the discussion. And YOU WON’T BELIEVE WHAT HAPPENS NEXT!
 
 Or I guess you probably will. You folks know us pretty well by now.
 
@@ -130,8 +236,7 @@ Kind regards,
 Nick
 (A note to the comments section: I never contribute to the comments, but I often read them. So if anybody else would like to weigh in on my question, you can be sure that I will read your comment also. Thank you everyone).
 
-    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-	</itunes:summary>
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
