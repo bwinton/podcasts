@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -18,6 +18,84 @@
     <itunes:subtitle>Like Twenty-Sided, but with less video.</itunes:subtitle>
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
+    <item>
+      <title>Diecast #303: Denuvo, Noita, Epic Sales</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=50030</link>
+      <description>
+        <![CDATA[
+		<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast303.mp3">Diecast303</a><p></p>
+<p></p><p></p>
+<p>Show notes:<span id="more-50030"></span></p>
+<p><strong>0:29 Shamus’ House</strong></p>
+<p>I’ll repeat this here for those of you who don’t listen to the show: Our family is moving. As of right now, it looks like it’ll happen in early July. I’ll do what I can to keep the content mill going, but you know it goes. Hopefully we won’t wind up with a <a href="https://www.shamusyoung.com/twentysidedtale/?p=24589">five day internet blackout</a> like we had <a href="https://www.shamusyoung.com/twentysidedtale/?p=24592">last time</a>.</p>
+<p><strong>6:56 Noita</strong></p>
+<p></p><p></p>
+<p><strong>32:50 Denuvo Anti-Cheat</strong></p>
+<p>Eurogamer has a run-down of the <a href="https://www.eurogamer.net/articles/2020-05-21-doom-eternal-removing-denuvo-anti-cheat-following-backlash">whole thing</a>. </p>
+<p>Like I said on the show, I uninstalled the <a href="https://www.shamusyoung.com/twentysidedtale/?p=49582">Bethesda Launcher</a> the moment I heard about a Doom Eternal update that installs anti-cheat at the <a href="https://simple.wikipedia.org/wiki/Kernel_(computer_science)">kernel</a> level. Now the question: If I previously installed the Bethesda launcher with admin privs, what are the odds that the update would need to ask for privs again before installing something like Denuvo Anti-Cheat? I know it’s POSSIBLE to set things up so that it never needs to ask for privs again, but Bethesda developers are demonstrably lazy and very likely to take the path of least resistance in any given task. And I’m 99% sure that in this case, the path of least resistance would require an additional popup asking for privileges. Since I never saw one, I’m reasonably sure that Bethesda didn’t mess with my operating system.</p>
+<p><strong>47:54 Mailbag: Civ 6</strong></p>
+<blockquote><p>Hi Shamus</p>
+<p>I was listening to your recent Diecast where you talk about buying Civilisation VI with that weird coupon from Civilisation V. I now see the Epic Game store is giving away Civilisation VI for free. Do you take this as further confirmation that the Epic Game store is out to aggravate you, personally, and damn the cost?</p>
+<p>Best<br>
+Sam</p></blockquote>
+<p><strong>51:46 Mailbag: EA Open Source</strong></p>
+<blockquote><p>Hi Shamus! Hi Paul!</p>
+<p>It’s less of the question, more of sharing the news, I suppose. So, here’s the link https://www.reddit.com/r/commandandconquer/comments/gnevp8/remaster_update_and_open_source_mod_support/ . Basically, EA is making some parts of the upcoming Command &amp; Conquer remaster open-source. And considering that the material they showed previously (trailer, graphics, music and such), I can’t help but compare it to WC3 Reforged. I’m, admittedly, a CnC guy, and not really a fan of Blizzard RTS formula, but I’m still not sure how to feel, that Blizz is stumbling, and EA is doing… these… nice… things… after CnC4 and Rivals. I just find it so puzzling, that I’m not sure why its happening this way. May be you can explain this alternative reality?</p>
+<p>Best regards, DeadlyDark</p></blockquote>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast303.mp3" length="60768777" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=50030</guid>
+      <pubDate>Mon, 25 May 2020 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast2020.jpg">
+      </itunes:image>
+      <itunes:duration>1:03:34</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		
+Hosts: Paul, Shamus. Episode edited by Issac.
+Diecast303
+
+
+
+
+Show notes:
+
+0:29 Shamus’ House
+
+I’ll repeat this here for those of you who don’t listen to the show: Our family is moving. As of right now, it looks like it’ll happen in early July. I’ll do what I can to keep the content mill going, but you know it goes. Hopefully we won’t wind up with a five day internet blackout like we had last time.
+
+6:56 Noita
+
+
+
+
+32:50 Denuvo Anti-Cheat
+
+Eurogamer has a run-down of the whole thing. 
+
+Like I said on the show, I uninstalled the Bethesda Launcher the moment I heard about a Doom Eternal update that installs anti-cheat at the kernel level. Now the question: If I previously installed the Bethesda launcher with admin privs, what are the odds that the update would need to ask for privs again before installing something like Denuvo Anti-Cheat? I know it’s POSSIBLE to set things up so that it never needs to ask for privs again, but Bethesda developers are demonstrably lazy and very likely to take the path of least resistance in any given task. And I’m 99% sure that in this case, the path of least resistance would require an additional popup asking for privileges. Since I never saw one, I’m reasonably sure that Bethesda didn’t mess with my operating system.
+
+47:54 Mailbag: Civ 6
+
+Hi Shamus
+I was listening to your recent Diecast where you talk about buying Civilisation VI with that weird coupon from Civilisation V. I now see the Epic Game store is giving away Civilisation VI for free. Do you take this as further confirmation that the Epic Game store is out to aggravate you, personally, and damn the cost?
+Best
+Sam
+51:46 Mailbag: EA Open Source
+
+Hi Shamus! Hi Paul!
+It’s less of the question, more of sharing the news, I suppose. So, here’s the link https://www.reddit.com/r/commandandconquer/comments/gnevp8/remaster_update_and_open_source_mod_support/ . Basically, EA is making some parts of the upcoming Command &amp; Conquer remaster open-source. And considering that the material they showed previously (trailer, graphics, music and such), I can’t help but compare it to WC3 Reforged. I’m, admittedly, a CnC guy, and not really a fan of Blizzard RTS formula, but I’m still not sure how to feel, that Blizz is stumbling, and EA is doing… these… nice… things… after CnC4 and Rivals. I just find it so puzzling, that I’m not sure why its happening this way. May be you can explain this alternative reality?
+Best regards, DeadlyDark
+
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
+	</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
     <item>
       <title>Diecast #302: Barely Edited</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=49998</link>
@@ -68,8 +146,7 @@ Darek</p>
       </itunes:image>
       <itunes:duration>1:06:28</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		In  this episode, I asked how old Civilization VI is. Eighteen months? Two years? Something like that, right? Nope! I looked it up after the recording and discovered it came out in 2016. That makes no dang sense. Where does the time go Despite what the Steve Miller Band claims, I’m pretty sure it goes into the past.?
+      <itunes:summary>In  this episode, I asked how old Civilization VI is. Eighteen months? Two years? Something like that, right? Nope! I looked it up after the recording and discovered it came out in 2016. That makes no dang sense. Where does the time go Despite what the Steve Miller Band claims, I’m pretty sure it goes into the past.?
 
 
 Hosts: Paul, Shamus. Episode edited by Issac.
@@ -121,8 +198,7 @@ Cheers,
 Darek
 PS: Actually, I have another question – for Paul. Shamus mentioned recently that games like Dark Souls can make him really, really angry. So, I wonder – what is your berserk button, Paul? And how do you deal with anger management if the game is really driving you nuts, but, at the same time, you really want to finish it? Or maybe you never get angry at all?
 
-    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-	</itunes:summary>
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
