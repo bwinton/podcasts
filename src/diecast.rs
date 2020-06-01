@@ -36,7 +36,8 @@ pub fn get_urls(urls: &HashMap<String, Option<Item>>) -> Result<HashMap<String, 
     for item in channel.items() {
         if let Some(link) = item.link() {
             let link = link.to_owned();
-            if !urls.contains_key(&link) {
+            let missing_link = link.clone() + "*";
+            if !urls.contains_key(&link) && !urls.contains_key(&missing_link) {
                 rv.insert(link, None);
             }
         }

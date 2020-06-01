@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -55,9 +55,7 @@ Sam</p></blockquote>
       </itunes:image>
       <itunes:duration>1:03:34</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		
-Hosts: Paul, Shamus. Episode edited by Issac.
+      <itunes:summary>Hosts: Paul, Shamus. Episode edited by Issac.
 Diecast303
 
 
@@ -92,8 +90,7 @@ Hi Shamus! Hi Paul!
 It’s less of the question, more of sharing the news, I suppose. So, here’s the link https://www.reddit.com/r/commandandconquer/comments/gnevp8/remaster_update_and_open_source_mod_support/ . Basically, EA is making some parts of the upcoming Command &amp; Conquer remaster open-source. And considering that the material they showed previously (trailer, graphics, music and such), I can’t help but compare it to WC3 Reforged. I’m, admittedly, a CnC guy, and not really a fan of Blizzard RTS formula, but I’m still not sure how to feel, that Blizz is stumbling, and EA is doing… these… nice… things… after CnC4 and Rivals. I just find it so puzzling, that I’m not sure why its happening this way. May be you can explain this alternative reality?
 Best regards, DeadlyDark
 
-    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-	</itunes:summary>
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>

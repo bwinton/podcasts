@@ -121,7 +121,7 @@ pub fn handle(podcast: &str) {
     let mut items: Vec<_> = keys
         .par_iter()
         .map(|url| {
-            if url.starts_with('#') {
+            if url.ends_with('*') {
                 None
             } else if let Some(found) = rss_data
                 .items()
