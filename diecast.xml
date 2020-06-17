@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -75,10 +75,7 @@ Leslee Beldotti</p></blockquote>
       </itunes:image>
       <itunes:duration>1:08:04</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		
-
-Hosts: Paul, Shamus. Episode edited by Issac.
+      <itunes:summary>Hosts: Paul, Shamus. Episode edited by Issac.
 
 Diecast304
 
