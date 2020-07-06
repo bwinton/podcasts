@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -18,6 +18,119 @@
     <itunes:subtitle>Like Twenty-Sided, but with less video.</itunes:subtitle>
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
+    <item>
+      <title>Diecast #307: FIREWORKS DAY!</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=50291</link>
+      <description>
+        <![CDATA[
+		<p>Somehow, Paul had fireworks going off in the background, pretty much through the entire show. The reason you don’t hear any fireworks on my side is that I’m 3 hours ahead of Paul and the people here had already run out by the time the show started. </p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast307.mp3">Diecast307</a><p></p>
+<p></p><br>
+<span id="more-50291"></span><p></p>
+<p><strong>00:00 Happy Fireworks day!</strong></p>
+<p>Okay, it was 4th of July when we recorded this. I’m pretty sure it’s over now.</p>
+<p><strong>06:32 Paul got a job!</strong></p>
+<p>Congrats!</p>
+<p><strong>10:26 Loot Box Ban</strong></p>
+<p>Well <a href="https://en.wikipedia.org/wiki/Bobby_Kotick">Bobby</a>, <a href="https://en.wikipedia.org/wiki/Andrew_Wilson">Drew</a>… I don’t know what you clowns thought was going to happen, but the thing *I* thought was going to happen, happened: <a href="https://arstechnica.com/gaming/2019/09/uk-parliament-ban-all-loot-boxes-until-evidence-proves-theyre-safe-for-kids/">UK Parliament: Ban all loot boxes until evidence proves they’re safe for kids</a>.</p>
+<p>You could have kept your little gambling parlors running quietly off to one side as optional game modes where nobody noticed or cared. You could have continued to exploit people with a weakness for gambling as much as you wanted. But instead you designed entire games around this reprehensible business model, pissed off your customers, and then rubbed it in everyone’s faces. So now we get this.</p>
+<p>Congratulations, idiots. Have fun explaining this one to shareholders.</p>
+<p><strong>21:17 Worms Armageddon</strong></p>
+<p>For those of you too young to remember, <a href="https://www.youtube.com/watch?v=BorZc59aqAg">this</a> is the game we’re talking about.</p>
+<p><strong>24:55 Microsoft got bored with MIXER and left it outside in the rain.</strong></p>
+<p>It’s only been a few months since <a href="https://www.forbes.com/sites/dbloom/2019/08/01/twitchs-biggest-star-ninja-joins-microsofts-mixer-in-exclusive-programming-deal/#1dac8f58d6f6">Microsoft paid Ninja a (rumored) $30 million to join their streaming platform</a>, and now they’re shutting down the platform. Man, I’d hate to be a Microsoft engineer that just spent 4 years of my life building the infrastructure for this streaming platform, only to have it closed like that. I’d feel sorry for Ninja too, but that dude got <del datetime="2020-07-06T12:53:27+00:00">seven</del> eight figures so I figure he’ll pull through somehow.</p>
+<p><strong>36:09 Black Desert Online Remastered</strong></p>
+<p>You may remember what I said about this game <a href="https://www.shamusyoung.com/twentysidedtale/?p=42433">back in 2018</a>. During this segment, I claimed that “nothing has changed”. That’s not exactly true. There are some changes beyond the addition of shinier pixels:</p>
+<p>The early game has been truncated. The entire starting town is now abandoned and players begin the game in the second quest hub, with the leveling scaled so that you breeze through the first 7 levels in the space of a couple of minutes. Not sure why that was done, but I guess it doesn’t harm anything. The story is incomprehensible dross anyway, so throwing a tiny bit of it away isn’t a bad thing. I suspect this was done to speed things up because they’re in a hurry to get players to the level cap where they can be milked for pay-to-win PvP bullshit.</p>
+<p>The inventory space restrictions have been greatly relaxed. You start the game with 40 inventory slots instead of (IIRC) 15 or 20. Again, they’re taking the focus off the early game and pushing players towards the more lucrative endgame.</p>
+<p>The game is even more absurd with in-game money than before. My character was a multimillionaire before they hit level 10. Peasants casually hand out gold bars for performing mundane tasks. Of course, nothing you really want can be purchased with the in-game money, because the developers want you to buy those things with your <strong>actual</strong> money. </p>
+<p>The game now installs <a href="https://steamcommunity.com/games/582660/announcements/detail/1319965970611901682">XIGNCODE3 anti-cheat on your PC</a> without asking or even telling you, and the program remains running even when BDO isn’t running<span class="snote" title="1">I un-installed the game as soon as I discovered this. It LOOKS like XIGNCODE is also uninstalled, but I’ve read reports from people who claim it sticks around.</span>. </p>
+<p>That’s it. The interface and dialog are still horribly translated, you still level too fast to enjoy the combat, which is the only system in the game that works. The game is still focused on creating inconveniences for the player and then renting them the outrageously overpriced solution at the needlessly convoluted cash shop. And even if you muddle through all of that, the game just dumps you into PvP – willing or not – at the end of your journey. I would love it if I could just pay $15 a month and play a version of this game with the ugliness and artificial hassles removed. But it would probably cost somewhere in the neighborhood of $50 a month to buy all of the features we take for granted in most online games<span class="snote" title="2">Like the ability to summon your mount at will. They actually rent that to you on a per-month, per-character basis! That’s like renting me auto-run! COME ON.</span>. And even then, it’s still a game where you buy things (or get them for “free”) instead of earning them through gameplay.</p>
+<p>When people complain about a game being ruined by MTX, this is exactly what they’re talking about. This is a gorgeous game with solid gameplay. This could be an MMO for the ages. But instead it’s a sad and frustrating little also-ran, because the in-game progression was broken by the desire to drive people to the cash shop.</p>
+<p>What a horrible waste.</p>
+<p><strong>42:48 Mailbag: Eastshade</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>I’ve been working on my Steam backlog recently and just downloaded Eastshade to give it a try, and when I was installing it I noticed that Shamus also has it.  I don’t know about Paul, he’s not on my Steam friends list.  Anyway, I was wondering if Shamus has had any time to play it.  I’ve only played a few hours so far, but I’m finding it really beautiful and relaxing, with cute little RPG elements that make it pretty fun for a game with no combat that is about wandering around and painting things.  In my mind it doesn’t really qualify as a “walking simulator” because there are actual gameplay elements and things for you to do.  It’s nice to see something that might reasonably qualify as an RPG that doesn’t rely on murdering tons of dudes.</p>
+<p>Jennifer Snow</p></blockquote>
+<p><strong>53:04 Mailbag: Non-Paradox 4X</strong></p>
+<blockquote><p>Hey Shamus and Paul,</p>
+<p>Chris,(Gautsu here) I hope you are both doing okay! Anyways, I didn’t want to hijack or divert your Civ threads comments. What are yours and everyone else thoughts on non-Civ, non Paradox 4x games? I know that some people consider Alpha Centauri a Civ game due to its pedigree and some don’t because of the lack of Civilization in the title, but it is my absolute favorite. How are other games viewed though? Endless Legend seems cool as hell but I have never been able to commit enough time to complete a whole play through. Does anyone have an opinion on Gladius, the 40k 4x, or Sorceror Kings, Age of Wonders (Fantasy or Planetfall), or Fallen Enchantress? Honestly curious,<br>
+Thanks,<br>
+Chris</p></blockquote>
+<p><strong>1:00:22 Mailbag: Virtual Tabletop</strong></p>
+<blockquote><p>Deeeeear Diecast,</p>
+<p>You have long been an enthusiast of tabletop role-playing games, to the point of naming your blog after the hobby. You have been a DM for D&amp;D in the past, but I’ve never heard of you using any digital platforms for playing RPGs. What do you think about virtual tabletop systems, such as Fantasy Grounds or Roll20?</p>
+<p>Part of the reason for asking is the fact that I am working on a Kickstarter for a similar platform (<a href="https://www.kickstarter.com/projects/criticalzero/crtitical-zero/description">Critical Zero</a>). I wanted to know if you use such systems &amp; why. What do you like about virtual tabletops? What features do you find lacking, as a GM &amp;/or as a player? If you don’t use any, what might change your mind &amp; convince you to try one?</p>
+<p>Regards,</p>
+<p>Zeta Kai</p></blockquote>
+<p><strong>1:13:10 Mailbag: GPU Scheduling</strong></p>
+<blockquote><p>Hi, team DieCast!</p>
+<p>Apparently, in recent weeks, Microsoft released new feature of hardware accelerated GPU scheduling for Win10 (https://www.minitool.com/news/win10-v2004-hardware-accelerated-gpu-scheduling.html). So what’s your opinion on  this change, and how’d you estimate the amount of performance gains achieved by this change?</p>
+<p>Best regards, DeadlyDark</p>
+<p>P.S. Erm. Correction. It’s not released yet, I’ve misread the date</p></blockquote>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast307.mp3" length="74825517" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=50291</guid>
+      <pubDate>Mon, 06 Jul 2020 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast2020.jpg">
+      </itunes:image>
+      <itunes:duration>1:19:23</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		Somehow, Paul had fireworks going off in the background, pretty much through the entire show. The reason you don’t hear any fireworks on my side is that I’m 3 hours ahead of Paul and the people here had already run out by the time the show started. 
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+Diecast307
+
+
+
+
+
+00:00 Happy Fireworks day!
+
+Okay, it was 4th of July when we recorded this. I’m pretty sure it’s over now.
+
+06:32 Paul got a job!
+
+Congrats!
+
+10:26 Loot Box Ban
+
+Well Bobby, Drew… I don’t know what you clowns thought was going to happen, but the thing *I* thought was going to happen, happened: UK Parliament: Ban all loot boxes until evidence proves they’re safe for kids.
+
+You could have kept your little gambling parlors running quietly off to one side as optional game modes where nobody noticed or cared. You could have continued to exploit people with a weakness for gambling as much as you wanted. But instead you designed entire games around this reprehensible business model, pissed off your customers, and then rubbed it in everyone’s faces. So now we get this.
+
+Congratulations, idiots. Have fun explaining this one to shareholders.
+
+21:17 Worms Armageddon
+
+For those of you too young to remember, this is the game we’re talking about.
+
+24:55 Microsoft got bored with MIXER and left it outside in the rain.
+
+It’s only been a few months since Microsoft paid Ninja a (rumored) $30 million to join their streaming platform, and now they’re shutting down the platform. Man, I’d hate to be a Microsoft engineer that just spent 4 years of my life building the infrastructure for this streaming platform, only to have it closed like that. I’d feel sorry for Ninja too, but that dude got seven eight figures so I figure he’ll pull through somehow.
+
+36:09 Black Desert Online Remastered
+
+You may remember what I said about this game back in 2018. During this segment, I claimed that “nothing has changed”. That’s not exactly true. There are some changes beyond the addition of shinier pixels:
+
+The early game has been truncated. The entire starting town is now abandoned and players begin the game in the second quest hub, with the leveling scaled so that you breeze through the first 7 levels in the space of a couple of minutes. Not sure why that was done, but I guess it doesn’t harm anything. The story is incomprehensible dross anyway, so throwing a tiny bit of it away isn’t a bad thing. I suspect this was done to speed things up because they’re in a hurry to get players to the level cap where they can be milked for pay-to-win PvP bullshit.
+
+The inventory space restrictions have been greatly relaxed. You start the game with 40 inventory slots instead of (IIRC) 15 or 20. Again, they’re taking the focus off the early game and pushing players towards the more lucrative endgame.
+
+The game is even more absurd with in-game money than before. My character was a multimillionaire before they hit level 10. Peasants casually hand out gold bars for performing mundane tasks. Of course, nothing you really want can be purchased with the in-game money, because the developers want you to buy those things with your actual money. 
+
+The game now installs XIGNCODE3 anti-cheat on your PC without asking or even telling you, and the program remains running even when BDO isn’t runningI un-installed the game as soon as I discovered this. It LOOKS like XIGNCODE is also uninstalled, but I’ve read reports from people who claim it sticks around.. 
+
+That’s it. The interface and dialog are still horribly translated, you still level too fast to enjoy the combat, which is the only system in the game that works. The game is still focused on creating inconveniences for the player and then renting them the outrageously overpriced solution at the needlessly convoluted cash shop. And even if you muddle through all of that, the game just dumps you into PvP – willing or not – at the end of your journey. I would love it if I could just pay $15 a month and play a version of th…</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
     <item>
       <title>Diecast #306: Better News</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=50247</link>
@@ -78,8 +191,7 @@ Kaden</p></blockquote>
       </itunes:image>
       <itunes:duration>1:00:56</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		We didn’t talk about it on the show, but yes, I’ve seen the new trailer and gameplay videos for Cyberpunk 2077 that surfaced while I was busy schlepping my worldly possessions to a new home. It’s all very impressive, but it doesn’t change much. I was already 100% sold on this game. 
+      <itunes:summary>We didn’t talk about it on the show, but yes, I’ve seen the new trailer and gameplay videos for Cyberpunk 2077 that surfaced while I was busy schlepping my worldly possessions to a new home. It’s all very impressive, but it doesn’t change much. I was already 100% sold on this game. 
 
 
 Hosts: Paul, Shamus. Episode edited by Issac.
