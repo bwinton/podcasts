@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -18,6 +18,225 @@
     <itunes:subtitle>Like Twenty-Sided, but with less video.</itunes:subtitle>
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
+    <item>
+      <title>Diecast #312: Chip Fab, Good Robot Source</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=50531</link>
+      <description>
+        <![CDATA[
+		<p>If you’re here because you like to hear me whine about games that disappointed me, then you’re in luck! You get a double helping this week. If you get annoyed by “You never gave the game a chance!” and “You quit just before it got good!”, then this is not going to be your favorite episode.</p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast312.mp3">Diecast312</a><p></p>
+<p></p><br>
+<span id="more-50531"></span><br>
+<strong>00:00 Visiting a chip Fab</strong><p></p>
+<p><a href="https://www.google.com/imgres?imgurl=http://www.kitguru.net/wp-content/uploads/2014/09/intel_ireland_semiconductor_chip_fab.jpg&amp;imgrefurl=https://www.kitguru.net/components/cpu/anton-shilov/intel-we-will-not-need-euv-for-10nm-process-technology/&amp;tbnid=80q535Q2GhnFuM&amp;vet=1&amp;docid=XE7_hZwLfHVCtM&amp;w=756&amp;h=504&amp;q=chip+fab&amp;source=sh/x/im"></a></p><p></p>
+<p>Can anyone explain what those mirror balls are for? It’s really bugging me.</p>
+<p><strong>07:38 Good Robot is now open source.</strong></p>
+<p>Like I said on the show, <a href="https://github.com/arvindrajayadav/Good-Robot">the source is open</a> but you’ll still need to art assets to run the game<span class="snote" title="1">Or I suppose you can make your own, if dozens of hours of your life are worth less than $9.</span>. I’ve got a few Steam keys left over. If you’re a programmer and you want to play around with the code and you’d rather not buy the game, then email the Diecast (address is in the header image) and I’ll send you a key. I don’t know when I’ll run out, so it’s first-come-first serve. </p>
+<p><strong>18:32 Werner Herzog, Shodan, and characters that demand a medium.</strong></p>
+<p>Here’s <a href="https://www.youtube.com/watch?v=_3ZCuXJ7-8s">the Errant Signal episode</a> I mentioned.</p>
+<p></p><p></p>
+<p><strong>32:25 Advert Impressions: Littlewood</strong></p>
+<p></p><p></p>
+<p><strong>34:14 Advert Impressions: Grounded</strong></p>
+<p></p><p></p>
+<p><strong>35:31 Phantasy Star Online 2</strong></p>
+<p>I don’t know who decided to put a click-through visual novel inside of this MMO, but it didn’t work for me.</p>
+<p><strong>52:37 Empyrion Galactic Survival</strong></p>
+<p>If this game was still in Early Access, I might have been more forgiving of the jank. But that was a really rough start for something that’s supposedly been “released”. </p>
+<p><strong>1:02:56 Mailbag: Twitter</strong></p>
+<blockquote><p>Deeeear diecast,</p>
+<p>Shamus, I know you’ve voiced your disdain for Twitter a few times, and have since deleted your account. But have you considered using it exclusively for announcing new posts on your blog? Who knows, it might generate some additional traffic. </p>
+<p>Kind regards<br>
+Erik</p></blockquote>
+<p><a href="http://www.ramblepak64.com/index.php/article/eh_steve_has_been_replaced_by_shamus_young">Here is the podcast</a> I mentioned on the show.</p>
+<p>Short answer: Maybe it would yield extra traffic, but the platform is nasty and distracting and I’m afraid I’ll make an ass of myself as so many professionals do when using the platform.</p>
+<p>I’m also eager to ditch Facebook, but I keep that for family connections and I’m not sure what will happen when I leave. So for the last year I’ve just settled for logging in once every 4 months to make sure nobody died and then logging out again.</p>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast312.mp3" length="68312885" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=50531</guid>
+      <pubDate>Mon, 10 Aug 2020 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast2020.jpg">
+      </itunes:image>
+      <itunes:duration>1:11:51</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		If you’re here because you like to hear me whine about games that disappointed me, then you’re in luck! You get a double helping this week. If you get annoyed by “You never gave the game a chance!” and “You quit just before it got good!”, then this is not going to be your favorite episode.
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+Diecast312
+
+
+
+
+00:00 Visiting a chip Fab
+
+
+
+
+Can anyone explain what those mirror balls are for? It’s really bugging me.
+
+07:38 Good Robot is now open source.
+
+Like I said on the show, the source is open but you’ll still need to art assets to run the gameOr I suppose you can make your own, if dozens of hours of your life are worth less than $9.. I’ve got a few Steam keys left over. If you’re a programmer and you want to play around with the code and you’d rather not buy the game, then email the Diecast (address is in the header image) and I’ll send you a key. I don’t know when I’ll run out, so it’s first-come-first serve. 
+
+18:32 Werner Herzog, Shodan, and characters that demand a medium.
+
+Here’s the Errant Signal episode I mentioned.
+
+
+
+
+32:25 Advert Impressions: Littlewood
+
+
+
+
+34:14 Advert Impressions: Grounded
+
+
+
+
+35:31 Phantasy Star Online 2
+
+I don’t know who decided to put a click-through visual novel inside of this MMO, but it didn’t work for me.
+
+52:37 Empyrion Galactic Survival
+
+If this game was still in Early Access, I might have been more forgiving of the jank. But that was a really rough start for something that’s supposedly been “released”. 
+
+1:02:56 Mailbag: Twitter
+
+Deeeear diecast,
+Shamus, I know you’ve voiced your disdain for Twitter a few times, and have since deleted your account. But have you considered using it exclusively for announcing new posts on your blog? Who knows, it might generate some additional traffic. 
+Kind regards
+Erik
+Here is the podcast I mentioned on the show.
+
+Short answer: Maybe it would yield extra traffic, but the platform is nasty and distracting and I’m afraid I’ll make an ass of myself as so many professionals do when using the platform.
+
+I’m also eager to ditch Facebook, but I keep that for family connections and I’m not sure what will happen when I leave. So for the last year I’ve just settled for logging in once every 4 months to make sure nobody died and then logging out again.
+
+
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
+	</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
+    <item>
+      <title>Diecast #311: Eh! No Man’s Anthem</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=50479</link>
+      <description>
+        <![CDATA[
+		<p>My voice was super dry and scratchy when I recorded this. I spent most of the show hacking and clearing my throat. I tried my best to hide it, but you can probably tell something’s off.</p>
+<p>Also, our first mailbag question is really good this week and I’m curious to hear other people’s take on it. </p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast311.mp3">Diecast311</a><p></p>
+<p></p><p></p>
+<p>Show notes:<br>
+<span id="more-50479"></span><br>
+<strong>00:00 Eh! Steve!</strong></p>
+<p>If you somehow want to hear me talk <strong>even more</strong>, then do check out <a href="http://www.ramblepak64.com/index.php/article/eh_steve_has_been_replaced_by_shamus_young">my chat with Chris</a>, where we discussed about <a href="https://www.shamusyoung.com/twentysidedtale/?p=41853">the poison of Twitter</a>, the upcoming console generation, and <a href="https://www.youtube.com/watch?v=AW19yY-vxcY">the amazing value of Microsoft’s Game Pass</a>. It was a really good talk. </p>
+<p><strong>03:26 No Man’s Sky</strong></p>
+<p>I think my time with the game is winding down. I might dash out one more post. We’ll see.</p>
+<p><strong>07:28 Embedded Programming</strong></p>
+<p>It turns out this doesn’t have anything to do with programming while in bed.</p>
+<p><strong>17:47 Anthem 2.0</strong></p>
+<p>It really does look like <a href="https://blog.bioware.com/2020/07/31/anthem-update-loot-equipment-goals/">they might turn it around</a>. Their objectives look reasonable and their diagnosis of the problems with Anthem 1.0 look correct. Now we’ll have to see if EA lets them follow through, and if the community is willing to give the game another chance.</p>
+<p><strong>31:40 Mailbag: Dark Souls: Punch in the Face Edition</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>A lot of discussion has been had on the blog about disincentives for defeat in video games. The typical method is the loss of time. The boss kills you in Dark Souls, so you have to spend ten minutes fighting your way back to it. Or, less directly — you fall into the lava and lose all your gear in Minecraft, so you have to redo all the work you did to acquire it.</p>
+<p>This is suboptimal in various ways, depending on the execution, but games do it because there are few other options. However, if in the future technology is developed that allows for a much more direct interface between computer and brain, another form of disincentive presents itself: physical pain.</p>
+<p>The boss kills you in Dark Souls, and the computer stimulates your pain sensors so it feels like you’ve been punched in the face. But then it stops, and you reload a save from right at the beginning of the encounter. Very little time has been wasted, but you still have a pretty good reason not to let the boss kill you again.</p>
+<p>Obviously, keeping this technology safe and out of the hands of bad actors would be a…challenge. But assuming that could be managed, what do you think of the implications of this for game design? Would you be more or less likely to play Dark Souls: Punch in the Face Edition?</p>
+<p>Regards,</p>
+<p>Kestrellius</p></blockquote>
+<p><strong>43:59 Mailbag: Covert Action Rule</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>With the series on Civilization wrapping up, I wondered if you’d ever come across what Sid Meier calls his ‘Covert Action rule’.</p>
+<p>https://en.wikipedia.org/wiki/Sid_Meier’s_Covert_Action#Development</p>
+<p>It might explain why Civilization doesn’t have a dedicated tactical<br>
+combat mode, like in Total War or Age of Wonders. Sid asserts that getting involved for a stretch in a tactical minigame leaves the player disoriented when they get back to the ‘overworld’ and have to pick what they were previously doing up again.</p>
+<p>Given that many successful and popular games have been happy to mix complex subgames together, I wondered what your thoughts were as to whether this rule resonates with your preferences, and whether you think it has general applicability or should be considered more a question of taste.</p>
+<p>Yours,<br>
+Asdasd</p></blockquote>
+<p><strong>52:45 Mailbag: Next Gen Hardware</strong></p>
+<blockquote><p>Hi Shamus and Paul,</p>
+<p>Glad you’re both moving through the recent bumps in the road! I was wondering what your thoughts on PC hardware are going through into the next generation of consoles. Shamus’ PC was basically god-tier level (IIRC) when he got it but the upcoming hardware (both on PC and in the Xbox Series X) looks like it’s going to blow even that out of the water. Do you think there will be a huge divide between those who have ray-tracing “on” and those who have it “off”? Does supporting those different rendering techniques and vastly different hardware performance levels effectively double the work for developers? </p>
+<p>It seems like a nightmare just as we were getting out of the limitations of the current generation of hardware: I was expecting big, open, highly detailed worlds but it seems like putting in ray-tracing (while a really cool and probably end-point rendering technology) we’re going to be limited in the types of spaces that can be made when those effects are implemented because it’ll just be too taxing…</p>
+<p>All the best,<br>
+Duuuuuuuuuoae</p></blockquote>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast311.mp3" length="60895265" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=50479</guid>
+      <pubDate>Mon, 03 Aug 2020 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast2020.jpg">
+      </itunes:image>
+      <itunes:duration>1:04:25</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		My voice was super dry and scratchy when I recorded this. I spent most of the show hacking and clearing my throat. I tried my best to hide it, but you can probably tell something’s off.
+
+Also, our first mailbag question is really good this week and I’m curious to hear other people’s take on it. 
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+Diecast311
+
+
+
+
+Show notes:
+
+00:00 Eh! Steve!
+
+If you somehow want to hear me talk even more, then do check out my chat with Chris, where we discussed about the poison of Twitter, the upcoming console generation, and the amazing value of Microsoft’s Game Pass. It was a really good talk. 
+
+03:26 No Man’s Sky
+
+I think my time with the game is winding down. I might dash out one more post. We’ll see.
+
+07:28 Embedded Programming
+
+It turns out this doesn’t have anything to do with programming while in bed.
+
+17:47 Anthem 2.0
+
+It really does look like they might turn it around. Their objectives look reasonable and their diagnosis of the problems with Anthem 1.0 look correct. Now we’ll have to see if EA lets them follow through, and if the community is willing to give the game another chance.
+
+31:40 Mailbag: Dark Souls: Punch in the Face Edition
+
+Dear Diecast,
+A lot of discussion has been had on the blog about disincentives for defeat in video games. The typical method is the loss of time. The boss kills you in Dark Souls, so you have to spend ten minutes fighting your way back to it. Or, less directly — you fall into the lava and lose all your gear in Minecraft, so you have to redo all the work you did to acquire it.
+This is suboptimal in various ways, depending on the execution, but games do it because there are few other options. However, if in the future technology is developed that allows for a much more direct interface between computer and brain, another form of disincentive presents itself: physical pain.
+The boss kills you in Dark Souls, and the computer stimulates your pain sensors so it feels like you’ve been punched in the face. But then it stops, and you reload a save from right at the beginning of the encounter. Very little time has been wasted, but you still have a pretty good reason not to let the boss kill you again.
+Obviously, keeping this technology safe and out of the hands of bad actors would be a…challenge. But assuming that could be managed, what do you think of the implications of this for game design? Would you be more or less likely to play Dark Souls: Punch in the Face Edition?
+Regards,
+Kestrellius
+43:59 Mailbag: Covert Action Rule
+
+Dear Diecast,
+With the series on Civilization wrapping up, I wondered if you’d ever come across what Sid Meier calls his ‘Covert Action rule’.
+https://en.wikipedia.org/wiki/Sid_Meier’s_Covert_Action#Development
+It might explain why Civilization doesn’t have a dedicated tactical
+combat mode, like in Total War or Age of Wonders. Sid asserts that getting involved for a stretch in a tactical minigame leaves the player disoriented when they get back to the ‘overworld’ and have to pick what they were previously doing up again.
+Given that many successful and popular games have been happy to mix complex subgames together, I wondered what your thoughts were as to whether this rule resonates with your preferences, and whether you think it has general applicability or should be considered more a question of taste.
+Yours,
+Asdasd
+52:45 Mailbag: Next Gen Hardware
+
+Hi Shamus and Paul,
+Glad you’re both moving through the recent bumps in the road! I was wondering what your thoughts on PC hardware are going through into the next generation of consoles. Shamus’ PC was basically god-tier level (IIRC) when he got it but the upcoming hardware (both on PC and in the Xbox Series X) looks like it’s going to blow even that out of the water. Do you think there will be a huge divide between those who have ray-tracing “on” and those who have it “off”? Does supporting those different rendering techniques and vastly different hardware performance levels effecti…</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
     <item>
       <title>Diecast #310: Eastshade with SoldierHawk</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=50451</link>
@@ -64,8 +283,7 @@ Daniel “Philadelphus” Berke</p></blockquote>
       </itunes:image>
       <itunes:duration>1:07:19</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		It’s been about six months since the last time we had SoldierHawke on the show. So she’s back to talk about Eastshade. 
+      <itunes:summary>It’s been about six months since the last time we had SoldierHawke on the show. So she’s back to talk about Eastshade. 
 
 
 Hosts: SoldierHawke, Shamus. Episode edited by Issac.
@@ -114,8 +332,7 @@ As an example, on my part, I feel like the unique tea that lets you see hidden o
 Cheers,
 Daniel “Philadelphus” Berke
 
-    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-	</itunes:summary>
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
