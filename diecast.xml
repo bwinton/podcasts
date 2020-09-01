@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -18,6 +18,264 @@
     <itunes:subtitle>Like Twenty-Sided, but with less video.</itunes:subtitle>
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
+    <item>
+      <title>Diecast #314: Decaffeinated Die Cast</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=50659</link>
+      <description>
+        <![CDATA[
+		<p>My plan was to do as many mailbag questions as possible, but then Paul asked about my programming<span class="snote" title="1">And he only did so because I put it in the topic list.</span> and I spent half of this episode talking about coding, gamedev, and Blender.&nbsp;</p>
+<p>Also, I should warn you that I was running on half-brainpower because I am <a href="https://www.shamusyoung.com/twentysidedtale/?p=1415">once again</a> giving up caffeine. I was a bit of a stumble-brain during the show. Please pretend you noticed so I don’t have to worry that I’m actually this stupid all the time.</p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast314.mp3">Diecast314</a><p></p>
+<p></p><br>
+<span id="more-50659"></span><br>
+<strong>00:29 Paul’s 3D commission woes</strong><p></p>
+<p></p><p></p>
+<p><strong>08:45 Yes, Shamus is programming.</strong></p>
+<p>I’ve been dropping hints in the comments, but most people don’t read the comments so I should probably make this more official: I am programming. It’s a procgen shooter level, although there’s no shooting and nothing to shoot. So I guess it’s a walking simulator with no story?</p>
+<p>Okay, it’s a tech demo.</p>
+<p>This project requires quite a bit of Blender modeling, and I’m really enjoying my time with Blender. For contrast, check out <a href="https://www.shamusyoung.com/twentysidedtale/?p=641">this old post from the early days of this site</a>. The program has come a long, long way.</p>
+<p>I’m going to go back and write about this project pretty soon, and you’ll get to see what I’ve been up to and why it was 10x harder than I predicted<span class="snote" title="2">Which is actually really great! Most of my projects end up being 20x harder than estimated.</span>. </p>
+<p><strong>23:45 Mailbag: Eastshade Postmortem</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>Eastshade did an update without any details, so in the course of trying to find the release notes I stumbled on this postmortem that the principal developer wrote, it’s quite fascinating and I was delighted to see that they made their investment back and then some.  Also they’re working on a new game: http://www.eastshade.com/postmortem-eastshade/</p>
+<p>Also interesting is how super-tiny their team is for such a gorgeous game.  I think like, 8-10 people were listed there?</p>
+<p>Jennifer Snow</p></blockquote>
+<p><strong>28:53 Mailbag: Laptop Repair</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>I’m currently thinking about disassembling my otherwise functional notebook computer in order to find out why the shift keys have stopped working.  Have you ever attempted physical repairs on a PC or other piece of consumer electronics?  If so, what made you decide to make the attempt rather than buy a replacement or do without?</p>
+<p>–John</p></blockquote>
+<p><strong>40:15 Different approaches to tech support</strong></p>
+<p><strong>44:15 Mailbag: Mental Illness in games</strong></p>
+<blockquote><p>DeeeEEeeeaAaAaAAaarrrr, Diecast!</p>
+<p>On a recent episode, you were discussing the inherent uniqueness of video games, namely interactivity, and what story might benefit most from it.<br>
+This was in relation to Paul bringing up how Werner Herzog is only interested in projects that can only be told through the medium of film.</p>
+<p>I think one of the best ways to utilize the interactive nature of games is through the portrayal of mental illnesses that often take away a persons agency.</p>
+<p>Things such as Depression, Bipolar Disorder and Multiple Personality Disorder all can make doing simple everyday tasks incredibly difficult.</p>
+<p>Imagine if at a certain point in a game, the player character became Clinically Depressed and you could no longer have him/her do things reliably such as eating, interacting with other NPC’s<br>
+or even repairing their equipement.<br>
+A character that became Suicidal would no longer let you use healing items and might attract monsters/enemies willingly, since they no longer care for their own well-being. </p>
+<p>Some games played around with similiar concepts<br>
+Darkest Dungeon can make your party members become Paranoid/Selfish/Masochistic which inhibit some of their abilities, while Silent Hill 2 actually notices if you’re often low on health, despite having healing items</p>
+<p>Have you ever played a game that uses mentall illness in a similar fasion, and if so what were they?</p>
+<p>Thanks for reading and<br>
+may you always roll with advantage!</p>
+<p>Jolt</p></blockquote>
+<p><strong>57:02 Mailbag: Time and Space in Games</strong></p>
+<blockquote><p>Servus, Würfelwerfer (pronounciation guide: servoos wir-fell ware-fer)</p>
+<p>Something I wondered about for a long time, but it resurfaced recently due to Microsoft Flight Simulation 2020: the perception of time is greatly altered in video games, at least for me personally. To elaborate: Playing the Cessna Flight school, you have to navigate two waypoints, the shortest taking about 5 minutes. Now, in real life, five minutes are over very quickly. My commute is 6 minutes by bike and that’s so short I don’t even bother with taking my headpphones out of my pocket, because I have to turn off any aural distraction in such short a time. In game though, those 5 Minutes felt eternal, despite me actually having fun.</p>
+<p>Is that the reason many open world games are actually quite condensed in their size, yet still feel big? I had a similar occurance when Playing Skyrim in VR: while playing “pancake” (as in, on an ordinary screen), Skyrim feels like a huge place with impressive mountain ranges throned over by the throat of the world that looms over the land in the distance from Whiterun. In VR however, seeing everything “in scale”, it turns out the TotW is a couple of hundred meters high, strangely steep hill that starts right outside of the town walls of Whiterun.</p>
+<p>I think especially the latter might have to do with being watched through a fish eyed field of view through a monitor, but why does time feel so different? Are those phenomena linked, or different?</p>
+<p>Kind Regards from Austria (the mountany place in Europe, NOT the upside down place)<br>
+ColeusRattus</p></blockquote>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast314.mp3" length="72217325" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=50659</guid>
+      <pubDate>Mon, 31 Aug 2020 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast2020.jpg">
+      </itunes:image>
+      <itunes:duration>1:15:01</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		My plan was to do as many mailbag questions as possible, but then Paul asked about my programmingAnd he only did so because I put it in the topic list. and I spent half of this episode talking about coding, gamedev, and Blender. 
+
+Also, I should warn you that I was running on half-brainpower because I am once again giving up caffeine. I was a bit of a stumble-brain during the show. Please pretend you noticed so I don’t have to worry that I’m actually this stupid all the time.
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+Diecast314
+
+
+
+
+00:29 Paul’s 3D commission woes
+
+
+
+
+08:45 Yes, Shamus is programming.
+
+I’ve been dropping hints in the comments, but most people don’t read the comments so I should probably make this more official: I am programming. It’s a procgen shooter level, although there’s no shooting and nothing to shoot. So I guess it’s a walking simulator with no story?
+
+Okay, it’s a tech demo.
+
+This project requires quite a bit of Blender modeling, and I’m really enjoying my time with Blender. For contrast, check out this old post from the early days of this site. The program has come a long, long way.
+
+I’m going to go back and write about this project pretty soon, and you’ll get to see what I’ve been up to and why it was 10x harder than I predictedWhich is actually really great! Most of my projects end up being 20x harder than estimated.. 
+
+23:45 Mailbag: Eastshade Postmortem
+
+Dear Diecast,
+Eastshade did an update without any details, so in the course of trying to find the release notes I stumbled on this postmortem that the principal developer wrote, it’s quite fascinating and I was delighted to see that they made their investment back and then some.  Also they’re working on a new game: http://www.eastshade.com/postmortem-eastshade/
+Also interesting is how super-tiny their team is for such a gorgeous game.  I think like, 8-10 people were listed there?
+Jennifer Snow
+28:53 Mailbag: Laptop Repair
+
+Dear Diecast,
+I’m currently thinking about disassembling my otherwise functional notebook computer in order to find out why the shift keys have stopped working.  Have you ever attempted physical repairs on a PC or other piece of consumer electronics?  If so, what made you decide to make the attempt rather than buy a replacement or do without?
+–John
+40:15 Different approaches to tech support
+
+44:15 Mailbag: Mental Illness in games
+
+DeeeEEeeeaAaAaAAaarrrr, Diecast!
+On a recent episode, you were discussing the inherent uniqueness of video games, namely interactivity, and what story might benefit most from it.
+This was in relation to Paul bringing up how Werner Herzog is only interested in projects that can only be told through the medium of film.
+I think one of the best ways to utilize the interactive nature of games is through the portrayal of mental illnesses that often take away a persons agency.
+Things such as Depression, Bipolar Disorder and Multiple Personality Disorder all can make doing simple everyday tasks incredibly difficult.
+Imagine if at a certain point in a game, the player character became Clinically Depressed and you could no longer have him/her do things reliably such as eating, interacting with other NPC’s
+or even repairing their equipement.
+A character that became Suicidal would no longer let you use healing items and might attract monsters/enemies willingly, since they no longer care for their own well-being. 
+Some games played around with similiar concepts
+Darkest Dungeon can make your party members become Paranoid/Selfish/Masochistic which inhibit some of their abilities, while Silent Hill 2 actually notices if you’re often low on health, despite having healing items
+Have you ever played a game that uses mentall illness in a similar fasion, and if so what were they?
+Thanks for reading and
+may you always roll with advantage!
+Jolt
+57:02 Mailbag: Time and Space in Games
+
+Servus, Würfelwerfer (pronounciation guide: servoos wir-fell ware-fer)
+Something I wondered about for a long time, but it res…</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
+    <item>
+      <title>Diecast #313: Soulworker, Visual Studio</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=50580</link>
+      <description>
+        <![CDATA[
+		<p>Heads up: I’m finally getting back to video production after <a href="https://www.shamusyoung.com/twentysidedtale/?p=50261">the move</a> disrupted everything. I had a video on the Epic Games Store that was ready for editing, but then <a href="https://www.youtube.com/watch?v=BXlQpwqv1x8">Epic did something really lame and stupid</a>. I thought it would feel really odd to have a video about Epic that somehow didn’t mention these current events, so the video went back in the over for another week. </p>
+<p>I’m not sure what I can scrape together in time for tomorrow. If we don’t get a Tuesday column, can I just blame Tim Sweeney?</p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast313.mp3">Diecast313</a><p></p>
+<p></p><p></p>
+<p>Show notes:<span id="more-50580"></span></p>
+<p><strong>00:52 Soulworker</strong></p>
+<p><a href="https://store.steampowered.com/app/630100/SoulWorker__Anime_Action_MMO/">This game has been out for two and a half years</a>, and I’ve never seen it before. I even went <strong>looking</strong> for an MMO a few weeks ago and I somehow didn’t encounter this one.</p>
+<p>I complained about the writing. Maybe I should provide a sample. This quote isn’t verbatim, but it’s very close and I promise it’s not worse than what’s in the game:</p>
+<blockquote><p>There was once a man who could fight stronger than anyone else in the world, but he could never find rest.</p></blockquote>
+<p>Sorry I didn’t grab an exact quote. I didn’t get any footage or screenshots while I was playing. I honestly expected to bound off the game after an hour or so, but then it ate most of Saturday. </p>
+<p>I see little snippets of text like the sample above while furiously clicking past the nonsense the NPCs are spewing. In light of this, I want to thank the developers for two features: </p>
+<ol>
+<li>The non-localized vocals, meaning I can’t understand anything the NPCs are saying and so the bad writing is undetectable as long as I don’t do anything foolish like read the text.</li>
+<li>The “Skip dialog” button, which makes it easier to not read things.</li>
+</ol>
+<p>The game is very flashy, grindy, and not particularly challenging. This probably isn’t a game you’ll play for months on end, but it makes a good distraction game to keep your hands busy while your brain is elsewhere.</p>
+<p>I had enough fun that I thought I should kick a few bucks to the developers. I went to the cash shop, but then I realized I didn’t really want or need anything. I wasn’t interested in any of the doll clothes, and I was already more than powerful enough to handle all the content in front of me.</p>
+<p>If only they had robot suits. I’d pay for some robot suits!</p>
+<p><strong>09:37 Visual Studio: “Community” Edition</strong></p>
+<p>Fun fact: Whenever I type “Visual Studio”, there’s about an 80% chance that I’ll type “Visual Stupid” instead. I worry this means I type the word “stupid” too often and my muscle memory is just leading me down the most familiar path.</p>
+<p>Or maybe I’m just really studio.</p>
+<p><strong>25:35 Horizon vs. Flight Sim</strong></p>
+<p>On one hand, I’m always wary of Microsoft’s video game offerings. On the other hand, this is a quasi-procgen world that uses real-world maps and machine learning to generate the cities. I can’t skip something like that.</p>
+<p></p><p></p>
+<p><strong>32:52 Mailbag: Software Disenchantment</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>I recently read <a href="https://www.shamusyoung.com/tonsky.me/blog/disenchantment/">an article about Software Disenchantment</a>, the feeling of disillusionment when you realize that despite systems getting vastly more powerful, software doesn’t run vastly faster.</p>
+<p>I’m not very up to date with my gaming, but I haven’t really noticed the same problem in games. Aside from install sizes ballooning out of proportion they seem to run fine with ever more impressive tech.</p>
+<p>Have you guys noticed games getting slower and bloated as systems improve?</p>
+<p>Vale,</p>
+<p>-Tim</p></blockquote>
+<p><strong>49:03 Mailbag: Punishment and Fire Emblem</strong></p>
+<blockquote><p>Hi Shamus and Paul,</p>
+<p>I don’t think you’ve ever played Fire Emblem that I know of, but after the Dark Souls punishment ask last week I thought it would be interesting to hear you consider how they handle punishment.</p>
+<p>Fire Emblem is sort of like Xcom, where you have a set of units that die permanently, but unlike Xcom they all have unique designs and personalities, and there are a lot fewer of them (generally around 20-40 for the whole game, each joining at some point throughout the game). The end result is that in normal “good” play, you will want to reset the map when you lose a unit.</p>
+<p>But every time a character dies, you have a dynamic choice. Is it someone you cared about? Probably want to reset. Your crutch unit who’s carried the last few maps? Same thing.</p>
+<p>But maybe you’re at the end of a really challenging stage, and you just want to be done. Someone died, but you can probably move on without them. Most of the time, there are “replacement” crutch units who join at a usable power level later in the game and can help your team if it isn’t up to snuff, but they are generally weaker than fully trained player units from early in the game (since characters level up like a JRPG). The choice is yours whether to reset the map, and depending on the circumstances, it can be a very gruelling choice.</p>
+<p>The upshot of this punishment system is that it leaves a lot of agency in the player’s hands as far as how punished they are for a given mistake. And it means that every time you “let” a character die, you really do feel responsible, since ultimately you decided that they weren’t worth going back for. When you beat the game, every character gets a little epilogue telling you what they did after the war, but the ones you let die simply say something like “Perished in Chapter 18”, which can be a huge gutpunch, potentially, and can definitely motivate you to play better on a future playthrough.</p>
+<p>What do you think of this dynamic, player-driven punishment approach? How do you think it could apply to other genres?</p></blockquote>
+<p><strong>56:22 Mailbag: Retcons</strong></p>
+<blockquote><p>Dear Diecast</p>
+<p>First off, I’d like to thank you for the Fallout recommendation a few months ago. I have been thoroughly enjoying the game repeatedly since. Though I do like New Vegas more.</p>
+<p>One of the most surprising things to me while playing Fallout was the lack of vault experiments. Vault Tec definitely isn’t painted as a saint in the game, but they are far from the mustache twirling evil Umbrella like entity in later games.</p>
+<p>On one hand, this makes them more relatable and real. Cutting corners and ignoring concerns to help their bottom line at the cost of human lives are things shady corporations do. On the other hand, the vaults in later games are some of my favorite parts of the series, but there is no logical reason to clone a bunch of Gary’s, lock recovering addicts in a vault filled with drugs or force people to elect an overseer to be killed repeatedly. I wonder – are the vault experiments new to the Bethesda games or were they introduced in Fallout 2?</p>
+<p>Either way, it got me thinking about retcons. Outside of comics which have them every few years, the only other major retcon I can think of off the top of my head is Riddles in the Dark. Do you know of any other major retcons from video games? What are your favorites and least favorite retcons?</p>
+<p>Sincerely, Ty</p></blockquote>
+<p><strong>1:05:25 Mailbag: EPUB Mass Effect</strong></p>
+<blockquote><p>Hey Shamus,</p>
+<p>This isn’t a Diecast question (feel free to include it however), but I couldn’t find any other means of contact.</p>
+<p>I recently decided to convert your Mass Effect Retrospective series into an EPUB ebook, so that I can on-the-move indulge in my petty bitterness over a 8 year old game’s narrative failures. I have converted the first two chapters (see here:  https://github.com/namandixit/mass-effect-retrospective, the file `book.epub` is the one), and was wondering whether it would be okay for me to leave this in public. If not, I can make this repo private, and not let anyone else share into my ritualistic masochistic resentment —  over a story about writers’ personal sexual fantasies fawning over a hero, a bloody icon.</p>
+<p>Take care,<br>
+Naman Dixit</p></blockquote>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast313.mp3" length="65613795" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=50580</guid>
+      <pubDate>Mon, 17 Aug 2020 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast2020.jpg">
+      </itunes:image>
+      <itunes:duration>1:09:43</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		Heads up: I’m finally getting back to video production after the move disrupted everything. I had a video on the Epic Games Store that was ready for editing, but then Epic did something really lame and stupid. I thought it would feel really odd to have a video about Epic that somehow didn’t mention these current events, so the video went back in the over for another week. 
+
+I’m not sure what I can scrape together in time for tomorrow. If we don’t get a Tuesday column, can I just blame Tim Sweeney?
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+Diecast313
+
+
+
+
+Show notes:
+
+00:52 Soulworker
+
+This game has been out for two and a half years, and I’ve never seen it before. I even went looking for an MMO a few weeks ago and I somehow didn’t encounter this one.
+
+I complained about the writing. Maybe I should provide a sample. This quote isn’t verbatim, but it’s very close and I promise it’s not worse than what’s in the game:
+
+There was once a man who could fight stronger than anyone else in the world, but he could never find rest.
+Sorry I didn’t grab an exact quote. I didn’t get any footage or screenshots while I was playing. I honestly expected to bound off the game after an hour or so, but then it ate most of Saturday. 
+
+I see little snippets of text like the sample above while furiously clicking past the nonsense the NPCs are spewing. In light of this, I want to thank the developers for two features: 
+
+
+The non-localized vocals, meaning I can’t understand anything the NPCs are saying and so the bad writing is undetectable as long as I don’t do anything foolish like read the text.
+The “Skip dialog” button, which makes it easier to not read things.
+
+The game is very flashy, grindy, and not particularly challenging. This probably isn’t a game you’ll play for months on end, but it makes a good distraction game to keep your hands busy while your brain is elsewhere.
+
+I had enough fun that I thought I should kick a few bucks to the developers. I went to the cash shop, but then I realized I didn’t really want or need anything. I wasn’t interested in any of the doll clothes, and I was already more than powerful enough to handle all the content in front of me.
+
+If only they had robot suits. I’d pay for some robot suits!
+
+09:37 Visual Studio: “Community” Edition
+
+Fun fact: Whenever I type “Visual Studio”, there’s about an 80% chance that I’ll type “Visual Stupid” instead. I worry this means I type the word “stupid” too often and my muscle memory is just leading me down the most familiar path.
+
+Or maybe I’m just really studio.
+
+25:35 Horizon vs. Flight Sim
+
+On one hand, I’m always wary of Microsoft’s video game offerings. On the other hand, this is a quasi-procgen world that uses real-world maps and machine learning to generate the cities. I can’t skip something like that.
+
+
+
+
+32:52 Mailbag: Software Disenchantment
+
+Dear Diecast,
+I recently read an article about Software Disenchantment, the feeling of disillusionment when you realize that despite systems getting vastly more powerful, software doesn’t run vastly faster.
+I’m not very up to date with my gaming, but I haven’t really noticed the same problem in games. Aside from install sizes ballooning out of proportion they seem to run fine with ever more impressive tech.
+Have you guys noticed games getting slower and bloated as systems improve?
+Vale,
+-Tim
+49:03 Mailbag: Punishment and Fire Emblem
+
+Hi Shamus and Paul,
+I don’t think you’ve ever played Fire Emblem that I know of, but after the Dark Souls punishment ask last week I thought it would be interesting to hear you consider how they handle punishment.
+Fire Emblem is sort of like Xcom, where you have a set of units that die permanently, but unlike Xcom they all have unique designs and personalities, and there are a lot fewer of them (generally around 20-40 for the whole game, each joining at some point throughout the game). The end result is that in normal “good” play, you will want to reset the map when you lose a unit.
+But e…</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
     <item>
       <title>Diecast #312: Chip Fab, Good Robot Source</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=50531</link>
@@ -64,8 +322,7 @@ Erik</p></blockquote>
       </itunes:image>
       <itunes:duration>1:11:51</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		If you’re here because you like to hear me whine about games that disappointed me, then you’re in luck! You get a double helping this week. If you get annoyed by “You never gave the game a chance!” and “You quit just before it got good!”, then this is not going to be your favorite episode.
+      <itunes:summary>If you’re here because you like to hear me whine about games that disappointed me, then you’re in luck! You get a double helping this week. If you get annoyed by “You never gave the game a chance!” and “You quit just before it got good!”, then this is not going to be your favorite episode.
 
 
 Hosts: Paul, Shamus. Episode edited by Issac.
@@ -123,8 +380,7 @@ Short answer: Maybe it would yield extra traffic, but the platform is nasty and 
 I’m also eager to ditch Facebook, but I keep that for family connections and I’m not sure what will happen when I leave. So for the last year I’ve just settled for logging in once every 4 months to make sure nobody died and then logging out again.
 
 
-    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-	</itunes:summary>
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
@@ -182,8 +438,7 @@ Duuuuuuuuuoae</p></blockquote>
       </itunes:image>
       <itunes:duration>1:04:25</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		My voice was super dry and scratchy when I recorded this. I spent most of the show hacking and clearing my throat. I tried my best to hide it, but you can probably tell something’s off.
+      <itunes:summary>My voice was super dry and scratchy when I recorded this. I spent most of the show hacking and clearing my throat. I tried my best to hide it, but you can probably tell something’s off.
 
 Also, our first mailbag question is really good this week and I’m curious to hear other people’s take on it. 
 
