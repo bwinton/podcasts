@@ -19,6 +19,138 @@
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
     <item>
+      <title>Diecast #315: Mailbag Clearinghouse</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=50695</link>
+      <description>
+        <![CDATA[
+		<p>People emailed us a bunch of questions, so we talked for a long time until they were all answered. </p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast315.mp3">Diecast315</a><p></p>
+<p></p><p></p>
+<p>Show notes:<br>
+<span id="more-50695"></span></p>
+<p><strong>00:00 “Kingdom Come: Deliverance” “unavailable” on Epic</strong></p>
+<p>The problem seems to be sorted out now, but that was strange. Also, after we finished the recording I opened up EGS and realized I also own (and have also never played) KC:D. </p>
+<p><strong>04:41 Cleanroom Cabletracks</strong></p>
+<p><strong>13:30 “Login from New Location” and 2FA</strong></p>
+<p>I get that Two Factor Authentication makes a system more secure, but for me it’s never worth the risk. Just use a long, varied, and unique password. That protects against the vast majority of attacks. Once you’re using a password manager, additional password complexity is free. You can copy &amp; paste a 25 character password as easily as a 6 character one. A password that long is basically hack-proof. Not only would it require insane amounts of computer power to brute force, but your garden-variety account thief isn’t going to invest that much time and computing power into a single password. An account thief is a shoplifter looking for easy targets, not a cat burglar looking to tackle enormous security systems.</p>
+<p>Now, there’s still the risk that a hacker might get some sort of malware onto your machine that could steal your password when you enter it on the login page. But that risk is very, very small. 2FA protects against this rare and exotic form of attack, and in exchange you run the risk that the company itself will either sell or accidentally expose your phone number. At that point you’ll be buried in infuriating spam calls forever. </p>
+<p>Worse, a compromised phone number is a worse problem than a hacked account. Yeah, it would be annoying to lose access to my Blizzard account, but you can usually recover the account by proving you’re the person who’s been paying the bill. It might take some time, but you can regain control and change the password. </p>
+<p>But what do you do when your phone number is hounded by spam calls day and night? There’s no fixing that, short of changing your number.</p>
+<p><strong>18:39 Mailbag: Bloodlines 2 delays and problems.</strong></p>
+<p></p><p></p>
+<blockquote><p>Hello Shamus, Hello Paul</p>
+<p>Yesterday I’ve seen Yong Yeas video (https://www.youtube.com/watch?v=Xd-nvCKbuKo) on the rescent events in the development of Bloodlines 2. Long story short:<br>
+Publisher and Developer pushed the release of the 5 year in development game to 2021 for QA reasons (me: Yes!) and fired the the two main writers and driving forces behind Bloodlines 2 (me: WTFF?F!) – and Bloodlines 1 – to replace them with one 20 years of Ubisoft dude (me: §$#+&amp;Ø%!!!). The very, very commited main writer came out of the blue with the firing and the delay while most of the work was already finished and the rest will finish in the promised 2020 timeline.</p>
+<p>The end of the year blog post showed that many of your readers anticipate this game, but YouTube isn’t a good place for disussions. So what are your (and your readers) thoughts on this topic? What harm can this one ubi-dude do to the mostly finished product within 6 to 12 months?</p>
+<p>All the best</p>
+<p>Lars</p></blockquote>
+<p><strong>24:24 Mailbag: Steam Controller</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>The YouTube algorithm did something good and recommended me a retrospective on the Steam Controller[1]. The thing I found most interesting is that apparently, gyro aiming is nearly as precise as mouse aiming[2]. As of now, only the Steam, Switch and Playstation controllers contain gyroscopes and there are no plans to add them for Xbox, so many developers don’t bother.</p>
+<p>Since the Steam Controller flopped pretty badly, how do you think controllers might evolve in the future? Do you think that there will ever be a huge push to bring more accuracy to game controllers?</p>
+<p>Regards,<br>
+RFS-81</p>
+<p>[1] https://www.youtube.com/watch?v=5dsL1wgu2e8<br>
+[2] I’m hiding the tl;dr portion of my mail in a footnote to make it easier to truncate for the show. I actually have a Steam Controller but turned off the gyros because I thought accidentally jostling the camera would be annoying. In Zelda on the Switch, it’s only turned on while you’re using a bow, so I gave it a chance and found that it worked pretty well for me. Use the stick to face in the right direction and tilt the controller to line up a shot.</p></blockquote>
+<p><strong>30:40 Mailbag: Streets of Rage 4</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>This one is for Shamus. I don’t know if 2D beat-em-ups are your thing, so I was wondering whether Streets of Rage 4 is on your radar, because I think it might be up your alley.</p>
+<p>It is perfectible, it does the Arkham Asylum thing where it tracks how much damage you deal without getting hit, it has tons of difficulty options, it has electronic music and a strong art style. Most importantly, judo-throwing enemies into one another is extremely satisfying.</p>
+<p>So yeah, basically I just wanted to shill for a game I like.</p>
+<p>Regards,<br>
+RFS-81</p></blockquote>
+<p><strong>35:57 Mailbag: Brown Shooters</strong></p>
+<blockquote><p>Hi!</p>
+<p>We all know that there’s a tendency to make fun of grey/brown shooters (often of military nature). But in more serious note, is there a some artistic merit in going with this aesthetic? May be any of you have an example of a game of this aesthetic, that you like?</p>
+<p>Best regards, DeadlyDark</p></blockquote>
+<p><strong>39:57 Mailbag: Games that Changed for the Better</strong></p>
+<blockquote><p>Dear Casters of Die!</p>
+<p>With the recent release of Project Cars 3, once again a to me beloved franchise got changed in big way to attract a larger audience, but lost what made it special in the process.<br>
+Now there are numerous examples where that happens (Mass Effect 1 to 2, Fallout 2 to 3, Rainbow Six 3 to Lockdown, Ghost Recon to Advanced Warfighter, Need for Speed Porsche to Underground, to name a few).</p>
+<p>Now it seems like I always fall under the category of “fan until the franchise us spoiled”, and I never encountered a franchise that did not interest me until a sequel came along that fundamentally changed it, that make me suddenly like it.</p>
+<p>So, did it ever happen to you guys that a game franchise that was initially not for you changed to suddenly cater to your tastes and sensibilities?</p>
+<p>And I know some of those changes we’re rewarded with bigger success, but I assume that a new franchise without both the baggage and alienation of old fans would have been even more successful. Am I undervaluing name recognition or is that another example of executives and marketing not really understanding the medium?</p>
+<p>Regards from Austria,<br>
+Norbert “ColeusRattus” Lickl</p></blockquote>
+<p><strong>46:35 Mailbag: Mass Effect Remaster</strong></p>
+<blockquote><p>Dear Paul Shepard and Shamus Vakarian,</p>
+<p>The Internet (TM) is brimming with rumors about a Mass Effect Trilogy Remaster. What are your thoughts? Are you also looking forward to BioWare’s inevitable attempts to patch up their clumsy retcons by putting Javik’s face on all the Prothean statues on Ilos?</p>
+<p>Stay safe,<br>
+Mako</p></blockquote>
+<p>It’s supposedly just a graphics remaster so I can’t imagine how EA / BioWare is going to disappoint me this time, but I shouldn’t underestimate them. </p>
+<p><strong>50:08 Mailbag: Rubberband AI</strong></p>
+<blockquote><p>Dear diecast,</p>
+<p>What do you think of rubberbanding (AI growing stronger/weaker depending on your performance)? Some people say it’s good because it means the game is always challenging you while at the same time not throwing up any insurmountable challenges. I however don’t like it since it feels that whatever i do, i will always barely win. So why try to play at 100% when 80% will do?</p>
+<p>With kind regards,<br>
+Chris</p></blockquote>
+<p><strong>58:29 Mailbag: Procgen Map Editing</strong></p>
+
+<p></p><p></p>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast315.mp3" length="66356435" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=50695</guid>
+      <pubDate>Mon, 07 Sep 2020 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast2020.jpg">
+      </itunes:image>
+      <itunes:duration>1:09:16</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		People emailed us a bunch of questions, so we talked for a long time until they were all answered. 
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+Diecast315
+
+
+
+
+Show notes:
+
+
+00:00 “Kingdom Come: Deliverance” “unavailable” on Epic
+
+The problem seems to be sorted out now, but that was strange. Also, after we finished the recording I opened up EGS and realized I also own (and have also never played) KC:D. 
+
+04:41 Cleanroom Cabletracks
+
+13:30 “Login from New Location” and 2FA
+
+I get that Two Factor Authentication makes a system more secure, but for me it’s never worth the risk. Just use a long, varied, and unique password. That protects against the vast majority of attacks. Once you’re using a password manager, additional password complexity is free. You can copy &amp; paste a 25 character password as easily as a 6 character one. A password that long is basically hack-proof. Not only would it require insane amounts of computer power to brute force, but your garden-variety account thief isn’t going to invest that much time and computing power into a single password. An account thief is a shoplifter looking for easy targets, not a cat burglar looking to tackle enormous security systems.
+
+Now, there’s still the risk that a hacker might get some sort of malware onto your machine that could steal your password when you enter it on the login page. But that risk is very, very small. 2FA protects against this rare and exotic form of attack, and in exchange you run the risk that the company itself will either sell or accidentally expose your phone number. At that point you’ll be buried in infuriating spam calls forever. 
+
+Worse, a compromised phone number is a worse problem than a hacked account. Yeah, it would be annoying to lose access to my Blizzard account, but you can usually recover the account by proving you’re the person who’s been paying the bill. It might take some time, but you can regain control and change the password. 
+
+But what do you do when your phone number is hounded by spam calls day and night? There’s no fixing that, short of changing your number.
+
+18:39 Mailbag: Bloodlines 2 delays and problems.
+
+
+
+
+Hello Shamus, Hello Paul
+Yesterday I’ve seen Yong Yeas video (https://www.youtube.com/watch?v=Xd-nvCKbuKo) on the rescent events in the development of Bloodlines 2. Long story short:
+Publisher and Developer pushed the release of the 5 year in development game to 2021 for QA reasons (me: Yes!) and fired the the two main writers and driving forces behind Bloodlines 2 (me: WTFF?F!) – and Bloodlines 1 – to replace them with one 20 years of Ubisoft dude (me: §$#+&amp;Ø%!!!). The very, very commited main writer came out of the blue with the firing and the delay while most of the work was already finished and the rest will finish in the promised 2020 timeline.
+The end of the year blog post showed that many of your readers anticipate this game, but YouTube isn’t a good place for disussions. So what are your (and your readers) thoughts on this topic? What harm can this one ubi-dude do to the mostly finished product within 6 to 12 months?
+All the best
+Lars
+24:24 Mailbag: Steam Controller
+
+Dear Diecast,
+The YouTube algorithm did something good and recommended me a retrospective on the Steam Controller[1]. The thing I found most interesting is that apparently, gyro aiming is nearly as precise as mouse aiming[2]. As of now, only the Steam, Switch and Playstation controllers contain gyroscopes and there are no plans to add them for Xbox, so many developers don’t bother.
+Since the Steam Controller flopped pretty badly, how do you think controllers might evolve in the future? Do you think that there will ever be a huge push to bring more accuracy to game controllers?
+Regards,
+RFS-81
+[1] https://www.youtube.com/watch?v=5dsL1wgu2e8
+[2] I’m hiding the tl;dr portion of my mail in a footnote to make it easier to truncate for the show. I actually have a Steam Controller but turned off the gyros because I thought accidentally jostling th…</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
+    <item>
       <title>Diecast #314: Decaffeinated Die Cast</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=50659</link>
       <description>
@@ -80,8 +212,7 @@ ColeusRattus</p></blockquote>
       </itunes:image>
       <itunes:duration>1:15:01</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		My plan was to do as many mailbag questions as possible, but then Paul asked about my programmingAnd he only did so because I put it in the topic list. and I spent half of this episode talking about coding, gamedev, and Blender. 
+      <itunes:summary>My plan was to do as many mailbag questions as possible, but then Paul asked about my programmingAnd he only did so because I put it in the topic list. and I spent half of this episode talking about coding, gamedev, and Blender. 
 
 Also, I should warn you that I was running on half-brainpower because I am once again giving up caffeine. I was a bit of a stumble-brain during the show. Please pretend you noticed so I don’t have to worry that I’m actually this stupid all the time.
 
@@ -212,8 +343,7 @@ Naman Dixit</p></blockquote>
       </itunes:image>
       <itunes:duration>1:09:43</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		Heads up: I’m finally getting back to video production after the move disrupted everything. I had a video on the Epic Games Store that was ready for editing, but then Epic did something really lame and stupid. I thought it would feel really odd to have a video about Epic that somehow didn’t mention these current events, so the video went back in the over for another week. 
+      <itunes:summary>Heads up: I’m finally getting back to video production after the move disrupted everything. I had a video on the Epic Games Store that was ready for editing, but then Epic did something really lame and stupid. I thought it would feel really odd to have a video about Epic that somehow didn’t mention these current events, so the video went back in the over for another week. 
 
 I’m not sure what I can scrape together in time for tomorrow. If we don’t get a Tuesday column, can I just blame Tim Sweeney?
 
