@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -18,6 +18,167 @@
     <itunes:subtitle>Like Twenty-Sided, but with less video.</itunes:subtitle>
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
+    <item>
+      <title>Diecast #317: Exapunks, Oxygen Not Included, Spider-Man Preview, Stormworks</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=50773</link>
+      <description>
+        <![CDATA[
+		<p>Sorry my mic seems to be a little blown out this week. It sounded fine in my headphones, but… I don’t know. I try very hard not to fiddle with settings, positions, or volume levels during the week to avoid exactly this problem.</p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast317.mp3">Diecast317</a><p></p>
+<p></p><p></p>
+<p>Show notes:<br>
+<span id="more-50773"></span><br>
+<strong>00:00 Solving My First World Problem: The Keyboard lives again!</strong></p>
+<p>You can see my Favorite Keyboard Ever in the photos below.</p>
+<p><strong>08:26 Exapunks</strong></p>
+<p></p><p></p>
+<p><strong>11:25 New Chair</strong></p>
+<p>This is roughly what you’d see with your human eyes if you came into my office:<br>
+</p><p></p>
+<p>However, it’s a bit hard to see what’s going on here, so let me open the curtain so the camera can make sense of this:</p>
+<p></p><p></p>
+<p>I realize these kinds of chairs are SUPER-common these days, but this is my first and I’m really happy with it.</p>
+<p><strong>15:17 Oxygen Not Included</strong></p>
+<p>Sounds like I should revisit this one.</p>
+<p><strong>18:31 The Most Unappealing Preview Ever.</strong></p>
+<p></p><p></p>
+<p>An expositional cutscene with no tension, followed by an introduction of some super-boring enemies, followed by yawn-inducing combat demo where the player spams overpowered spells rather than engaging with the combat mechanics, followed by a huge quicktime event.</p>
+<p>It has overwhelming thumbs up on YouTube. Sigh. This is why we never have nice things.</p>
+<p><strong>31:25 Not Junk Mail</strong><br>
+About twice a week I get emails from people who want to do “sponsored posts”. That’s where I let them post their garbage advertisements to my gaming blog. You know, stuff like diet pills, SEO schemes, oregano oil, and un-accredited trade schools with no web presence. Exactly the kind of content you come here for. In return, they’ll <del>vanish without paying me as soon as the post gets indexed by Google</del> give me $50.</p>
+<p>There are only a few templates they use and I’ve seen them all multiple times. I’ve flagged every one as spam, and Google keeps delivering them because they’re coming from a new email every time.</p>
+<p>For contrast, my website sends me an email every single week, from the same address, letting me know the backup is done and I can download it. Every week I tell Gmail the message is legit, and every week Gmail throws up a big yellow danger sign telling me that the message looks like a scam.</p>
+<p>Current odds of AI dominating the world: Not bloody likely.</p>
+<p>(Unless the AI’s goal is to just annoy us. In which case it’s working really well.)<br>
+And here is the promised image from the DMV website:</p>
+<p><img src="https://www.shamusyoung.com/twentysidedtale/images/diecast_how_tall.jpg"></p>
+<p><strong>37:25 Stormworks</strong></p>
+<p></p><p></p>
+<p><strong>42:18 Mailbag: Books About Games</strong></p>
+<blockquote><p>In honor of the publication of Sid Meier’s Memoirs!, a book of, uh, Sid Meier’s memoirs, I must ask: do you ever read books about video games or video gaming? If so, what are some of your favorites? Mine is You, a novel about game development and the history of game development by Austin Grossman.</p>
+<p>–John</p></blockquote>
+<p>We talked about a few books on the show, including <a href="https://www.shamusyoung.com/twentysidedtale/?p=43523">this one</a>. Also, The <a href="https://matthewseiji.itch.io/twwds">Writer Will Do Something</a> isn’t really a book, but it’s an amazing short-story that FEELS true if you’re frustrated with the state of AAA games these days.</p>
+<p>Any other recommendations?</p>
+<p><strong>53:48 Mailbag: Satisfying Prescience</strong></p>
+<blockquote><p>Shamus when you write these long series [Jedi Fallen Order], do you get some satisfaction when you see people talking about something in the comments and you’ve already written an in-depth piece on that and it’s coming down the pipeline?</p>
+<p>Thomas</p></blockquote>
+<p><a href="https://www.shamusyoung.com/twentysidedtale/?p=50753#comment-1274577">Original comment</a> for context.</p>
+<p>Yes, this question is a bit meta and naval-gaze-y. I knew you’d say that. Also, I said “naval” instead of “navel”. I knew you’d notice that too.</p>
+<p><strong>59:28 Mailbag: Problems with Scale</strong></p>
+<blockquote><p>Hi There,</p>
+<p>I’m playing through Outer Worlds and have noticed that it makes me feel a little claustrophobic. At first I thought it was the level design. But then I thought maybe the player height was different or the models were too big but I can’t put my finger on it. Do you have any idea why this game might feel “smaller” (even the outdoor locations feel small)?</p>
+<p>Thanks,<br>
+Rob Lundeen</p></blockquote>
+<p>The classic problem when designing 3D models for first-person experiences:</p>
+<p>“Okay, I’ve measured a real-world couch, and I’ve built this 3D couch to match. Oh, but this couch makes the coffee table look like a toy. So I’ll make that bigger. Oh, but now the TV looks tiny. I can make that bigger, but now the room is way too crowded and the floor lamp is sticking inside the couch. So let me spread all these things out a little. Oh wait, I need to make the room bigger. Ugh. Now the front window looks wrong. If I fix that, then the front door will look weird.”</p>
+<p>An hour later your boss comes in and demands to know why you built a furnished airplane hangar and he also wants to know why you’re currently measuring your trash can and suddenly you notice he looks much too large for the room and the printer looks too small and your cubicle is the size of a phone booth and you’ve lost all ability to perceive distance or proportion at any scale.</p>
+<p>Or maybe that was just me.</p>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast317.mp3" length="75047715" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=50773</guid>
+      <pubDate>Mon, 21 Sep 2020 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast2020.jpg">
+      </itunes:image>
+      <itunes:duration>1:18:30</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		Sorry my mic seems to be a little blown out this week. It sounded fine in my headphones, but… I don’t know. I try very hard not to fiddle with settings, positions, or volume levels during the week to avoid exactly this problem.
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+Diecast317
+
+
+
+
+Show notes:
+
+00:00 Solving My First World Problem: The Keyboard lives again!
+
+You can see my Favorite Keyboard Ever in the photos below.
+
+08:26 Exapunks
+
+
+
+
+11:25 New Chair
+
+This is roughly what you’d see with your human eyes if you came into my office:
+
+
+
+However, it’s a bit hard to see what’s going on here, so let me open the curtain so the camera can make sense of this:
+
+
+
+
+I realize these kinds of chairs are SUPER-common these days, but this is my first and I’m really happy with it.
+
+15:17 Oxygen Not Included
+
+Sounds like I should revisit this one.
+
+18:31 The Most Unappealing Preview Ever.
+
+
+
+
+An expositional cutscene with no tension, followed by an introduction of some super-boring enemies, followed by yawn-inducing combat demo where the player spams overpowered spells rather than engaging with the combat mechanics, followed by a huge quicktime event.
+
+It has overwhelming thumbs up on YouTube. Sigh. This is why we never have nice things.
+
+31:25 Not Junk Mail
+About twice a week I get emails from people who want to do “sponsored posts”. That’s where I let them post their garbage advertisements to my gaming blog. You know, stuff like diet pills, SEO schemes, oregano oil, and un-accredited trade schools with no web presence. Exactly the kind of content you come here for. In return, they’ll vanish without paying me as soon as the post gets indexed by Google give me $50.
+
+There are only a few templates they use and I’ve seen them all multiple times. I’ve flagged every one as spam, and Google keeps delivering them because they’re coming from a new email every time.
+
+For contrast, my website sends me an email every single week, from the same address, letting me know the backup is done and I can download it. Every week I tell Gmail the message is legit, and every week Gmail throws up a big yellow danger sign telling me that the message looks like a scam.
+
+Current odds of AI dominating the world: Not bloody likely.
+
+(Unless the AI’s goal is to just annoy us. In which case it’s working really well.)
+And here is the promised image from the DMV website:
+
+
+
+37:25 Stormworks
+
+
+
+
+42:18 Mailbag: Books About Games
+
+In honor of the publication of Sid Meier’s Memoirs!, a book of, uh, Sid Meier’s memoirs, I must ask: do you ever read books about video games or video gaming? If so, what are some of your favorites? Mine is You, a novel about game development and the history of game development by Austin Grossman.
+–John
+We talked about a few books on the show, including this one. Also, The Writer Will Do Something isn’t really a book, but it’s an amazing short-story that FEELS true if you’re frustrated with the state of AAA games these days.
+
+Any other recommendations?
+
+53:48 Mailbag: Satisfying Prescience
+
+Shamus when you write these long series [Jedi Fallen Order], do you get some satisfaction when you see people talking about something in the comments and you’ve already written an in-depth piece on that and it’s coming down the pipeline?
+Thomas
+Original comment for context.
+
+Yes, this question is a bit meta and naval-gaze-y. I knew you’d say that. Also, I said “naval” instead of “navel”. I knew you’d notice that too.
+
+59:28 Mailbag: Problems with Scale
+
+Hi There,
+I’m playing through Outer Worlds and have noticed that it makes me feel a little claustrophobic. At first I thought it was the level design. But then I thought maybe the player height was different or the models were too big but I can’t put my finger on it. Do you have any idea why this game might feel “smaller” (even the outdoor locations feel small)?
+Thanks,
+Rob Lundeen
+The classic problem when designing 3D models for first-person experiences:
+
+“Okay, I’ve measured a real-world couch…</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
     <item>
       <title>Diecast #316: Stumble Mouth</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=50732</link>
@@ -80,8 +241,7 @@ Maybe JRPGs? Showing that sending a bunch of emotional teens to save the world i
       </itunes:image>
       <itunes:duration>1:06:12</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		I don’t know why I had so much trouble speaking English this week. It’s the only language I know, and it seems like I need at least one to do this jorb.
+      <itunes:summary>I don’t know why I had so much trouble speaking English this week. It’s the only language I know, and it seems like I need at least one to do this jorb.
 
 
 Hosts: Paul, Shamus. Episode edited by Issac.
@@ -147,8 +307,7 @@ Jolt
 ??:?? Wait? What are we talking about? How did we get off-topic again? Who’s in charge of this circus anyway??
 
 
-    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-	</itunes:summary>
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
