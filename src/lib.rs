@@ -56,7 +56,7 @@ fn get_urls(podcast: &str) -> Result<HashMap<String, Option<Item>>> {
             result.insert(url, item);
         }
         // Add the new urls to the results and write it out.
-        let mut keys: Vec<String> = result.keys().map(|x| x.clone()).collect();
+        let mut keys: Vec<String> = result.keys().cloned().collect();
         keys.sort();
         keys.reverse();
 
@@ -115,7 +115,7 @@ pub fn handle(podcast: &str) {
     };
 
     println!("{}: {}/{}", podcast, rss_data.items().len(), urls.len());
-    let mut keys: Vec<String> = urls.keys().map(|x| x.clone()).collect();
+    let mut keys: Vec<String> = urls.keys().cloned().collect();
     keys.sort();
     keys.reverse();
     let mut items: Vec<_> = keys

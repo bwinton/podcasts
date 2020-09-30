@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -86,8 +86,7 @@ Rob Lundeen</p></blockquote>
       </itunes:image>
       <itunes:duration>1:18:30</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		Sorry my mic seems to be a little blown out this week. It sounded fine in my headphones, but… I don’t know. I try very hard not to fiddle with settings, positions, or volume levels during the week to avoid exactly this problem.
+      <itunes:summary>Sorry my mic seems to be a little blown out this week. It sounded fine in my headphones, but… I don’t know. I try very hard not to fiddle with settings, positions, or volume levels during the week to avoid exactly this problem.
 
 
 Hosts: Paul, Shamus. Episode edited by Issac.
