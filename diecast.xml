@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -58,8 +58,7 @@ So is that the end game?</p></blockquote>
       </itunes:image>
       <itunes:duration>1:01:27</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		Even if you don’t listen to the podcast, I’m still curious what you thought of Raised by Wolves on HBO. About a month ago, I nearly spent a Tuesday column talking about how interesting and exciting it was. I’m glad I waited. That would not have aged well for me.
+      <itunes:summary>Even if you don’t listen to the podcast, I’m still curious what you thought of Raised by Wolves on HBO. About a month ago, I nearly spent a Tuesday column talking about how interesting and exciting it was. I’m glad I waited. That would not have aged well for me.
 
 
 Hosts: Paul, Shamus. Episode edited by Issac.
@@ -101,8 +100,7 @@ For the consumer it removes the sticker shock and the upgrade cycle and it takes
 For Microsoft it will be more profitable because the servers to run all these games are going to be cheaper than all those Xbox’s would’ve been. (The utilization is higher, you don’t need the pretty boxes and you can use industrial power and cooling solutions.)
 So is that the end game?
 
-    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-	</itunes:summary>
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
