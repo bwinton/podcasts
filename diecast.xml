@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -18,6 +18,100 @@
     <itunes:subtitle>Like Twenty-Sided, but with less video.</itunes:subtitle>
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
+    <item>
+      <title>Diecast #320: VR, Amnesia Rebirth, Mailbag</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=51037</link>
+      <description>
+        <![CDATA[
+		<p>Like I said at the end of the show: Pretty soon I’m going to have <a href="http://www.seventh-house.org/about/">Ross</a> on the show and we’re going to talk about Watch Dogs: Legion. The game launches on the 29th of this month, and Ross worked on it. I don’t know if I’m going to have him on the show next week, or the week after. I’m eager to talk about the game, but I also want to make sure I have enough time with the game that I can ask him meaningful questions.</p>
+<p>We’ll see how it goes.</p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast320.mp3">Diecast320</a><p></p>
+<p></p><p></p>
+<p><span id="more-51037"></span></p>
+<p><strong>00:00&nbsp;The State of VR</strong></p>
+<p>I’ve studied this stuff quite a bit since this recording, and I have some corrections:</p>
+<ul>
+<li>Issac got the Quest 2, not the original Quest.</li>
+<li>The problems with stuttering aren’t a problem with the Oculus Link. It turns out Issac’s computer just isn’t up to the job anymore. Also, if anyone has a suggestion for a sub-$300 CPU+Mobo combo that can offer a reasonable gaming experience, he’d love to hear it.&nbsp; He’s not looking to go full-on PC Master Race, he just wants something that can handle modern games and lightweight VR. (We’re assuming his GPU is good enough for now.)</li>
+<li>On the show I said that there weren’t any mid-market VR headsets. Like, it’s just <a href="https://www.oculus.com/quest-2/?locale=en_US">the Quest</a> for $299 and then the <a href="https://store.steampowered.com/valveindex/">Valve Index</a> for $1,000. But since then I’ve done some more searching and discovered that there ARE mid-market headsets. The only problem is that they’re all from Oculus, and I find their Facebook crap to be pointless and unwelcome in the same way that (say) Uplay is.</li>
+<li>I hooked the Quest up to my PC and everything ran fine. There wasn’t any weird DRM locking the headset to one account or any other shenanigans.</li>
+<li>On the show I said it feels like another 10° or 15° of field of view would be a massive improvement. I stand by that. It feels like we’re so close to a much better experience, but getting that bump in FOV seems to result in a massive increase in the price of the headset.</li>
+</ul>
+<p>I’m sure I got a few other details wrong. I keep reading about this stuff, and after three days I STILL feel like I’m in the dark.</p>
+<p>Another drawback of a standalone VR headset: I wanted to have a screenshot for this post, but I have no idea how to capture screenshots / footage from an all-in-one device like this. I can capture stuff played over the link cable through Steam, but I have no idea how you’d capture native Oculus stuff.</p>
+<p><strong>28:51&nbsp;Programming</strong></p>
+<p>More of Paul’s <a href="https://www.arduino.cc/">Arduino</a> adventures.</p>
+<p><strong>34:15&nbsp;A story About My Uncle</strong></p>
+<p>We’re not talking about <a href="https://store.steampowered.com/app/278360/A_Story_About_My_Uncle/">the game</a>, we’re talking about my Uncle.</p>
+<p><strong>40:09&nbsp;Amnesia: Rebirth</strong></p>
+<p>Like I said on the show, I’m not feeling this one. I’ve got long-term goals like “survive and get rescued somehow”, but I’m lacking short-term goals like, “Go to the spooky old house to use the phone to call for help” or whatever. I’m only few few hours in, and it hasn’t grabbed me yet. Right now the experience feels more like <em>SOMA</em> and not like <em>Amnesia: The Dark Descent</em>. It’s interesting, but not captivating.</p>
+<p><strong>50:48&nbsp;Mailbag: Players Scaring Themselves</strong></p>
+
+<p>Aside: The <a href="https://www.youtube.com/watch?v=sMl2la8-3-o">linked video</a> is really good. Worth a watch.</p>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast320.mp3" length="59637677" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=51037</guid>
+      <pubDate>Mon, 26 Oct 2020 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast2020.jpg">
+      </itunes:image>
+      <itunes:duration>1:02:34</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		Like I said at the end of the show: Pretty soon I’m going to have Ross on the show and we’re going to talk about Watch Dogs: Legion. The game launches on the 29th of this month, and Ross worked on it. I don’t know if I’m going to have him on the show next week, or the week after. I’m eager to talk about the game, but I also want to make sure I have enough time with the game that I can ask him meaningful questions.
+
+We’ll see how it goes.
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+Diecast320
+
+
+
+
+
+
+00:00 The State of VR
+
+I’ve studied this stuff quite a bit since this recording, and I have some corrections:
+
+
+Issac got the Quest 2, not the original Quest.
+The problems with stuttering aren’t a problem with the Oculus Link. It turns out Issac’s computer just isn’t up to the job anymore. Also, if anyone has a suggestion for a sub-$300 CPU+Mobo combo that can offer a reasonable gaming experience, he’d love to hear it.  He’s not looking to go full-on PC Master Race, he just wants something that can handle modern games and lightweight VR. (We’re assuming his GPU is good enough for now.)
+On the show I said that there weren’t any mid-market VR headsets. Like, it’s just the Quest for $299 and then the Valve Index for $1,000. But since then I’ve done some more searching and discovered that there ARE mid-market headsets. The only problem is that they’re all from Oculus, and I find their Facebook crap to be pointless and unwelcome in the same way that (say) Uplay is.
+I hooked the Quest up to my PC and everything ran fine. There wasn’t any weird DRM locking the headset to one account or any other shenanigans.
+On the show I said it feels like another 10° or 15° of field of view would be a massive improvement. I stand by that. It feels like we’re so close to a much better experience, but getting that bump in FOV seems to result in a massive increase in the price of the headset.
+
+I’m sure I got a few other details wrong. I keep reading about this stuff, and after three days I STILL feel like I’m in the dark.
+
+Another drawback of a standalone VR headset: I wanted to have a screenshot for this post, but I have no idea how to capture screenshots / footage from an all-in-one device like this. I can capture stuff played over the link cable through Steam, but I have no idea how you’d capture native Oculus stuff.
+
+28:51 Programming
+
+More of Paul’s Arduino adventures.
+
+34:15 A story About My Uncle
+
+We’re not talking about the game, we’re talking about my Uncle.
+
+40:09 Amnesia: Rebirth
+
+Like I said on the show, I’m not feeling this one. I’ve got long-term goals like “survive and get rescued somehow”, but I’m lacking short-term goals like, “Go to the spooky old house to use the phone to call for help” or whatever. I’m only few few hours in, and it hasn’t grabbed me yet. Right now the experience feels more like SOMA and not like Amnesia: The Dark Descent. It’s interesting, but not captivating.
+
+50:48 Mailbag: Players Scaring Themselves
+
+
+Aside: The linked video is really good. Worth a watch.
+
+
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
+	</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
     <item>
       <title>Diecast #319: Halloween, Noita, Mailbag</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=50990</link>
@@ -77,8 +171,7 @@ Dtec (dee-tek)</p></blockquote>
       </itunes:image>
       <itunes:duration>56:41</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		So once again, my audio is severely over-boosted. It sounds perfect during recording, and then the resulting saved audio sounds like I’m talking through a megaphone. The same thing happened a few episodes ago. Afterward, I went in and balanced all the levels to stop it from happening. And then I was VERY careful to not touch any volume levels. And yet here we are again. 
+      <itunes:summary>So once again, my audio is severely over-boosted. It sounds perfect during recording, and then the resulting saved audio sounds like I’m talking through a megaphone. The same thing happened a few episodes ago. Afterward, I went in and balanced all the levels to stop it from happening. And then I was VERY careful to not touch any volume levels. And yet here we are again. 
 
 I’ve been doing this show since 2013, and this has never been a problem before. Now for no reason my recording volume is being randomized every week. I can only speculate what sort of nonsense is going on under the hood. The one clue here is that this began happening right after the latest Windows update. I wonder if they added some horrific new “smart” volume system that tries to do your thinking for you. 
 
