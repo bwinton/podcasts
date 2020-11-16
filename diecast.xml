@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -18,6 +18,112 @@
     <itunes:subtitle>Like Twenty-Sided, but with less video.</itunes:subtitle>
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
+    <item>
+      <title>Diecast #322: Watch Dogs Legion!</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=51166</link>
+      <description>
+        <![CDATA[
+		<p>This week I talked to <a href="http://www.seventh-house.org/about/">Ross Zevenhuizen</a>, a friend, collaborator on <a href="https://www.shamusyoung.com/twentysidedtale/?p=29669">Good Robot</a>, and one of the developers of <em>Watch Dogs Legion</em>. We didn’t make it clear at the top of the show, but Ross is under some annoying NDA restrictions that prevents him from speaking freely about the development process. We were able to talk openly about <a href="https://www.shamusyoung.com/twentysidedtale/?p=33233">our mistakes and regrets</a> in Good Robot, but this is an Ubisoft game and we’re obliged to play by Ubisoft’s rules.</p>
+<br>
+Hosts: <a href="http://www.seventh-house.org/about/">Ross</a>, <a href="https://www.shamusyoung.com/">Shamus</a>, and secretly also <a href="http://www.peripheralarbor.com/">Paul</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast322.mp3">Diecast322</a><p></p>
+<p></p><br>
+Show notes: <span id="more-51166"></span><p></p>
+<p><strong>00:00 Welcome Ross</strong></p>
+<p>I do think we need to have Ross back to talk about his other projects and Unity development in general.</p>
+<p><strong>02:31 Ross is credited as “Level designer”</strong></p>
+<p>Not sure why they don’t just create the job title “Mission Designer”.</p>
+<p><strong>08:45 The Three Pillars</strong></p>
+<p>Combat, stealth, and hacking. There’s also car driving, some multiplayer stuff, and eighty metric tons of collectibles on the map, but combat, stealth, and hacking are the meat of the game. </p>
+<p><strong>13:56 Why was the Daybreak storyline the only one to end with a choice?</strong></p>
+<p>The best (and most vividly Cyberpunk) story in the game was the shortest, and the only one to end with a choice. It kinda felt like a classic BioWare-style RPG for a few minutes.</p>
+<p><strong>28:59 Working on indie scale vs AAA.</strong></p>
+<p><strong>33:05 Are these characters randomly generated, or pulled from a prefab list?</strong></p>
+<p>They’re random. Ross talks a bit about how they’re generated.</p>
+<p><strong>36:07 Amazing recruits</strong></p>
+<p></p><p></p>
+<p></p><p></p>
+<p><strong>40:01 Recruits wear their default clothes around the base. Was that a technical limitation, or a design choice?</strong></p>
+<p>It really is disappointing and confusing.</p>
+<p><strong>41:56 The problems of repeating missions.</strong></p>
+<p>Not so much a problem for me, but some people report doing the same mission several times. Have I been lucky or were they unlucky?</p>
+<p><strong>46:41 The problems / challenges with trying to make London “Cyberpunk”.</strong></p>
+<p>C’mon, Ubi! The premise is Cyberpunk. Embrace it. This “real world” looking stuff is for those squares a Rockstar. Make up a <a href="https://www.shamusyoung.com/twentysidedtale/?p=47778">fake city</a> and go crazy!</p>
+<p><strong>54:40 The tone</strong></p>
+<p>I’ve always wondered about this. Ross gives some hints about how AAA games can sometimes feel a little disjointed. It turns out this studio has WAY less top-down structure than I ever would have guessed.</p>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast322.mp3" length="70811841" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=51166</guid>
+      <pubDate>Mon, 16 Nov 2020 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast2020.jpg">
+      </itunes:image>
+      <itunes:duration>1:13:20</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		This week I talked to Ross Zevenhuizen, a friend, collaborator on Good Robot, and one of the developers of Watch Dogs Legion. We didn’t make it clear at the top of the show, but Ross is under some annoying NDA restrictions that prevents him from speaking freely about the development process. We were able to talk openly about our mistakes and regrets in Good Robot, but this is an Ubisoft game and we’re obliged to play by Ubisoft’s rules.
+
+
+Hosts: Ross, Shamus, and secretly also Paul. Episode edited by Issac.
+Diecast322
+
+
+
+Show notes: 
+
+00:00 Welcome Ross
+
+I do think we need to have Ross back to talk about his other projects and Unity development in general.
+
+02:31 Ross is credited as “Level designer”
+
+Not sure why they don’t just create the job title “Mission Designer”.
+
+08:45 The Three Pillars
+
+Combat, stealth, and hacking. There’s also car driving, some multiplayer stuff, and eighty metric tons of collectibles on the map, but combat, stealth, and hacking are the meat of the game. 
+
+13:56 Why was the Daybreak storyline the only one to end with a choice?
+
+The best (and most vividly Cyberpunk) story in the game was the shortest, and the only one to end with a choice. It kinda felt like a classic BioWare-style RPG for a few minutes.
+
+28:59 Working on indie scale vs AAA.
+
+33:05 Are these characters randomly generated, or pulled from a prefab list?
+
+They’re random. Ross talks a bit about how they’re generated.
+
+36:07 Amazing recruits
+
+
+
+
+
+
+
+40:01 Recruits wear their default clothes around the base. Was that a technical limitation, or a design choice?
+
+It really is disappointing and confusing.
+
+41:56 The problems of repeating missions.
+
+Not so much a problem for me, but some people report doing the same mission several times. Have I been lucky or were they unlucky?
+
+46:41 The problems / challenges with trying to make London “Cyberpunk”.
+
+C’mon, Ubi! The premise is Cyberpunk. Embrace it. This “real world” looking stuff is for those squares a Rockstar. Make up a fake city and go crazy!
+
+54:40 The tone
+
+I’ve always wondered about this. Ross gives some hints about how AAA games can sometimes feel a little disjointed. It turns out this studio has WAY less top-down structure than I ever would have guessed.
+
+
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
+	</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
     <item>
       <title>Diecast #321: Happy Halloween</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=51110</link>
@@ -63,8 +169,7 @@ Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.
       </itunes:image>
       <itunes:duration>1:03:58</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		Okay, this isn’t Halloween. But we recorded the show on Halloween so… whatever? Anyway, I hope your treat/ trick ratio was favorable. 
+      <itunes:summary>Okay, this isn’t Halloween. But we recorded the show on Halloween so… whatever? Anyway, I hope your treat/ trick ratio was favorable. 
 
 
 Hosts: Paul, Shamus. Episode edited by Issac.
@@ -117,8 +222,7 @@ Have you per chance made any Doom levels back in the 90s? I was casually browsin
 Link: https://www.doomworld.com/25years/top-100-memorable-maps/page04/
 M.
 
-    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-	</itunes:summary>
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
