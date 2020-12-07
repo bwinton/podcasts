@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -18,6 +18,94 @@
     <itunes:subtitle>Like Twenty-Sided, but with less video.</itunes:subtitle>
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
+    <item>
+      <title>Diecast #324: Star Citizen</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=51333</link>
+      <description>
+        <![CDATA[
+		<p>This is an unusual episode. At an hour and 26 minutes, this is the longest Diecast <a href="https://www.shamusyoung.com/twentysidedtale/?p=34871">since October 2016, when Diecast #171 ran for an hour and a half</a>. I can’t be sure, but I also suspect that this is the longest time we’ve ever spent on a single topic, with the Star Citizen discussion running for over an hour. And finally, this is the first time where Paul did most of the talking and I did most of the listening.</p>
+<p>This is the most fun I’ve had making a Diecast in years, which is why I let it run so long. I hope you enjoy it as much as I did.</p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast324.mp3">Diecast324</a><p></p>
+<p></p><p></p>
+<p><span id="more-51333"></span></p>
+<p><strong>00:00 Google Poly is shutting down.</strong></p>
+<p>No, that’s not a typo for Google Play. They also have a Poly. But not for long, since <a href="https://techcrunch.com/2020/12/02/google-shutting-down-poly-3d-content-platform/?guccounter=1">they’re shutting it down</a>.</p>
+<p><strong>07:43 Creeper World 4 is out!</strong></p>
+<p></p><p></p>
+<p><strong>09:40 Mindustry Update</strong></p>
+<p><strong>12:38 Introversion releasing their failed game prototypes</strong></p>
+<p>I really wish more companies did <a href="https://www.rockpapershotgun.com/2020/12/03/introversion-will-let-you-play-their-failed-prototypes-for-charity/">this sort of thing</a>.</p>
+<p><strong>14:22 Valve Prototypes</strong></p>
+<p>Sometime a decade-ish ago, Vavle set their devs loose to build a bunch of prototypes. Some of the ideas wound up as part of <em>Left 4 Dead</em> and <em>Portal</em>. I can’t remember what this initiative was called, but I remember it was really interesting.</p>
+<p><strong>17:57 Mailbag: BioWare Exodus</strong></p>
+<blockquote><p>Hi!</p>
+<p>So, Casey Hudson and Mark Darrah are leaving Bioware (if IGN to be trusted — https://twitter.com/IGN/status/1334605241271136258?s=20 ). Any particular opinion on this development?</p>
+<p>Best regards, DeadlyDark</p></blockquote>
+<p><strong>23:22 Star Citizen</strong></p>
+<p>Join us as Paul takes us on a fantastic voyage through the universe of Star Citizen and all of the astronomical wonders this game holds. You will see things that no other game has shown us. </p>
+<p>Although, maybe there’s a good reason other games haven’t shown us these things. I dunnno.</p>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast324.mp3" length="83788909" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=51333</guid>
+      <pubDate>Mon, 07 Dec 2020 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast2020.jpg">
+      </itunes:image>
+      <itunes:duration>1:26:19</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		This is an unusual episode. At an hour and 26 minutes, this is the longest Diecast since October 2016, when Diecast #171 ran for an hour and a half. I can’t be sure, but I also suspect that this is the longest time we’ve ever spent on a single topic, with the Star Citizen discussion running for over an hour. And finally, this is the first time where Paul did most of the talking and I did most of the listening.
+
+This is the most fun I’ve had making a Diecast in years, which is why I let it run so long. I hope you enjoy it as much as I did.
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+Diecast324
+
+
+
+
+
+
+00:00 Google Poly is shutting down.
+
+No, that’s not a typo for Google Play. They also have a Poly. But not for long, since they’re shutting it down.
+
+07:43 Creeper World 4 is out!
+
+
+
+
+09:40 Mindustry Update
+
+12:38 Introversion releasing their failed game prototypes
+
+I really wish more companies did this sort of thing.
+
+14:22 Valve Prototypes
+
+Sometime a decade-ish ago, Vavle set their devs loose to build a bunch of prototypes. Some of the ideas wound up as part of Left 4 Dead and Portal. I can’t remember what this initiative was called, but I remember it was really interesting.
+
+17:57 Mailbag: BioWare Exodus
+
+Hi!
+So, Casey Hudson and Mark Darrah are leaving Bioware (if IGN to be trusted — https://twitter.com/IGN/status/1334605241271136258?s=20 ). Any particular opinion on this development?
+Best regards, DeadlyDark
+23:22 Star Citizen
+
+Join us as Paul takes us on a fantastic voyage through the universe of Star Citizen and all of the astronomical wonders this game holds. You will see things that no other game has shown us. 
+
+Although, maybe there’s a good reason other games haven’t shown us these things. I dunnno.
+
+
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
+	</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
     <item>
       <title>Diecast #323: Thanksgiving Carrion</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=51288</link>
@@ -61,8 +149,7 @@ Amstrad</p></blockquote>
       </itunes:image>
       <itunes:duration>1:03:14</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		Happy Gluttony and Awkward Relatives Day! Hope you had a good one. We cheated and got take-out for Thanksgiving. A decade ago, that would have been an unthinkable breach of TRADITION. But now my wife and I are middle-age and we’re more or less in charge of what traditions get observed, passed on, ignored, or altered. And I think we’ve decided that a whole bunch of take-out is a better way to observe the day than hours of cooking food that isn’t anyone’s favorite, followed by hours of cleaning.
+      <itunes:summary>Happy Gluttony and Awkward Relatives Day! Hope you had a good one. We cheated and got take-out for Thanksgiving. A decade ago, that would have been an unthinkable breach of TRADITION. But now my wife and I are middle-age and we’re more or less in charge of what traditions get observed, passed on, ignored, or altered. And I think we’ve decided that a whole bunch of take-out is a better way to observe the day than hours of cooking food that isn’t anyone’s favorite, followed by hours of cleaning.
 
 
 Hosts: Paul, Shamus. Episode edited by Issac.
@@ -111,8 +198,7 @@ https://youtu.be/N_NahbrqFwI?t=1485
 Your fan,
 Amstrad
 
-    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-	</itunes:summary>
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
