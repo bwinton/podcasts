@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -18,6 +18,223 @@
     <itunes:subtitle>Like Twenty-Sided, but with less video.</itunes:subtitle>
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
+    <item>
+      <title>Diecast #326: CYBERBUG 2077</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=51420</link>
+      <description>
+        <![CDATA[
+		<p>Strangely enough, I’m one of the lucky ones. Cyberpunk 2077 is running pretty well for me. I’ve run into lots of visual problems, but very few issues that impact gameplay. I’m usually the cursed player, fighting my way through a sea of bugs and crashes while the masses chant, “But it works fine on MY machine!” at me. It’s nice to be on the other side of that for once. Although it would be even better if the game was working for everyone.</p>
+<p></p>
+<p>Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.</p>
+<p><a href="https://www.shamusyoung.com/diecast/diecast326.mp3">Diecast326</a></p>
+<p></p><p></p>
+<p>Show notes: <span id="more-51420"></span></p>
+<p><strong>00:00 CDPR is dead</strong></p>
+<p>Or to put it more accurately: “The narrative that CDPR is a pro-gamer company run by people with a passion for the hobby” is dead. <a href="https://www.shamusyoung.com/twentysidedtale/?p=51370">Last week</a> I cautioned that their reputation was a valuable but fragile asset that gave them an edge over other publishers and storefronts. This week they pretty much pissed it all away by filling in our collective “Sleazy corporate executive” bingo card.</p>
+<ul>
+<li><a href="https://screenrant.com/cyberpunk-2077-reviews-gameplay-video-embargo-official-cdpr/">Cyberpunk 2077 Reviewers Weren’t Allowed To Use Their Own Gameplay Footage</a></li>
+<li>Management <a href="https://www.rockpapershotgun.com/2020/12/18/even-cyberpunk-2077s-developers-are-confronting-management-about-its-launch/">deliberately pushed unrealistic deadlines and even misrepresented the state of the game to the public</a>. (For seemingly no reason?!?!)</li>
+<li>CDPR <a href="https://www.youtube.com/watch?v=TOnUAuE2y1E">promises to take care of consumers who seek a refund, then just dump them in Sony’s lap</a>.</li>
+<li>CDPR <a href="https://www.theverge.com/2020/12/16/22178453/gog-devotion-cancels-release-cd-projekt-red">buckles to China</a>…</li>
+<li>…then lies about it in the most pathetic way.</li>
+</ul>
+<p>You can’t explain away these decisions with “Whoops”. This cavalcade of dishonesty, foolishness, deceit, and casual contempt<span class="snote" title="1">There are very few ways to infuriate an audience than telling them a lazy and implausible lie.</span> can’t be blamed on a single momentary lapse in judgement. Cyberpunk just blasted sales records and made its money back on Day 1, so you can’t excuse this mess with “We were low on cash and panicked.” You can’t blame this on a failure to communicate or a single wayward employee. Blame for these actions goes to the top, and is the result of decisions that people made when they had the time and money to choose to do something different.</p>
+<p>More importantly, this isn’t a single mistake. This is a pattern of behavior stretching over an entire year. You can’t smooth that over by saying sorry and having a sale. You can’t fix that with bug patches and free DLC.</p>
+<p>And all of this for nothing. It’s not like any of these lies and shortcuts did them any good. Claiming that the game was “complete and playable” in January didn’t make that true, it just set unrealistic expectations for the public. NOBODY believed that “gamers” demanded that Devotion be censored. The review restrictions didn’t stop people from finding out about how buggy the game was. And now the company is dealing with mass refunds and the game has been pulled from the Playstation Store while the game itself has become a Fallout 76-style shitshow of memes and derision.</p>
+<p>What a stupid waste.</p>
+<p><strong>23:05 Mindustry Bug</strong></p>
+<p>Bug, or lack of feature?</p>
+<p><strong>31:05 <a href="https://www.amazon.com/Something-Unicorn-Curtain-Essential-Decoration/dp/B07Q4KSN3T/">Something Unicorn – LED String Curtain Lights with Dimmer Switch for Teen Room, Girls Room, College Dorm, Nursery, Kids Room Décor. Perfect for Unicorn, Fairy &amp; Rainbow Decoration. (Standard Version)</a></strong></p>
+<p>I’ve been thinking of re-branding the site. I don’t think “Twenty Sided” is giving me the SEO I need, so I’m going to rename the blog “<em>Twenty Sided Nerd Culture Videogames Tabletop Games Nerd Culture Blog with Videogame Background for Young Men, Gamer Girls, Kids, Grognards, perfect for Minotaur and Sasquatch Articles (WordPress Blog.)</em>“.</p>
+<p>Anyway, the lights are fun. </p>
+<p><strong>39:02 The Game Awards</strong></p>
+<p>While I like the IDEA of having a game awards show, maybe <a href="https://www.youtube.com/watch?v=zWz6v-UAs8Q">a three-and-a-half hour black-tie ceremony with musical numbers</a> isn’t the way to go. I know that’s how Hollywood does it for the movies, but like I keep trying to tell these people: <strong>Games are not movies</strong>.</p>
+<p><strong>45:01 Mailbag: Tools that Limit Creativity</strong></p>
+<blockquote><p>Dear and precious Diecast,</p>
+<p>In the middle of 2020, me and my friends started playing D&amp;D campaign, which I was running. Due to the Coronavirus, we used a virtual tabletop called Roll20. This program allowed me to use a huge library of sound effects, music, pictures, visual effects and beautiful maps made by its lovely community to enhance the atmosphere of each session. Since that worked very well, I was adding more and more of these things into the game.</p>
+<p>However, at some point it backfired. Usually I could just described all the stuff that were happening, which allow me to react quickly to players’ choices. But once the narrative switched to being more visual, there was no turning back. Showing half of things and randomly describing others felt very weird and disconnected. So the whole story was increasingly constrained by the limitations of what audiovisuals effects I could use – basically, I overdid the usage of the props and it made the game much more linear. This made me think if videogame designers are facing the same issue, but on a larger scale – by wanting to enhance the experience for the players, they may be limiting themselves with the new, cutting-edge technology (especially since this kind of technology is prone to bugs and issues; also, I excluded more marketing-oriented issues).</p>
+<p>Do you think that more story designers should be playing some kind of tabletop sessions (not D&amp;D, just anything that’s related to the type of game they’re working on) to experience potential issues – not necessary the ones that I described – that making long, interactive narratives can bring?</p>
+<p>Cheers,</p>
+<p>Darek</p></blockquote>
+<p><strong>58:41 Mailbag: Fighting for a Feature</strong></p>
+<blockquote><p>Hello Shamus + Guests of the Future (Probably Paul),</p>
+<p>I recently got to read a three-part blog series from the lead designer of Battletech. Having bought, played, and loved this game I found it fascinating to see a lead designer’s take on their own work. In it she echoes a lot of themes I’ve seen in your work as well, namely the importance of writers and writing to deliver an appealing game. She also talks about the compromises made and some of the mechanical things you’d find interesting as a game-maker yourself. She also mentions the hill she fought over and damn near got fired for in the design process.</p>
+<p>To bring this around to a question: What’s the biggest hill in a game/software design that you fought over? Is there one you wish you fought harder for?</p>
+<p>Links to the blogs:<br>
+<a href="https://persenche.medium.com/the-design-philosophy-of-battletech-b17163718905">Part 1</a><br>
+<a href="https://persenche.medium.com/the-design-philosophy-of-battletech-2-1132a0eb388">Part 2</a> – (includes “the hill”)<br>
+<a href="https://persenche.medium.com/the-design-philosophy-of-battletech-part-3-cd00de340c59">Part 3</a></p>
+<p>Thanks,<br>
+GoStu</p></blockquote>
+<p><strong>1:02:33 Wrapping Up</strong></p>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast326.mp3" length="73584913" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=51420</guid>
+      <pubDate>Mon, 21 Dec 2020 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast2020.jpg">
+      </itunes:image>
+      <itunes:duration>1:17:08</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		Strangely enough, I’m one of the lucky ones. Cyberpunk 2077 is running pretty well for me. I’ve run into lots of visual problems, but very few issues that impact gameplay. I’m usually the cursed player, fighting my way through a sea of bugs and crashes while the masses chant, “But it works fine on MY machine!” at me. It’s nice to be on the other side of that for once. Although it would be even better if the game was working for everyone.
+
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+
+Diecast326
+
+
+
+
+Show notes: 
+
+00:00 CDPR is dead
+
+Or to put it more accurately: “The narrative that CDPR is a pro-gamer company run by people with a passion for the hobby” is dead. Last week I cautioned that their reputation was a valuable but fragile asset that gave them an edge over other publishers and storefronts. This week they pretty much pissed it all away by filling in our collective “Sleazy corporate executive” bingo card.
+
+
+Cyberpunk 2077 Reviewers Weren’t Allowed To Use Their Own Gameplay Footage
+Management deliberately pushed unrealistic deadlines and even misrepresented the state of the game to the public. (For seemingly no reason?!?!)
+CDPR promises to take care of consumers who seek a refund, then just dump them in Sony’s lap.
+CDPR buckles to China…
+…then lies about it in the most pathetic way.
+
+You can’t explain away these decisions with “Whoops”. This cavalcade of dishonesty, foolishness, deceit, and casual contemptThere are very few ways to infuriate an audience than telling them a lazy and implausible lie. can’t be blamed on a single momentary lapse in judgement. Cyberpunk just blasted sales records and made its money back on Day 1, so you can’t excuse this mess with “We were low on cash and panicked.” You can’t blame this on a failure to communicate or a single wayward employee. Blame for these actions goes to the top, and is the result of decisions that people made when they had the time and money to choose to do something different.
+
+More importantly, this isn’t a single mistake. This is a pattern of behavior stretching over an entire year. You can’t smooth that over by saying sorry and having a sale. You can’t fix that with bug patches and free DLC.
+
+And all of this for nothing. It’s not like any of these lies and shortcuts did them any good. Claiming that the game was “complete and playable” in January didn’t make that true, it just set unrealistic expectations for the public. NOBODY believed that “gamers” demanded that Devotion be censored. The review restrictions didn’t stop people from finding out about how buggy the game was. And now the company is dealing with mass refunds and the game has been pulled from the Playstation Store while the game itself has become a Fallout 76-style shitshow of memes and derision.
+
+What a stupid waste.
+
+23:05 Mindustry Bug
+
+Bug, or lack of feature?
+
+31:05 Something Unicorn – LED String Curtain Lights with Dimmer Switch for Teen Room, Girls Room, College Dorm, Nursery, Kids Room Décor. Perfect for Unicorn, Fairy &amp; Rainbow Decoration. (Standard Version)
+
+I’ve been thinking of re-branding the site. I don’t think “Twenty Sided” is giving me the SEO I need, so I’m going to rename the blog “Twenty Sided Nerd Culture Videogames Tabletop Games Nerd Culture Blog with Videogame Background for Young Men, Gamer Girls, Kids, Grognards, perfect for Minotaur and Sasquatch Articles (WordPress Blog.)“.
+
+Anyway, the lights are fun. 
+
+39:02 The Game Awards
+
+While I like the IDEA of having a game awards show, maybe a three-and-a-half hour black-tie ceremony with musical numbers isn’t the way to go. I know that’s how Hollywood does it for the movies, but like I keep trying to tell these people: Games are not movies.
+
+45:01 Mailbag: Tools that Limit Creativity
+
+Dear and precious Diecast,
+In the middle of 2020, me and my friends started playing D&amp;D campaign, which I was running. Due to the Coronavirus, we used a virtual tabletop called Roll20. This program allowed me to use a huge library of sound …</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
+    <item>
+      <title>Diecast #325: Cyberpunk, Mindustry</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=51370</link>
+      <description>
+        <![CDATA[
+		<p>We’ve waited a long time for Cyberpunk 2077 to come out. On one hand, there’s a LOT to talk about for us fans. On the other hand, non-fans are already sick to death of hearing about it. </p>
+<p>I did what I could. My Cyberpunk first impressions are less than half the show. That’s as much restraint as I could muster. I could have filled the whole hour with thoughts on the game.</p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast325.mp3">Diecast325</a><p></p>
+<p></p><p></p>
+<p>Show notes:<span id="more-51370"></span></p>
+<p><strong>00:00 Cyberpunk 2077</strong></p>
+<p>Last week I was so wrapped up in other things that <strong>I forgot to post the next entry</strong> in the <a href="https://www.shamusyoung.com/twentysidedtale/?p=51312">Fallen Order</a> retrospective. It was already written! All I needed to do was add some screenshots and do one last round of proofing! Instead I sat there watching YouTube. I was having one of those annoying off-by-one weeks where you spend all Tuesday thinking it’s Monday, and all of Wednesday thinking it’s Tuesday. </p>
+<p>How embarrassing. Sorry about that.</p>
+<p>Anyway. The game is out now. Like I said on the show: This game reached too high. It wants to be a huge open world AND a huge simulation AND have an enormous long-running story AND feature many complex branching choices with player agency AND feature a huge cast of vibrant characters AND offer the highest graphical fidelity AND use the latest rendering technologies AND be a systems-driven RPG AND straddle two different console generations. </p>
+<p>None of these things are bad on their own. But this game would have been better off with a lot more focus and restraint during development. </p>
+<p><strong>17:48 Cyberpunk 2077-Review restrictions.</strong></p>
+<p><a href="https://screenrant.com/cyberpunk-2077-reviews-gameplay-video-embargo-official-cdpr/">CD Projekt RED wouldn’t allow reviewers to use their own footage in reviews that came out before launch</a>. Instead you had to use their footage. Essentially, you could only show off their promotional trailers. That’s outrageous, and it’s every bit as anti-consumer as the shit EA and Activision do. </p>
+<p>This is incredibly dangerous. People cut this company a <strong>lot</strong> of slack based on the perception that this operation is run by “fellow gamers” who just want to make the best games they can. It won’t take much to destroy that perception, and once it’s gone they will <strong>never</strong> get it back. They’ll be just another corporate monolith. </p>
+<p>Having the audience feel like you’re one of them is precious. You can’t buy that with television commercials. You can’t sustain it with branding deals and sponsorships. You can’t attain it by pandering to the crowd at E3. The only way to have your audience embrace you as a member of the tribe is by setting yourself apart from the corporations you’re competing with. You need to understand / anticipate the audience needs and expectations, and meet those expectations. </p>
+<p>That’s nice if you can pull it off, but if customers catch you lying and engaging in deceptive practices then they’ll see all of your previous virtue as a mask. And I can’t imagine anything more nakedly deceptive than forbidding reviewers from showing off footage from an infamously buggy game. </p>
+<p><strong>27:24&nbsp;Mindustry is still awesome</strong></p>
+<p><strong>29:23&nbsp;<a href="https://en.wikipedia.org/wiki/Molly%27s_Game">Molly’s Game</a></strong></p>
+<p>I realized that one of the reasons I liked this movie so much is because <a href="https://en.wikipedia.org/wiki/Molly_Bloom_(author)">Molly Bloom</a> reminds me a lot of <a href="https://www.shamusyoung.com/twentysidedtale/?p=45495">Max</a>, the protagonist in my novel <a href="https://www.amazon.com/Other-Kind-Life-Shamus-Young/dp/1790478510">Other Kind of Life</a>. (For the purposes of this discussion, I’m thinking of Molly Bloom as a fictional character. She’s based on a real person, but I’m sure screenwriter <a href="https://en.wikipedia.org/wiki/Aaron_Sorkin">Aaron Sorkin</a> took creative liberties with the story.)</p>
+<p>Both protagonists are circumspect and cautious people, existing in a world where most people are reckless and selfish. In both cases, you’ve got this subculture that tends to attract people who are dishonest, likely to suffer from substance abuse, greedy, short-sighted, and prone to violence. In that world, having foresight, honesty, patience, and planning skills is like having a superpower. In both stories you’ve got a character that immerses themselves in a subculture without really becoming like the people of that subculture.</p>
+<p>Anyway. It’s been over a week since I watched this movie and I’m still thinking about it. Amazing story.</p>
+<p><strong>38:29&nbsp;Mailbag: Double Mail: Inverted Controls</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>Shamus, I read an article in The Guardian that reminded me of you. It turns out that you’re not a lone weirdo for inverting your mouse. There’s a “large minority” who do so, and scientists are starting to study the differences between inverters and non-inverters.</p>
+<p>To test my completely unfounded hypothesis: On a mouse or joystick, do you parse “down” as “back”, like tilting your head back to look up?</p>
+<p>I hope that this research will raise awareness and finally get the<br>
+Satisfactory devs to make Y-axis inversion work in vehicles!</p>
+<p>Link:<br>
+https://www.theguardian.com/games/2020/dec/02/scientists-studying-why-gamers-invert-their-controls</p>
+<p>Best regards,<br>
+RFS-81</p>
+<p>P.S.: They did not say anything about using the numpad instead of WASD.</p></blockquote>
+<blockquote><p>Dear Casters of the Die,</p>
+<p>An IFLS article just came up in my social media feed about scientists studying why some people prefer inverted controls and some people are wrong. Given Shamus’s vocal opinions on the matter, I was wondering if you’ve seen this yet, and what you think of their hypothesis.</p>
+<p>Link to article: https://www.iflscience.com/technology/scientists-are-finally-studying-why-some-of-you-nerds-dont-invert-your-controllers/</p>
+<p>‘Houiostesmoras<br>
+(If you can’t pronounce it, just call me Randy)</p></blockquote>
+<p><strong>54:38 Cyberpunk Reception</strong></p>
+<blockquote><p>Hi,</p>
+<p>As you probably heard, the release of Cyberpunk 2077 was less than ideal – the game was (and still is) very buggy and nearly unplayable on older consoles. Given how much hype surrounded that title, do you think that it may lead to some kind of change in the industry, one that’ll force publishers to release more polished games? Especially since titles like Fallout 76 or Anthem were struck with similiar problems? There’s probably a lot of reasons why it won’t happen and I’m curious about your opinion.</p>
+<p>Cheers,</p>
+<p>Darek</p></blockquote>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast325.mp3" length="61792341" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=51370</guid>
+      <pubDate>Mon, 14 Dec 2020 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast2020.jpg">
+      </itunes:image>
+      <itunes:duration>1:04:41</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		We’ve waited a long time for Cyberpunk 2077 to come out. On one hand, there’s a LOT to talk about for us fans. On the other hand, non-fans are already sick to death of hearing about it. 
+
+I did what I could. My Cyberpunk first impressions are less than half the show. That’s as much restraint as I could muster. I could have filled the whole hour with thoughts on the game.
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+Diecast325
+
+
+
+
+Show notes:
+
+00:00 Cyberpunk 2077
+
+Last week I was so wrapped up in other things that I forgot to post the next entry in the Fallen Order retrospective. It was already written! All I needed to do was add some screenshots and do one last round of proofing! Instead I sat there watching YouTube. I was having one of those annoying off-by-one weeks where you spend all Tuesday thinking it’s Monday, and all of Wednesday thinking it’s Tuesday. 
+
+How embarrassing. Sorry about that.
+
+Anyway. The game is out now. Like I said on the show: This game reached too high. It wants to be a huge open world AND a huge simulation AND have an enormous long-running story AND feature many complex branching choices with player agency AND feature a huge cast of vibrant characters AND offer the highest graphical fidelity AND use the latest rendering technologies AND be a systems-driven RPG AND straddle two different console generations. 
+
+None of these things are bad on their own. But this game would have been better off with a lot more focus and restraint during development. 
+
+17:48 Cyberpunk 2077-Review restrictions.
+
+CD Projekt RED wouldn’t allow reviewers to use their own footage in reviews that came out before launch. Instead you had to use their footage. Essentially, you could only show off their promotional trailers. That’s outrageous, and it’s every bit as anti-consumer as the shit EA and Activision do. 
+
+This is incredibly dangerous. People cut this company a lot of slack based on the perception that this operation is run by “fellow gamers” who just want to make the best games they can. It won’t take much to destroy that perception, and once it’s gone they will never get it back. They’ll be just another corporate monolith. 
+
+Having the audience feel like you’re one of them is precious. You can’t buy that with television commercials. You can’t sustain it with branding deals and sponsorships. You can’t attain it by pandering to the crowd at E3. The only way to have your audience embrace you as a member of the tribe is by setting yourself apart from the corporations you’re competing with. You need to understand / anticipate the audience needs and expectations, and meet those expectations. 
+
+That’s nice if you can pull it off, but if customers catch you lying and engaging in deceptive practices then they’ll see all of your previous virtue as a mask. And I can’t imagine anything more nakedly deceptive than forbidding reviewers from showing off footage from an infamously buggy game. 
+
+27:24 Mindustry is still awesome
+
+29:23 Molly’s Game
+
+I realized that one of the reasons I liked this movie so much is because Molly Bloom reminds me a lot of Max, the protagonist in my novel Other Kind of Life. (For the purposes of this discussion, I’m thinking of Molly Bloom as a fictional character. She’s based on a real person, but I’m sure screenwriter Aaron Sorkin took creative liberties with the story.)
+
+Both protagonists are circumspect and cautious people, existing in a world where most people are reckless and selfish. In both cases, you’ve got this subculture that tends to attract people who are dishonest, likely to suffer from substance abuse, greedy, short-sighted, and prone to violence. In that world, having foresight, honesty, patience, and planning skills is like having a superpower. In both stories you’ve got a character that immerses themselves in a subculture without really becoming like the people of that subculture.
+
+Anyway. It’s been over a week since I watched this movie and I’m still thinking about it. Amaz…</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
     <item>
       <title>Diecast #324: Star Citizen</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=51333</link>
@@ -57,8 +274,7 @@ Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.
       </itunes:image>
       <itunes:duration>1:26:19</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		This is an unusual episode. At an hour and 26 minutes, this is the longest Diecast since October 2016, when Diecast #171 ran for an hour and a half. I can’t be sure, but I also suspect that this is the longest time we’ve ever spent on a single topic, with the Star Citizen discussion running for over an hour. And finally, this is the first time where Paul did most of the talking and I did most of the listening.
+      <itunes:summary>This is an unusual episode. At an hour and 26 minutes, this is the longest Diecast since October 2016, when Diecast #171 ran for an hour and a half. I can’t be sure, but I also suspect that this is the longest time we’ve ever spent on a single topic, with the Star Citizen discussion running for over an hour. And finally, this is the first time where Paul did most of the talking and I did most of the listening.
 
 This is the most fun I’ve had making a Diecast in years, which is why I let it run so long. I hope you enjoy it as much as I did.
 
@@ -102,8 +318,7 @@ Join us as Paul takes us on a fantastic voyage through the universe of Star Citi
 Although, maybe there’s a good reason other games haven’t shown us these things. I dunnno.
 
 
-    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-	</itunes:summary>
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
