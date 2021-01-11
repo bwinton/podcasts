@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -18,6 +18,125 @@
     <itunes:subtitle>Like Twenty-Sided, but with less video.</itunes:subtitle>
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
+    <item>
+      <title>Diecast #329: Survivor Mailbag</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=51559</link>
+      <description>
+        <![CDATA[
+		<p>The good news is that I’ve survived another week. The bad news is that the weeks aren’t really improving in terms of quality. Oh well. At least it gives us something to complain about.</p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast329.mp3">Diecast329</a><p></p>
+<p></p><p></p>
+<p>Show notes:<span id="more-51559"></span><br>
+<strong>00:00 We are both (probably) not dying of COVID-19.</strong></p>
+<p>We both got the flu after being (seemingly) exposed to COVID-19? </p>
+<p>Whatever. Nothing surprises me anymore. If this was a book I’d have stopped reading ages ago on account of all the inconsistencies, plot holes, and nonsense behavior on the part of the characters. </p>
+<p><strong>06:08 Oculus Quest vs. Valve Index</strong></p>
+<p></p><p></p>
+<p>In this section I said “HTC Vive”, but I meant Valve Index.</p>
+<p><strong>10:45 Mailbag: Remasters</strong></p>
+<blockquote><p>Dear Avada Kedavra wizards,</p>
+<p>I picked up the Age of Empires Definitive Edition bundle during the Steam Sale only to discover that Age of Empires 3 DE had not only improved the graphics and sound but also changed units, factions, and even removed and replaced sections of the campaign.  What’s your thoughts on what remasters should be?  Should it remain faithful to the original game or should a remaster make sweeping changes where they see fit in order to appeal to current sensibilities?  Generally in terms of art changing the original is frowned upon however it’s not uncommon when talking about movies or tv shows.  George Lucas and his infamous additions come to mind but there are also director’s cut versions of movies which can create a situation where multiple versions may exist in the wild and over time particular versions become next to impossible to find.</p>
+<p>Thank you for your time.</p>
+<p>Sincerely,</p>
+<p>Grimwear</p></blockquote>
+<p><strong>17:57 Mailbag: Anti-Aliasing</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>one of the things that drew me to Twenty Sided was Shamus’ Pixel City project, and I’ve long been a fan of the programming series. So when I found an article talking about video game graphics by a guy who worked on AssCreed4 and Witcher 2 (link in the postscript).</p>
+<p>He mentions that he wanted to create a glittering snow effect, but that anti-aliasing messed it up, which made me wonder: given that 4k gaming is starting to become A Thing(TM), are these kind of<br>
+blurring/anti-aliasing techs going to become more of a hindrance than a help in graphics?</p>
+<p>I’m looking forward to your thoughts as well as another year of Diecasts.</p>
+<p>Vale,<br>
+-Tim</p>
+<p>P.S.<br>
+<a href="https://bartwronski.com/2020/12/27/why-are-video-games-graphics-still-a-challenge-productionizing-rendering-algorithms/">https://bartwronski.com/2020/12/27/why-are-video-games-graphics-still-a-challenge-productionizing-rendering-algorithms/</a></p></blockquote>
+<p><strong>35:27 Mailbag: PnP Games in 2021</strong></p>
+<blockquote><p>Will PnP and tabletop games survive 2021?</p>
+<p>I know that in my world, my weekend tabletop outings came to a sudden halt in March when our region started their lockdowns. We moved to online systems like Roll-20, Tabletop Simulator, and Board Game Arena, but none of these ever had that same feel of going over to a friend’s place, arguing over a communal map, or haggling face to face and exchanging tokens by hand.</p>
+<p>What systems are you using to run your distanced tabletop games? Have you rediscovered the ‘family board-game night?’ Will 2021 be the year of the PnP throwback videogame? Is Among Us really just Mafia for politicians and streamers?</p>
+<p>P.S: I definitely was at least one of the hundred and fifteen people who listened to last-week’s podcast. I hope this question gets your 2021 off to a roll.</p>
+<p>“Brad”</p></blockquote>
+<p><strong>44:24 Mailbag: Unity Doesn’t Turn a profit? </strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>I hope this question finds you well! I’m a bit late to the party with this question, but as you may know, in August 2020 Unity started trading as a public company on the NY Stock Exchange. What I found very interesting is that to this day they have yet to turn a profit!</p>
+<p>Now, I know that this is something normal for companies these days (especially tech startups), but Unity?! I mean c’mon, this is one of the most popular game engines! How long do they need in order to get into the black? And in that same vein, do you think they might decide to extract money from their free users in order to prop up their bottom line? If you were Unity, how would you go about making the company profitable? Also, are you worried that they may harm their product by chasing pointless trends in the name of short-term profits?</p>
+<p>I’d love to hear your opinion on this! And although it is a bit outdated, I think this article gives a good overview of Unity’s business model, and the general direction the types of projects they’re interested in – https://techcrunch.com/2020/09/10/how-unity-built-a-gaming-engine-for-the-future/</p>
+<p>Keep Being Awesome,</p>
+<p>Lino</p></blockquote>
+<p><strong>56:15 Mailbag: The End of Flash</strong></p>
+<blockquote><p>Dear Diecast</p>
+<p>The end of flash is nigh!</p>
+<p>Will this spell doom for a massive slice of web history? Or will it be easily bypassed with browser plugins? Is it a necessary upgrade to the webs security, or just more big-company shenanigans? I would be very interested to hear your thoughts about this.</p>
+<p>Best Regards, Henry Chadban</p></blockquote>
+<p>Here is the site I mentioned during this segment: <a href="https://neocities.org/">Neocities</a>.  </p>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast329.mp3" length="68324283" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=51559</guid>
+      <pubDate>Mon, 11 Jan 2021 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast_2021.jpg">
+      </itunes:image>
+      <itunes:duration>1:11:52</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		The good news is that I’ve survived another week. The bad news is that the weeks aren’t really improving in terms of quality. Oh well. At least it gives us something to complain about.
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+Diecast329
+
+
+
+
+Show notes:
+00:00 We are both (probably) not dying of COVID-19.
+
+We both got the flu after being (seemingly) exposed to COVID-19? 
+
+Whatever. Nothing surprises me anymore. If this was a book I’d have stopped reading ages ago on account of all the inconsistencies, plot holes, and nonsense behavior on the part of the characters. 
+
+06:08 Oculus Quest vs. Valve Index
+
+
+
+
+In this section I said “HTC Vive”, but I meant Valve Index.
+
+10:45 Mailbag: Remasters
+
+Dear Avada Kedavra wizards,
+I picked up the Age of Empires Definitive Edition bundle during the Steam Sale only to discover that Age of Empires 3 DE had not only improved the graphics and sound but also changed units, factions, and even removed and replaced sections of the campaign.  What’s your thoughts on what remasters should be?  Should it remain faithful to the original game or should a remaster make sweeping changes where they see fit in order to appeal to current sensibilities?  Generally in terms of art changing the original is frowned upon however it’s not uncommon when talking about movies or tv shows.  George Lucas and his infamous additions come to mind but there are also director’s cut versions of movies which can create a situation where multiple versions may exist in the wild and over time particular versions become next to impossible to find.
+Thank you for your time.
+Sincerely,
+Grimwear
+17:57 Mailbag: Anti-Aliasing
+
+Dear Diecast,
+one of the things that drew me to Twenty Sided was Shamus’ Pixel City project, and I’ve long been a fan of the programming series. So when I found an article talking about video game graphics by a guy who worked on AssCreed4 and Witcher 2 (link in the postscript).
+He mentions that he wanted to create a glittering snow effect, but that anti-aliasing messed it up, which made me wonder: given that 4k gaming is starting to become A Thing(TM), are these kind of
+blurring/anti-aliasing techs going to become more of a hindrance than a help in graphics?
+I’m looking forward to your thoughts as well as another year of Diecasts.
+Vale,
+-Tim
+P.S.
+https://bartwronski.com/2020/12/27/why-are-video-games-graphics-still-a-challenge-productionizing-rendering-algorithms/
+35:27 Mailbag: PnP Games in 2021
+
+Will PnP and tabletop games survive 2021?
+I know that in my world, my weekend tabletop outings came to a sudden halt in March when our region started their lockdowns. We moved to online systems like Roll-20, Tabletop Simulator, and Board Game Arena, but none of these ever had that same feel of going over to a friend’s place, arguing over a communal map, or haggling face to face and exchanging tokens by hand.
+What systems are you using to run your distanced tabletop games? Have you rediscovered the ‘family board-game night?’ Will 2021 be the year of the PnP throwback videogame? Is Among Us really just Mafia for politicians and streamers?
+P.S: I definitely was at least one of the hundred and fifteen people who listened to last-week’s podcast. I hope this question gets your 2021 off to a roll.
+“Brad”
+44:24 Mailbag: Unity Doesn’t Turn a profit? 
+
+Dear Diecast,
+I hope this question finds you well! I’m a bit late to the party with this question, but as you may know, in August 2020 Unity started trading as a public company on the NY Stock Exchange. What I found very interesting is that to this day they have yet to turn a profit!
+Now, I know that this is something normal for companies these days (especially tech startups), but Unity?! I mean c’mon, this is one of the most popular game engines! How long do they need in order to get into the black? And in that same vein, do you think they might decide to extract money from their free users in order to prop up their bottom line? If you were Unity, how would you g…</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
     <item>
       <title>Diecast #328: Happy New Year!</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=51493</link>
@@ -64,8 +183,7 @@ Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.
       </itunes:image>
       <itunes:duration>1:11:24</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		Thank goodness 2020 is over. COVID-19 has vanished, everyone’s jobs went back to normal, and Republicans and Democrats are finally friends again. I’m glad we put all of that unpleasantness behind us. Please enjoy this video game podcast where we spend an unusual amount of time talking about pornography and movies for some reason?
+      <itunes:summary>Thank goodness 2020 is over. COVID-19 has vanished, everyone’s jobs went back to normal, and Republicans and Democrats are finally friends again. I’m glad we put all of that unpleasantness behind us. Please enjoy this video game podcast where we spend an unusual amount of time talking about pornography and movies for some reason?
 
 Sorry for all the noisy children on Paul’s end. That’s actually my fault. We normally record in the evenings after his kids are in bed, but my sleep schedule forced us to reschedule this time. I don’t know if you’ve ever lived in a house with more than 4 children, but quiet is just not obtainable in the middle of the afternoon. 
 
@@ -113,8 +231,7 @@ Short answer: ¯\_(ツ)_/¯
 
 
 
-    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-	</itunes:summary>
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
