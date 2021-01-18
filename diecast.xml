@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -18,6 +18,122 @@
     <itunes:subtitle>Like Twenty-Sided, but with less video.</itunes:subtitle>
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
+    <item>
+      <title>Diecast #330: Big Tech Rants, Mailbag</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=51624</link>
+      <description>
+        <![CDATA[
+		<p>At the top of the show we joked that this is the “second or third” time Paul has been on the show. I just looked it up, and we’ve done 130+ episodes together. Time flies.</p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast330.mp3">Diecast330</a><p></p>
+<p></p><p></p>
+<p>Show notes: <span id="more-51624"></span><br>
+<strong>00:00 Auto-login, Paypal and Microsoft.</strong></p>
+<blockquote><p><strong>Tech company:</strong> You must choose a password that uses uppercase, lowercase, punctuation, numerals, special characters, Kanji, and emoji. It must be longer than a phone number, difficult to remember, and physically impossible to type on a mobile device.</p>
+<p><strong>Same tech company:</strong> Typing passwords sure is a pain, huh? Want us to have you automatically logged in everywhere on all devices you use?</p></blockquote>
+<p>Come on, guys. Is security important or not?</p>
+<p><strong>06:24 Windows Update</strong></p>
+<p>You might remember that <a href="https://www.shamusyoung.com/twentysidedtale/?p=50715">back in early September</a> I decided I was done running Windows Update on my machine, because the danger of a destructive update was far more serious than the danger posed by not having the latest updates. It wasn’t even close. The biggest threat to my machine is the company that sells me my operating system.</p>
+<p>Well, I made it four months. I’d already done everything I could to delay and forestall WU, but it managed to ambush me anyway during a reboot and I couldn’t stop it. It didn’t break anything serious (this time) but it did cause some small problems and annoyances.</p>
+<p>I’m actually getting irritated at how much attention Facebook and Twitter get these days. “Oh no! This optional free service is harvesting my data and selling it. How evil!” Which, sure. That sucks. But meanwhile I’ve got this software that I NEED to do my job, I paid for it, and the company behind it regularly cripples my machine and casually circumvents my efforts to protect myself. I never have any recourse beyond “LOL use a Mac” and “Linux is nearly viable just give it another few years!”. </p>
+<p>Arg.</p>
+<p>What a nightmare.</p>
+<p>And speaking of nightmares…</p>
+<p><strong>13:32 Mailbag: Shalebridge Cradle</strong></p>
+<blockquote><p>Dear diecast,</p>
+<p>When talking horror videogames I feel shalebridge cradle is fading away from public memory. Before i often saw it mentioned, but lately not. Now i do think this isnt all bad because part of what makes it so scary is that you dont expect it. By the time you realize you’re in a horror level, the door already locked behind you (literally, the activating the generator closes the door you came in from) and youre about to experience some high octane terror. So my question is, how do you talk a horror fan into playing thief deadly shadows without spoiling the surprise?</p>
+<p>And related to that, Shamus has mentioned his displeasure about DX invisible war, so i wonder how he felt about the consolification of thief deadly shadows.</p>
+<p>With kind regards,<br>
+Chris</p></blockquote>
+<p><strong>20:51 Mailbag: Founder</strong></p>
+<blockquote><p>Dear Shamus</p>
+<p>In your Happy New Years post, you mentioned that you considered The Founder to be one of your favorite action movies of the 2010s. I was wondering if you could go into more detail about your thoughts on the film and how you felt about the events in it. I admit I’m asking you this question because I find biographical stories where people screw over each other to be very compelling and I was interested in hearing your thoughts about one of these kinds of stories.</p>
+<p>Best regards, I C U P</p></blockquote>
+<p><strong>29:18 Mailbag: ARPGs</strong></p>
+<blockquote><p>Hi Shamus &amp; Paul!</p>
+<p>Hopefully it has been a good and Virus-free week for you two.</p>
+<p>My question concerns ARPGs and related topics. Personally I have enjoyed various titles in the genre, but I have been getting more and more annoyed at how certain mechanics seem to be included in these games by default. Especially tacked-on linear difficulty progression and random loot systems are two pet peeves of mine. Both seem like bad design to me. Shadow Warrior 2 especially has recently provided me with a good example why random loot can be bad. While the system offers much customization potential it’s also incredibly time-consuming. Other loot systems often present the player with unique items that are of absolutely no use to their character and shared chests are merely gamey bandaids for that problem.</p>
+<p>Long story short: Random loot is rarely exciting, often annoying to constantly micromanage and it wastes the player’s time.</p>
+<p>What’s your position on random loot? Have you seen any systems that do not suffer from the issues I have mentioned?</p>
+<p>Greetings,</p>
+<p>WaveofKittens</p>
+<p>P.S.: For Paul: If “Star Citizen” is too much of a “millionaire’s space game” then how about “Reassembly”? It’s a top-down space action game with strategy elements and a powerful ship builder. People are constantly uploading their fleets via integrated wormholes and other players can then meet these so-called “Agents” within the game. It’s still very active:</p>
+<p>https://www.anisopteragames.com/sync/latest.html</p></blockquote>
+<p><strong>36:28 KSP Update!</strong></p>
+<p><b>38:16 Mailbag: Converging Design</b></p>
+<blockquote><p>Dear Diecast,</p>
+<p>When you look at a studio’s output, it sometimes seems like they are iterating towards a particular type of game. Over the last decade or so, Bioware has moved further and further towards the open world collectathon, FromSoftware have pushed their games to be more focused on fast dodge/parry play over the choose-your-own playstyle of their early games, and World of Warcraft (if you think of each expansion as a new game) is widely criticized for its theme-parkification.</p>
+<p>What do you think drives these kinds of shifts, and can you think of any other developers where you can describe a clear direction their games are moving in?</p>
+<p>Ninety-Three</p></blockquote>
+<p><b>44:34 Mailbag: Smoother Frames</b></p>
+<blockquote><p>Dear Diecast,</p>
+<p>I pull in the latest updates for my system twice a week and about a week ago it included an up-to-date kernel and graphics drivers. As I am a fan of new things I immediately rebooted and I was astounded at how snappy and responsive my system was.</p>
+<p>Fast-forward to the weekend and I booted up a game. Now, up until that point I had only ever really experienced it at 30FPS and I was very disoriented when it ran in a nice smooth 60 FPS. As I wasn’t used to this kind of buttery smooth performance the game felt really weird to play. So I started to wonder…</p>
+<p>Have you guys experienced something like this? Going from 30 to 60 or from 60 to 144 FPS and being a bit weirded out by how silky smooth the experience is? This could be either from a system update or from a game being patched. Looking forward to your response.</p>
+<p>Vale,</p>
+<p>-Tim</p></blockquote>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast330.mp3" length="52091301" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=51624</guid>
+      <pubDate>Mon, 18 Jan 2021 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast_2021.jpg">
+      </itunes:image>
+      <itunes:duration>54:49</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		At the top of the show we joked that this is the “second or third” time Paul has been on the show. I just looked it up, and we’ve done 130+ episodes together. Time flies.
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+Diecast330
+
+
+
+
+Show notes: 
+00:00 Auto-login, Paypal and Microsoft.
+
+Tech company: You must choose a password that uses uppercase, lowercase, punctuation, numerals, special characters, Kanji, and emoji. It must be longer than a phone number, difficult to remember, and physically impossible to type on a mobile device.
+Same tech company: Typing passwords sure is a pain, huh? Want us to have you automatically logged in everywhere on all devices you use?
+Come on, guys. Is security important or not?
+
+06:24 Windows Update
+
+You might remember that back in early September I decided I was done running Windows Update on my machine, because the danger of a destructive update was far more serious than the danger posed by not having the latest updates. It wasn’t even close. The biggest threat to my machine is the company that sells me my operating system.
+
+Well, I made it four months. I’d already done everything I could to delay and forestall WU, but it managed to ambush me anyway during a reboot and I couldn’t stop it. It didn’t break anything serious (this time) but it did cause some small problems and annoyances.
+
+I’m actually getting irritated at how much attention Facebook and Twitter get these days. “Oh no! This optional free service is harvesting my data and selling it. How evil!” Which, sure. That sucks. But meanwhile I’ve got this software that I NEED to do my job, I paid for it, and the company behind it regularly cripples my machine and casually circumvents my efforts to protect myself. I never have any recourse beyond “LOL use a Mac” and “Linux is nearly viable just give it another few years!”. 
+
+Arg.
+
+What a nightmare.
+
+And speaking of nightmares…
+
+13:32 Mailbag: Shalebridge Cradle
+
+Dear diecast,
+When talking horror videogames I feel shalebridge cradle is fading away from public memory. Before i often saw it mentioned, but lately not. Now i do think this isnt all bad because part of what makes it so scary is that you dont expect it. By the time you realize you’re in a horror level, the door already locked behind you (literally, the activating the generator closes the door you came in from) and youre about to experience some high octane terror. So my question is, how do you talk a horror fan into playing thief deadly shadows without spoiling the surprise?
+And related to that, Shamus has mentioned his displeasure about DX invisible war, so i wonder how he felt about the consolification of thief deadly shadows.
+With kind regards,
+Chris
+20:51 Mailbag: Founder
+
+Dear Shamus
+In your Happy New Years post, you mentioned that you considered The Founder to be one of your favorite action movies of the 2010s. I was wondering if you could go into more detail about your thoughts on the film and how you felt about the events in it. I admit I’m asking you this question because I find biographical stories where people screw over each other to be very compelling and I was interested in hearing your thoughts about one of these kinds of stories.
+Best regards, I C U P
+29:18 Mailbag: ARPGs
+
+Hi Shamus &amp; Paul!
+Hopefully it has been a good and Virus-free week for you two.
+My question concerns ARPGs and related topics. Personally I have enjoyed various titles in the genre, but I have been getting more and more annoyed at how certain mechanics seem to be included in these games by default. Especially tacked-on linear difficulty progression and random loot systems are two pet peeves of mine. Both seem like bad design to me. Shadow Warrior 2 especially has recently provided me with a good example why random loot can be bad. While the system offers much customization potential it’s also incredibly time-consuming. Other loot systems often present the player with unique items that are of absolutely no use to their character and sha…</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
     <item>
       <title>Diecast #329: Survivor Mailbag</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=51559</link>
@@ -81,8 +197,7 @@ blurring/anti-aliasing techs going to become more of a hindrance than a help in 
       </itunes:image>
       <itunes:duration>1:11:52</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		The good news is that I’ve survived another week. The bad news is that the weeks aren’t really improving in terms of quality. Oh well. At least it gives us something to complain about.
+      <itunes:summary>The good news is that I’ve survived another week. The bad news is that the weeks aren’t really improving in terms of quality. Oh well. At least it gives us something to complain about.
 
 
 Hosts: Paul, Shamus. Episode edited by Issac.
