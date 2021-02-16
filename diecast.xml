@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -18,6 +18,201 @@
     <itunes:subtitle>Like Twenty-Sided, but with less video.</itunes:subtitle>
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
+    <item>
+      <title>Diecast #333: Ross Returns</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=51820</link>
+      <description>
+        <![CDATA[
+		<p>Once again I’m talking to <a href="http://www.seventh-house.org/about/">Ross Zevenhuizen</a>, a friend, collaborator on <a href="https://www.shamusyoung.com/twentysidedtale/?p=29669">Good Robot</a>, and one of many developers for <em>Watch Dogs Legion</em>. He was last on the show in <a href="https://www.shamusyoung.com/twentysidedtale/?p=51166">Diecast #322</a> where we talked about Watch Dogs. This time he’s back to talk about this other projects and game development in general.</p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast333.mp3">Diecast333</a><p></p>
+<p></p><p></p>
+<p>Show notes: <span id="more-51820"></span></p>
+<p><strong>00:00 Watch Dogs: Legion was made by a legion</strong></p>
+<p></p><p></p>
+<p><strong>07:23 Risk of Rain 2 Mod</strong></p>
+<p>Ross developed <a href="https://thunderstore.io/package/Navarth/HonpoRebalance/">Honpo Rebalance</a>, a Risk of Rain 2 mod designed to keep foes dangerous without them turning into massive bullet sponges in the late game.</p>
+<p><strong>12:47 Astral Horizon</strong></p>
+<p>You can read more about the project <a href="http://www.seventh-house.org/">the blog</a>.</p>
+<p><strong>22:36 Constrained by Art</strong></p>
+<p>Ross liked a particular mailbag question from a past show and wanted to revisit it, but I can’t find it in the archives. The general gist of it was how raising production values (better graphics, voice acting, more complex models) will naturally constrain your team and the scope of the project. </p>
+<p><strong>39:34 Past projects</strong></p>
+<p><strong>45:59 Future projects</strong></p>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast333.mp3" length="51274141" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=51820</guid>
+      <pubDate>Mon, 15 Feb 2021 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast_2021.jpg">
+      </itunes:image>
+      <itunes:duration>51:14</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		Once again I’m talking to Ross Zevenhuizen, a friend, collaborator on Good Robot, and one of many developers for Watch Dogs Legion. He was last on the show in Diecast #322 where we talked about Watch Dogs. This time he’s back to talk about this other projects and game development in general.
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+Diecast333
+
+
+
+
+Show notes: 
+
+00:00 Watch Dogs: Legion was made by a legion
+
+
+
+
+07:23 Risk of Rain 2 Mod
+
+Ross developed Honpo Rebalance, a Risk of Rain 2 mod designed to keep foes dangerous without them turning into massive bullet sponges in the late game.
+
+12:47 Astral Horizon
+
+You can read more about the project the blog.
+
+22:36 Constrained by Art
+
+Ross liked a particular mailbag question from a past show and wanted to revisit it, but I can’t find it in the archives. The general gist of it was how raising production values (better graphics, voice acting, more complex models) will naturally constrain your team and the scope of the project. 
+
+39:34 Past projects
+
+45:59 Future projects
+
+
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
+	</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
+    <item>
+      <title>Diecast #332: Mailbag Speedrun</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=51787</link>
+      <description>
+        <![CDATA[
+		<p>We tried to see how many mailbag questions we could do this week. As it turns out, the answer was “all of them”. There’s technically one question left, but it was a “What do you think of <a href="https://www.youtube.com/watch?v=P7SDByLlCHw">this video</a>” type question, and I hadn’t watched the video. </p>
+<p>Paul will be away for a few weeks. Maybe I’ll have guest hosts. Maybe I’ll do something else. I dunno. We’ll see. </p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast332.mp3">Diecast332</a><p></p>
+<p></p><p></p>
+<p>Show notes:<span id="more-51787"></span><br>
+<strong>00:00 Paul is Moving</strong></p>
+<p><strong>03:49 Mailbag: KoToR</strong></p>
+<blockquote><p>Valuable Diecast</p>
+<p>Help, I’m running out of synonyms for „dear”</p>
+<p>After Disney finally took away from EA their exclusivity to develop Star Wars games, the media began to gossip about the new SW: KotOR game.</p>
+<p>For this reason I was wondering:</p>
+<p>Do you think there is a place for new KotOR? Assuming it would take place in the Old Republic period, would that franchise still carry its weight?</p>
+<p>Shamus once mentioned (well, checking it now, it was Josh, but Shamus agreed) that the first KotOR was pretty much THE RPG for many players. That wasn’t the case in my country – for us it was Gothic – so I don’t know how strong the sentiment towards this game is. Was it really that popular? Is it still?</p>
+<p>Cheers,<br>
+Darek</p></blockquote>
+<p><strong>16:06 Mailbag: Reverse-ARPG-ification</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>WaveofKittens’ question about ARPGs in Episode 330 made me think about Ghost Recon. It’s a series of tactical shooters that became co-op open-world Ubisoft collect-a-thons where the player feels like Arnold Schwarzenegger in Commando. Breakpoint, the most recent title (2019), tried to be more like Destiny or Borderlands, with randomized loot, gear levels, and raids.</p>
+<p>This new direction didn’t interest me or my friends, so we didn’t pick it up. Sales figures aren’t public, but Ubisoft’s CEO said it was very disappointing. I’m not sure how many sales were lost because of gameplay changes versus its’ horribly buggy launch.</p>
+<p>Six months later, they released the “Ghost Experience” update, allowing players to turn off most RPG elements. You can disable gear leveling and change simulation settings for more realism. The crazy part is that both game systems run concurrently, so one person in a co-op session can be playing a milsim, while the rest are searching chests for a +2 Legendary Assault Rifle.</p>
+<p>I bought Breakpoint after the update and I’m having fun with it. Are there any games you wish would get a patch to become a different sub-genre?</p>
+<p>Stay safe,<br>
+Dennis</p>
+<p>P.S. Breakpoint takes place on TIM Island; you should demand royalties from Ubisoft.</p></blockquote>
+<p><strong>21:33 Mailbag: Disco Elysium</strong></p>
+<blockquote><p>Dear Diecast,<br>
+With the imminent release of the Director’s Cut next month, I was curious if either of you had played Disco Elysium, and if so, what are your thoughts? After playing it a few weeks after its release, I was enthralled in the game in a way I haven’t been for many years, and I personally think it’s in the running being one of the best RPG’s ever, or at the very least, the best of the past 10 years.<br>
+Many thanks,<br>
+Mokap</p></blockquote>
+<p><strong>25:56 Mailbag: Ring Fit Adventure</strong></p>
+<blockquote><p>Hello,</p>
+<p>I recall when you were playing with Wii Fit you talked about creating actual games that included exercising as part of the mechanics.  I’ve been playing Ring Fit Adventure and it seems to be trying to do that, as to even move through the game you have to at least lightly jog, the attacks are specific exercises, and even opening chests in the world requires squats.  Do you have any thoughts on it?</p>
+<p>Daimbert</p></blockquote>
+<p><strong>31:05 Mailbag: Changing Perspective  </strong></p>
+<blockquote><p>Hello Diecast.</p>
+<p>Recently I watched a video on how replaying Dishonored in 2020 was a very different experience from when it first came out due to the pandemic.<br>
+Have you ever replayed a game and found that your perception of it was vastly different to your initial reaction because of something you had experienced in the intervening time?</p>
+<p>Cheers.<br>
+~Ben Hilton</p></blockquote>
+<p><strong>39:14 Mailbag: Evolving Sequels</strong></p>
+<blockquote><p>Dear DieCast,</p>
+<p>I’d like to hear your thoughts about how far sequels can change the direction, style or feel of a game series. Your dialogue concerning Thief: Deadly Shadows brought this issue to mind. Although, I personally enjoyed the game, I also understand that players who loved the sprawling levels might have found the smaller Thief 3 stages less disappointing. What do you think the limit is for sequels, or should there even be one?</p></blockquote>
+<p><strong>46:46 Mailbag: Minecraft mods</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>in last week’s episode Shamus mentioned he has been playing Minecraft again, which made me wonder: what mods do you guys like?</p>
+<p>I myself have been playing some GregBlock, although I like switching it up with Enigmatica 6 for the QOL improvements we got since the Update Aquatic.</p>
+<p>Vale,</p>
+<p>-Tim</p></blockquote>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast332.mp3" length="67362365" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=51787</guid>
+      <pubDate>Mon, 08 Feb 2021 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast_2021.jpg">
+      </itunes:image>
+      <itunes:duration>1:11:10</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		We tried to see how many mailbag questions we could do this week. As it turns out, the answer was “all of them”. There’s technically one question left, but it was a “What do you think of this video” type question, and I hadn’t watched the video. 
+
+Paul will be away for a few weeks. Maybe I’ll have guest hosts. Maybe I’ll do something else. I dunno. We’ll see. 
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+Diecast332
+
+
+
+
+Show notes:
+00:00 Paul is Moving
+
+03:49 Mailbag: KoToR
+
+Valuable Diecast
+Help, I’m running out of synonyms for „dear”
+After Disney finally took away from EA their exclusivity to develop Star Wars games, the media began to gossip about the new SW: KotOR game.
+For this reason I was wondering:
+Do you think there is a place for new KotOR? Assuming it would take place in the Old Republic period, would that franchise still carry its weight?
+Shamus once mentioned (well, checking it now, it was Josh, but Shamus agreed) that the first KotOR was pretty much THE RPG for many players. That wasn’t the case in my country – for us it was Gothic – so I don’t know how strong the sentiment towards this game is. Was it really that popular? Is it still?
+Cheers,
+Darek
+16:06 Mailbag: Reverse-ARPG-ification
+
+Dear Diecast,
+WaveofKittens’ question about ARPGs in Episode 330 made me think about Ghost Recon. It’s a series of tactical shooters that became co-op open-world Ubisoft collect-a-thons where the player feels like Arnold Schwarzenegger in Commando. Breakpoint, the most recent title (2019), tried to be more like Destiny or Borderlands, with randomized loot, gear levels, and raids.
+This new direction didn’t interest me or my friends, so we didn’t pick it up. Sales figures aren’t public, but Ubisoft’s CEO said it was very disappointing. I’m not sure how many sales were lost because of gameplay changes versus its’ horribly buggy launch.
+Six months later, they released the “Ghost Experience” update, allowing players to turn off most RPG elements. You can disable gear leveling and change simulation settings for more realism. The crazy part is that both game systems run concurrently, so one person in a co-op session can be playing a milsim, while the rest are searching chests for a +2 Legendary Assault Rifle.
+I bought Breakpoint after the update and I’m having fun with it. Are there any games you wish would get a patch to become a different sub-genre?
+Stay safe,
+Dennis
+P.S. Breakpoint takes place on TIM Island; you should demand royalties from Ubisoft.
+21:33 Mailbag: Disco Elysium
+
+Dear Diecast,
+With the imminent release of the Director’s Cut next month, I was curious if either of you had played Disco Elysium, and if so, what are your thoughts? After playing it a few weeks after its release, I was enthralled in the game in a way I haven’t been for many years, and I personally think it’s in the running being one of the best RPG’s ever, or at the very least, the best of the past 10 years.
+Many thanks,
+Mokap
+25:56 Mailbag: Ring Fit Adventure
+
+Hello,
+I recall when you were playing with Wii Fit you talked about creating actual games that included exercising as part of the mechanics.  I’ve been playing Ring Fit Adventure and it seems to be trying to do that, as to even move through the game you have to at least lightly jog, the attacks are specific exercises, and even opening chests in the world requires squats.  Do you have any thoughts on it?
+Daimbert
+31:05 Mailbag: Changing Perspective  
+
+Hello Diecast.
+Recently I watched a video on how replaying Dishonored in 2020 was a very different experience from when it first came out due to the pandemic.
+Have you ever replayed a game and found that your perception of it was vastly different to your initial reaction because of something you had experienced in the intervening time?
+Cheers.
+~Ben Hilton
+39:14 Mailbag: Evolving Sequels
+
+Dear DieCast,
+I’d like to hear your thoughts about how far sequels can change the direction, style or feel of a game series. Your dialogue concerning Thief…</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
     <item>
       <title>Diecast #331: Dyson Sphere Program, Per Aspera, Huniepop 2</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=51691</link>
@@ -69,8 +264,7 @@ chris</p></blockquote>
       </itunes:image>
       <itunes:duration>1:06:35</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		Note that in a couple of weeks, Paul is going to be away. I don’t know if I’ll get a replacement host or if I’ll skip the show. We’ll see. In the meantime, enjoy Paul getting once again angry / incredulous at a game.
+      <itunes:summary>Note that in a couple of weeks, Paul is going to be away. I don’t know if I’ll get a replacement host or if I’ll skip the show. We’ll see. In the meantime, enjoy Paul getting once again angry / incredulous at a game.
 
 
 Hosts: Paul, Shamus. Episode edited by Issac.
@@ -125,8 +319,7 @@ I remember Shamus being very fond of Huniepop, I just saw that huniepop 2’s re
 With kind regards,
 chris
 
-    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-	</itunes:summary>
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
