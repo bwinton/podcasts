@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -18,6 +18,116 @@
     <itunes:subtitle>Like Twenty-Sided, but with less video.</itunes:subtitle>
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
+    <item>
+      <title>Diecast #338: Midnight Mailbag</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=52084</link>
+      <description>
+        <![CDATA[
+		<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast338.mp3">Diecast338</a><p></p>
+<p></p><p></p>
+<p><span id="more-52084"></span><br>
+<strong>00:00 A Late Show</strong></p>
+<p>I am happy this gives me an excuse to share this gem:</p>
+<p></p><p></p>
+<p><strong>01:44 Back to Factorio</strong></p>
+<p>I’m glad I came back. I’m really enjoying the game this time around.</p>
+<p><strong>08:35 Paul beat Satisfactory… again.</strong></p>
+<p>Fun fact: I have never beaten the game. In fact, in my most recent game, I cheated my way up to trains just so I could see what they were like. The pre-train grind ended many earlier playthroughs.</p>
+<p><strong>11:23 Terrible Car (Analogy)</strong></p>
+<p>It’s like when you want to make an analogy, but the engine is too expensive to fix so it doesn’t work.</p>
+<p><strong>34:15 Why are Youtube descriptions only 5k characters?</strong></p>
+<p>5k characters for a video description? Man, I’ll bet I’ve written footnotes longer than that.<span class="snote" title="1">It’s actually not true that my footnotes are all that long. A lot of them are little two and three word jokes. Rather than say they’re LONG, it would be more accurate to say that they’re NUMEROUS. In my upcoming Mass Effect book, there are 262 footnotes. When compiled at the end of the book, they cover about 12 pages. This number might change before publication, but the overall trend is clear: I use lots of footnotes, most of which are clarifications, preemptive nitpick defenses, or jokes. This means they’re usually limited to a single sentence. In fact, I doubt the CSS on my site can handle excessively long footnotes. The display is driven by some barebones Javascript and it’s not very smart about where to little boxes need to go. On narrow displays, it’s common for footnotes to overflow off to the right. And that’s with normal-sized footnotes. If I did something irresponsible and tried to stuff a huge paragraph into one of those things, it would probably be an unreadable disaster. Still, the point stands that 5k characters is nothing and YouTube should raise that limit.</span></p>
+<p><strong>38:48 Mailbag: Factorio as an Interview Tool</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>Any thoughts on this blog post laying out the case that Factorio is a good tool for testing potential coding talent?</p>
+<p><a href="https://erikmcclure.com/blog/factorio-is-best-interview-we-have/">https://erikmcclure.com/blog/factorio-is-best-interview-we-have/</a></p>
+<p>Keep’em on the table,<br>
+Will</p></blockquote>
+<p>Warning: This turned into an unplanned rant on “trick” interview questions and the general misunderstanding of what programmers do and how to appraise their suitability for a job. </p>
+<p>Sorry. I’ve had that rant pent up since 1996 or so, and I finally saw the chance to get it out.</p>
+<p><strong>54:30 Mailbag: Sideburns and beards.</strong></p>
+<blockquote><p>Shamus and Friends,<br>
+Why do games with character creators almost<br>
+never line up sideburns and beards correctly? I have never met a person with a 2 inch gap between their sideburns and beard in real life (although I bet they exist)</p>
+<p>Gautsu(Chris)</p></blockquote>
+<p><strong>58:07 Mailbag: Starcraft</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>I hope you’re doing well! I’ve got two questions for Shamus: you used to play StarCraft and StarCraft II. Which race was/is your favourite and why (5 bucks says Terran)? Also, do you still occasionally watch pro games?</p>
+<p>Take Care and Keep Being Awesome,</p>
+<p>Lino</p></blockquote>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast338.mp3" length="59096405" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=52084</guid>
+      <pubDate>Mon, 29 Mar 2021 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast_2021.jpg">
+      </itunes:image>
+      <itunes:duration>1:02:17</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		
+Hosts: Paul, Shamus. Episode edited by Issac.
+Diecast338
+
+
+
+
+
+00:00 A Late Show
+
+I am happy this gives me an excuse to share this gem:
+
+
+
+
+01:44 Back to Factorio
+
+I’m glad I came back. I’m really enjoying the game this time around.
+
+08:35 Paul beat Satisfactory… again.
+
+Fun fact: I have never beaten the game. In fact, in my most recent game, I cheated my way up to trains just so I could see what they were like. The pre-train grind ended many earlier playthroughs.
+
+11:23 Terrible Car (Analogy)
+
+It’s like when you want to make an analogy, but the engine is too expensive to fix so it doesn’t work.
+
+34:15 Why are Youtube descriptions only 5k characters?
+
+5k characters for a video description? Man, I’ll bet I’ve written footnotes longer than that.It’s actually not true that my footnotes are all that long. A lot of them are little two and three word jokes. Rather than say they’re LONG, it would be more accurate to say that they’re NUMEROUS. In my upcoming Mass Effect book, there are 262 footnotes. When compiled at the end of the book, they cover about 12 pages. This number might change before publication, but the overall trend is clear: I use lots of footnotes, most of which are clarifications, preemptive nitpick defenses, or jokes. This means they’re usually limited to a single sentence. In fact, I doubt the CSS on my site can handle excessively long footnotes. The display is driven by some barebones Javascript and it’s not very smart about where to little boxes need to go. On narrow displays, it’s common for footnotes to overflow off to the right. And that’s with normal-sized footnotes. If I did something irresponsible and tried to stuff a huge paragraph into one of those things, it would probably be an unreadable disaster. Still, the point stands that 5k characters is nothing and YouTube should raise that limit.
+
+38:48 Mailbag: Factorio as an Interview Tool
+
+Dear Diecast,
+Any thoughts on this blog post laying out the case that Factorio is a good tool for testing potential coding talent?
+https://erikmcclure.com/blog/factorio-is-best-interview-we-have/
+Keep’em on the table,
+Will
+Warning: This turned into an unplanned rant on “trick” interview questions and the general misunderstanding of what programmers do and how to appraise their suitability for a job. 
+
+Sorry. I’ve had that rant pent up since 1996 or so, and I finally saw the chance to get it out.
+
+54:30 Mailbag: Sideburns and beards.
+
+Shamus and Friends,
+Why do games with character creators almost
+never line up sideburns and beards correctly? I have never met a person with a 2 inch gap between their sideburns and beard in real life (although I bet they exist)
+Gautsu(Chris)
+58:07 Mailbag: Starcraft
+
+Dear Diecast,
+I hope you’re doing well! I’ve got two questions for Shamus: you used to play StarCraft and StarCraft II. Which race was/is your favourite and why (5 bucks says Terran)? Also, do you still occasionally watch pro games?
+Take Care and Keep Being Awesome,
+Lino
+
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
+	</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
     <item>
       <title>Diecast #337: Mailbag Delight</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=52042</link>
@@ -94,8 +204,7 @@ Darek</p></blockquote>
       </itunes:image>
       <itunes:duration>1:01:23</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		Good news for those of you who enjoy my droning voice: I’ll be on the Eh! Steve! Podcast in early April. We might talk about videogames. Or Steve. Not sure. Maybe I should get clarification.
+      <itunes:summary>Good news for those of you who enjoy my droning voice: I’ll be on the Eh! Steve! Podcast in early April. We might talk about videogames. Or Steve. Not sure. Maybe I should get clarification.
 
 
 Hosts: Paul, Shamus. Episode edited by Issac.
