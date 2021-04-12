@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -18,6 +18,115 @@
     <itunes:subtitle>Like Twenty-Sided, but with less video.</itunes:subtitle>
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
+    <item>
+      <title>Diecast #340: YouTube Killed the Video Star</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=52125</link>
+      <description>
+        <![CDATA[
+		<p>Here is another podcast for you to enjoy while cowering indoors and waiting for the current mess to blow over. Or I suppose you could enjoy it while jogging. Or at work. Or during class. Or at a funeral. Whatever. Do what you like. I’m not the boss of you.</p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast340.mp3">Diecast340</a><p></p>
+<p></p><p></p>
+<p>Show notes:<span id="more-52125"></span></p>
+<p><strong>00:00 Moving</strong></p>
+<p>Paul moved! Moving sucks, but living in a nicer place is awesome. </p>
+<p><strong>00:59 Factorio Rocket Race and Mods</strong></p>
+<p>In Factorio, I noticed that once I unlocked the end-game tech, my science stuff was basically useless. At the same time, all of the infrastructure was tangled up with my rocket-launching stuff. I always wondered what a full standalone rocket assembly would look like. Rocket Race is a Factorio game type that answers that question. You begin with all technologies researched and you’re free to start building the big stuff right away.</p>
+<p>At first I was able to launch a rocket every 20 minutes, but after two solid days of skipping sleep and losing track of time, I managed to have it launching a rocket every 2 minutes<span class="snote" title="1">Yes, I’m sure there’s some rando on YouTube that has a base that launches twenty rockets every ten seconds or something insane. Please don’t tell me how low I am on the totem pole. It will only depress me.</span>. It’s like a whole new game.</p>
+<p>I don’t remember when, but at some point I complained that building was a little strange in Factorio because you controlled a character. A lot of top-down games with building let you build from a semi-god mode where you’re just a floating camera. In contrast, Factorio feels like a game where your cursor can get caught on things and run over by the train. But now I see they’ve added a sandbox game mode where you are a bodiless camera. I haven’t tried it yet. I’m torn between working to improve my two-minute rocket, and just starting over in sandbox.</p>
+<p>I need help.</p>
+<p><strong>04:40 YouTube outliers</strong></p>
+<p>Here is <a href="https://www.youtube.com/watch?v=ZF8-rGtWAkE">the music video that Paul made</a>. Can we please get this thing more than 300 views?</p>
+<p></p><p></p>
+<p>Other videos discussed in this segment:</p>
+<ol>
+<li>Paul’s <a href="https://www.youtube.com/watch?v=jVbaeka2qQA">Townscaper video</a>.</li>
+<li>Shamus’ first (and still most popular) <a href="https://www.youtube.com/watch?v=uQrC_C6SexI">Bowlercoaster video</a>.</li>
+<li>Shamus’ second (and very unpopular) video <a href="https://www.youtube.com/watch?v=9vMbTioUF_I">It Tastes Like Asphalt</a>.</li>
+<li>The classic: <a href="https://www.youtube.com/watch?v=BQ9YtJC-Kd8">The TV Show</a>.</li>
+</ol>
+<p><strong>19:51 Looking forward to New World</strong></p>
+<p>Amazon is going to try again at this whole “making videogames” thing. The last big MMO “launch” was the introduction to WoW Classic. Will <em>New World</em> break us out of 17 years of WoW dominance, or will it be <a href="https://en.wikipedia.org/wiki/Crucible_(video_game)">another hilarious / tragic failure</a>?</p>
+<p>I don’t know, but I’m looking forward to this summer when we find out.</p>
+<p><strong>37:12 Mailbag: Weather I read a Book</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>I hope this question finds you well! About 10-15 years ago (back when I watched TV), I stumbled on a documentary about writing fiction where different successful authors, critics, and other experts gave their opinions on various aspects of writing. The only thing I remember from this flim is one sentence from an austere-looking man, who was a successful author. On the topic of reading other people’s work, he said: “I never read books where the very first sentence is describing the weather!”</p>
+<p>Throughout the years, I’ve held that opinion as the stupidest thing I’ve ever heard in my life! Of all the red flags you could have as a person, this HAS TO BE the dumbest, I’ve always thought! But as I’ve thought about it again recently, I realised that I myself have some weird red flags when it comes to fiction – things that would turn me off from a book or video game, that other people wouldn’t even notice.</p>
+<p>So my question for the two of you is: What are YOUR red flags for fiction (books video games, and movies)? If you’re reading a book/playing a game, what are the things that would make you throw it at the wall in disgust, and start frothing at the mouth with rage?</p>
+<p>Keep Being Awesome,</p>
+<p>Lino</p></blockquote>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast340.mp3" length="56043757" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=52125</guid>
+      <pubDate>Mon, 12 Apr 2021 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast_2021.jpg">
+      </itunes:image>
+      <itunes:duration>59:09</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		Here is another podcast for you to enjoy while cowering indoors and waiting for the current mess to blow over. Or I suppose you could enjoy it while jogging. Or at work. Or during class. Or at a funeral. Whatever. Do what you like. I’m not the boss of you.
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+Diecast340
+
+
+
+
+Show notes:
+
+00:00 Moving
+
+Paul moved! Moving sucks, but living in a nicer place is awesome. 
+
+00:59 Factorio Rocket Race and Mods
+
+In Factorio, I noticed that once I unlocked the end-game tech, my science stuff was basically useless. At the same time, all of the infrastructure was tangled up with my rocket-launching stuff. I always wondered what a full standalone rocket assembly would look like. Rocket Race is a Factorio game type that answers that question. You begin with all technologies researched and you’re free to start building the big stuff right away.
+
+At first I was able to launch a rocket every 20 minutes, but after two solid days of skipping sleep and losing track of time, I managed to have it launching a rocket every 2 minutesYes, I’m sure there’s some rando on YouTube that has a base that launches twenty rockets every ten seconds or something insane. Please don’t tell me how low I am on the totem pole. It will only depress me.. It’s like a whole new game.
+
+I don’t remember when, but at some point I complained that building was a little strange in Factorio because you controlled a character. A lot of top-down games with building let you build from a semi-god mode where you’re just a floating camera. In contrast, Factorio feels like a game where your cursor can get caught on things and run over by the train. But now I see they’ve added a sandbox game mode where you are a bodiless camera. I haven’t tried it yet. I’m torn between working to improve my two-minute rocket, and just starting over in sandbox.
+
+I need help.
+
+04:40 YouTube outliers
+
+Here is the music video that Paul made. Can we please get this thing more than 300 views?
+
+
+
+
+Other videos discussed in this segment:
+
+
+Paul’s Townscaper video.
+Shamus’ first (and still most popular) Bowlercoaster video.
+Shamus’ second (and very unpopular) video It Tastes Like Asphalt.
+The classic: The TV Show.
+
+19:51 Looking forward to New World
+
+Amazon is going to try again at this whole “making videogames” thing. The last big MMO “launch” was the introduction to WoW Classic. Will New World break us out of 17 years of WoW dominance, or will it be another hilarious / tragic failure?
+
+I don’t know, but I’m looking forward to this summer when we find out.
+
+37:12 Mailbag: Weather I read a Book
+
+Dear Diecast,
+I hope this question finds you well! About 10-15 years ago (back when I watched TV), I stumbled on a documentary about writing fiction where different successful authors, critics, and other experts gave their opinions on various aspects of writing. The only thing I remember from this flim is one sentence from an austere-looking man, who was a successful author. On the topic of reading other people’s work, he said: “I never read books where the very first sentence is describing the weather!”
+Throughout the years, I’ve held that opinion as the stupidest thing I’ve ever heard in my life! Of all the red flags you could have as a person, this HAS TO BE the dumbest, I’ve always thought! But as I’ve thought about it again recently, I realised that I myself have some weird red flags when it comes to fiction – things that would turn me off from a book or video game, that other people wouldn’t even notice.
+So my question for the two of you is: What are YOUR red flags for fiction (books video games, and movies)? If you’re reading a book/playing a game, what are the things that would make you throw it at the wall in disgust, and start frothing at the mouth with rage?
+Keep Being Awesome,
+Lino
+
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
+	</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
     <item>
       <title>Diecast #339: Six Days in Procgen</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=52107</link>
@@ -66,8 +175,7 @@ Show notes:<span id="more-52107"></span><p></p>
       </itunes:image>
       <itunes:duration>53:23</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		It’s Monday, which means you get another hour of my droning voice and stumbling digressions. And also Paul, when he’s not giving me the silent treatment. This week we’re talking about Starcraft 2 tournaments in the age of COVID, Neverout, and Six Days in Fallujah.
+      <itunes:summary>It’s Monday, which means you get another hour of my droning voice and stumbling digressions. And also Paul, when he’s not giving me the silent treatment. This week we’re talking about Starcraft 2 tournaments in the age of COVID, Neverout, and Six Days in Fallujah.
 
 
 Hosts: Paul, Shamus. Episode edited by Issac.
@@ -120,8 +228,7 @@ Vale,
 -Tim
 https://www.pixels-dice.com/
 
-    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-	</itunes:summary>
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
