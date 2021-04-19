@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -67,8 +67,7 @@ Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.
       </itunes:image>
       <itunes:duration>59:09</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		Here is another podcast for you to enjoy while cowering indoors and waiting for the current mess to blow over. Or I suppose you could enjoy it while jogging. Or at work. Or during class. Or at a funeral. Whatever. Do what you like. I’m not the boss of you.
+      <itunes:summary>Here is another podcast for you to enjoy while cowering indoors and waiting for the current mess to blow over. Or I suppose you could enjoy it while jogging. Or at work. Or during class. Or at a funeral. Whatever. Do what you like. I’m not the boss of you.
 
 
 Hosts: Paul, Shamus. Episode edited by Issac.
@@ -123,8 +122,7 @@ So my question for the two of you is: What are YOUR red flags for fiction (books
 Keep Being Awesome,
 Lino
 
-    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-	</itunes:summary>
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
