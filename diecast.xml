@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -18,6 +18,102 @@
     <itunes:subtitle>Like Twenty-Sided, but with less video.</itunes:subtitle>
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
+    <item>
+      <title>Diecast #341: THEY ARE BILLIONS, Valheim</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=52182</link>
+      <description>
+        <![CDATA[
+		<p>Heads up: As of publishing, the YouTube version of the podcast is set to private. Paul’s in charge of that, so I can’t do anything about it on my end. I’m just bringing this up so I don’t get fifty comments telling me about a problem I can’t fix. I’m sure Paul mis-clicked and he’ll fix it when he’s available. </p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast341.mp3">Diecast341</a><p></p>
+<p>Show notes:<span id="more-52182"></span></p>
+<p></p><p></p>
+<p><strong>00:41 THEY ARE BILLIONS</strong></p>
+<p>I’d really love this game if it wasn’t for the small number of flaws that make me HATE it.</p>
+<p><strong>13:43 Valheim is addictive</strong></p>
+<p>Looks like Paul had a better week than I did. Valheim does look really nice.</p>
+<p><strong>21:54 Mailbag: Selling Gameplay</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>Couple of months ago I played Prey (2017). It’s now one of my favourite games ever. Obviously it didn’t sell very well. And it seems to me that, generally speaking, selling these types of titles might be difficult – their strength lies in the way they allow players to use the game’s environment and mechanics to achieve their goals (I think it’s called „emergent gameplay”?). Which is great – I think Prey is a perfect example of what video games should be if they’re to have their own language – but showing that to the mass audience in order to sell it could be hard. I don’t think their awesomeness can be captured in one picture or 5-seconds long video.</p>
+<p>So I was wondering – is there a direct corellation between how, er, „gamey” the game is and how difficult it is to sell it? As in: maybe we don’t have good methods to present the essence of games through their natural enviroment, so instead we are focusing on the visual aspects: cutscenes, elaborated animations and such (kinda like advertising books just by their covers)? If so, what can we do to make gamey games and be filthy rich at the same time?</p>
+<p>$$$,<br>
+Darek</p></blockquote>
+<p><strong>37:47 Mailbag: Back 4 Blood</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>Have you looked at Back 4 Blood?</p>
+<p>It’s marketed as “the new game by the guys who did Left 4 Dead” (though realistically it’s more like “by a team whose leads were in the L4D team”).</p>
+<p>There’s only been alpha gameplay footage so far, so it’s hard to guess what the final product will be like, but I’m confident predicting it will be a disaster.</p>
+<p>The artistic direction is all wrong (players quickly get covered in blood, in a zombie game that wants you to avoid friendly fire), it’s got a bunch of “video-gamey” mechanics like money and perk cards and inventory management that feel like they’re here because that’s what video games have to do, teammates have really elaborate barks about actions you do every 10 seconds, etc. The Valve magic isn’t there.</p>
+<p>I think the game will be an interesting case study when it comes out: it’s a game that tries to imitate L4D and has many similar mechanics, but misses the mark on a ton of subtle game design stuff like sign-posting, sobriety, encouraging certain play styles with game mechanics, etc.</p>
+<p>(incidentally, Oddworld Soulstorm was just released and has the exact same problem)</p>
+<p>Sincerely,<br>
+Olivier.</p></blockquote>
+<p><strong>56:29 Mailbag: Modern Mario</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>I was talking with a friend about innovation in modern AAA games and he said that Super Mario would never get through corp today: a sidescrolling platformer about a plumber who gets stronger by eating mushrooms and has to defeat an oversized turtle to save a princess.</p>
+<p>What do you think, are there any double or triple A studios who would take a chance on something so out of the ordinary today? I know Ubisoft occasionally does take side risks (like with Child of Light), but aside from that I can’t think of any.</p>
+<p>Vale,</p>
+<p>-Tim</p></blockquote>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast341.mp3" length="63843715" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=52182</guid>
+      <pubDate>Mon, 26 Apr 2021 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast_2021.jpg">
+      </itunes:image>
+      <itunes:duration>1:06:46</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>Heads up: As of publishing, the YouTube version of the podcast is set to private. Paul’s in charge of that, so I can’t do anything about it on my end. I’m just bringing this up so I don’t get fifty comments telling me about a problem I can’t fix. I’m sure Paul mis-clicked and he’ll fix it when he’s available. 
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+Diecast341
+
+Show notes:
+
+
+
+
+00:41 THEY ARE BILLIONS
+
+I’d really love this game if it wasn’t for the small number of flaws that make me HATE it.
+
+13:43 Valheim is addictive
+
+Looks like Paul had a better week than I did. Valheim does look really nice.
+
+21:54 Mailbag: Selling Gameplay
+
+Dear Diecast,
+Couple of months ago I played Prey (2017). It’s now one of my favourite games ever. Obviously it didn’t sell very well. And it seems to me that, generally speaking, selling these types of titles might be difficult – their strength lies in the way they allow players to use the game’s environment and mechanics to achieve their goals (I think it’s called „emergent gameplay”?). Which is great – I think Prey is a perfect example of what video games should be if they’re to have their own language – but showing that to the mass audience in order to sell it could be hard. I don’t think their awesomeness can be captured in one picture or 5-seconds long video.
+So I was wondering – is there a direct corellation between how, er, „gamey” the game is and how difficult it is to sell it? As in: maybe we don’t have good methods to present the essence of games through their natural enviroment, so instead we are focusing on the visual aspects: cutscenes, elaborated animations and such (kinda like advertising books just by their covers)? If so, what can we do to make gamey games and be filthy rich at the same time?
+$$$,
+Darek
+37:47 Mailbag: Back 4 Blood
+
+Dear Diecast,
+Have you looked at Back 4 Blood?
+It’s marketed as “the new game by the guys who did Left 4 Dead” (though realistically it’s more like “by a team whose leads were in the L4D team”).
+There’s only been alpha gameplay footage so far, so it’s hard to guess what the final product will be like, but I’m confident predicting it will be a disaster.
+The artistic direction is all wrong (players quickly get covered in blood, in a zombie game that wants you to avoid friendly fire), it’s got a bunch of “video-gamey” mechanics like money and perk cards and inventory management that feel like they’re here because that’s what video games have to do, teammates have really elaborate barks about actions you do every 10 seconds, etc. The Valve magic isn’t there.
+I think the game will be an interesting case study when it comes out: it’s a game that tries to imitate L4D and has many similar mechanics, but misses the mark on a ton of subtle game design stuff like sign-posting, sobriety, encouraging certain play styles with game mechanics, etc.
+(incidentally, Oddworld Soulstorm was just released and has the exact same problem)
+Sincerely,
+Olivier.
+56:29 Mailbag: Modern Mario
+
+Dear Diecast,
+I was talking with a friend about innovation in modern AAA games and he said that Super Mario would never get through corp today: a sidescrolling platformer about a plumber who gets stronger by eating mushrooms and has to defeat an oversized turtle to save a princess.
+What do you think, are there any double or triple A studios who would take a chance on something so out of the ordinary today? I know Ubisoft occasionally does take side risks (like with Child of Light), but aside from that I can’t think of any.
+Vale,
+-Tim
+
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
     <item>
       <title>Diecast #340: YouTube Killed the Video Star</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=52125</link>
