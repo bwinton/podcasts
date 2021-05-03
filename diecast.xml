@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -18,6 +18,97 @@
     <itunes:subtitle>Like Twenty-Sided, but with less video.</itunes:subtitle>
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
+    <item>
+      <title>Diecast 342: Blender, Portal 2, Mailbag</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=52219</link>
+      <description>
+        <![CDATA[
+		<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast342.mp3">Diecast342</a><p></p>
+<p></p><br>
+<span id="more-52219"></span><p></p>
+<p><strong>00:00 Just return it!</strong></p>
+<p><strong>06:29 Blender Rescues Davinci Resolve</strong></p>
+<p><strong>12:45 Portal 2 Reloaded</strong></p>
+<p><strong>21:35 Mailbag: DOS Game Installer Nostalgia</strong></p>
+<blockquote><p>Dear Diecast</p>
+<p>Reminiscing about gaming when I grew up in the 90ies, there are obvious things one could be nostalgic for, like big boxes, hefty manuals and generous feelies. But then I suddenly remembered that on the tail end of DOS PC Games, there were really elaborate installers. Especially the one of Command &amp; Conquer came to mind, as seen here: https://www.youtube.com/watch?v=77k-eNscp2k, but there were others too. I know that the C&amp;C remaster did try to bring it back in a way, but for the most part, installation has become an invisible process. We just hit “download” and after a while, we can play.<br>
+While it sure is much more convenient that installing isn’t hogging the computer as a whole, and there is no more need to juggle disks or even diskettes around, I still feel I kinda miss getting drawn into the experience via a well designed installation interface. What’s your take on that? And are there other nowadays obscure gaming related relics that you are nostalgic for?</p>
+<p>kind regards<br>
+Norbert “ColeusRattus” Lickl</p></blockquote>
+<p><strong>34:36 Pluto / New Horizons</strong></p>
+<p>This wasn’t a planned topic. I’d just watched <a href="https://www.youtube.com/watch?v=GMIbZ2k_OtQ">this video</a> and it was fresh in my mind.</p>
+<p></p><p></p>
+<p><strong>38:11 Mailbag: Broken RPG Economies</strong></p>
+<blockquote><p>I think the issue of “broken” in game economies is fascinating.  I’ve read Shamus’s columns on the matter where he succinctly lays out the way the economy “breaks” due to a series of perfectly reasonable player desires.</p>
+<p>Shamus gave EVE Online and Borderlands 3 as two examples where in-game economies avoided complete collapse.  EVE due to real world fidelity and Borderlands by offering a unique type of money sink.</p>
+<p>Do you think that a single player RPG can both successfully avoid a broken economy and remain enjoyable? I tend to consider Mount and Blade (especially when modded) to be a good example of a game that avoids breaking the economy.  I think this is in part because it blurs the line between RPG and strategy; if aren’t a one-man wrecking ball and need an actual army, the game has more ways to “realistically” take your money.  Do the Diecast members have any examples of RPGs they think handled it well?  Ways things can or ought to have been handled better?</p>
+<p>I hope you’re doing well and I always enjoy the Diecast!</p>
+<p>Mark</p></blockquote>
+<p><strong>46:33 Mailbag: Non-Gaming needs</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>in the past Blender has come up as a program you quite like and Shamus has spoken loftily about Visual Studio, so I  was wondering: are there any other non-gaming programs you consider must-haves?</p>
+<p>Vale,</p>
+<p>-Tim</p></blockquote>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast342.mp3" length="57073713" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=52219</guid>
+      <pubDate>Mon, 03 May 2021 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast_2021.jpg">
+      </itunes:image>
+      <itunes:duration>59:10</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		
+Hosts: Paul, Shamus. Episode edited by Issac.
+Diecast342
+
+
+
+
+
+00:00 Just return it!
+
+06:29 Blender Rescues Davinci Resolve
+
+12:45 Portal 2 Reloaded
+
+21:35 Mailbag: DOS Game Installer Nostalgia
+
+Dear Diecast
+Reminiscing about gaming when I grew up in the 90ies, there are obvious things one could be nostalgic for, like big boxes, hefty manuals and generous feelies. But then I suddenly remembered that on the tail end of DOS PC Games, there were really elaborate installers. Especially the one of Command &amp; Conquer came to mind, as seen here: https://www.youtube.com/watch?v=77k-eNscp2k, but there were others too. I know that the C&amp;C remaster did try to bring it back in a way, but for the most part, installation has become an invisible process. We just hit “download” and after a while, we can play.
+While it sure is much more convenient that installing isn’t hogging the computer as a whole, and there is no more need to juggle disks or even diskettes around, I still feel I kinda miss getting drawn into the experience via a well designed installation interface. What’s your take on that? And are there other nowadays obscure gaming related relics that you are nostalgic for?
+kind regards
+Norbert “ColeusRattus” Lickl
+34:36 Pluto / New Horizons
+
+This wasn’t a planned topic. I’d just watched this video and it was fresh in my mind.
+
+
+
+
+38:11 Mailbag: Broken RPG Economies
+
+I think the issue of “broken” in game economies is fascinating.  I’ve read Shamus’s columns on the matter where he succinctly lays out the way the economy “breaks” due to a series of perfectly reasonable player desires.
+Shamus gave EVE Online and Borderlands 3 as two examples where in-game economies avoided complete collapse.  EVE due to real world fidelity and Borderlands by offering a unique type of money sink.
+Do you think that a single player RPG can both successfully avoid a broken economy and remain enjoyable? I tend to consider Mount and Blade (especially when modded) to be a good example of a game that avoids breaking the economy.  I think this is in part because it blurs the line between RPG and strategy; if aren’t a one-man wrecking ball and need an actual army, the game has more ways to “realistically” take your money.  Do the Diecast members have any examples of RPGs they think handled it well?  Ways things can or ought to have been handled better?
+I hope you’re doing well and I always enjoy the Diecast!
+Mark
+46:33 Mailbag: Non-Gaming needs
+
+Dear Diecast,
+in the past Blender has come up as a program you quite like and Shamus has spoken loftily about Visual Studio, so I  was wondering: are there any other non-gaming programs you consider must-haves?
+Vale,
+-Tim
+
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
+	</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
     <item>
       <title>Diecast #341: THEY ARE BILLIONS, Valheim</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=52182</link>
