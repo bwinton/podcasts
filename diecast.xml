@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -18,6 +18,124 @@
     <itunes:subtitle>Like Twenty-Sided, but with less video.</itunes:subtitle>
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
+    <item>
+      <title>Diecast #342.5: Shamusless Videogames</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=52238</link>
+      <description>
+        <![CDATA[
+		<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, Anna. Episode edited by <a href="http://www.peripheralarbor.com/">Paul</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast342.5.mp3">Diecast342.5</a><p></p>
+<p></p><p></p>
+<p>Anna and Paul are doing this episode because…<br>
+<span id="more-52238"></span></p>
+<p><b>00:00 Shamus is in Hospital</b><br>
+Shamus got a high score on the blood pressure machine and won a no-expenses-paid trip to the emergency room. Please <a href="https://paypal.me/ShamusYoung">donate to his paypal</a> to help cover the costs. He would never ask you to do this, but he’s not writing this post.</p>
+<p><strong>00:53 Video game history</strong></p>
+<p><b>04:06 Hollow Knight</b></p>
+<p><b>05:55 Ori and the Blind Forest</b></p>
+<p><b>07:30 Hob</b></p>
+<p><b>10:25 The Witness</b></p>
+<p><b>12:03 Minecraft</b></p>
+<p><b>13:38 Hammerfight</b></p>
+<p><b>15:03 SpaceChem</b></p>
+<p><b>16:43 Slime Rancher</b></p>
+<p><b>19:28 Chime</b></p>
+<p><b>21:36 Anna is terrible</b></p>
+<p><b>23:10 Shovel Knight</b></p>
+<p><b>23:29 Good Robot</b></p>
+<p><b>27:04 Don’t Starve</b></p>
+<p><b>29:33 Starbound</b></p>
+<p><b>33:38 Rimworld</b></p>
+<p><b>37:31 Oxygen Not Included</b></p>
+<p><b>40:22 Planetary Annihilation and Warcraft</b></p>
+<p><b>44:12 Creeper World 3</b></p>
+<p><b>46:32 Stardew Valley</b></p>
+<p><b>50:52 Mindustry</b></p>
+<p><b>52:49 Satisfactory</b></p>
+<p><b>56:55 Valheim</b></p>
+<p><b>1:06:35 Wrapping up</b></p>
+<p><b>1:07:09 No Outro</b></p>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/613e3de114bebbf16cd1400a4a870fa7?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42"><a href="https://peripheralarbor.com/">Paul Spooner</a> likes programming procedural content and gaming when he's not busy with his day-job and family.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast342.5.mp3" length="107943304" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=52238</guid>
+      <pubDate>Mon, 10 May 2021 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast_2021.jpg">
+      </itunes:image>
+      <itunes:duration>1:07:19</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		
+Hosts: Paul, Anna. Episode edited by Paul.
+Diecast342.5
+
+
+
+
+Anna and Paul are doing this episode because…
+
+
+00:00 Shamus is in Hospital
+Shamus got a high score on the blood pressure machine and won a no-expenses-paid trip to the emergency room. Please donate to his paypal to help cover the costs. He would never ask you to do this, but he’s not writing this post.
+
+00:53 Video game history
+
+04:06 Hollow Knight
+
+05:55 Ori and the Blind Forest
+
+07:30 Hob
+
+10:25 The Witness
+
+12:03 Minecraft
+
+13:38 Hammerfight
+
+15:03 SpaceChem
+
+16:43 Slime Rancher
+
+19:28 Chime
+
+21:36 Anna is terrible
+
+23:10 Shovel Knight
+
+23:29 Good Robot
+
+27:04 Don’t Starve
+
+29:33 Starbound
+
+33:38 Rimworld
+
+37:31 Oxygen Not Included
+
+40:22 Planetary Annihilation and Warcraft
+
+44:12 Creeper World 3
+
+46:32 Stardew Valley
+
+50:52 Mindustry
+
+52:49 Satisfactory
+
+56:55 Valheim
+
+1:06:35 Wrapping up
+
+1:07:09 No Outro
+
+
+    Paul Spooner likes programming procedural content and gaming when he’s not busy with his day-job and family.
+	</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
     <item>
       <title>Diecast 342: Blender, Portal 2, Mailbag</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=52219</link>
@@ -62,9 +180,7 @@ Norbert “ColeusRattus” Lickl</p></blockquote>
       </itunes:image>
       <itunes:duration>59:10</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		
-Hosts: Paul, Shamus. Episode edited by Issac.
+      <itunes:summary>Hosts: Paul, Shamus. Episode edited by Issac.
 Diecast342
 
 
@@ -105,8 +221,7 @@ in the past Blender has come up as a program you quite like and Shamus has spoke
 Vale,
 -Tim
 
-    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-	</itunes:summary>
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
