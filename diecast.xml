@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -18,6 +18,121 @@
     <itunes:subtitle>Like Twenty-Sided, but with less video.</itunes:subtitle>
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
+    <item>
+      <title>Diecast #343: Still Alive</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=52258</link>
+      <description>
+        <![CDATA[
+		<p>In case you missed it, I was <a href="https://www.shamusyoung.com/twentysidedtale/?p=52249">in the hospital</a> for a week. I’m still a little wobbly, but I’m on the mend. But if I eat right, exercise, take my meds, and avoid junk food from now on, then I can look forward to a long slow decline into old age, just like everyone else.</p>
+<p>Also, sorry my audio is blown out. Apparently I forgot how to run the show while I was gone.</p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast343.mp3">Diecast343</a><p></p>
+<p></p><p></p>
+<p>Show notes:<span id="more-52258"></span></p>
+<p><strong>00:00 Shamus Lives!</strong></p>
+<p>So sorry to burn so much of the show talking about my life and health. Hopefully someone finds this amusing / informative.</p>
+<p><strong>06:08 Roomates</strong></p>
+<p>I messed up the story a bit here. The three things I wanted were dark, quiet, and <strong>cold</strong>. In  my conversation with Paul, I forgot about cold. My roommate was always asking the nurses to turn up the heat. And to my surprise, they did.</p>
+<p>Back when I was young, hospitals were always cold. If you asked someone to turn up the heat, they’d bring you a blanket. Maybe the rules have changed in the last 40 years, or maybe the rules are different in the cardiac section where everyone is incredibly old and heart attacks are a bigger risk than infections.</p>
+<p>Anyway, my room was 74F (23C), which is really hot for me. I much prefer a cool room like 65F (18C) where I can regulate my temp by adding or removing blankets.</p>
+<p>Still, the combination of constant shouting chit-chat + flashing TV + idiot TV programming + lights on + being too hot too sleep was brutal. It really did make those first couple of days an ordeal.</p>
+<p><strong>23:05 Mass Effect Legendary Port</strong></p>
+<p>I’m not in love with the Legendary Edition of Mass Effect 1. The extra resolution is nice, but something feels off and I’m not sure what it is.</p>
+<p><strong>29:07 My Book Arrived!</strong></p>
+<p></p><p></p>
+<p><strong>31:32 Mailbag: Music &amp; Audio Programming</strong></p>
+<blockquote><p>Dear Shamus,</p>
+<p>To what extent are you interested in audio programming? I guess composing any track with a DAW and array of softsynths can be considered ‘programming’, but I’m thinking of approaches that are less linear and more system-based in the ways we usually think when using the term.</p>
+<p>Has the idea of generative music (ie. music that plays itself based on weighted randomization) ever tickled your fancy? Or algorithmic sequencing according to rulesets (ie. every third ‘hit’, trigger X event, repeat with needless complexity)? Some of your posts on procedural generation made me wonder if this is something you’d ever given thought to. But maybe your interest in music composition is satisfied with a sturdy piano roll!</p>
+<p>One of my favorite music acts is a duo called Autechre (aw-tek-er). They started out in 1987 before getting signed to a major label in their scene, with their early output being a blend of offbeat electro and ambient styles. What’s interesting about them is how they evolved over time and became increasingly abstract, largely transitioning from cheap hardware and drum machines to computers and full-on programming environments. The end result of their journey (ongoing today) is often described as “machine music designed by machines” that are very abstract and often lack a point of reference in relation to more conventional genres. I like to think of their tracks as puzzles to decode and decipher, usually getting my most appreciation months or years after an initial listen.</p>
+<p>It’s not very radio-friendly, and I think a lot of their work these days is composed with Max/MSP rather than any traditional DAW. But I was curious if there was any further intersection between your interests in programming and music!</p>
+<p>Any way, some (non-representative) examples:</p>
+<p><a href="https://www.youtube.com/watch?v=LSGe4ABfCck">Pt2ph8</a></p>
+<p><a href="https://www.youtube.com/watch?v=YAzeVJ2i-M4">Autechre Ylm0</a></p>
+<p>Regards,</p>
+<p>D</p></blockquote>
+<p><strong>39:37 The Sims Jazz Improv</strong></p>
+<p></p><p></p>
+<p>The idea here is that the composer kept pushing the music through lots of key changes to keep things fresh and new. However, it didn’t seem to work on me. I remember getting irritated with <em>this piece of music in particular</em>, to the point where I turned off the music entirely. I recognize that the music kept changing, but for me it felt like the music was guilty of excessive <em>noodling</em>. It didn’t ever settle into a pattern that I could call a song. It didn’t feel like it was going anywhere. It’s screaming for attention with nothing to say.</p>
+<p>It’s like a child yelling “Hey! Hey! Over here! Pay attention to me!” So then you finally say, “WHAT? What do you want?” and the kid just keeps yelling “Hey!” </p>
+<p>I realize I’m dumping on a beloved soundtrack to a 21 year old video game. I’m not trying to convince you the soundtrack sucks, I’m just trying to illustrate how hard it is to generate “interesting” music, because individual standards for interesting-ness can vary greatly between individuals.</p>
+<p><strong>49:48 Mailbag: Odd Howard</strong></p>
+<blockquote><p>Hi!</p>
+<p>Not a question, but I found…. errr…. Stumbled upon a clip of Todd Howard saying the phrase «What do they eat?»</p>
+<p>I found it amusing, so have a chuckle too: </p>
+<p><a href="https://www.youtube.com/watch?v=nPttE_fvjZM&amp;t=3939s">Todd Howard Talks Starfield, Elder Scrolls 6, Fallout 76, Terminator, and More! – IGN Unfiltered #43</a></p>
+<p>Best regards, DeadlyDark</p></blockquote>
+<p>It’s crazy. It’s like hearing Michael Bay talk about how important it is to keep things clear and coherent for the audience during action scenes. It’s like hearing JJ Abrams talk about how important it is to resolve mysteries with a clear payoff that adheres to the rules of the world. It’s like Peter Molyneux giving a talk on the dangers of over-promising. </p>
+<p>Weird.</p>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42" loading="lazy"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast343.mp3" length="58161085" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=52258</guid>
+      <pubDate>Mon, 17 May 2021 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast_2021.jpg">
+      </itunes:image>
+      <itunes:duration>1:01:07</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		In case you missed it, I was in the hospital for a week. I’m still a little wobbly, but I’m on the mend. But if I eat right, exercise, take my meds, and avoid junk food from now on, then I can look forward to a long slow decline into old age, just like everyone else.
+
+Also, sorry my audio is blown out. Apparently I forgot how to run the show while I was gone.
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+Diecast343
+
+
+
+
+Show notes:
+
+00:00 Shamus Lives!
+
+So sorry to burn so much of the show talking about my life and health. Hopefully someone finds this amusing / informative.
+
+06:08 Roomates
+
+I messed up the story a bit here. The three things I wanted were dark, quiet, and cold. In  my conversation with Paul, I forgot about cold. My roommate was always asking the nurses to turn up the heat. And to my surprise, they did.
+
+Back when I was young, hospitals were always cold. If you asked someone to turn up the heat, they’d bring you a blanket. Maybe the rules have changed in the last 40 years, or maybe the rules are different in the cardiac section where everyone is incredibly old and heart attacks are a bigger risk than infections.
+
+Anyway, my room was 74F (23C), which is really hot for me. I much prefer a cool room like 65F (18C) where I can regulate my temp by adding or removing blankets.
+
+Still, the combination of constant shouting chit-chat + flashing TV + idiot TV programming + lights on + being too hot too sleep was brutal. It really did make those first couple of days an ordeal.
+
+23:05 Mass Effect Legendary Port
+
+I’m not in love with the Legendary Edition of Mass Effect 1. The extra resolution is nice, but something feels off and I’m not sure what it is.
+
+29:07 My Book Arrived!
+
+
+
+
+31:32 Mailbag: Music &amp; Audio Programming
+
+Dear Shamus,
+To what extent are you interested in audio programming? I guess composing any track with a DAW and array of softsynths can be considered ‘programming’, but I’m thinking of approaches that are less linear and more system-based in the ways we usually think when using the term.
+Has the idea of generative music (ie. music that plays itself based on weighted randomization) ever tickled your fancy? Or algorithmic sequencing according to rulesets (ie. every third ‘hit’, trigger X event, repeat with needless complexity)? Some of your posts on procedural generation made me wonder if this is something you’d ever given thought to. But maybe your interest in music composition is satisfied with a sturdy piano roll!
+One of my favorite music acts is a duo called Autechre (aw-tek-er). They started out in 1987 before getting signed to a major label in their scene, with their early output being a blend of offbeat electro and ambient styles. What’s interesting about them is how they evolved over time and became increasingly abstract, largely transitioning from cheap hardware and drum machines to computers and full-on programming environments. The end result of their journey (ongoing today) is often described as “machine music designed by machines” that are very abstract and often lack a point of reference in relation to more conventional genres. I like to think of their tracks as puzzles to decode and decipher, usually getting my most appreciation months or years after an initial listen.
+It’s not very radio-friendly, and I think a lot of their work these days is composed with Max/MSP rather than any traditional DAW. But I was curious if there was any further intersection between your interests in programming and music!
+Any way, some (non-representative) examples:
+Pt2ph8
+Autechre Ylm0
+Regards,
+D
+39:37 The Sims Jazz Improv
+
+
+
+
+The idea here is that the composer kept pushing the music through lots of key changes to keep things fresh and new. However, it didn’t seem to work on me. I remember getting irritated with this piece of music in particular, to the point where I turned off the music entirely. I recognize that the music kept changing, but for me it felt like the music was guilty of excessive nood…</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
     <item>
       <title>Diecast #342.5: Shamusless Videogames</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=52238</link>
@@ -67,9 +182,7 @@ Shamus got a high score on the blood pressure machine and won a no-expenses-paid
       </itunes:image>
       <itunes:duration>1:07:19</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		
-Hosts: Paul, Anna. Episode edited by Paul.
+      <itunes:summary>Hosts: Paul, Anna. Episode edited by Paul.
 Diecast342.5
 
 
@@ -132,8 +245,7 @@ Shamus got a high score on the blood pressure machine and won a no-expenses-paid
 1:07:09 No Outro
 
 
-    Paul Spooner likes programming procedural content and gaming when he’s not busy with his day-job and family.
-	</itunes:summary>
+    Paul Spooner likes programming procedural content and gaming when he’s not busy with his day-job and family.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
