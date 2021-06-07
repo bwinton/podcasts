@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -18,6 +18,122 @@
     <itunes:subtitle>Like Twenty-Sided, but with less video.</itunes:subtitle>
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
+    <item>
+      <title>Diecast #346: Mailbag Monday</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=52334</link>
+      <description>
+        <![CDATA[
+		<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast346.mp3">Diecast346</a><p></p>
+<p></p><br>
+Show notes:<span id="more-52334"></span><p></p>
+<p><strong>00:00 Prey</strong></p>
+<p><strong>05:15 Procgen in Blender 2.93</strong></p>
+<p><strong>08:40 Microsoft Edge – Smart Enough to know when you’re trying to replace it!</strong><br>
+…but not smart enough to understand why I want to.</p>
+<p><strong>15:19 Mailbag: The Perfect Bethesda</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>In the last episode you guys talked about Todd Howard and his public persona. That made me think of Bethesda as a whole – they’re really unusual for an AAA studio. They can be incredibly ambitious in some areas and hopelessly outdated in others – at the same time. There is also something unmistakably unique about their games; Bethesda’s „essence” if you will.</p>
+<p>So – in the end of the day, what are they trying to accomplish? What would a perfect modern Bethesda game be? The one that’d catch up with their ambitons? I’m not talking about the days of Morrowind or Daggerfall, but today – what seems to be their ultimate goal?</p>
+<p>Cheers,<br>
+Darek</p></blockquote>
+<p><strong>24:54 Mailbag: Deus Ex Invisible War</strong></p>
+<blockquote><p>Dear Paul,</p>
+<p>From previous diecasts Shamus has slipped that deus ex invisible war traumatized him. Could you perhaps ask him what the experience was like, without opening old wounds too much?</p>
+<p>with kind regards,<br>
+Chris</p></blockquote>
+<p><strong>27:08 Mailbag: DumbBots is smart fun</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>I’ve been having fun with an indie programming game called DumbBots. It’s a little bit like a Zachtronics game or one of those games where you control robots on a grid and have them fight each other. Except in this case, all of the scenarios are like something you’d see in a movie or action game. Your bots start out so dumb they sit there and do nothing, and you need to tell them how to steal all the loot, survive the zombie apocalypse, kill everyone else in a deathmatch, and so on. I wouldn’t normally expect a programming game to be so “cool” but the music and atmosphere is great, and every time you run your program you get an action scene that you choreographed yourself!</p>
+<p>There’s a free demo, which is really just the main tutorial levels, if you want to try out the programming interface and general atmosphere before you buy it. </p></blockquote>
+<p><strong>30:19 Mailbag: Programming for Dead Consoles</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>I happen to work in film, and in a role that occasionally requires me to interface with old televisions and consoles and things like that. I won’t get into the intricacies of syncing televisions to camera, but my job is simply to “make it work.”</p>
+<p>I was given the task of putting an image on an old TV that only had an RF input. It wasn’t a complex image; simply a green screen that would be composited over in post by the editors. One could bring a complex assortment of VCRs, scan converters, and a laptop to do that, but a different idea came to mind; I had a 3DO collecting dust, and the 3DO is one of the few consoles that actually had a direct  RF output. Not only that, but the 3DO is CD-based, not cartridge based, meaning that there was a very good chance that I could actually homebrew an interactive program to do what I needed.</p>
+<p>As it turns out, 3DO development is exceedingly easy. While documentation is sparse, there is nonetheless a downloadable build environment for modern Windows installs (and originally, Mac OS 7) that, with a little environment variable setup, can build you a hello-world disk image in less than fifteen minutes. Plus, with the a 3DO emulator core (and BIOS images) easily acquired through retroarch, you don’t need to waste CD’s to test your builds.</p>
+<p>Have you ever gotten involved in writing software for dead consoles? Are there any consoles you’d like to see revived? Any games you’d want to see ported to an older console?</p>
+<p>Sincerely,</p>
+<p>“Brad.”</p></blockquote>
+<p><strong>36:26 Mailbag: AI Dungeon</strong></p>
+<blockquote><p>Dear Diecast</p>
+<p>Have you ever tried out A.I. Dungeon? It’s a procedurally generated text adventure game, which come up with some pretty wild and unexpected stuff.</p>
+<p>From Donkey</p></blockquote>
+<p><strong>40:28 Mailbag: Survive the Hunt</strong></p>
+<blockquote><p>Dear DiceCasters,</p>
+<p>In the beginning of 2020, you put up an analysis of Failrace’s Survive the Hunt, with a link to Episode #12. Since then, they’ve reached 35 episodes with a few one-off spinoffs or specials.</p>
+<p>I’ve been watching ever since your analysis. The Failrace guys have updated their rules over time, to acknowledge some imbalances and make their game “better”. In particular, they’ve changed the number of air vehicles allowed, made a rule that high-end supercars were off-limits to hunters unless the prey is caught driving in one (making taking a fast car an important choice with risk-vs.-reward elements), and had a few one-off special rules or scenarios, with the last episode involving an “Escape the country via plane” escape sequence involving a partner in a plane, as part of their 10 year anniversary of the site.</p>
+<p>Are you still keeping up with the series? Are there any other games you Diecasters can think of where a healthy dose of setting changes and honor system rules can create a new fun “game mode” that isn’t being captured by the gaming community at large? One of the best parts of the Survive the Hunt format is that it is “video gamer agnostic” – you don’t need to be a gamer or even know GTA5 to understand what the prey’s goal is or what might be a good or bad strategy. Are there any games out there with a similar ease of understanding that might make them particularly suited for recording and viewing or the YouTube environment?</p>
+<p>— Nick</p></blockquote>
+<p><strong>43:23 Mailbag: Stack Overflow</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>Today I learned that Stack Overflow is apparently worth $1.8 billion.  I can’t quite decide whether that’s too little or too much.  I’ve had mixed experiences with the site.  What kind of experiences have you had there?</p>
+<p>–John</p></blockquote>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42" loading="lazy"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast346.mp3" length="44173667" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=52334</guid>
+      <pubDate>Mon, 07 Jun 2021 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast_2021.jpg">
+      </itunes:image>
+      <itunes:duration>58:17</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		
+Hosts: Paul, Shamus. Episode edited by Issac.
+Diecast346
+
+
+
+Show notes:
+
+00:00 Prey
+
+05:15 Procgen in Blender 2.93
+
+08:40 Microsoft Edge – Smart Enough to know when you’re trying to replace it!
+…but not smart enough to understand why I want to.
+
+15:19 Mailbag: The Perfect Bethesda
+
+Dear Diecast,
+In the last episode you guys talked about Todd Howard and his public persona. That made me think of Bethesda as a whole – they’re really unusual for an AAA studio. They can be incredibly ambitious in some areas and hopelessly outdated in others – at the same time. There is also something unmistakably unique about their games; Bethesda’s „essence” if you will.
+So – in the end of the day, what are they trying to accomplish? What would a perfect modern Bethesda game be? The one that’d catch up with their ambitons? I’m not talking about the days of Morrowind or Daggerfall, but today – what seems to be their ultimate goal?
+Cheers,
+Darek
+24:54 Mailbag: Deus Ex Invisible War
+
+Dear Paul,
+From previous diecasts Shamus has slipped that deus ex invisible war traumatized him. Could you perhaps ask him what the experience was like, without opening old wounds too much?
+with kind regards,
+Chris
+27:08 Mailbag: DumbBots is smart fun
+
+Dear Diecast,
+I’ve been having fun with an indie programming game called DumbBots. It’s a little bit like a Zachtronics game or one of those games where you control robots on a grid and have them fight each other. Except in this case, all of the scenarios are like something you’d see in a movie or action game. Your bots start out so dumb they sit there and do nothing, and you need to tell them how to steal all the loot, survive the zombie apocalypse, kill everyone else in a deathmatch, and so on. I wouldn’t normally expect a programming game to be so “cool” but the music and atmosphere is great, and every time you run your program you get an action scene that you choreographed yourself!
+There’s a free demo, which is really just the main tutorial levels, if you want to try out the programming interface and general atmosphere before you buy it. 
+30:19 Mailbag: Programming for Dead Consoles
+
+Dear Diecast,
+I happen to work in film, and in a role that occasionally requires me to interface with old televisions and consoles and things like that. I won’t get into the intricacies of syncing televisions to camera, but my job is simply to “make it work.”
+I was given the task of putting an image on an old TV that only had an RF input. It wasn’t a complex image; simply a green screen that would be composited over in post by the editors. One could bring a complex assortment of VCRs, scan converters, and a laptop to do that, but a different idea came to mind; I had a 3DO collecting dust, and the 3DO is one of the few consoles that actually had a direct  RF output. Not only that, but the 3DO is CD-based, not cartridge based, meaning that there was a very good chance that I could actually homebrew an interactive program to do what I needed.
+As it turns out, 3DO development is exceedingly easy. While documentation is sparse, there is nonetheless a downloadable build environment for modern Windows installs (and originally, Mac OS 7) that, with a little environment variable setup, can build you a hello-world disk image in less than fifteen minutes. Plus, with the a 3DO emulator core (and BIOS images) easily acquired through retroarch, you don’t need to waste CD’s to test your builds.
+Have you ever gotten involved in writing software for dead consoles? Are there any consoles you’d like to see revived? Any games you’d want to see ported to an older console?
+Sincerely,
+“Brad.”
+36:26 Mailbag: AI Dungeon
+
+Dear Diecast
+Have you ever tried out A.I. Dungeon? It’s a procedurally generated text adventure game, which come up with some pretty wild and unexpected stuff.
+From Donkey
+40:28 Mailbag: Survive the Hunt
+
+Dear DiceCasters,
+In the beginning of 2020, you put up an analysis of Failrace’s Survive the Hunt, with a link to Episode #12. Si…</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
     <item>
       <title>Diecast #345: Everything is Out!</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=52308</link>
@@ -74,8 +190,7 @@ Bobbert</p></blockquote>
       </itunes:image>
       <itunes:duration>1:03:08</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		Check it out! Dynamo Dream is out! Mess Effect is out! Issac’s old computer is out. BioMutant is out! It’s Memorial Day in the US, which means school is out. Elliot Page is out. Gas prices are out[rageous]. This episode of the Diecast is out! My patience with hand-holdy games is out.
+      <itunes:summary>Check it out! Dynamo Dream is out! Mess Effect is out! Issac’s old computer is out. BioMutant is out! It’s Memorial Day in the US, which means school is out. Elliot Page is out. Gas prices are out[rageous]. This episode of the Diecast is out! My patience with hand-holdy games is out.
 
 
 Hosts: Paul, Shamus. Episode edited by Issac.
@@ -137,8 +252,7 @@ Here is an example of Gary Owens and his golden voice, which made Space Quest IV
 But the real magic was Secret of Monkey Island. Like I said on the show, that game was packed with brilliant ideas. If I had to list my Top 5 Adventure Game Moments, 4 of them would probably be from that one game.
 
 
-    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-	</itunes:summary>
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
