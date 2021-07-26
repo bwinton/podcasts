@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -82,8 +82,7 @@ Norbert “ColkeusRattus” Lickl</p>
       </itunes:image>
       <itunes:duration>1:04:25</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		We’re reached another big round number of Diecasts, so I feel like I should… do… something. Or say something. So here’s a fun fact…
+      <itunes:summary>We’re reached another big round number of Diecasts, so I feel like I should… do… something. Or say something. So here’s a fun fact…
 
 There are 79 episodes of the original Star Trek, 178 episodes of TNG, 176 of DS9, 172 of Voyager, and 98 episodes of Enterprise. An hour-long TV program in the USA is typically ~41 minutes. Which means there are, roughly, 480 hours of Star Trek television to watch. And no, we’re not counting the appalling new stuff like Discovery and Picard, which are action dramas with science words in them and not science fiction. Yes, there’s a difference, even if the dunderheads at CBS don’t know about it.
 
