@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -18,6 +18,126 @@
     <itunes:subtitle>Like Twenty-Sided, but with less video.</itunes:subtitle>
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
+    <item>
+      <title>Diecast #352: Animation and Joint Pain</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=52721</link>
+      <description>
+        <![CDATA[
+		<p>Heads up: I spend the first 7 minutes of the show talking about weird non-gaming, non-nerd personal stuff for some reason. This segment was originally longer, but I had Issac chop a bit of it out for fear of over-sharing. </p>
+<p>Also, I had a funny story I’d intended to share on the show, but forgot to put in the show notes. Look for it at the end of this post. I’m honestly curious if I’m stupid, crazy, or if I was bamboozled.</p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast352.mp3">Diecast352</a><p></p>
+<p>Show notes:<span id="more-52721"></span></p>
+<p><strong>00:00 Creepy Doctor</strong></p>
+<p>Like I said, some of this segment got cut. I sort of ran my mouth, forgetting that discretion is part of Heather’s job. It’s a weird story, but not one I should be sharing on my podcast.</p>
+<p><strong>07:38 Unity</strong></p>
+<p></p><p></p>
+<p>This time Paul is the one doing quasi-gamedev. Although, this makes me want to open up Unity and make something new. We’re about due, aren’t we? </p>
+<p><strong>25:48 Mass Effect: Moving Forward</strong></p>
+<p>This video essay is great. It’s forward-looking and has constructive advice. It’s worth a watch, if you’re still willing to talk about Mass Effect.<br>
+</p><p></p>
+<p><strong>27:39 Mailbag: Videogames Escaping Into Popular Culture</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>Have you guys noticed video games influencing movies more often these days? I’m not talking about the really obvious stuff like the new movie “Free Guy”, but rather more structural things. I’ve heard multiple people refer to Mandolorian episodes as video game side quests. The one example that really sticks out to me is John Wick 3, where John and a co-op side character have to fight in wave defense combat against bad guys who take more bullets to be put down because they’re wearing special armour. Any thoughts on this?</p>
+<p>Kaden</p></blockquote>
+<p><strong>36:27 Mailbag: Another World</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>so it finally happened: truck-kun came and whisked you away to Another World.</p>
+<p>Limiting ourselves to video games, any particular world you would prefer being reborn into?</p>
+<p>Vale,</p>
+<p>-Tim</p></blockquote>
+<p><strong>45:33 Mailbag: Marvel TV</strong></p>
+<blockquote><p>Dear Shamus</p>
+<p>You’ve previously discussed WandaVision on the podcast so I was wondering what your thoughts are on Falcon and the Winter Soldier and Loki, if you have seen them?<br>
+Also thoughts on “What If?” Seems interesting (and canon).</p>
+<p>-DragonAge</p></blockquote>
+<p>So now I find myself in a strange position. I watched a DC movie that I loved (the new Suicide Squad was pure fun) and a Marvel thing I hated. (Falcon and the Winter Soldier is the first Marvel-based thing that I honestly, <strong>strongly</strong> dislike. </p>
+<p>This is fine. I had a good run with Marvel from the first <em>Iron Man</em> to <em>Avengers Endgame</em>, and if that’s the last movie I like, I can’t complain I’ve been short-changed. </p>
+<p><strong>Bonus Topic:</strong></p>
+<p>So I’m checking my blood pressure when I see that the batteries on the device are low. So I pop out the 4 AA batteries and put them in the charger, replacing them with newly-charged batteries. </p>
+<p>About half an hour later I’m watching YouTube at my PC when I hear a pop on the desk beside me, followed by a faint sizzling sound. It’s almost as if someone opened a very very tiny can of soda. I look at the crap on my desk, trying to figure out where the sound is coming from. <em>Did I imagine it? Was it a background noise in a video that I mistook for something real?</em></p>
+<p>I look, and I see a clear liquid is bubbling out of the charging batteries. Now, my first instinct is to grab the batteries and pull them out, but then I realize that clear liquid is probably acid, and it’s probably nice and warm right now. So I unplug the charger and shove the whole mess off to one side where it won’t be able to leak or explode on anything important.</p>
+<p>Later I come back to figure out what I did wrong. Sure enough, I put regular non-rechargeable batteries in the charger. I’ve been using rechargeable batteries since the 1980s, and I’ve never made this mistake before. What did I do wrong, here? Was this a weird habit? Did I confuse these batteries with others? Am I so used to having rechargeables around that I’ve stopped looking at the label?</p>
+<p>I stare at the batteries for a bit and I finally figure it out: <strong>These batteries are green</strong>.</p>
+<p>I had it in my head that green=rechargeable. I look around my my other batteries, and the pattern holds. Rechargeables are green, disposables are either black or silver.</p>
+<p>Is this a real thing? Do companies really make all reusable batteries green, and these batteries were weird trickster deviants that broke the pattern?</p>
+<p>Or am I an idiot? Have I been following the pattern of “green goes in the charger” for decades and getting away with it due to blind luck? </p>
+<p>I realize that battery color patterns may differ outside the USA, but I’d really like to know who the crazy person is: Me, or the person who put a green label on these batteries.</p>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42" loading="lazy"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast352.mp3" length="48129465" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=52721</guid>
+      <pubDate>Mon, 16 Aug 2021 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast_2021.jpg">
+      </itunes:image>
+      <itunes:duration>1:05:55</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		Heads up: I spend the first 7 minutes of the show talking about weird non-gaming, non-nerd personal stuff for some reason. This segment was originally longer, but I had Issac chop a bit of it out for fear of over-sharing. 
+
+Also, I had a funny story I’d intended to share on the show, but forgot to put in the show notes. Look for it at the end of this post. I’m honestly curious if I’m stupid, crazy, or if I was bamboozled.
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+Diecast352
+
+Show notes:
+
+00:00 Creepy Doctor
+
+Like I said, some of this segment got cut. I sort of ran my mouth, forgetting that discretion is part of Heather’s job. It’s a weird story, but not one I should be sharing on my podcast.
+
+07:38 Unity
+
+
+
+
+This time Paul is the one doing quasi-gamedev. Although, this makes me want to open up Unity and make something new. We’re about due, aren’t we? 
+
+25:48 Mass Effect: Moving Forward
+
+This video essay is great. It’s forward-looking and has constructive advice. It’s worth a watch, if you’re still willing to talk about Mass Effect.
+
+
+
+27:39 Mailbag: Videogames Escaping Into Popular Culture
+
+Dear Diecast,
+Have you guys noticed video games influencing movies more often these days? I’m not talking about the really obvious stuff like the new movie “Free Guy”, but rather more structural things. I’ve heard multiple people refer to Mandolorian episodes as video game side quests. The one example that really sticks out to me is John Wick 3, where John and a co-op side character have to fight in wave defense combat against bad guys who take more bullets to be put down because they’re wearing special armour. Any thoughts on this?
+Kaden
+36:27 Mailbag: Another World
+
+Dear Diecast,
+so it finally happened: truck-kun came and whisked you away to Another World.
+Limiting ourselves to video games, any particular world you would prefer being reborn into?
+Vale,
+-Tim
+45:33 Mailbag: Marvel TV
+
+Dear Shamus
+You’ve previously discussed WandaVision on the podcast so I was wondering what your thoughts are on Falcon and the Winter Soldier and Loki, if you have seen them?
+Also thoughts on “What If?” Seems interesting (and canon).
+-DragonAge
+So now I find myself in a strange position. I watched a DC movie that I loved (the new Suicide Squad was pure fun) and a Marvel thing I hated. (Falcon and the Winter Soldier is the first Marvel-based thing that I honestly, strongly dislike. 
+
+This is fine. I had a good run with Marvel from the first Iron Man to Avengers Endgame, and if that’s the last movie I like, I can’t complain I’ve been short-changed. 
+
+Bonus Topic:
+
+So I’m checking my blood pressure when I see that the batteries on the device are low. So I pop out the 4 AA batteries and put them in the charger, replacing them with newly-charged batteries. 
+
+About half an hour later I’m watching YouTube at my PC when I hear a pop on the desk beside me, followed by a faint sizzling sound. It’s almost as if someone opened a very very tiny can of soda. I look at the crap on my desk, trying to figure out where the sound is coming from. Did I imagine it? Was it a background noise in a video that I mistook for something real?
+
+I look, and I see a clear liquid is bubbling out of the charging batteries. Now, my first instinct is to grab the batteries and pull them out, but then I realize that clear liquid is probably acid, and it’s probably nice and warm right now. So I unplug the charger and shove the whole mess off to one side where it won’t be able to leak or explode on anything important.
+
+Later I come back to figure out what I did wrong. Sure enough, I put regular non-rechargeable batteries in the charger. I’ve been using rechargeable batteries since the 1980s, and I’ve never made this mistake before. What did I do wrong, here? Was this a weird habit? Did I confuse these batteries with others? Am I so used to having rechargeables around that I’ve stopped looking at the label?
+
+I stare at the batteries for a bit and I finally figure it out: These bat…</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
     <item>
       <title>Diecast #351: Before We Mailbag</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=52666</link>
@@ -102,9 +222,7 @@ If I were to make a game, that’s how I’d implement the battle system.</p>
       </itunes:image>
       <itunes:duration>1:02:38</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		
-Hosts: Paul, Shamus. Episode edited by Issac.
+      <itunes:summary>Hosts: Paul, Shamus. Episode edited by Issac.
 Diecast351
 
 
