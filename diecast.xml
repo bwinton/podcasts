@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -18,6 +18,114 @@
     <itunes:subtitle>Like Twenty-Sided, but with less video.</itunes:subtitle>
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
+    <item>
+      <title>Diecast #354: Blender Sandwich</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=52807</link>
+      <description>
+        <![CDATA[
+		<p>I like how LABOR DAY is the one day we’ve all agreed to skip work. It makes a nice companion to Thanksgiving, where – thanks to the <a href="https://www.shamusyoung.com/twentysidedtale/?p=44868">shopping nightmare</a> – is a day defined mostly by avarice and gluttony. Maybe we should add a few more inverted holidays. On President’s Day, nobody is allowed to be the president. Of anything. I’ll leave the rest of you to figure out how we should un-observe the other holidays.</p>
+<p></p>
+<p>Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.</p>
+<p><a href="https://www.shamusyoung.com/diecast/diecast354.mp3">Diecast354</a><br>
+Show notes:<span id="more-52807"></span></p>
+<p><strong>00:00 Blender Adventures</strong></p>
+<p>The device I was talking about in this segment is properly called a <a href="https://en.wikipedia.org/wiki/Bean_machine">Galton Board</a> or a <a href="https://www.penny-arcade.com/comic/2001/06/18">Bean Machine</a>, but I couldn’t remember that so I was calling it a “Pachinko Machine”, which is similar, but <a href="https://en.wikipedia.org/wiki/Pachinko">not quite the same thing</a>. If you’re curious, this is <a href="https://www.youtube.com/watch?v=em-pVICrnqM">the Captain D video</a> about the magical sorting Galton Board I was talking about.</p>
+<p>Anyway, below are my first few renders. You can see they’re low quality because I didn’t think it was worth the time to render such crude first efforts in glorious HD. Also, I had the friction set too low<span class="snote" title="1">Zero is indeed too low.</span> in the last one, so the balls slide to the bottom rather than rolling. Again, not worth the time it would take to re-render. </p>
+<p></p><p></p>
+<p>Here is ten minutes of me using Blender:</p>
+<blockquote><p>WHY? WHY DOES THIS OBJECT KEEP MOVING OVER HERE? THAT’S CRAZY!</p>
+<p>Oh. I get it. That’s amazing it can do that.</p>
+<p>BUT NOW THIS OTHER THING VANISHED?!? WHERE IS THAT THING?</p>
+<p>Erm. I guess I pressed I button to hide it somehow? Nice tool. I’ll have to remember that for when I WANT to hide something.</p>
+<p>WHY DO THESE PHYSICS OBJECTS KEEP LAUNCHING THEMSELVES INTO SPACE FOR NO REASON????? ARG. I FOLLOWED THE TUTORIAL EXACTLY AND THE WHOLE THING FLIES APART AS SOON AS I START THE SIMULATION.</p>
+<p>I don’t know why that’s happening. But I guess I found a workaround.</p></blockquote>
+<p>Imagine four days of THAT rollercoaster. I’m cycling between impressed, outraged, and baffled. Blender might be the greatest open-source tool ever written. It might also cause me to have a stroke. </p>
+<p><strong>15:22 Watch from Aliens</strong></p>
+<p></p><p></p>
+<p>Double the watch for twice the time.</p>
+<p><strong>22:20 TI-99-4/A and the TI-89</strong></p>
+<p>I make fun of marketing people on this site a lot, but credit where it’s due: Without a marketing team, you end up with consumer product names that look like part numbers. </p>
+<p><strong>29:51 Before We Leave-Finally</strong></p>
+<p><a href="https://www.youtube.com/watch?v=thOifuHs6eY">Hexagons are the Bestagons</a>.</p>
+<p><strong>42:27 DaVinci Resolve 1% Compression Ratio</strong></p>
+<p>This is the digital equivalent of when you order a product from Amazon and it’s a thing you want inside a Styrofoam container inside a glossy box inside shrink wrap inside a bunch of wadded-up filler inside a cardboard box. Environmental concerns aside, this is a waste of my time.</p>
+<p><strong>50:41 Mailbag: Games the Push you to Other Games</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>I was doing a Dark Souls 2 all achievements run, but I’ve decided to pause it to play some Dragon’s Dogma. For whatever reason playing Dark Souls always makes me want to play DD, which is quite odd since no other action game does that.</p>
+<p>Do you guys have a game or series like that? Which when you play it makes you want to play a specific other game?</p>
+<p>Vale,</p>
+<p>-Tim</p></blockquote>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42" loading="lazy"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast354.mp3" length="46218453" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=52807</guid>
+      <pubDate>Mon, 06 Sep 2021 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast_2021.jpg">
+      </itunes:image>
+      <itunes:duration>1:01:23</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		I like how LABOR DAY is the one day we’ve all agreed to skip work. It makes a nice companion to Thanksgiving, where – thanks to the shopping nightmare – is a day defined mostly by avarice and gluttony. Maybe we should add a few more inverted holidays. On President’s Day, nobody is allowed to be the president. Of anything. I’ll leave the rest of you to figure out how we should un-observe the other holidays.
+
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+
+Diecast354
+Show notes:
+
+00:00 Blender Adventures
+
+The device I was talking about in this segment is properly called a Galton Board or a Bean Machine, but I couldn’t remember that so I was calling it a “Pachinko Machine”, which is similar, but not quite the same thing. If you’re curious, this is the Captain D video about the magical sorting Galton Board I was talking about.
+
+Anyway, below are my first few renders. You can see they’re low quality because I didn’t think it was worth the time to render such crude first efforts in glorious HD. Also, I had the friction set too lowZero is indeed too low. in the last one, so the balls slide to the bottom rather than rolling. Again, not worth the time it would take to re-render. 
+
+
+
+
+Here is ten minutes of me using Blender:
+
+WHY? WHY DOES THIS OBJECT KEEP MOVING OVER HERE? THAT’S CRAZY!
+Oh. I get it. That’s amazing it can do that.
+BUT NOW THIS OTHER THING VANISHED?!? WHERE IS THAT THING?
+Erm. I guess I pressed I button to hide it somehow? Nice tool. I’ll have to remember that for when I WANT to hide something.
+WHY DO THESE PHYSICS OBJECTS KEEP LAUNCHING THEMSELVES INTO SPACE FOR NO REASON????? ARG. I FOLLOWED THE TUTORIAL EXACTLY AND THE WHOLE THING FLIES APART AS SOON AS I START THE SIMULATION.
+I don’t know why that’s happening. But I guess I found a workaround.
+Imagine four days of THAT rollercoaster. I’m cycling between impressed, outraged, and baffled. Blender might be the greatest open-source tool ever written. It might also cause me to have a stroke. 
+
+15:22 Watch from Aliens
+
+
+
+
+Double the watch for twice the time.
+
+22:20 TI-99-4/A and the TI-89
+
+I make fun of marketing people on this site a lot, but credit where it’s due: Without a marketing team, you end up with consumer product names that look like part numbers. 
+
+29:51 Before We Leave-Finally
+
+Hexagons are the Bestagons.
+
+42:27 DaVinci Resolve 1% Compression Ratio
+
+This is the digital equivalent of when you order a product from Amazon and it’s a thing you want inside a Styrofoam container inside a glossy box inside shrink wrap inside a bunch of wadded-up filler inside a cardboard box. Environmental concerns aside, this is a waste of my time.
+
+50:41 Mailbag: Games the Push you to Other Games
+
+Dear Diecast,
+I was doing a Dark Souls 2 all achievements run, but I’ve decided to pause it to play some Dragon’s Dogma. For whatever reason playing Dark Souls always makes me want to play DD, which is quite odd since no other action game does that.
+Do you guys have a game or series like that? Which when you play it makes you want to play a specific other game?
+Vale,
+-Tim
+
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
+	</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
     <item>
       <title>Diecast #353: Remembering Blizzard</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=52738</link>
@@ -76,8 +184,7 @@ Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.
       </itunes:image>
       <itunes:duration>1:07:20</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		Here is an hour and seven minutes of two guys talking about stuff. You’re welcome.
+      <itunes:summary>Here is an hour and seven minutes of two guys talking about stuff. You’re welcome.
 
 
 Hosts: Paul, Shamus. Episode edited by Issac.
