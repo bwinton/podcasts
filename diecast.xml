@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -18,6 +18,110 @@
     <itunes:subtitle>Like Twenty-Sided, but with less video.</itunes:subtitle>
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
+    <item>
+      <title>Diecast #355: Procgen Render Farm</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=52848</link>
+      <description>
+        <![CDATA[
+		<p>As a reminder: I’m going in for surgery this week. I don’t expect any problems, but I might not be around as much as usual. Please try to not burn the place down while I’m gone. </p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast355.mp3">Diecast355</a><p></p>
+<p></p><br>
+<span id="more-52848"></span><p></p>
+<p><strong>00:00 Blender Render Farmer</strong><br>
+Maybe this sort of service is still a bit exotic, so prices are high because there aren’t enough customers to really create the all-important economy of scale? </p>
+<p>Rebus Farm even suggests their service would be good for “students”. I don’t know what kind of students have a spare $300 to burn on rendering out single assignments. And if a student has that much dosh to burn, then they probably have access to a good computer and they won’t <strong>need</strong> an overpriced render farm to get the job done. Like I said on the show, the economics of this make no sense to me. </p>
+<p><strong>11:07 Introversion City Generator</strong></p>
+<p><a href="https://www.introversion.co.uk/prototypes/">Quite interesting</a>.</p>
+<p><strong>25:49 Mailbag: Arby’s Dice</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>You remember that Wendy’s RPG?  Well, now apparently Arby’s is selling tabletop gaming dice:<br>
+https://www.gameinformer.com/gamer-culture/2021/08/26/arbys-now-sells-official-dungeons-dragons-dice-because-naturally</p>
+<p>I just thought it was cute.  Have fast food places realized who their core demo is or something?</p>
+<p>Jennifer Snow</p></blockquote>
+<p>I looked on YouTube, and I couldn’t find any of the originating advertisements. All I could find were people’s reactions. Strange.</p>
+<p><strong>28:09 Kidd Video Tangent</strong></p>
+<p>During this segment the audio cuts out. What I said was that <a href="https://kidd-video.fandom.com/wiki/Master_Blaster">Master Blaster</a> looks like a combination between Spider-Man’s Kingpin, and Dilbert’s Pointy-Haired Boss. I’m not crazy, right? The Master Blaster really does look like the PHB, doesn’t he? </p>
+<p>WARNING: The following video is the most intensely 80s thing you’ll see all week.</p>
+<p></p><p></p>
+<p>I was 13 when the show came out. Even so, I could tell the show was sort of lame and cringy. But I also watched it every week without fail, so…</p>
+<p><strong>36:21 Mailbag: Endgame Reset</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>I’ve recently been playing the Master Blaster (Zero) series, a metroid-esque game that interleaves the platforming shooting with 2D top-down shooting segments. An interesting feature of these games (02 and 03 in particular) is the “endgame reset”: just before the final level, all your collected weapons and other stuff are removed, and you get a very different set of abilities and weapons to master for the final portion of the game. (in these games, the final level only unlocks when you have collected enough stuff, so it can be seen as a bonus level as well) I think the endgame reset can in theory be applied to any game with (optional) character progression. Are there any games where you think the endgame reset has been applied extremely well or poorly? What games could be improved with an endgame reset?</p>
+<p>A few thoughts from me (no novel this time). From a design perspective, the endgame reset is a powerful but tricky tool. Handled well, it can ensure the player is presented with a proper challenge in the final part of the game, the player can enjoy mastering new mechanics, and there is the opportunity to make use of more situational types of weapons. (since there is only one level, it can be tailored to give these weapons a chance to shine) Handled poorly, the player will feel cheated out of their gear, discouraged that their overlevelling doesn’t save them from the boss, and be frustrated by having to learn another set of gimmicky mechanics.</p>
+<p>Still, I think I’d much prefer even a failed attempt at an end game reset than an “endgame funnel”, such as at the end of Deus Ex HR, where tension and challenge is added at the cost of removing all but one of the otherwise viable playstyles. </p>
+<p>With kind regards,</p>
+<p>Marvin</p></blockquote>
+<p><strong>39:32 Mailbag: Mass Effect TV Show</strong></p>
+
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42" loading="lazy"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast355.mp3" length="42105027" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=52848</guid>
+      <pubDate>Mon, 13 Sep 2021 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast_2021.jpg">
+      </itunes:image>
+      <itunes:duration>54:15</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		As a reminder: I’m going in for surgery this week. I don’t expect any problems, but I might not be around as much as usual. Please try to not burn the place down while I’m gone. 
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+Diecast355
+
+
+
+
+
+00:00 Blender Render Farmer
+Maybe this sort of service is still a bit exotic, so prices are high because there aren’t enough customers to really create the all-important economy of scale? 
+
+Rebus Farm even suggests their service would be good for “students”. I don’t know what kind of students have a spare $300 to burn on rendering out single assignments. And if a student has that much dosh to burn, then they probably have access to a good computer and they won’t need an overpriced render farm to get the job done. Like I said on the show, the economics of this make no sense to me. 
+
+11:07 Introversion City Generator
+
+Quite interesting.
+
+25:49 Mailbag: Arby’s Dice
+
+Dear Diecast,
+You remember that Wendy’s RPG?  Well, now apparently Arby’s is selling tabletop gaming dice:
+https://www.gameinformer.com/gamer-culture/2021/08/26/arbys-now-sells-official-dungeons-dragons-dice-because-naturally
+I just thought it was cute.  Have fast food places realized who their core demo is or something?
+Jennifer Snow
+I looked on YouTube, and I couldn’t find any of the originating advertisements. All I could find were people’s reactions. Strange.
+
+28:09 Kidd Video Tangent
+
+During this segment the audio cuts out. What I said was that Master Blaster looks like a combination between Spider-Man’s Kingpin, and Dilbert’s Pointy-Haired Boss. I’m not crazy, right? The Master Blaster really does look like the PHB, doesn’t he? 
+
+WARNING: The following video is the most intensely 80s thing you’ll see all week.
+
+
+
+
+I was 13 when the show came out. Even so, I could tell the show was sort of lame and cringy. But I also watched it every week without fail, so…
+
+36:21 Mailbag: Endgame Reset
+
+Dear Diecast,
+I’ve recently been playing the Master Blaster (Zero) series, a metroid-esque game that interleaves the platforming shooting with 2D top-down shooting segments. An interesting feature of these games (02 and 03 in particular) is the “endgame reset”: just before the final level, all your collected weapons and other stuff are removed, and you get a very different set of abilities and weapons to master for the final portion of the game. (in these games, the final level only unlocks when you have collected enough stuff, so it can be seen as a bonus level as well) I think the endgame reset can in theory be applied to any game with (optional) character progression. Are there any games where you think the endgame reset has been applied extremely well or poorly? What games could be improved with an endgame reset?
+A few thoughts from me (no novel this time). From a design perspective, the endgame reset is a powerful but tricky tool. Handled well, it can ensure the player is presented with a proper challenge in the final part of the game, the player can enjoy mastering new mechanics, and there is the opportunity to make use of more situational types of weapons. (since there is only one level, it can be tailored to give these weapons a chance to shine) Handled poorly, the player will feel cheated out of their gear, discouraged that their overlevelling doesn’t save them from the boss, and be frustrated by having to learn another set of gimmicky mechanics.
+Still, I think I’d much prefer even a failed attempt at an end game reset than an “endgame funnel”, such as at the end of Deus Ex HR, where tension and challenge is added at the cost of removing all but one of the otherwise viable playstyles. 
+With kind regards,
+Marvin
+39:32 Mailbag: Mass Effect TV Show
+
+
+
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
+	</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
     <item>
       <title>Diecast #354: Blender Sandwich</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=52807</link>
@@ -66,8 +170,7 @@ Show notes:<span id="more-52807"></span></p>
       </itunes:image>
       <itunes:duration>1:01:23</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		I like how LABOR DAY is the one day we’ve all agreed to skip work. It makes a nice companion to Thanksgiving, where – thanks to the shopping nightmare – is a day defined mostly by avarice and gluttony. Maybe we should add a few more inverted holidays. On President’s Day, nobody is allowed to be the president. Of anything. I’ll leave the rest of you to figure out how we should un-observe the other holidays.
+      <itunes:summary>I like how LABOR DAY is the one day we’ve all agreed to skip work. It makes a nice companion to Thanksgiving, where – thanks to the shopping nightmare – is a day defined mostly by avarice and gluttony. Maybe we should add a few more inverted holidays. On President’s Day, nobody is allowed to be the president. Of anything. I’ll leave the rest of you to figure out how we should un-observe the other holidays.
 
 
 
@@ -122,8 +225,7 @@ Do you guys have a game or series like that? Which when you play it makes you wa
 Vale,
 -Tim
 
-    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-	</itunes:summary>
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
