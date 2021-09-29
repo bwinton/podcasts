@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -18,6 +18,125 @@
     <itunes:subtitle>Like Twenty-Sided, but with less video.</itunes:subtitle>
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
+    <item>
+      <title>Diecast #356: Fiverr Surgery</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=52918</link>
+      <description>
+        <![CDATA[
+		<p>For those of you curious how the surgery went, check the show notes below. I’ve done a short write-up for those of you who don’t listen to the show. In any case, I really am on the mend now, and it looks like the medical community has run out of surprises for me.</p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast356.mp3">Diecast356</a><p></p>
+<p></p><br>
+Show notes:<span id="more-52918"></span><br>
+<strong>00:46 Fiverr, Copyright, and Unsolicited Advice</strong><p></p>
+<p>I’d link to Paul’s Fiverr, but I guess he’s still inexplicably banned. Nice work, Fiverr. </p>
+<p><strong>13:47 Shamus’ Slippery Slope of Misery</strong></p>
+
+<p>(Exaggerated for comedic effect. The doctors didn’t literally spring this stuff on me at the last minute. But it was a long process of “in for a penny, in for a pound” that took me places I did not plan to go.)</p>
+<p>I’m sitting at my desk again, but I’m also a whiny mope and I haven’t had the gumption to fire up any videogames. Hopefully this blows over soon. I got DEATH LOOP the day before the surgery and I haven’t even launched it yet.</p>
+<p><strong>20:54 Valheim (Hearth and Home update)</strong><br>
+</p><p></p>
+<p><strong>21:25 Filament (suggested in the comments)</strong><br>
+</p><p></p>
+<p><strong>21:50 Project Highrise (for the nostalgia)</strong><br>
+</p><p></p>
+<p><strong>26:05 Mailbag: The Worst Piece of Hardware You’ve Ever Had</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>I hope you’re doing well! Yesterday I stumbled upon one of Shamus’ old articles about how his video card died on him after only a year and a half (https://www.shamusyoung.com/twentysidedtale/?p=10085). It was a harrowing tale of anxiety, anger and confusion. And it got me thinking – what’s the worst piece of hardware you’ve ever had? It could be one that failed extremely quickly, or just one which was agonisingly obtuse or annoying. </p>
+<p>Keep Being Awesome,<br>
+Lino</p></blockquote>
+<p>In case you missed the rant way back in 2006, here is <a href="https://www.shamusyoung.com/twentysidedtale/?p=252">my answer</a>.</p>
+<p><strong>31:48 Mailbag: KOTOR “remake”</strong></p>
+<blockquote><p>What do you think of the recently announced KOTOR “complete remake”? It’s being done by a tiny non-Bioware studio, they’re giving it new gameplay of course, and the credited writing team is bigger than the original game’s so we can expect massive narrative changes as well.</p>
+<p>KOTOR 1 is old and buggy enough that it could use a remaster, but if they’re keeping neither the gameplay nor the writing of the original then I wish they’d throw those resources at making a new game instead. It feels like the only reason this exists is because brand recognition is a powerful market force, and Bioware was more willing to license out remake rights than “new KOTOR game” rights.</p>
+<p>Ninety-Three</p></blockquote>
+<p><strong>36:23 Mailbag: Cheaty Bosses</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>I can appreciate good enemy design, and those of bosses in particular. One technique (or perhaps “design pattern” if you will) that is interesting is the degree in which a boss is allowed to “cheat” the game mechanics. Something simple is making a boss a “clone” of your character, except that it has infinite ammo/mana (e.g. Bloodstained). More interesting is a boss that suddenly has immunity against a subset of your weapons (e.g. Blaster Master Zero). The end of the spectrum is probably the boss encounter that cannot be (or _almost_ cannot be, see Disgaea) defeated. What is your favourite cheaty boss? Which boss (that could be defeated) went too far?</p>
+<p>As for me, I do like the surprise element in a boss. As in “wait shit, what did he just do, can you even do that?” Presentation plays a big part here. Compare the boss of Megaman X (1), Sigma, with Megaman Zero (1), Copy X. The final phases of these bosses are very similar (probably intentional, the original story had “what if X has gone maverick” as the hook, but CAPCOM didn’t like that, hence Copy X. All in all, not the worst decision of the company.*), since both have a pair of moving platform-like things on going up and down on the sides of the screen, which you need to grab in order to be able to shoot at the boss. However, I find Copy X more impressive, as the fight start with him destroying half the floor of the room your were just fighthing him with the platforms, immediately telling you these things are important. (Also, he arguably cheats by having an attack, which, if you get hit while hanging on a platform, drags you down into the pit, which kills your instantly. No other boss in that game (IIRC) has an instant kill attack)</p>
+<p>Of course, Platinum excels in this presentation element. I find the second phase of the Senator Armstrong fight in Metal Gear Rising Revengeance (after you suplexed metal gear Excelsus) very good. Most bosses in the game have some form of evasion, jumping while you should USE YOUR INTELLECT; EVADE MY BLOWS, summoning minions, MAGNETIC FORCE and smoke grenades (Who knows, where I’ll come from?), being FUCKING INVINCIBLE (I apologize for the language, this is a quote), being a Brazilian samurai, but the senator doesn’t bother and just tanks it all. The third and final phase continues the theme by making offense the defense: you don’t have time to attack the boss when he triggers miniature volcanic eruptions all over, but it cheats less by giving you the ability to actually damage him. He still cheats somewhat, as he is the only enemy with a health recovery move (healing him completely unless interrupted), but the great thing is that you can punish him for it by hitting the ghostly power cables just right. Punishing a cheaty boss is very satisfying. Once again Platinum has nailed it. (I could argue Platinum usually knows how to use a QTE, but perhaps another time)</p>
+<p>Still, there are a few mechanics that can’t stand, and especially not when under the pressure of a boss. Katana Zero is an excellent game with great bosses overall, but the second phase of the secret boss is too much for me. You suddenly get some sort of agility test where you need to destroy a target in a dark room several times…, but there are increasing distortions applied to your vision (flipped, inverted, rotated, shifted, duplicated, god knows what else, I’m trying to forget this nightmare). It’s a shame, because I really want to like it, it is original, fits the boss, it is actual quite fitting that it is a nightmare for me, is a good build-up for the third phase, but still, playing it is just no fun for me. I don’t want a chore before I get to the final phase of the secret boss. They went too far.</p>
+<p>Oh, let me finish with a shout-out to all those bosses that aren’t supposed to be defeated, but can. I already mentioned Disgaea, but Inti Creates has several in their games, Azure Striker Gunvolt (2 in particular), Blaster Master Zero 3, maybe Megaman Zero 3? (It’s an actual boss-fight, but the boss instantly regenerates upon defeat, and you run away from it in a cut-scene) May they live long, but die eventually.</p>
+<p>*footnote: That honor goes to effectively killing the entire Megaman series to focus on making pachinko machines and PC ports of the existing games. Thankfully, Inti Creates managed to make a spiritual successor to the ZX-series with a new IP of their own (i.e. Gunvolt) (even after Keiji Inafune’s kickstarter disaster (https://en.wikipedia.org/wiki/Mighty_No._9).</p>
+<p>With kind regards,</p>
+<p>Marvin</p></blockquote>
+<p><strong>46:33 Mailbag: Converting DX9 to DX11</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>I don’t know if you’re tuned in to MMORPG news, but there’s a pretty exciting development happening in Guild Wars 2 this week. The game has been running on DirectX9 since its release in 2012 (I’m pretty sure the original game was as well, and that’s why they stuck with instead of upgrading at the time) but they are opening up a DX11 open beta and have stated their plans to eventually transition completely. </p>
+<p>Even more exciting from a game development perspective: they just published a blog post where they use Telemetry screenshots to visualize how DirectX11 (and the BGFX open source library) is going to – hopefully – improve performance by spreading CPU cycles more evenly across each rendering frame. </p>
+<p>https://www.guildwars2.com/en/news/directx11-support-is-coming-to-guild-wars-2/</p>
+<p>Considering the only reason I have even the slightest bit of knowledge about what it going on in these screenshots is from reading Shamus’ posts over the years, I wanted to hear your opinion on this conversion. How (un)common is it to switch rendering systems on a live game like this? What kinds of wacky bugs can we expect? Are there any insights you can glean from these screenshots that a total layperson might not be able to see? Do you think this is likely to really speed up performance in general? What, really, is DX11 doing, because that entire last section of the blog post is gibberish to me. </p>
+<p>Thanks for your insights!</p>
+<p>Doug </p></blockquote>
+<p><strong>54:11 Mailbag: MCU Highlights</strong></p>
+<blockquote><p>Dear Diecast</p>
+<p>I’ve always found it fascinating how the MCU has become a cultural touchstone without ever producing a “stand-out” or “masterpiece” film, just through the novelty of the shared universe concept and releasing a boatload of consistent (for the most part) movies. So do you actually have any favorite MCU films or even ones that you love?</p>
+<p>-Dragon Age</p></blockquote>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42" loading="lazy"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast356.mp3" length="49103365" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=52918</guid>
+      <pubDate>Mon, 27 Sep 2021 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast_2021.jpg">
+      </itunes:image>
+      <itunes:duration>1:03:55</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		For those of you curious how the surgery went, check the show notes below. I’ve done a short write-up for those of you who don’t listen to the show. In any case, I really am on the mend now, and it looks like the medical community has run out of surprises for me.
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+Diecast356
+
+
+
+Show notes:
+00:46 Fiverr, Copyright, and Unsolicited Advice
+
+I’d link to Paul’s Fiverr, but I guess he’s still inexplicably banned. Nice work, Fiverr. 
+
+13:47 Shamus’ Slippery Slope of Misery
+
+
+(Exaggerated for comedic effect. The doctors didn’t literally spring this stuff on me at the last minute. But it was a long process of “in for a penny, in for a pound” that took me places I did not plan to go.)
+
+I’m sitting at my desk again, but I’m also a whiny mope and I haven’t had the gumption to fire up any videogames. Hopefully this blows over soon. I got DEATH LOOP the day before the surgery and I haven’t even launched it yet.
+
+20:54 Valheim (Hearth and Home update)
+
+
+
+21:25 Filament (suggested in the comments)
+
+
+
+21:50 Project Highrise (for the nostalgia)
+
+
+
+26:05 Mailbag: The Worst Piece of Hardware You’ve Ever Had
+
+Dear Diecast,
+I hope you’re doing well! Yesterday I stumbled upon one of Shamus’ old articles about how his video card died on him after only a year and a half (https://www.shamusyoung.com/twentysidedtale/?p=10085). It was a harrowing tale of anxiety, anger and confusion. And it got me thinking – what’s the worst piece of hardware you’ve ever had? It could be one that failed extremely quickly, or just one which was agonisingly obtuse or annoying. 
+Keep Being Awesome,
+Lino
+In case you missed the rant way back in 2006, here is my answer.
+
+31:48 Mailbag: KOTOR “remake”
+
+What do you think of the recently announced KOTOR “complete remake”? It’s being done by a tiny non-Bioware studio, they’re giving it new gameplay of course, and the credited writing team is bigger than the original game’s so we can expect massive narrative changes as well.
+KOTOR 1 is old and buggy enough that it could use a remaster, but if they’re keeping neither the gameplay nor the writing of the original then I wish they’d throw those resources at making a new game instead. It feels like the only reason this exists is because brand recognition is a powerful market force, and Bioware was more willing to license out remake rights than “new KOTOR game” rights.
+Ninety-Three
+36:23 Mailbag: Cheaty Bosses
+
+Dear Diecast,
+I can appreciate good enemy design, and those of bosses in particular. One technique (or perhaps “design pattern” if you will) that is interesting is the degree in which a boss is allowed to “cheat” the game mechanics. Something simple is making a boss a “clone” of your character, except that it has infinite ammo/mana (e.g. Bloodstained). More interesting is a boss that suddenly has immunity against a subset of your weapons (e.g. Blaster Master Zero). The end of the spectrum is probably the boss encounter that cannot be (or _almost_ cannot be, see Disgaea) defeated. What is your favourite cheaty boss? Which boss (that could be defeated) went too far?
+As for me, I do like the surprise element in a boss. As in “wait shit, what did he just do, can you even do that?” Presentation plays a big part here. Compare the boss of Megaman X (1), Sigma, with Megaman Zero (1), Copy X. The final phases of these bosses are very similar (probably intentional, the original story had “what if X has gone maverick” as the hook, but CAPCOM didn’t like that, hence Copy X. All in all, not the worst decision of the company.*), since both have a pair of moving platform-like things on going up and down on the sides of the screen, which you need to grab in order to be able to shoot at the boss. However, I find Copy X more impressive, as the fight start with him destroying half the floor of the room your were just fighthing him with the platforms, immediately telling you these things are important. (Also, he arguably cheats by having an …</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
     <item>
       <title>Diecast #355: Procgen Render Farm</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=52848</link>
@@ -66,8 +185,7 @@ https://www.gameinformer.com/gamer-culture/2021/08/26/arbys-now-sells-official-d
       </itunes:image>
       <itunes:duration>54:15</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		As a reminder: I’m going in for surgery this week. I don’t expect any problems, but I might not be around as much as usual. Please try to not burn the place down while I’m gone. 
+      <itunes:summary>As a reminder: I’m going in for surgery this week. I don’t expect any problems, but I might not be around as much as usual. Please try to not burn the place down while I’m gone. 
 
 
 Hosts: Paul, Shamus. Episode edited by Issac.
@@ -118,8 +236,7 @@ Marvin
 
 
 
-    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.
-	</itunes:summary>
+    Shamus Young is a programmer, an author, and nearly a composer. He works on this site full time. If you’d like to support him, you can do so via Patreon or PayPal.</itunes:summary>
       <dc:creator>Shamus Young</dc:creator>
     </item>
     <item>
