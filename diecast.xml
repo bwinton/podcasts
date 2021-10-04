@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -18,6 +18,114 @@
     <itunes:subtitle>Like Twenty-Sided, but with less video.</itunes:subtitle>
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
+    <item>
+      <title>Diecast #357: The Magnum</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=52936</link>
+      <description>
+        <![CDATA[
+		<p>Once again, thanks to Paul for his patience and longsuffering in the face of my ceaseless filibuster. I imagine it’s not easy to play second-fiddle to my inflated sense of self-importance, but Paul manages to pull it off. For those of you wondering just how lopsided the conversation is, I’ve posted a screenshot of the podcast at the end of the show notes.</p>
+<p>Also, check out the reverse mailbag question below. I’d love to hear your answer, even if you don’t listen to the podcast.</p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast357.mp3">Diecast357</a><p></p>
+<p></p><p></p>
+<p>Show notes:<span id="more-52936"></span><br>
+<strong>00:42 Death Loop</strong></p>
+<p><strong>11:34 Dyson Sphere Project</strong></p>
+<p><strong>16:19 New World: Amazon’s new MMO</strong></p>
+<p>I need to correct what I said on the podcast. I’ve hopped around and played with a few alts, and now I can see the game isn’t nearly as dynamic or player-controlled as it seemed at first. The town locations and layout are 100% fixed. </p>
+<p>That being the case, I need to curse the developer who decided the Marauder faction leader needed to be on the giant ship in the middle of town. Was it completely necessary to make players climb ALL THESE STEPS just to turn in the next stupid fetch quest? The Syndicate faction is usually overpopulated and dominating on the servers I’ve visited, and I wonder how much of that has to do with the fact that the Syndicate faction leader is right there between the crafting stations and the player storage, while the Covenant is at the end of a pointless dead end street and the Marauders are at the top of fucking Machu Picchu.</p>
+<p>Location, location, location.</p>
+<p><strong>37:50 Reverse Mailbag: Favorite Gun</strong></p>
+<blockquote><p>Dear Diecast Listeners,</p>
+<p>What’s your favorite videogame firearm? If you could take a gun from an old game and have it in a modern one, what would it be? </p>
+<p>Also, MOST people are going to answer the Doom2 shotgun or the Half-Life 2 revolver. That can be your answer if you want, but see if you can come up with any other amazing examples.</p>
+<p>-Shamus</p></blockquote>
+<p><strong>39:17 Mailbag: Bad Writing is Bad</strong></p>
+<p>Like I said on the show, this question is going to get an article of its own later in the week.</p>
+<p><strong>39:44 Mailbag: Sympathy for the Publisher</strong></p>
+<blockquote><p>Dear Diecast</p>
+<p>Recently I’ve been reading Jason Schreier’s book named ‘Press Reset’. First chapter is about Warren Spector, who needs no introduction (just in case, he’s mostly known for such titles as Epic Mickey 2: The Power of Two, Bad Blood and of course CyberMage: Darklight Awakening. Also something called ‘Deus Ex’, but who knows what that even is).</p>
+<p>The chapter describes many ups and downs of his career, but suffice to say that the man is a veteran of the industry. What striked me, however, is how he described his approach to creating games – that in order to make a great game, you have to go over-budget and over-time. Otherwise, it’s simply not possible. To quote: ‘Can you name one game that has shipped on time and on budget that anybody cares about?’.</p>
+<p>Now, I know it’s a common thing to point at publishers and accuse them of being incompetent, greedy nincompoops. And many times it’s probably true. There were many cases in that chapter that described exactly that – great games were crushed, because publishers had no idea what they were doing (my favourite example was when Eidos marketing told Spector that they won’t let him do a western game, because that genre is dead and is never going to make any money… and then Red Dead Redemption was released).</p>
+<p>But, at the same time, I can understand them a little – imagine if you hire someone who openly admits that he will go over-time and over-budget because, well, that is how he rolls.</p>
+<p>Just to be clear, I love pretty much everything that Spector was involved. The man is a genius, no doubt about that. But, I mean, that attitude must be infuriating to work with. I wonder how many devs share his beliefs.</p>
+<p>I don’t have experience with making games, so I want to ask: do you think it’s true? That in order to be truly great, the game needs to go overboard and be done under pressure? Or it’s simply a matter of proper organization?</p>
+<p>Cheers,</p>
+<p>Darek</p>
+<p>PS: This question supposed to be only three sentences long. But tell me guys, can you name one question that had appropriate length that anybody cares about?</p></blockquote>
+<p><strong>44:24 Mailbag: The Trilogy</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>Trilogies! Who doesn’t like the anticipation of an excellent game getting a sequel, having the sequel change everything good from the first to bad, and having the third piss on the first’s grave. Messy Effects aside, I wonder whether the trilogy is actually a great opportunity to iterate and improve game concepts. One particular example that jumps to mind is the Creeper World series. The first was fun, but especially from a production value perspective, not much more than a playable prototype. The second changed almost everything and I like the gameplay quite a bit less than the first. The third stays more true to the concept of the first, yet still uses many good ideas from the second, and has much better production value. (but still pretty basic, it’s pretty clear the dev is a programmer, not an artist. Which is fine.)</p>
+<p>Are there other games that used their trilogy to iterate and improve? Or do any notable missed opportunities come to mind?</p>
+<p>With kind regards,</p>
+<p>Marvin “can also write questions shorter than a novel”</p></blockquote>
+<p><strong>51:07 Mailbag: Star Wars Visions</strong></p>
+<blockquote><p>Dear Diecast</p>
+<p>Have you guys seen Star Wars Visions? I know it’s a bit of a meme nowadays that anything that’s not the sequel trilogy is the greatest Star Wars thing since the originals but Visions felt genuinely fresh and fun in a way that the fanservice-ridden Mandalorian season two wasn’t and it isn’t even canon!</p>
+<p>Love, Donkey</p></blockquote>
+<p><strong>The Filibuster</strong></p>
+<p>As promised, here is what the podcast looks like in our audio editor:</p>
+<p></p><p></p>
+<p>The top bar is Paul’s audio. The one below it is my audio. You can see that my audio is mostly an unbroken blue line. Paul’s audio is mostly a horizontal line (no sound) with occasional vertical lines where he might jump in with an “I see” or an “Oh, yeah. Right.” </p>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42" loading="lazy"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast357.mp3" length="51076439" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=52936</guid>
+      <pubDate>Mon, 04 Oct 2021 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast_2021.jpg">
+      </itunes:image>
+      <itunes:duration>1:05:04</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		Once again, thanks to Paul for his patience and longsuffering in the face of my ceaseless filibuster. I imagine it’s not easy to play second-fiddle to my inflated sense of self-importance, but Paul manages to pull it off. For those of you wondering just how lopsided the conversation is, I’ve posted a screenshot of the podcast at the end of the show notes.
+
+Also, check out the reverse mailbag question below. I’d love to hear your answer, even if you don’t listen to the podcast.
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+Diecast357
+
+
+
+
+Show notes:
+00:42 Death Loop
+
+11:34 Dyson Sphere Project
+
+16:19 New World: Amazon’s new MMO
+
+I need to correct what I said on the podcast. I’ve hopped around and played with a few alts, and now I can see the game isn’t nearly as dynamic or player-controlled as it seemed at first. The town locations and layout are 100% fixed. 
+
+That being the case, I need to curse the developer who decided the Marauder faction leader needed to be on the giant ship in the middle of town. Was it completely necessary to make players climb ALL THESE STEPS just to turn in the next stupid fetch quest? The Syndicate faction is usually overpopulated and dominating on the servers I’ve visited, and I wonder how much of that has to do with the fact that the Syndicate faction leader is right there between the crafting stations and the player storage, while the Covenant is at the end of a pointless dead end street and the Marauders are at the top of fucking Machu Picchu.
+
+Location, location, location.
+
+37:50 Reverse Mailbag: Favorite Gun
+
+Dear Diecast Listeners,
+What’s your favorite videogame firearm? If you could take a gun from an old game and have it in a modern one, what would it be? 
+Also, MOST people are going to answer the Doom2 shotgun or the Half-Life 2 revolver. That can be your answer if you want, but see if you can come up with any other amazing examples.
+-Shamus
+39:17 Mailbag: Bad Writing is Bad
+
+Like I said on the show, this question is going to get an article of its own later in the week.
+
+39:44 Mailbag: Sympathy for the Publisher
+
+Dear Diecast
+Recently I’ve been reading Jason Schreier’s book named ‘Press Reset’. First chapter is about Warren Spector, who needs no introduction (just in case, he’s mostly known for such titles as Epic Mickey 2: The Power of Two, Bad Blood and of course CyberMage: Darklight Awakening. Also something called ‘Deus Ex’, but who knows what that even is).
+The chapter describes many ups and downs of his career, but suffice to say that the man is a veteran of the industry. What striked me, however, is how he described his approach to creating games – that in order to make a great game, you have to go over-budget and over-time. Otherwise, it’s simply not possible. To quote: ‘Can you name one game that has shipped on time and on budget that anybody cares about?’.
+Now, I know it’s a common thing to point at publishers and accuse them of being incompetent, greedy nincompoops. And many times it’s probably true. There were many cases in that chapter that described exactly that – great games were crushed, because publishers had no idea what they were doing (my favourite example was when Eidos marketing told Spector that they won’t let him do a western game, because that genre is dead and is never going to make any money… and then Red Dead Redemption was released).
+But, at the same time, I can understand them a little – imagine if you hire someone who openly admits that he will go over-time and over-budget because, well, that is how he rolls.
+Just to be clear, I love pretty much everything that Spector was involved. The man is a genius, no doubt about that. But, I mean, that attitude must be infuriating to work with. I wonder how many devs share his beliefs.
+I don’t have experience with making games, so I want to ask: do you think it’s true? That in order to be truly great, the game needs to go overboard and be done under pressure? Or it’s simply a matter of proper organization?
+…</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
     <item>
       <title>Diecast #356: Fiverr Surgery</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=52918</link>
@@ -84,8 +192,7 @@ Lino</p></blockquote>
       </itunes:image>
       <itunes:duration>1:03:55</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		For those of you curious how the surgery went, check the show notes below. I’ve done a short write-up for those of you who don’t listen to the show. In any case, I really am on the mend now, and it looks like the medical community has run out of surprises for me.
+      <itunes:summary>For those of you curious how the surgery went, check the show notes below. I’ve done a short write-up for those of you who don’t listen to the show. In any case, I really am on the mend now, and it looks like the medical community has run out of surprises for me.
 
 
 Hosts: Paul, Shamus. Episode edited by Issac.
