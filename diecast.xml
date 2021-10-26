@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -18,6 +18,124 @@
     <itunes:subtitle>Like Twenty-Sided, but with less video.</itunes:subtitle>
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
+    <item>
+      <title>Diecast #359: Mailbagging is Considered Unsportsmanlike Conduct</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=53106</link>
+      <description>
+        <![CDATA[
+		<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast359.mp3">Diecast359</a><p></p>
+<p></p><p></p>
+<p>Show notes:<span id="more-53106"></span></p>
+<p><strong>00:00 Filament</strong></p>
+<p>Why was this game not called String Theory?</p>
+<p><strong>15:29 Mailbag: New World Drama</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>So, the Syndicate faction (purple) on my New World server just had their first bit of major drama today—the guild leader of The Olympians, the guild that has held Everfall since the game started and thus was a very rich, popular guild, took THE ENTIRE guild treasury and switched factions with some of their guild officers, then immediately used that treasury to declare war on Everfall.</p>
+<p>Faction chat is blowing up with the story, the guild—now led by someone who hasn’t been on in days, so there’s no one to pull the group together—is hemorrhaging members, and my guild may just wind up the new premiere area controlling guild as a result.</p>
+<p>It’s an interesting server—there’s a major PVP Syndicate guild that doesn’t go after territories on their own.  What they do, is they hire themselves out to the guilds that DO have territories to fight in their wars.  From what I’ve seen, they haven’t lost one yet.  We actually just hired them to defend OUR territory, because we’re getting attacked by a major PVP guild and don’t have enough high-level players yet.</p>
+<p>The drama kinda reminds me of what you were talking about with your Goldshire post, and makes me think New World is, indeed, going to be pretty successful.</p>
+<p>Have you seen any drama on your server(s)?</p>
+<p>I’m on Argadnel btw if you’d like to come join in the fun.</p>
+<p>Jennifer Snow</p></blockquote>
+<p>A small gripe: This game only allows you 2 characters per server. I already have 2 characters playing on the East Coast, which means I can’t make more. The excuse is that you don’t “need” more than one character because there aren’t any classes and any character can do any job. Which sounds nice, but you have to respec your skill points and get a whole different set of gear to switch from (say) healing to damage-dealing. That’s a huge pain in the ass, and I’d just as soon keep different characters. </p>
+<p>Maybe I want one character to play with family, another to play with friends from work, and another for solo, because I want each group of people to stay in the same level range.</p>
+<p>Maybe I want one character for PvE content, another for PvP, and another for weird experimental solo play.</p>
+<p>Remember when games would let you create a dozen different characters? I notice our allowed slots began shrinking about ten years ago, right when free-to-play was really taking off and they realized they could sell us character slots. </p>
+<p>I hate this. The future sucks.</p>
+<p><strong>20:21 New World Currency Crisis</strong></p>
+<p>Money is leaving the economy faster than it’s being created, which means money is scarce. Which means the game is suffering from a <a href="https://www.ign.com/articles/new-world-currency-crisis-deflation">deflationary crisis</a>.</p>
+<p>Normally people trade goods using the in-game auction house, and the auction house takes a little cut. Sure, you could spam chat, trying to sell your goods without giving a cut to the AH, but that’s a lot of hassle to save a few gold, which you could raise in a couple of minutes of grinding.</p>
+<p>But now that money is precious, the AH cut represents a lot more value. Maybe you’d need to work for half an hour to make it back. So now it’s worth the time and trouble to sell goods manually. </p>
+<p>Which leads to the question: <strong>Why is this only happening now?</strong></p>
+<p>On the show I theorized that this was the result of towns having more upkeep. All the city infrastructure has been upgraded, which means that it costs more per day to keep the city going. Maybe this is draining money out of the economy faster than a few weeks ago?</p>
+<p>Or maybe the constant PvP warfare is draining money? I don’t know how the large-scale stuff works so I don’t know what it costs or who pays for it. Still, if war was a money-sink then it seems like people would <strong>stop spending money on war</strong>. Yes, I realize we have this problem in the Real World™ too, but in the real world lots of people make money from war and there are real resources at stake. In the game, war is expensive, there’s no money to be made, and controlling a region doesn’t give you anything except bragging rights and a second job running the damn place.</p>
+<p>Or did one of these recent patches throttle back on how fast money enters the economy? </p>
+<p>In most MMOs, your income scales with level. A quest might pay (say) thirty cents at level 1, 3 dollars at level 10, and 300 dollars at level 20. But here in NW, income seems to be very linear, and perhaps even flat. I did some grinding last night, killing level 20 foes. Most of them dropped no money, but once in a while<span class="snote" title="1">Maybe one in eight? One in ten?</span> someone would drop 5g. Then I did some grinding of foes that were level 30, and got similar results. Then I found an area with foes at level 7 and repeated the experiment, and found that foes dropped ~3.7g. </p>
+<p>This creates some weird incentives. If I want money, it’s more efficient to run around one-shotting zero-threat foes than it is to engage with level-appropriate content. Is this intentional? </p>
+<p>I don’t know. It’s weird. All of this began just as <a href="https://www.shamusyoung.com/twentysidedtale/?p=53053">I started playing a faction-less crafting maven</a>, so I’m having trouble following the problem because I’m disconnected from half the economy.</p>
+<p><strong>32:27 Mailbag: Tech Ahead of its Time</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>I hope you’re doing well! Recently, I watched a video about Sir Clive Sinclair (https://www.youtube.com/watch?v=hwJqOt2SOls) – a British inventor who made micro-computers and other electronics in the ’70s and ’80s. His company ultimately went under, because they made an electric scooter that was just too ahead of its time. This made me wonder – have there been any products – could be both hardware or software – that you think were too ahead of their time, and – had they been made a decade or two later would have killed it?</p>
+<p>Keep Being Awesome,<br>
+Lino</p></blockquote>
+<p>Here is the vlogbrothers video I mentioned:</p>
+<p></p><p></p>
+<p><strong>45:35 Mailbag: Evolving Tastes</strong></p>
+<p>Hm. I seem to have messed this one up. I got caught up talking about the opening paragraph and forgot to answer the question. Oopsie.</p>
+<blockquote><p>Dear Diecast,</p>
+<p>I was wondering if any of you have already watched the currently newest popular series, called ‘Squid game’. It’s the type of realistic-ish sort of anti-utopia (dystopia?) Netflix seems so fond of making. I’d love to read a series on its worldbuilding too *wink wink*</p>
+<p>I was also wondering, since both of you have been gaming for a while now, if your tastes in what kind of games you like best have evolved over time?</p>
+<p>Kind regards,<br>
+Galad_t</p></blockquote>
+<p><strong>47:48 Mailbag: Cosmetic Appeal</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>lately I have been distracted in my DS2 100% run by a dreadful enemy: Fashion Souls.</p>
+<p>In short I have succumbed to the appeal of dressing up my character in a mix-and-match of the various pieces of armour and clothing the game offers. In Dragon’s Dogma I also succumbed to Fashion Dogma, as it’s called in that fandom.</p>
+<p>Do you guys have games where playing dress-up with your character or customising your car/plane/submarine/… can become a time sink? I believe some people like Skyrim for that, but I’d be interested in hearing your opinions.</p>
+<p>Vale,</p>
+<p>-Tim</p></blockquote>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42" loading="lazy"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast359.mp3" length="42764999" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=53106</guid>
+      <pubDate>Mon, 25 Oct 2021 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast_2021.jpg">
+      </itunes:image>
+      <itunes:duration>56:33</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		
+Hosts: Paul, Shamus. Episode edited by Issac.
+Diecast359
+
+
+
+
+Show notes:
+
+00:00 Filament
+
+Why was this game not called String Theory?
+
+15:29 Mailbag: New World Drama
+
+Dear Diecast,
+So, the Syndicate faction (purple) on my New World server just had their first bit of major drama today—the guild leader of The Olympians, the guild that has held Everfall since the game started and thus was a very rich, popular guild, took THE ENTIRE guild treasury and switched factions with some of their guild officers, then immediately used that treasury to declare war on Everfall.
+Faction chat is blowing up with the story, the guild—now led by someone who hasn’t been on in days, so there’s no one to pull the group together—is hemorrhaging members, and my guild may just wind up the new premiere area controlling guild as a result.
+It’s an interesting server—there’s a major PVP Syndicate guild that doesn’t go after territories on their own.  What they do, is they hire themselves out to the guilds that DO have territories to fight in their wars.  From what I’ve seen, they haven’t lost one yet.  We actually just hired them to defend OUR territory, because we’re getting attacked by a major PVP guild and don’t have enough high-level players yet.
+The drama kinda reminds me of what you were talking about with your Goldshire post, and makes me think New World is, indeed, going to be pretty successful.
+Have you seen any drama on your server(s)?
+I’m on Argadnel btw if you’d like to come join in the fun.
+Jennifer Snow
+A small gripe: This game only allows you 2 characters per server. I already have 2 characters playing on the East Coast, which means I can’t make more. The excuse is that you don’t “need” more than one character because there aren’t any classes and any character can do any job. Which sounds nice, but you have to respec your skill points and get a whole different set of gear to switch from (say) healing to damage-dealing. That’s a huge pain in the ass, and I’d just as soon keep different characters. 
+
+Maybe I want one character to play with family, another to play with friends from work, and another for solo, because I want each group of people to stay in the same level range.
+
+Maybe I want one character for PvE content, another for PvP, and another for weird experimental solo play.
+
+Remember when games would let you create a dozen different characters? I notice our allowed slots began shrinking about ten years ago, right when free-to-play was really taking off and they realized they could sell us character slots. 
+
+I hate this. The future sucks.
+
+20:21 New World Currency Crisis
+
+Money is leaving the economy faster than it’s being created, which means money is scarce. Which means the game is suffering from a deflationary crisis.
+
+Normally people trade goods using the in-game auction house, and the auction house takes a little cut. Sure, you could spam chat, trying to sell your goods without giving a cut to the AH, but that’s a lot of hassle to save a few gold, which you could raise in a couple of minutes of grinding.
+
+But now that money is precious, the AH cut represents a lot more value. Maybe you’d need to work for half an hour to make it back. So now it’s worth the time and trouble to sell goods manually. 
+
+Which leads to the question: Why is this only happening now?
+
+On the show I theorized that this was the result of towns having more upkeep. All the city infrastructure has been upgraded, which means that it costs more per day to keep the city going. Maybe this is draining money out of the economy faster than a few weeks ago?
+
+Or maybe the constant PvP warfare is draining money? I don’t know how the large-scale stuff works so I don’t know what it costs or who pays for it. Still, if war was a money-sink then it seems like people would stop spending money on war. Yes, I realize we have this problem in the Real World™ too, but in the real world lots of people make money from war and there are real resources at stake. In the game,…</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
     <item>
       <title>Diecast #358: The Good, The Bad, The Writing</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=53015</link>
@@ -88,8 +206,7 @@ Melfina (Mel-feen-ah) the Blue</p></blockquote>
       </itunes:image>
       <itunes:duration>1:14:02</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		I find it interesting that we got two different mailbag questions, both asking roughly the same thing. Both people asked for examples of “best” writing. Nobody asked for examples of “worst”. It’s always nice to have a chance to work against the idea that I’m a negative guy who complains about everything.We can do that tomorrow, when I do the “This Week I Played” post.
+      <itunes:summary>I find it interesting that we got two different mailbag questions, both asking roughly the same thing. Both people asked for examples of “best” writing. Nobody asked for examples of “worst”. It’s always nice to have a chance to work against the idea that I’m a negative guy who complains about everything.We can do that tomorrow, when I do the “This Week I Played” post.
 
 I thought of more examples of good writing after the show, but I don’t want to keep amending the list forever. I’m sure if I missed anything crucial you’ll tell me about it in the comments.
 
