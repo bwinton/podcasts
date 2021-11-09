@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Diecast</title>
     <link>http://shamusyoung.com/twentysidedtale/?cat=287</link>
@@ -18,6 +18,136 @@
     <itunes:subtitle>Like Twenty-Sided, but with less video.</itunes:subtitle>
     <itunes:summary>Twenty-Sided, but audio-only</itunes:summary>
     <itunes:keywords>games,twentysided,shamus,paul</itunes:keywords>
+    <item>
+      <title>Diecast #361: Make New Stuff</title>
+      <link>https://www.shamusyoung.com/twentysidedtale/?p=53169</link>
+      <description>
+        <![CDATA[
+		<p>I’m really sorry, but I failed to filibuster Paul this week. I unforgivably allowed him several minutes of talking where he was able to say smart and interesting things. See the end of this post for the breakdown.</p>
+<br>
+Hosts: <a href="http://www.peripheralarbor.com/">Paul</a>, <a href="https://www.shamusyoung.com/">Shamus</a>. Episode edited by <a href="https://steamcommunity.com/profiles/76561198087035658/">Issac</a>.<br>
+<a href="https://www.shamusyoung.com/diecast/diecast361.mp3">Diecast361</a><p></p>
+<p><span id="more-53169"></span><br>
+</p><p></p>
+<p><strong>00:00 2-Factor Authentication</strong></p>
+<p>On one hand, I understand: Some people use the same username &amp; password for everything, so if their account gets compromised then so does their email. These people generate tons of support headaches when they get hacked. These people create cascading security problems that can threaten the entire platform.</p>
+<p>On the other hand, Google bears quite a bit of guilt in this mess. It’s pretty hard to have your email login be different from your YouTube login when they are, <strong>by design</strong>, the same account. Gmail, YouTube, Adsense, FitBit, Google Earth, Stadia, Google Maps, and Chrome profiles are all the same thing. </p>
+<p>At the very least, Gmail should have been isolated from the others in a way that encouraged the user to have two distinct logins: One for email, and one for “everything else”. In Gmail your login has an @ symbol, and Google could have forbidden the @ and period in usernames for the “everything else” login. This would mean that one stolen set of credentials wouldn’t automatically escalate to identity theft, and email could be used for account recovery.</p>
+<p>Barring that, how about you let us use an alternate non-gmail address for 2FA? Because my phone number is for my friends, and I’m not friends with giant disorganized apathetic corporations.</p>
+<p><strong>12:12 Meta Trubs</strong></p>
+<p>Here is the video I mentioned in this segment: <a href="https://www.youtube.com/shorts/6OIE31NN9HY">Happy Brandwashing, Facebook!</a></p>
+<p><strong>20:50 Playing Hitman 2 Wrong But SO Right</strong></p>
+<p>I’m nowhere near the skill and tenacity of <a href="https://www.youtube.com/channel/UCpcv0i-1Q6EXCVAW531Yhlw">Big Mooney</a>, but I’m having fun ruining 47’s reputation for discretion and precision. But if you want to see a pro do it, then here is Big Mooney trying to clear the absurdly dense population of the Miami map:</p>
+<p></p><p></p>
+<p><strong>23:42 Satisfactory Update 5</strong></p>
+<p>So did they fix any of <a href="https://www.shamusyoung.com/twentysidedtale/?p=52060">my gripes with the game, including the trivial-to-fix usability problem that is now 3 years old</a>? Paul has the details.</p>
+<p><strong>30:27 Mailbag: CPU or GPU?</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>if you had to choose one, would you rather have a PC with:<br>
+A: a great CPU but terrible GPU, or:<br>
+B: a terrible CPU but great GPU?</p>
+<p>Vale,<br>
+-Tim</p></blockquote>
+<p><strong>35:19 Mailbag: Challenge Modes</strong></p>
+<blockquote><p>Your Excellency, Podcast for Life, Grognard Commander Al Hadji Doctor Diecast, VC, DSO, MC, FBI, Lord of All the Beasts of the Earth and Fishes of the Seas and Conqueror of the Hosting Services in Cyberspace in General and 1And1 in Particular,</p>
+<p>What’s your favorite challenge mode in a game, either self-imposed or as a mutator you can toggle on? More broadly, what do you look for in a challenge mode and what drives you to seek them out?</p>
+<p>I mostly look for challenge modes when I love a game and want to play more of it, but I’ve already beaten the main campaign and replaying regular mode would be too much of a dull retread. My favorite ever challenge mode was trying a “No ranged plants” run of Plants Vs Zombies. I loved it but the game was very easy so to spice things up I picked an insane challenge analogous to “beat this FPS without guns, knife and grenades only”. It turned out to be a difficult but doable challenge that forced me to invent all kinds of weird strategies and a bunch of what I learned ended up being transferable to improve my play outside of the stupid challenge mode.</p>
+<p>Ninety-Three</p></blockquote>
+<p><strong>42:09 Mailbag: Interesting Developers</strong></p>
+<blockquote><p>Dear Diecast,</p>
+<p>with Bioware, Blizzard, and Obsidian releasing very underwhelming fare lately, I was wondering if there were any new developers you guys are keeping an eye on?</p>
+<p>For example, I am keeping an eye on ConcernedApe, who is working on Haunted Chocolatier now that he is mostly done with Stardew Valley.</p>
+<p>Vale,</p>
+<p>-Tim</p></blockquote>
+<p><strong>49:25 Mailbag: Babylon 5 Reboot</strong></p>
+<blockquote><p>dear diecast,</p>
+<p>about a month ago, a reboot of babylon 5 was announced</p>
+<p>the original ran along side star trek ds9</p>
+<p>i was a fan of the series in my last years of high school into university, and I even bought the dvd sets</p>
+<p>did you watch b5, and would you watch the reboot?</p>
+<p>also, when a property has a fandom, is it possible to reboot the property while respecting the fandom?</p>
+<p>thanks,</p>
+<p>will</p></blockquote>
+<h3>The Breakdown</h3>
+<p>Here is (roughly) the waveform for this episode:</p>
+<p></p><p></p>
+<p>The above image is 1024 pixels wide. This Diecast is 70 minutes long. So a minute of show equals about 14 horizontal pixels. Blue pixels are Paul talking, and I’m red. </p>
+
+    <br><p class="byline"><i><img alt="" src="https://secure.gravatar.com/avatar/ce6b8dea6c49454754bace9e00247c36?s=42&amp;d=wavatar&amp;r=pg"  class="avatar avatar-42 photo" height="42" width="42" loading="lazy"><a href="https://www.patreon.com/shamusyoung">Shamus Young</a> is a programmer, an <a href="https://www.amazon.com/Witch-Watch-Shamus-Young/dp/1470105810">author</a>, and nearly a <a href="https://soundcloud.com/shamusyoung">composer</a>. He works on this site full time. If you'd like to support him, you can do so via <a href="http://www.patreon.com/shamusyoung">Patreon</a> or <a href="https://paypal.me/ShamusYoung">PayPal</a>.</i></p>	]]>
+      </description>
+      <enclosure url="http://shamusyoung.com/diecast/diecast361.mp3" length="54055573" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.shamusyoung.com/twentysidedtale/?p=53169</guid>
+      <pubDate>Mon, 08 Nov 2021 03:55:20 +0000</pubDate>
+      <itunes:author>The Diecast</itunes:author>
+      <itunes:image href="http://shamusyoung.com/twentysidedtale/images/diecast_2021.jpg">
+      </itunes:image>
+      <itunes:duration>1:10:04</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:summary>
+		I’m really sorry, but I failed to filibuster Paul this week. I unforgivably allowed him several minutes of talking where he was able to say smart and interesting things. See the end of this post for the breakdown.
+
+
+Hosts: Paul, Shamus. Episode edited by Issac.
+Diecast361
+
+
+
+
+
+00:00 2-Factor Authentication
+
+On one hand, I understand: Some people use the same username &amp; password for everything, so if their account gets compromised then so does their email. These people generate tons of support headaches when they get hacked. These people create cascading security problems that can threaten the entire platform.
+
+On the other hand, Google bears quite a bit of guilt in this mess. It’s pretty hard to have your email login be different from your YouTube login when they are, by design, the same account. Gmail, YouTube, Adsense, FitBit, Google Earth, Stadia, Google Maps, and Chrome profiles are all the same thing. 
+
+At the very least, Gmail should have been isolated from the others in a way that encouraged the user to have two distinct logins: One for email, and one for “everything else”. In Gmail your login has an @ symbol, and Google could have forbidden the @ and period in usernames for the “everything else” login. This would mean that one stolen set of credentials wouldn’t automatically escalate to identity theft, and email could be used for account recovery.
+
+Barring that, how about you let us use an alternate non-gmail address for 2FA? Because my phone number is for my friends, and I’m not friends with giant disorganized apathetic corporations.
+
+12:12 Meta Trubs
+
+Here is the video I mentioned in this segment: Happy Brandwashing, Facebook!
+
+20:50 Playing Hitman 2 Wrong But SO Right
+
+I’m nowhere near the skill and tenacity of Big Mooney, but I’m having fun ruining 47’s reputation for discretion and precision. But if you want to see a pro do it, then here is Big Mooney trying to clear the absurdly dense population of the Miami map:
+
+
+
+
+23:42 Satisfactory Update 5
+
+So did they fix any of my gripes with the game, including the trivial-to-fix usability problem that is now 3 years old? Paul has the details.
+
+30:27 Mailbag: CPU or GPU?
+
+Dear Diecast,
+if you had to choose one, would you rather have a PC with:
+A: a great CPU but terrible GPU, or:
+B: a terrible CPU but great GPU?
+Vale,
+-Tim
+35:19 Mailbag: Challenge Modes
+
+Your Excellency, Podcast for Life, Grognard Commander Al Hadji Doctor Diecast, VC, DSO, MC, FBI, Lord of All the Beasts of the Earth and Fishes of the Seas and Conqueror of the Hosting Services in Cyberspace in General and 1And1 in Particular,
+What’s your favorite challenge mode in a game, either self-imposed or as a mutator you can toggle on? More broadly, what do you look for in a challenge mode and what drives you to seek them out?
+I mostly look for challenge modes when I love a game and want to play more of it, but I’ve already beaten the main campaign and replaying regular mode would be too much of a dull retread. My favorite ever challenge mode was trying a “No ranged plants” run of Plants Vs Zombies. I loved it but the game was very easy so to spice things up I picked an insane challenge analogous to “beat this FPS without guns, knife and grenades only”. It turned out to be a difficult but doable challenge that forced me to invent all kinds of weird strategies and a bunch of what I learned ended up being transferable to improve my play outside of the stupid challenge mode.
+Ninety-Three
+42:09 Mailbag: Interesting Developers
+
+Dear Diecast,
+with Bioware, Blizzard, and Obsidian releasing very underwhelming fare lately, I was wondering if there were any new developers you guys are keeping an eye on?
+For example, I am keeping an eye on ConcernedApe, who is working on Haunted Chocolatier now that he is mostly done with Stardew Valley.
+Vale,
+-Tim
+49:25 Mailbag: Babylon 5 Reboot
+
+dear diecast,
+about a month ago, a reboot of babylon 5 was announced
+the original ran along side star trek ds9
+i was a fan of the ser…</itunes:summary>
+      <dc:creator>Shamus Young</dc:creator>
+    </item>
     <item>
       <title>Diecast #360 Noscope</title>
       <link>https://www.shamusyoung.com/twentysidedtale/?p=53132</link>
@@ -75,8 +205,7 @@ Lino</p></blockquote>
       </itunes:image>
       <itunes:duration>51:52</itunes:duration>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:summary>
-		The good news is that I got my second dose of vaccine, so I’m a little less likely to die of the plague. The bad news is that I was feeling kind of run down, sleep-deprived, and cranky. I didn’t really realize how bad it was until I listened to the show and heard how often I tripped over my words.
+      <itunes:summary>The good news is that I got my second dose of vaccine, so I’m a little less likely to die of the plague. The bad news is that I was feeling kind of run down, sleep-deprived, and cranky. I didn’t really realize how bad it was until I listened to the show and heard how often I tripped over my words.
 
 Uh… Happy Halloween, I guess?
 
